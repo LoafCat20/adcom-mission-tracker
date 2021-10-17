@@ -4,7 +4,7 @@ This is a simple tool to assist players of the mobile game Adventure Communist. 
 
 ## How to use
 
-Hosted at: <https://zephyron1237.github.io/adcom-mission-tracker/>
+Hosted at: <https://loafcat20.github.io/adcom-mission-tracker/>
 
 Click on missions in the "Current" area to mark them as Completed.  Click missions in the "Completed" area to undo that, kicking the newest mission back out.
 
