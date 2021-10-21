@@ -137351,7 +137351,7 @@ var DATA = {
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 5.3e226,
-					"ConditionId": "potato"
+					"ConditionId": "land"
 				},
 				"Reward": {
 					"Reward": "Gacha",
