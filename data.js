@@ -137155,7 +137155,7 @@ var DATA = {
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 64000000000,
-					"ConditionId": "airresccue"
+					"ConditionId": "airrescue"
 				},
 				"Reward": {
 					"Reward": "Gacha",
