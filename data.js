@@ -89400,1270 +89400,1270 @@ var DATA = {
 			},
 			{
 				"Rank": 100,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 101,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 102,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 103,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 104,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 105,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 106,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 107,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 108,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 109,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 110,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 111,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 112,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 113,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 114,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 115,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 116,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 117,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 118,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 119,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 120,
+				"Rare": 30,
+				"Epic": 6,
+				"Supreme": 1.2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 120,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 121,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 122,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 123,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 124,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 125,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 126,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 127,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 128,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 129,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 130,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 131,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 132,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 133,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 134,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 135,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 136,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 137,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 138,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 139,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 140,
+				"Rare": 35,
+				"Epic": 7,
+				"Supreme": 1.4,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 140,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 141,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 142,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 143,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 144,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 145,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 146,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 147,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 148,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 149,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 150,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 151,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 152,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 153,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 154,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 155,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 156,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 157,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 158,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 159,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 160,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 161,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 162,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 163,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 164,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 165,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 166,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 167,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 168,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 169,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 160,
+				"Rare": 40,
+				"Epic": 8,
+				"Supreme": 1.6,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 170,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 171,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 172,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 173,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 174,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 175,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 176,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 177,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 178,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 179,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 180,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 181,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 182,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 183,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 184,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 185,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 186,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 187,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 188,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 189,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 190,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 191,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 192,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 193,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 194,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 195,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 196,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 197,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 198,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 199,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 180,
+				"Rare": 45,
+				"Epic": 9,
+				"Supreme": 1.8,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 200,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 201,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 202,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 203,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 204,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 205,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 206,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 207,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 208,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 209,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 210,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 211,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 212,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 213,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 214,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 215,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 216,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 217,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 218,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 219,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 220,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 221,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 222,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 223,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 224,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 225,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 226,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 227,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 228,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 229,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 230,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 231,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 232,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 233,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 234,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 235,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 236,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 237,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 238,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 239,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			},
 			{
 				"Rank": 240,
-				"Common": 100,
-				"Rare": 25,
-				"Epic": 5,
-				"Supreme": 1,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
 			}
@@ -138324,6 +138324,1616 @@ var DATA = {
 					"RewardId": "stone",
 					"Value": 1
 				}
+			},
+			{
+				"Id": "M2830",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 41000,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2831",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.96e155,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2832",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 138000000000,
+					"ConditionId": "ozonecollector"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2833",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.2e174,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2834",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 861000000000,
+					"ConditionId": "biodome"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2835",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 560000000000,
+					"ConditionId": "tubetravel"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2836",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4.68e170,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2837",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3e193,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2838",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 538000000000,
+					"ConditionId": "bomber"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2839",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1330000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2840",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 787000000000,
+					"ConditionId": "fusionplant"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2841",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResearchersUpgradedSinceSubscription",
+					"Threshold": 2,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2842",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.7e180,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2843",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4.1e204,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2844",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.83e197,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2845",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 2660000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2846",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1300000000000,
+					"ConditionId": "fusionplant"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2847",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.2e193,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2848",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.52e221,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2849",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 525000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2850",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.4e229,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2851",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 2300000000000,
+					"ConditionId": "fusionplant"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2852",
+				"Rank": 151,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5e202,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2853",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourcesSpentSinceSubscription",
+					"Threshold": 82500,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2854",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 33000000000,
+					"ConditionId": "coastguard"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2855",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "TradesSinceSubscription",
+					"Threshold": 74,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2856",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 249000000000,
+					"ConditionId": "tubetravel"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2857",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.46e188,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2858",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.1e180,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2859",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 260000000000,
+					"ConditionId": "laboratory"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2860",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 433000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2861",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.21e209,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2862",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9.5e198,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2863",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.5e188,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2864",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 3050,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2865",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 717000000000,
+					"ConditionId": "airrescue"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2866",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1800000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2867",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1000000000000,
+					"ConditionId": "fusionplant"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2868",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1.02e212,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2869",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.5e199,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2870",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 356393,
+					"ConditionId": "cloninglab"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2871",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 500000000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2872",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9.1e225,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2873",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 666000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2874",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.7e207,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2875",
+				"Rank": 152,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 256000000000,
+					"ConditionId": "cloninglab"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2876",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 42000,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2877",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.5e187,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2878",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 37000000000,
+					"ConditionId": "coastguard"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2879",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.5e184,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2880",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 167000000000,
+					"ConditionId": "bomber"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2881",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 40000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2882",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1.1e201,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2883",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.9e172,
+					"ConditionId": "placebo"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2884",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 455000000000,
+					"ConditionId": "laserdrill"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2885",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 555000000000,
+					"ConditionId": "bomber"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2886",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1500000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2887",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResearchersUpgradedSinceSubscription",
+					"Threshold": 2,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2888",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.4e214,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2889",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.32e185,
+					"ConditionId": "placebo"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2890",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.83e209,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2891",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 378000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2892",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 3000000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2893",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.46e221,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2894",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.6e196,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2895",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 594000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2896",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.8e205,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2897",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 10,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2898",
+				"Rank": 153,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4.7e229,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2899",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourcesSpentSinceSubscription",
+					"Threshold": 85000,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2900",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 157000000000,
+					"ConditionId": "ozonecollector"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2901",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "TradesSinceSubscription",
+					"Threshold": 65,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2902",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 115000000000,
+					"ConditionId": "laboratory"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2903",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4.67e206,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2904",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.03e200,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2905",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 22000000000,
+					"ConditionId": "laser drill"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2906",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 390000000000,
+					"ConditionId": "bomber"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2907",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.78e176,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2908",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9.4e216,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2909",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.11e212,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2910",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 3100,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2911",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1020000000000,
+					"ConditionId": "laserdrill"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2912",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 214000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2913",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 725,
+					"ConditionId": "cloninglab"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2914",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.98e224,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2915",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.1e219,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2916",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 666000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2917",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 760000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2918",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.36e200,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2919",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 100,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2920",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1e227,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2921",
+				"Rank": 154,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1330000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2922",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 43000,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2923",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.4e172,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2924",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 77000000000,
+					"ConditionId": "tubetravel"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2925",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.3e186,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2926",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 202000000000,
+					"ConditionId": "laboratory"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2927",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 189000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2928",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4.7e181,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2929",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7e207,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2930",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 479000000000,
+					"ConditionId": "laserdrill"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2931",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 453000000000,
+					"ConditionId": "airrescue"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2932",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 2140000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2933",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResearchersUpgradedSinceSubscription",
+					"Threshold": 2,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2934",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.9e195,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2935",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4e216,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2936",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1.3e211,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2937",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 14241,
+					"ConditionId": "cloninglab"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2938",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 4150000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2939",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.4e202,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2940",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9.87e226,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2941",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 999000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2942",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.83e203,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2943",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 832,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M2944",
+				"Rank": 155,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 2.29e209,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
 			}
 		],
 		"OfferPools": [
@@ -142433,6 +144043,96 @@ var DATA = {
 				"EpicGachaMultiplier": 4.17,
 				"NormalGachaMultiplierScience": 8.3,
 				"PremiumGachaMultiplierScience": 1.72,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 151,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_19",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 7.84000000000001,
+				"PremiumGachaMultiplier": 1.72,
+				"EpicGachaMultiplier": 4.18,
+				"NormalGachaMultiplierScience": 8.35,
+				"PremiumGachaMultiplierScience": 1.72,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 152,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_19",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 7.88000000000001,
+				"PremiumGachaMultiplier": 1.72,
+				"EpicGachaMultiplier": 4.18,
+				"NormalGachaMultiplierScience": 8.4,
+				"PremiumGachaMultiplierScience": 1.72,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 153,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_19",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 7.92000000000001,
+				"PremiumGachaMultiplier": 1.72,
+				"EpicGachaMultiplier": 4.19,
+				"NormalGachaMultiplierScience": 8.45,
+				"PremiumGachaMultiplierScience": 1.72,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 154,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_19",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 7.96000000000001,
+				"PremiumGachaMultiplier": 1.73,
+				"EpicGachaMultiplier": 4.19,
+				"NormalGachaMultiplierScience": 8.5,
+				"PremiumGachaMultiplierScience": 1.73,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 155,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_19",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 8.00000000000001,
+				"PremiumGachaMultiplier": 1.73,
+				"EpicGachaMultiplier": 4.2,
+				"NormalGachaMultiplierScience": 8.55,
+				"PremiumGachaMultiplierScience": 1.73,
 				"GachaMultiplierPoints": 5,
 				"AirDropScience": 200,
 				"AirDropRankUpCoolDown": 60
