@@ -139073,7 +139073,7 @@ var DATA = {
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 5.9e172,
-					"ConditionId": "placebo"
+					"ConditionId": "medicine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -139157,7 +139157,7 @@ var DATA = {
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 8.32e185,
-					"ConditionId": "placebo"
+					"ConditionId": "medicine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -139381,7 +139381,7 @@ var DATA = {
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 22000000000,
-					"ConditionId": "laser drill"
+					"ConditionId": "laserdrill"
 				},
 				"Reward": {
 					"Reward": "Gacha",
