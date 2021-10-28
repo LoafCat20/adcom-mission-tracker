@@ -52965,7 +52965,7 @@ var DATA = {
 				"Condition": {
 					"ConditionType": "TradesSinceSubscription",
 					"Threshold": 67,
-					"ConditionId": "military"
+					"ConditionId": "weapon"
 				},
 				"Reward": {
 					"Reward": "Gacha",
