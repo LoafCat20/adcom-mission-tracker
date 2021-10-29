@@ -1,4 +1,4 @@
-﻿var DATA["main"] = {
+﻿DATA["main"] = {
 		"Ads": [
 			{
 				"Id": "AD011",
@@ -73048,7 +73048,7 @@
 		]
 };
 
-var ENGLISH_LOCALIZATION_STRING += String.raw`
+ENGLISH_LOCALIZATION_STRING += String.raw`
 mission.resourcequantity.landt12.name=Land up to Twelve!
 mission.resourcequantity.landt12.simplename=Own Land T12s
 mission.resourcequantity.militaryt11.name=Military up to Eleven!
