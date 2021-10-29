@@ -73046,7 +73046,6 @@
 				"MaxLevel": 99
 			}
 		]
-	}
 };
 
 var ENGLISH_LOCALIZATION_STRING += String.raw`
