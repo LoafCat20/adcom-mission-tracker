@@ -6690,7 +6690,7 @@
 				"Cost": [
 					{
 						"Resource": "FusionPlant",
-						"Qty": "1.0E+29"
+						"Qty": "5.0E+28"
 					},
 					{
 						"Resource": "Land",
@@ -53204,6 +53204,1616 @@
 					"RewardId": "stone",
 					"Value": 1
 				}
+			},
+			{
+				"Id": "M3060",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1.3e192,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3061",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 421000000000,
+					"ConditionId": "biodome"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3062",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 46000,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3063",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 188000000000,
+					"ConditionId": "laboratory"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3064",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.96e182,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3065",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 498000000000,
+					"ConditionId": "ozonecollector"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3066",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4.17e209,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3067",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1.1e215,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3068",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 48000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3069",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 501000000000,
+					"ConditionId": "airrescue"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3070",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1.6e217,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3071",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1080000000000,
+					"ConditionId": "laserdrill"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3072",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResearchersUpgradedSinceSubscription",
+					"Threshold": 2,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3073",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.7e225,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3074",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.08e203,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3075",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 911000000,
+					"ConditionId": "cloninglab"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3076",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 666000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3077",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.45e226,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3078",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.7e237,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3079",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1000000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3080",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.36e206,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3081",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1330000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3082",
+				"Rank": 161,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.7e231,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3083",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 95000000000,
+					"ConditionId": "fortress"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3084",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourcesSpentSinceSubscription",
+					"Threshold": 95000,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3085",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "TradesSinceSubscription",
+					"Threshold": 74,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3086",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.55e209,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3087",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 390000000000,
+					"ConditionId": "ozonecollector"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3088",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9.63e173,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3089",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 44500000000,
+					"ConditionId": "bomber"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3090",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 240000000000,
+					"ConditionId": "fusionplant"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3091",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.7e201,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3092",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4.1e219,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3093",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 200000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3094",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 3300,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3095",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.7e187,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3096",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1100000000000,
+					"ConditionId": "fusionplant"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3097",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 333000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3098",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 2.2e234,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3099",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.6e199,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3100",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 800000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3101",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1930000000000,
+					"ConditionId": "fusionplant"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3102",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1.29e225,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3103",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 358000000,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3104",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4.19e209,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3105",
+				"Rank": 162,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1400000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3106",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.38e185,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3107",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 50000000000,
+					"ConditionId": "coastguard"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3108",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 47000,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3109",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 417000000000,
+					"ConditionId": "tubetravel"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3110",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.9e211,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3111",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 331000000000,
+					"ConditionId": "bomber"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3112",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.68e197,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3113",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.6e177,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3114",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1370000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3115",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 544000000000,
+					"ConditionId": "fusionplant"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3116",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.9e207,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3117",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 327000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3118",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResearchersUpgradedSinceSubscription",
+					"Threshold": 2,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3119",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 2.9e190,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3120",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.8e230,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3121",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1500000000000,
+					"ConditionId": "fusionplant"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3122",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 782000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3123",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9.4e219,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3124",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.49e203,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3125",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 16100000000,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3126",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4e230,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3127",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1.23e15,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3128",
+				"Rank": 163,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9.9e229,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3129",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 15000000000,
+					"ConditionId": "laboratory"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3130",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourcesSpentSinceSubscription",
+					"Threshold": 97500,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3131",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "TradesSinceSubscription",
+					"Threshold": 72,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3132",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9.6e181,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3133",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 597000000000,
+					"ConditionId": "tubetravel"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3134",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.4e213,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3135",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 19200000000,
+					"ConditionId": "airrescue"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3136",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 457000000000,
+					"ConditionId": "laserdrill"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3137",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3e213,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3138",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.96e194,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3139",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 600000000000,
+					"ConditionId": "airrescue"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3140",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 3350,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3141",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1e226,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3142",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 166000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3143",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1320000000000,
+					"ConditionId": "fusionplant"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3144",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1.5e205,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3145",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.7e235,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3146",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 256000000000,
+					"ConditionId": "cloninglab"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3147",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1110000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3148",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6e229,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3149",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 7,
+					"ConditionId": "militaryt11"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3150",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9.1e244,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3151",
+				"Rank": 164,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 768000000000,
+					"ConditionId": "cloninglab"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3152",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.8e195,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3153",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 32000000000,
+					"ConditionId": "laboratory"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3154",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 48000,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3155",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 957000000000,
+					"ConditionId": "biodome"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3156",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.94e194,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3157",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 465000000000,
+					"ConditionId": "bomber"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3158",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.9e211,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3159",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1.55e179,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3160",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 613000000000,
+					"ConditionId": "laserdrill"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3161",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1840000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3162",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 2.3e219,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3163",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 538000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3164",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResearchersUpgradedSinceSubscription",
+					"Threshold": 2,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3165",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.76e191,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3166",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.34e215,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3167",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 700000,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3168",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 957000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3169",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1.3e228,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3170",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.2e205,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3171",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1330000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3172",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.21e242,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3173",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 95,
+					"ConditionId": "militaryt11"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M3174",
+				"Rank": 165,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.78e233,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
 			}
 		],
 		"OfferPools": [
@@ -57493,6 +59103,96 @@
 				"EpicGachaMultiplier": 4.22,
 				"NormalGachaMultiplierScience": 8.8,
 				"PremiumGachaMultiplierScience": 1.74,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 161,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_20",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 8.24000000000001,
+				"PremiumGachaMultiplier": 1.74,
+				"EpicGachaMultiplier": 4.23,
+				"NormalGachaMultiplierScience": 8.85,
+				"PremiumGachaMultiplierScience": 1.74,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 162,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_20",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 8.28000000000001,
+				"PremiumGachaMultiplier": 1.75,
+				"EpicGachaMultiplier": 4.23,
+				"NormalGachaMultiplierScience": 8.9,
+				"PremiumGachaMultiplierScience": 1.75,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 163,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_20",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 8.32000000000001,
+				"PremiumGachaMultiplier": 1.75,
+				"EpicGachaMultiplier": 4.24,
+				"NormalGachaMultiplierScience": 8.95,
+				"PremiumGachaMultiplierScience": 1.75,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 164,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_20",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 8.36000000000001,
+				"PremiumGachaMultiplier": 1.75,
+				"EpicGachaMultiplier": 4.24,
+				"NormalGachaMultiplierScience": 9,
+				"PremiumGachaMultiplierScience": 1.75,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 165,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_20",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 8.40000000000001,
+				"PremiumGachaMultiplier": 1.75,
+				"EpicGachaMultiplier": 4.25,
+				"NormalGachaMultiplierScience": 9.05,
+				"PremiumGachaMultiplierScience": 1.75,
 				"GachaMultiplierPoints": 5,
 				"AirDropScience": 200,
 				"AirDropRankUpCoolDown": 60
