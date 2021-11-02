@@ -54821,7 +54821,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 215000000000,
-					"ConditionId": "ozone collector"
+					"ConditionId": "ozonecollector"
 				},
 				"Reward": {
 					"Reward": "Gacha",
