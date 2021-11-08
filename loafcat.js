@@ -41268,7 +41268,7 @@
 				"Rank": 123,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 822000000000,
+					"Threshold": 2280000000000,
 					"ConditionId": "bomber"
 				},
 				"Reward": {
@@ -41884,7 +41884,7 @@
 				"Rank": 125,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 632000000000,
+					"Threshold": 23600000000000,
 					"ConditionId": "bomber"
 				},
 				"Reward": {
@@ -49360,7 +49360,7 @@
 				"Rank": 149,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 7.44e170,
+					"Threshold": 7.44e168,
 					"ConditionId": "weapon"
 				},
 				"Reward": {
@@ -50648,7 +50648,7 @@
 				"Rank": 153,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 8.5e187,
+					"Threshold": 8.5e189,
 					"ConditionId": "land"
 				},
 				"Reward": {
@@ -51292,8 +51292,8 @@
 				"Rank": 155,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 8.4e172,
-					"ConditionId": "land"
+					"Threshold": 8.4e170,
+					"ConditionId": "weapon"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -51936,7 +51936,7 @@
 				"Rank": 157,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 2.3e174,
+					"Threshold": 2.3e172,
 					"ConditionId": "weapon"
 				},
 				"Reward": {
@@ -52580,7 +52580,7 @@
 				"Rank": 159,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 7.9e180,
+					"Threshold": 7.9e185,
 					"ConditionId": "ore"
 				},
 				"Reward": {
@@ -53210,7 +53210,7 @@
 				"Rank": 161,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 1.3e192,
+					"Threshold": 1.3e196,
 					"ConditionId": "land"
 				},
 				"Reward": {
@@ -53854,7 +53854,7 @@
 				"Rank": 163,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 3.38e185,
+					"Threshold": 3.38e187,
 					"ConditionId": "ore"
 				},
 				"Reward": {
@@ -54498,7 +54498,7 @@
 				"Rank": 165,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 5.8e195,
+					"Threshold": 5.8e203,
 					"ConditionId": "land"
 				},
 				"Reward": {
@@ -55786,7 +55786,7 @@
 				"Rank": 169,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 6.7e189,
+					"Threshold": 6.7e190,
 					"ConditionId": "ore"
 				},
 				"Reward": {
