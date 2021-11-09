@@ -56697,7 +56697,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3600000000,
-					"ConditionId": "miliaryt11"
+					"ConditionId": "militaryt11"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -56836,7 +56836,7 @@
 				"Rank": 172,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 29100000000,
+					"Threshold": 291000000000,
 					"ConditionId": "fusionplant"
 				},
 				"Reward": {
@@ -57341,7 +57341,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 102000000000,
-					"ConditionId": "miliaryt11"
+					"ConditionId": "militaryt11"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -57480,7 +57480,7 @@
 				"Rank": 174,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 50900000000,
+					"Threshold": 509000000000,
 					"ConditionId": "bomber"
 				},
 				"Reward": {
