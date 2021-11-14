@@ -60854,7 +60854,7 @@
 				"Rank": 184,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 6.4e252,
+					"Threshold": 5.4e252,
 					"ConditionId": "potato"
 				},
 				"Reward": {
@@ -61219,7 +61219,7 @@
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 4.3e235,
-					"ConditionId": "bullet"
+					"ConditionId": "weapon"
 				},
 				"Reward": {
 					"Reward": "Gacha",
