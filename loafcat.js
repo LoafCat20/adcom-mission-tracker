@@ -59944,7 +59944,7 @@
 				"Rank": 181,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 2330000000000,
+					"Threshold": 2660000000000,
 					"ConditionId": "magmaextractor"
 				},
 				"Reward": {
