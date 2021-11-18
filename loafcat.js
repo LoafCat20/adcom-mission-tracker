@@ -67696,24 +67696,6 @@
 				"GachaMultiplierPoints": 5,
 				"AirDropScience": 200,
 				"AirDropRankUpCoolDown": 60
-			},
-			{
-				"Rank": 191,
-				"Name": "PLACEHOLDER Leader",
-				"SpriteName": "avatar_21",
-				"Missions": 20,
-				"ActiveMissionCount": 3,
-				"RewardType": "Gacha",
-				"RewardId": "rankup",
-				"RewardQuantity": 1,
-				"NormalGachaMultiplier": 9.44000000000001,
-				"PremiumGachaMultiplier": 1.82,
-				"EpicGachaMultiplier": 4.38,
-				"NormalGachaMultiplierScience": 10.35,
-				"PremiumGachaMultiplierScience": 1.82,
-				"GachaMultiplierPoints": 5,
-				"AirDropScience": 200,
-				"AirDropRankUpCoolDown": 60
 			}
 		],
 		"ResearcherRankCosts": [
