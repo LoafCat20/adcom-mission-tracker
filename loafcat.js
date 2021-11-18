@@ -61891,7 +61891,7 @@
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 9.3e241,
-					"ConditionId": "bullet"
+					"ConditionId": "weapon"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -62283,7 +62283,7 @@
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 7.9e184,
-					"ConditionId": "placebo"
+					"ConditionId": "medicine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -62437,7 +62437,7 @@
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 4.3e213,
-					"ConditionId": "placebo"
+					"ConditionId": "medicine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
