@@ -64145,7 +64145,7 @@
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 9.4e232,
-					"ConditionId": "placebo"
+					"ConditionId": "medicine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -64341,7 +64341,7 @@
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 1.21e212,
-					"ConditionId": "placebo"
+					"ConditionId": "medicine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
