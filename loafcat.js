@@ -65798,6 +65798,7 @@
 					"ConditionType": "TradesSinceSubscription",
 					"Threshold": 78,
 					"ConditionId": "weapon"
+				},
 				"Reward": {
 					"Reward": "Gacha",
 					"RewardId": "stone",
