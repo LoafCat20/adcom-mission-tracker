@@ -67000,7 +67000,7 @@
 				"Rank": 203,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 160,
+					"Threshold": 579,
 					"ConditionId": "oret12"
 				},
 				"Reward": {
@@ -67336,7 +67336,7 @@
 				"Rank": 204,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 579,
+					"Threshold": 2024,
 					"ConditionId": "oret12"
 				},
 				"Reward": {
@@ -67686,7 +67686,7 @@
 				"Rank": 205,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 2024,
+					"Threshold": 16000,
 					"ConditionId": "oret12"
 				},
 				"Reward": {
