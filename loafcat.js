@@ -47736,7 +47736,7 @@
 				"Rank": 144,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 65500,
+					"Threshold": 66000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -48380,7 +48380,7 @@
 				"Rank": 146,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 67000,
+					"Threshold": 68000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -49024,7 +49024,7 @@
 				"Rank": 148,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 68500,
+					"Threshold": 67000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -49668,7 +49668,7 @@
 				"Rank": 150,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 70000,
+					"Threshold": 72000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -50312,7 +50312,7 @@
 				"Rank": 152,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 71500,
+					"Threshold": 74000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -50956,7 +50956,7 @@
 				"Rank": 154,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 73000,
+					"Threshold": 75500,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -51600,7 +51600,7 @@
 				"Rank": 156,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 74500,
+					"Threshold": 77000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -52244,7 +52244,7 @@
 				"Rank": 158,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 76000,
+					"Threshold": 78500,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -52888,7 +52888,7 @@
 				"Rank": 160,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 77500,
+					"Threshold": 80000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -53546,7 +53546,7 @@
 				"Rank": 162,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 79000,
+					"Threshold": 81000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -54190,7 +54190,7 @@
 				"Rank": 164,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 80000,
+					"Threshold": 82000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -54834,7 +54834,7 @@
 				"Rank": 166,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 81000,
+					"Threshold": 83000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -55478,7 +55478,7 @@
 				"Rank": 168,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 82000,
+					"Threshold": 84000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -56122,7 +56122,7 @@
 				"Rank": 170,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 83000,
+					"Threshold": 85000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -56766,7 +56766,7 @@
 				"Rank": 172,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 84000,
+					"Threshold": 86000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -57410,7 +57410,7 @@
 				"Rank": 174,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 85000,
+					"Threshold": 87000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -58054,7 +58054,7 @@
 				"Rank": 176,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 86000,
+					"Threshold": 88000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -58698,7 +58698,7 @@
 				"Rank": 178,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 87000,
+					"Threshold": 89000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -59342,7 +59342,7 @@
 				"Rank": 180,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 88000,
+					"Threshold": 90000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -59972,7 +59972,7 @@
 				"Rank": 182,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 89000,
+					"Threshold": 91000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -60616,7 +60616,7 @@
 				"Rank": 184,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 90000,
+					"Threshold": 92000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -61260,7 +61260,7 @@
 				"Rank": 186,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 91000,
+					"Threshold": 93000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -61904,7 +61904,7 @@
 				"Rank": 188,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 91750,
+					"Threshold": 94000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -62548,7 +62548,7 @@
 				"Rank": 190,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 92500,
+					"Threshold": 95000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -63192,7 +63192,7 @@
 				"Rank": 192,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 93250,
+					"Threshold": 96000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -63836,7 +63836,7 @@
 				"Rank": 194,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 94000,
+					"Threshold": 97000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -64480,7 +64480,7 @@
 				"Rank": 196,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 94750,
+					"Threshold": 98000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -65124,7 +65124,7 @@
 				"Rank": 198,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 95500,
+					"Threshold": 99000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -65768,7 +65768,7 @@
 				"Rank": 200,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 96250,
+					"Threshold": 100000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -66258,7 +66258,7 @@
 				"Rank": 201,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 55500,
+					"Threshold": 56000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -66440,7 +66440,7 @@
 				"Rank": 202,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 97000,
+					"Threshold": 101000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -66902,7 +66902,7 @@
 				"Rank": 203,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 56000,
+					"Threshold": 57000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -67084,7 +67084,7 @@
 				"Rank": 204,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 97750,
+					"Threshold": 102000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -67546,7 +67546,7 @@
 				"Rank": 205,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 56500,
+					"Threshold": 58000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
