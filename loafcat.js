@@ -72558,7 +72558,7 @@
 				"Rank": 221,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 62800000000,
+					"Threshold": 628000000000,
 					"ConditionId": "skyfarm"
 				},
 				"Reward": {
@@ -73202,7 +73202,7 @@
 				"Rank": 223,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 26900000000,
+					"Threshold": 269000000000,
 					"ConditionId": "laboratory"
 				},
 				"Reward": {
@@ -73651,7 +73651,7 @@
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 5.52e250,
-					"ConditionId": "medicine"
+					"ConditionId": "ore"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -73846,7 +73846,7 @@
 				"Rank": 225,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 14200000000,
+					"Threshold": 142000000000,
 					"ConditionId": "laserdrill"
 				},
 				"Reward": {
