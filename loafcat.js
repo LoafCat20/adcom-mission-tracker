@@ -79,9 +79,9 @@
 				"Weight": 30,
 				"MaxAdsPerInterval": 5,
 				"RewardCalculation": {
-					"A": 475,
+					"A": 6000,
 					"B": 1.1,
-					"C": 0.05,
+					"C": 0.005,
 					"D": 0
 				}
 			},
@@ -93,9 +93,9 @@
 				"Weight": 5,
 				"MaxAdsPerInterval": -1,
 				"RewardCalculation": {
-					"A": 225,
+					"A": -45,
 					"B": 1.099,
-					"C": 0.01,
+					"C": -0.05,
 					"D": 2.3
 				}
 			},
@@ -2976,7 +2976,7 @@
 			{
 				"GroupId": 4,
 				"RankMin": 60,
-				"RankMax": 250,
+				"RankMax": 80,
 				"Rewards": [
 					{
 						"Reward": "ResearcherByRarity",
@@ -3003,7 +3003,7 @@
 			{
 				"GroupId": 4,
 				"RankMin": 60,
-				"RankMax": 250,
+				"RankMax": 80,
 				"Rewards": [
 					{
 						"Reward": "Gacha",
@@ -3030,7 +3030,7 @@
 			{
 				"GroupId": 4,
 				"RankMin": 60,
-				"RankMax": 250,
+				"RankMax": 80,
 				"Rewards": [
 					{
 						"Reward": "Resources",
@@ -3057,7 +3057,7 @@
 			{
 				"GroupId": 4,
 				"RankMin": 60,
-				"RankMax": 250,
+				"RankMax": 80,
 				"Rewards": [
 					{
 						"Reward": "Resources",
@@ -3084,7 +3084,7 @@
 			{
 				"GroupId": 4,
 				"RankMin": 60,
-				"RankMax": 250,
+				"RankMax": 80,
 				"Rewards": [
 					{
 						"Reward": "Gacha",
@@ -3100,6 +3100,546 @@
 						"Reward": "Resources",
 						"RewardId": "scientist",
 						"Value": 200
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 5,
+				"RankMin": 81,
+				"RankMax": 110,
+				"Rewards": [
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Common",
+						"Value": 30
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Rare",
+						"Value": 12
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 5,
+				"RankMin": 81,
+				"RankMax": 110,
+				"Rewards": [
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "Resources",
+						"RewardId": "scientist",
+						"Value": 175
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 5,
+				"RankMin": 81,
+				"RankMax": 110,
+				"Rewards": [
+					{
+						"Reward": "Resources",
+						"RewardId": "gold",
+						"Value": 4
+					},
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Rare",
+						"Value": 6
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 5,
+				"RankMin": 81,
+				"RankMax": 110,
+				"Rewards": [
+					{
+						"Reward": "Resources",
+						"RewardId": "scientist",
+						"Value": 125
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Common",
+						"Value": 60
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 5,
+				"RankMin": 81,
+				"RankMax": 110,
+				"Rewards": [
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "Resources",
+						"RewardId": "gold",
+						"Value": 5
+					},
+					{
+						"Reward": "Resources",
+						"RewardId": "scientist",
+						"Value": 250
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 6,
+				"RankMin": 111,
+				"RankMax": 150,
+				"Rewards": [
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Common",
+						"Value": 35
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Rare",
+						"Value": 14
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 6,
+				"RankMin": 111,
+				"RankMax": 150,
+				"Rewards": [
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "Resources",
+						"RewardId": "scientist",
+						"Value": 200
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 6,
+				"RankMin": 111,
+				"RankMax": 150,
+				"Rewards": [
+					{
+						"Reward": "Resources",
+						"RewardId": "gold",
+						"Value": 4
+					},
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Rare",
+						"Value": 7
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 6,
+				"RankMin": 111,
+				"RankMax": 150,
+				"Rewards": [
+					{
+						"Reward": "Resources",
+						"RewardId": "scientist",
+						"Value": 150
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Common",
+						"Value": 70
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 6,
+				"RankMin": 111,
+				"RankMax": 150,
+				"Rewards": [
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "Resources",
+						"RewardId": "gold",
+						"Value": 5
+					},
+					{
+						"Reward": "Resources",
+						"RewardId": "scientist",
+						"Value": 300
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 7,
+				"RankMin": 151,
+				"RankMax": 190,
+				"Rewards": [
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Common",
+						"Value": 40
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Rare",
+						"Value": 17
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 7,
+				"RankMin": 151,
+				"RankMax": 190,
+				"Rewards": [
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "Resources",
+						"RewardId": "scientist",
+						"Value": 250
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 7,
+				"RankMin": 151,
+				"RankMax": 190,
+				"Rewards": [
+					{
+						"Reward": "Resources",
+						"RewardId": "gold",
+						"Value": 4
+					},
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Rare",
+						"Value": 8
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 7,
+				"RankMin": 151,
+				"RankMax": 190,
+				"Rewards": [
+					{
+						"Reward": "Resources",
+						"RewardId": "scientist",
+						"Value": 175
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Common",
+						"Value": 85
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 7,
+				"RankMin": 151,
+				"RankMax": 190,
+				"Rewards": [
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "Resources",
+						"RewardId": "gold",
+						"Value": 5
+					},
+					{
+						"Reward": "Resources",
+						"RewardId": "scientist",
+						"Value": 350
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 8,
+				"RankMin": 191,
+				"RankMax": 250,
+				"Rewards": [
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Common",
+						"Value": 50
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Rare",
+						"Value": 20
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 8,
+				"RankMin": 191,
+				"RankMax": 250,
+				"Rewards": [
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "Resources",
+						"RewardId": "scientist",
+						"Value": 300
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 8,
+				"RankMin": 191,
+				"RankMax": 250,
+				"Rewards": [
+					{
+						"Reward": "Resources",
+						"RewardId": "gold",
+						"Value": 4
+					},
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Rare",
+						"Value": 10
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 8,
+				"RankMin": 191,
+				"RankMax": 250,
+				"Rewards": [
+					{
+						"Reward": "Resources",
+						"RewardId": "scientist",
+						"Value": 200
+					},
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "ResearcherByRarity",
+						"RewardId": "Common",
+						"Value": 100
+					}
+				],
+				"Points": [
+					5,
+					5,
+					5
+				]
+			},
+			{
+				"GroupId": 8,
+				"RankMin": 191,
+				"RankMax": 250,
+				"Rewards": [
+					{
+						"Reward": "Gacha",
+						"RewardId": "wood",
+						"Value": 1
+					},
+					{
+						"Reward": "Resources",
+						"RewardId": "gold",
+						"Value": 5
+					},
+					{
+						"Reward": "Resources",
+						"RewardId": "scientist",
+						"Value": 400
 					}
 				],
 				"Points": [
@@ -3607,8 +4147,8 @@
 				"LteRareWeight": -1,
 				"ScienceMin": 45,
 				"ScienceMax": 55,
-				"PointsMin": 1,
-				"PointsMax": 1,
+				"PointsMin": 0.6,
+				"PointsMax": 0.6,
 				"ChanceMultiplier": 2,
 				"WeightDivider": 10,
 				"Type": "Normal"
@@ -74134,6 +74674,1616 @@
 					"RewardId": "stone",
 					"Value": 1
 				}
+			},
+			{
+				"Id": "M4555",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourcesSpentSinceSubscription",
+					"Threshold": 113000,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4556",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "TradesSinceSubscription",
+					"Threshold": 88,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4557",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 295000000000,
+					"ConditionId": "laboratory"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4558",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.97e222,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4559",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 3710000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4560",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9.06e244,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4561",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.88e220,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4562",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1450000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4563",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1390000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4564",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 5830000000000,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4565",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.26e235,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4566",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 2.92e256,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4567",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 4900,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4568",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 4640000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4569",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 16900000000000,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4570",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.36e251,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4571",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.63e247,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4572",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 2.13e271,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4573",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 3170000000000,
+					"ConditionId": "oret12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4574",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1180000000000,
+					"ConditionId": "militaryt12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4575",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 33900000000000,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4576",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.96e255,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4577",
+				"Rank": 226,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.01e279,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4578",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9.03e214,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4579",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 79000,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4580",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 826000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4581",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 598000000000,
+					"ConditionId": "airrescue"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4582",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.59e236,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4583",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 2120000000000,
+					"ConditionId": "fusionplant"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4584",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1260000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4585",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.38e225,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4586",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.86e259,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4587",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 2.63e250,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4588",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResearchersUpgradedSinceSubscription",
+					"Threshold": 2,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4589",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1290000000000,
+					"ConditionId": "militaryt11"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4590",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 5240000000000,
+					"ConditionId": "landt12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4591",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4.39e268,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4592",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.21e261,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4593",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 2460000000000,
+					"ConditionId": "placebot11"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4594",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 4930000000000,
+					"ConditionId": "militaryt11"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4595",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 11200000000000,
+					"ConditionId": "landt12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4596",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.82e276,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4597",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 4e16,
+					"ConditionId": "placebot11"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4598",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 2.17e273,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4599",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.24e271,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4600",
+				"Rank": 227,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 20400000000000,
+					"ConditionId": "landt12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4601",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourcesSpentSinceSubscription",
+					"Threshold": 114000,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4602",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "TradesSinceSubscription",
+					"Threshold": 82,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4603",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 951000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4604",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4.89e239,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4605",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1140000000000,
+					"ConditionId": "laserdrill"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4606",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 2.82e232,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4607",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.39e256,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4608",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 3730000000000,
+					"ConditionId": "fusionplant"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4609",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 904000000000,
+					"ConditionId": "cloninglab"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4610",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 2790000000000,
+					"ConditionId": "magmaextractor"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4611",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.11e264,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4612",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4.98e244,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4613",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 4950,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4614",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1330000000000,
+					"ConditionId": "placebot11"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4615",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 927000000000,
+					"ConditionId": "oret12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4616",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9.01e268,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4617",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 2.07e272,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4618",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.87e256,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4619",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 5,
+					"ConditionId": "placebot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4620",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 15500000000000,
+					"ConditionId": "landt12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4621",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 6640000000000,
+					"ConditionId": "oret12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4622",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.02e280,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4623",
+				"Rank": 228,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 2.34e275,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4624",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.72e244,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4625",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 80000,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4626",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 209000000000,
+					"ConditionId": "laserdrill"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4627",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 504000000000,
+					"ConditionId": "cyborg"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4628",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 2.61e244,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4629",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 136000000000,
+					"ConditionId": "cloninglab"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4630",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1210000000000,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4631",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1.74e238,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4632",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.44e247,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4633",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.17e254,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4634",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResearchersUpgradedSinceSubscription",
+					"Threshold": 2,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4635",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 11900000000000,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4636",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 918000000000,
+					"ConditionId": "placebot11"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4637",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.84e260,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4638",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.2e266,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4639",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 4160000000000,
+					"ConditionId": "militaryt11"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4640",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 23700000000000,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4641",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 4290000000000,
+					"ConditionId": "placebot11"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4642",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.24e271,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4643",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 2180000000000,
+					"ConditionId": "militaryt12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4644",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8.17e278,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4645",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1.29e281,
+					"ConditionId": "potato"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4646",
+				"Rank": 229,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 41714,
+					"ConditionId": "placebot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4647",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourcesSpentSinceSubscription",
+					"Threshold": 115000,
+					"ConditionId": "scientist"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4648",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "TradesSinceSubscription",
+					"Threshold": 87,
+					"ConditionId": "weapon"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4649",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 39300000000,
+					"ConditionId": "airrescue"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4650",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 1.35e241,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4651",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 4040000000000,
+					"ConditionId": "skyfarm"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4652",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4.67e241,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4653",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 2.54e226,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4654",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 3950000000000,
+					"ConditionId": "fusionplant"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4655",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 251000000000,
+					"ConditionId": "militaryt11"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4656",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 8530000000000,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4657",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 6.98e238,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4658",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.38e256,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4659",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 5000,
+					"ConditionId": "any"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4660",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 3390000000000,
+					"ConditionId": "militaryt11"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4661",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 19900000000000,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4662",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 5.35e269,
+					"ConditionId": "land"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4663",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.13e250,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4664",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7.12e269,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4665",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 1440000000000,
+					"ConditionId": "militaryt12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4666",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 16100000000000,
+					"ConditionId": "landt12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4667",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourceQuantity",
+					"Threshold": 35700000000000,
+					"ConditionId": "potatot12"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4668",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.84e261,
+					"ConditionId": "medicine"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				}
+			},
+			{
+				"Id": "M4669",
+				"Rank": 230,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 3.95e278,
+					"ConditionId": "ore"
+				},
+				"Reward": {
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				}
 			}
 		],
 		"OfferPools": [
@@ -79596,6 +81746,96 @@
 				"GachaMultiplierPoints": 5,
 				"AirDropScience": 200,
 				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 226,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_23",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 10.84000000000001,
+				"PremiumGachaMultiplier": 1.91,
+				"EpicGachaMultiplier": 4.55,
+				"NormalGachaMultiplierScience": 12.1,
+				"PremiumGachaMultiplierScience": 1.91,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 227,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_23",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 10.88000000000001,
+				"PremiumGachaMultiplier": 1.91,
+				"EpicGachaMultiplier": 4.56,
+				"NormalGachaMultiplierScience": 12.15,
+				"PremiumGachaMultiplierScience": 1.91,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 228,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_23",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 10.92000000000001,
+				"PremiumGachaMultiplier": 1.91,
+				"EpicGachaMultiplier": 4.56,
+				"NormalGachaMultiplierScience": 12.2,
+				"PremiumGachaMultiplierScience": 1.91,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 229,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_23",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 10.96000000000001,
+				"PremiumGachaMultiplier": 1.91,
+				"EpicGachaMultiplier": 4.57,
+				"NormalGachaMultiplierScience": 12.25,
+				"PremiumGachaMultiplierScience": 1.91,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
+			},
+			{
+				"Rank": 230,
+				"Name": "PLACEHOLDER Leader",
+				"SpriteName": "avatar_23",
+				"Missions": 20,
+				"ActiveMissionCount": 3,
+				"RewardType": "Gacha",
+				"RewardId": "rankup",
+				"RewardQuantity": 1,
+				"NormalGachaMultiplier": 11.00000000000001,
+				"PremiumGachaMultiplier": 1.92,
+				"EpicGachaMultiplier": 4.57,
+				"NormalGachaMultiplierScience": 12.3,
+				"PremiumGachaMultiplierScience": 1.92,
+				"GachaMultiplierPoints": 5,
+				"AirDropScience": 200,
+				"AirDropRankUpCoolDown": 60
 			}
 		],
 		"ResearcherRankCosts": [
@@ -83940,7 +86180,7 @@
 				"Id": 73,
 				"SpecOpsType": "ScienceEarned",
 				"RankMin": 80,
-				"RankMax": 84,
+				"RankMax": 89,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -83954,11 +86194,11 @@
 				"Id": 74,
 				"SpecOpsType": "ScienceEarned",
 				"RankMin": 80,
-				"RankMax": 84,
+				"RankMax": 89,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 3400,
+					"Threshold": 3300,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -83968,7 +86208,7 @@
 				"Id": 75,
 				"SpecOpsType": "ScienceEarned",
 				"RankMin": 80,
-				"RankMax": 84,
+				"RankMax": 89,
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -83981,12 +86221,12 @@
 			{
 				"Id": 76,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 85,
-				"RankMax": 89,
+				"RankMin": 90,
+				"RankMax": 99,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 3200,
+					"Threshold": 3300,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Small",
@@ -83995,12 +86235,12 @@
 			{
 				"Id": 77,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 85,
-				"RankMax": 89,
+				"RankMin": 90,
+				"RankMax": 99,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 3500,
+					"Threshold": 3600,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -84009,50 +86249,8 @@
 			{
 				"Id": 78,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 85,
-				"RankMax": 89,
-				"Weight": 20,
-				"Condition": {
-					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 3800,
-					"ConditionId": "scientist"
-				},
-				"RewardSize": "Medium",
-				"Points": 30
-			},
-			{
-				"Id": 79,
-				"SpecOpsType": "ScienceEarned",
 				"RankMin": 90,
-				"RankMax": 94,
-				"Weight": 40,
-				"Condition": {
-					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 3400,
-					"ConditionId": "scientist"
-				},
-				"RewardSize": "Small",
-				"Points": 20
-			},
-			{
-				"Id": 80,
-				"SpecOpsType": "ScienceEarned",
-				"RankMin": 90,
-				"RankMax": 94,
-				"Weight": 40,
-				"Condition": {
-					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 3800,
-					"ConditionId": "scientist"
-				},
-				"RewardSize": "Medium",
-				"Points": 30
-			},
-			{
-				"Id": 81,
-				"SpecOpsType": "ScienceEarned",
-				"RankMin": 90,
-				"RankMax": 94,
+				"RankMax": 99,
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -84063,10 +86261,10 @@
 				"Points": 30
 			},
 			{
-				"Id": 82,
+				"Id": 79,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 95,
-				"RankMax": 99,
+				"RankMin": 100,
+				"RankMax": 109,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -84077,14 +86275,56 @@
 				"Points": 20
 			},
 			{
-				"Id": 83,
+				"Id": 80,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 95,
-				"RankMax": 99,
+				"RankMin": 100,
+				"RankMax": 109,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 4000,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 81,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 100,
+				"RankMax": 109,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4500,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 82,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 110,
+				"RankMax": 119,
+				"Weight": 40,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4000,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Small",
+				"Points": 20
+			},
+			{
+				"Id": 83,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 110,
+				"RankMax": 119,
+				"Weight": 40,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 4500,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -84093,12 +86333,12 @@
 			{
 				"Id": 84,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 95,
-				"RankMax": 99,
+				"RankMin": 110,
+				"RankMax": 119,
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 4200,
+					"Threshold": 5000,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -84107,12 +86347,12 @@
 			{
 				"Id": 85,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 100,
-				"RankMax": 104,
+				"RankMin": 120,
+				"RankMax": 129,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 3800,
+					"Threshold": 4500,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Small",
@@ -84121,12 +86361,12 @@
 			{
 				"Id": 86,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 100,
-				"RankMax": 104,
+				"RankMin": 120,
+				"RankMax": 129,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 4200,
+					"Threshold": 5000,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -84135,12 +86375,12 @@
 			{
 				"Id": 87,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 100,
-				"RankMax": 104,
+				"RankMin": 120,
+				"RankMax": 129,
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 4400,
+					"Threshold": 5500,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -84149,12 +86389,12 @@
 			{
 				"Id": 88,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 105,
-				"RankMax": 109,
+				"RankMin": 130,
+				"RankMax": 139,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 4000,
+					"Threshold": 5000,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Small",
@@ -84163,12 +86403,12 @@
 			{
 				"Id": 89,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 105,
-				"RankMax": 109,
+				"RankMin": 130,
+				"RankMax": 139,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 4300,
+					"Threshold": 5500,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -84177,12 +86417,12 @@
 			{
 				"Id": 90,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 105,
-				"RankMax": 109,
+				"RankMin": 130,
+				"RankMax": 139,
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 4600,
+					"Threshold": 6000,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -84191,12 +86431,12 @@
 			{
 				"Id": 91,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 110,
-				"RankMax": 129,
+				"RankMin": 140,
+				"RankMax": 149,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 4000,
+					"Threshold": 5500,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Small",
@@ -84205,12 +86445,12 @@
 			{
 				"Id": 92,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 110,
-				"RankMax": 129,
+				"RankMin": 140,
+				"RankMax": 149,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 4500,
+					"Threshold": 6000,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -84219,12 +86459,12 @@
 			{
 				"Id": 93,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 110,
-				"RankMax": 129,
+				"RankMin": 140,
+				"RankMax": 149,
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 5000,
+					"Threshold": 6750,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -84233,12 +86473,12 @@
 			{
 				"Id": 94,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 130,
-				"RankMax": 149,
+				"RankMin": 150,
+				"RankMax": 164,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 4500,
+					"Threshold": 6000,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Small",
@@ -84247,12 +86487,12 @@
 			{
 				"Id": 95,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 130,
-				"RankMax": 149,
+				"RankMin": 150,
+				"RankMax": 164,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 5000,
+					"Threshold": 6750,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -84261,12 +86501,12 @@
 			{
 				"Id": 96,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 130,
-				"RankMax": 149,
+				"RankMin": 150,
+				"RankMax": 164,
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 5500,
+					"Threshold": 7500,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -84275,12 +86515,12 @@
 			{
 				"Id": 97,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 150,
-				"RankMax": 250,
+				"RankMin": 165,
+				"RankMax": 179,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 5000,
+					"Threshold": 6750,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Small",
@@ -84289,12 +86529,12 @@
 			{
 				"Id": 98,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 150,
-				"RankMax": 250,
+				"RankMin": 165,
+				"RankMax": 179,
 				"Weight": 40,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 5500,
+					"Threshold": 7500,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -84303,12 +86543,12 @@
 			{
 				"Id": 99,
 				"SpecOpsType": "ScienceEarned",
-				"RankMin": 150,
-				"RankMax": 250,
+				"RankMin": 165,
+				"RankMax": 179,
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 6000,
+					"Threshold": 8250,
 					"ConditionId": "scientist"
 				},
 				"RewardSize": "Medium",
@@ -85078,7 +87318,7 @@
 				"Weight": 10,
 				"Condition": {
 					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-					"Threshold": 550,
+					"Threshold": 600,
 					"ConditionId": "Common"
 				},
 				"RewardSize": "Small",
@@ -85092,7 +87332,7 @@
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-					"Threshold": 650,
+					"Threshold": 700,
 					"ConditionId": "Common"
 				},
 				"RewardSize": "Medium",
@@ -85106,7 +87346,7 @@
 				"Weight": 10,
 				"Condition": {
 					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-					"Threshold": 100,
+					"Threshold": 105,
 					"ConditionId": "Rare"
 				},
 				"RewardSize": "Small",
@@ -85120,7 +87360,7 @@
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-					"Threshold": 125,
+					"Threshold": 130,
 					"ConditionId": "Rare"
 				},
 				"RewardSize": "Medium",
@@ -85134,7 +87374,7 @@
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-					"Threshold": 5,
+					"Threshold": 6,
 					"ConditionId": "Epic"
 				},
 				"RewardSize": "Large",
@@ -85144,11 +87384,11 @@
 				"Id": 159,
 				"SpecOpsType": "ResearcherCardsEarned",
 				"RankMin": 140,
-				"RankMax": 250,
+				"RankMax": 164,
 				"Weight": 10,
 				"Condition": {
 					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-					"Threshold": 600,
+					"Threshold": 700,
 					"ConditionId": "Common"
 				},
 				"RewardSize": "Small",
@@ -85158,11 +87398,11 @@
 				"Id": 160,
 				"SpecOpsType": "ResearcherCardsEarned",
 				"RankMin": 140,
-				"RankMax": 250,
+				"RankMax": 164,
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-					"Threshold": 700,
+					"Threshold": 800,
 					"ConditionId": "Common"
 				},
 				"RewardSize": "Medium",
@@ -85172,7 +87412,7 @@
 				"Id": 161,
 				"SpecOpsType": "ResearcherCardsEarned",
 				"RankMin": 140,
-				"RankMax": 250,
+				"RankMax": 164,
 				"Weight": 10,
 				"Condition": {
 					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -85186,11 +87426,11 @@
 				"Id": 162,
 				"SpecOpsType": "ResearcherCardsEarned",
 				"RankMin": 140,
-				"RankMax": 250,
+				"RankMax": 164,
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-					"Threshold": 140,
+					"Threshold": 150,
 					"ConditionId": "Rare"
 				},
 				"RewardSize": "Medium",
@@ -85200,11 +87440,11 @@
 				"Id": 163,
 				"SpecOpsType": "ResearcherCardsEarned",
 				"RankMin": 140,
-				"RankMax": 250,
+				"RankMax": 164,
 				"Weight": 20,
 				"Condition": {
 					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-					"Threshold": 5,
+					"Threshold": 7,
 					"ConditionId": "Epic"
 				},
 				"RewardSize": "Large",
@@ -85326,7 +87566,7 @@
 				"Id": 172,
 				"SpecOpsType": "ResearchersInCardStoreClaimed",
 				"RankMin": 70,
-				"RankMax": 250,
+				"RankMax": 99,
 				"Weight": 10,
 				"Condition": {
 					"ConditionType": "ResearchersInCardStoreClaimedSinceSubscription",
@@ -85414,11 +87654,11 @@
 				"Weight": 0,
 				"Condition": {
 					"ConditionType": "RankReachedInLte",
-					"Threshold": 10,
+					"Threshold": 6,
 					"ConditionId": "any"
 				},
 				"RewardSize": "Small",
-				"Points": 5
+				"Points": 10
 			},
 			{
 				"Id": 179,
@@ -85428,11 +87668,11 @@
 				"Weight": 0,
 				"Condition": {
 					"ConditionType": "RankReachedInLte",
-					"Threshold": 15,
+					"Threshold": 12,
 					"ConditionId": "any"
 				},
 				"RewardSize": "Medium",
-				"Points": 10
+				"Points": 15
 			},
 			{
 				"Id": 180,
@@ -85442,11 +87682,11 @@
 				"Weight": 0,
 				"Condition": {
 					"ConditionType": "RankReachedInLte",
-					"Threshold": 20,
+					"Threshold": 18,
 					"ConditionId": "any"
 				},
 				"RewardSize": "Medium",
-				"Points": 20
+				"Points": 25
 			},
 			{
 				"Id": 181,
@@ -85456,11 +87696,11 @@
 				"Weight": 0,
 				"Condition": {
 					"ConditionType": "RankReachedInLte",
-					"Threshold": 25,
+					"Threshold": 24,
 					"ConditionId": "any"
 				},
-				"RewardSize": "Medium",
-				"Points": 30
+				"RewardSize": "Large",
+				"Points": 40
 			},
 			{
 				"Id": 182,
@@ -85470,11 +87710,11 @@
 				"Weight": 0,
 				"Condition": {
 					"ConditionType": "RankReachedInLte",
-					"Threshold": 28,
+					"Threshold": 27,
 					"ConditionId": "any"
 				},
 				"RewardSize": "Large",
-				"Points": 40
+				"Points": 65
 			},
 			{
 				"Id": 183,
@@ -85484,11 +87724,11 @@
 				"Weight": 0,
 				"Condition": {
 					"ConditionType": "RankReachedInLte",
-					"Threshold": 31,
+					"Threshold": 29,
 					"ConditionId": "any"
 				},
 				"RewardSize": "Large",
-				"Points": 80
+				"Points": 100
 			},
 			{
 				"Id": 184,
@@ -85498,10 +87738,10 @@
 				"Weight": 0,
 				"Condition": {
 					"ConditionType": "RankReachedInLte",
-					"Threshold": 5,
+					"Threshold": 4,
 					"ConditionId": "any"
 				},
-				"RewardSize": "Medium",
+				"RewardSize": "Small",
 				"Points": 5
 			},
 			{
@@ -85516,7 +87756,7 @@
 					"ConditionId": "any"
 				},
 				"RewardSize": "Medium",
-				"Points": 10
+				"Points": 15
 			},
 			{
 				"Id": 186,
@@ -85529,8 +87769,470 @@
 					"Threshold": 11,
 					"ConditionId": "any"
 				},
+				"RewardSize": "Large",
+				"Points": 30
+			},
+			{
+				"Id": 187,
+				"SpecOpsType": "RankReachedInLte",
+				"RankMin": 0,
+				"RankMax": 250,
+				"Weight": 0,
+				"Condition": {
+					"ConditionType": "RankReachedInLte",
+					"Threshold": 31,
+					"ConditionId": "any"
+				},
+				"RewardSize": "Large",
+				"Points": 160
+			},
+			{
+				"Id": 188,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 180,
+				"RankMax": 194,
+				"Weight": 40,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 7500,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Small",
+				"Points": 20
+			},
+			{
+				"Id": 189,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 180,
+				"RankMax": 194,
+				"Weight": 40,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8250,
+					"ConditionId": "scientist"
+				},
 				"RewardSize": "Medium",
-				"Points": 25
+				"Points": 30
+			},
+			{
+				"Id": 190,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 180,
+				"RankMax": 194,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9000,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 191,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 195,
+				"RankMax": 209,
+				"Weight": 40,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 8250,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Small",
+				"Points": 20
+			},
+			{
+				"Id": 192,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 195,
+				"RankMax": 209,
+				"Weight": 40,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9000,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 193,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 195,
+				"RankMax": 209,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 10000,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 194,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 210,
+				"RankMax": 224,
+				"Weight": 40,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 9000,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Small",
+				"Points": 20
+			},
+			{
+				"Id": 195,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 210,
+				"RankMax": 224,
+				"Weight": 40,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 10000,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 196,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 210,
+				"RankMax": 224,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 11000,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 197,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 225,
+				"RankMax": 250,
+				"Weight": 40,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 10000,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Small",
+				"Points": 20
+			},
+			{
+				"Id": 198,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 225,
+				"RankMax": 250,
+				"Weight": 40,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 11000,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 199,
+				"SpecOpsType": "ScienceEarned",
+				"RankMin": 225,
+				"RankMax": 250,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResourcesEarnedSinceSubscription",
+					"Threshold": 12000,
+					"ConditionId": "scientist"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 200,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 165,
+				"RankMax": 189,
+				"Weight": 10,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 800,
+					"ConditionId": "Common"
+				},
+				"RewardSize": "Small",
+				"Points": 20
+			},
+			{
+				"Id": 201,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 165,
+				"RankMax": 189,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 900,
+					"ConditionId": "Common"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 202,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 165,
+				"RankMax": 189,
+				"Weight": 10,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 140,
+					"ConditionId": "Rare"
+				},
+				"RewardSize": "Small",
+				"Points": 20
+			},
+			{
+				"Id": 203,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 165,
+				"RankMax": 189,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 175,
+					"ConditionId": "Rare"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 204,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 165,
+				"RankMax": 189,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 8,
+					"ConditionId": "Epic"
+				},
+				"RewardSize": "Large",
+				"Points": 40
+			},
+			{
+				"Id": 205,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 190,
+				"RankMax": 214,
+				"Weight": 10,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 900,
+					"ConditionId": "Common"
+				},
+				"RewardSize": "Small",
+				"Points": 20
+			},
+			{
+				"Id": 206,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 190,
+				"RankMax": 214,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 1050,
+					"ConditionId": "Common"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 207,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 190,
+				"RankMax": 214,
+				"Weight": 10,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 160,
+					"ConditionId": "Rare"
+				},
+				"RewardSize": "Small",
+				"Points": 20
+			},
+			{
+				"Id": 208,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 190,
+				"RankMax": 214,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 200,
+					"ConditionId": "Rare"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 209,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 190,
+				"RankMax": 214,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 9,
+					"ConditionId": "Epic"
+				},
+				"RewardSize": "Large",
+				"Points": 40
+			},
+			{
+				"Id": 210,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 215,
+				"RankMax": 250,
+				"Weight": 10,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 1000,
+					"ConditionId": "Common"
+				},
+				"RewardSize": "Small",
+				"Points": 20
+			},
+			{
+				"Id": 211,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 215,
+				"RankMax": 250,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 1200,
+					"ConditionId": "Common"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 212,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 215,
+				"RankMax": 250,
+				"Weight": 10,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 180,
+					"ConditionId": "Rare"
+				},
+				"RewardSize": "Small",
+				"Points": 20
+			},
+			{
+				"Id": 213,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 215,
+				"RankMax": 250,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 225,
+					"ConditionId": "Rare"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 214,
+				"SpecOpsType": "ResearcherCardsEarned",
+				"RankMin": 215,
+				"RankMax": 250,
+				"Weight": 20,
+				"Condition": {
+					"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+					"Threshold": 10,
+					"ConditionId": "Epic"
+				},
+				"RewardSize": "Large",
+				"Points": 40
+			},
+			{
+				"Id": 215,
+				"SpecOpsType": "ResearchersInCardStoreClaimed",
+				"RankMin": 90,
+				"RankMax": 119,
+				"Weight": 10,
+				"Condition": {
+					"ConditionType": "ResearchersInCardStoreClaimedSinceSubscription",
+					"Threshold": 30,
+					"ConditionId": "any"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 216,
+				"SpecOpsType": "ResearchersInCardStoreClaimed",
+				"RankMin": 110,
+				"RankMax": 139,
+				"Weight": 10,
+				"Condition": {
+					"ConditionType": "ResearchersInCardStoreClaimedSinceSubscription",
+					"Threshold": 35,
+					"ConditionId": "any"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 217,
+				"SpecOpsType": "ResearchersInCardStoreClaimed",
+				"RankMin": 130,
+				"RankMax": 169,
+				"Weight": 10,
+				"Condition": {
+					"ConditionType": "ResearchersInCardStoreClaimedSinceSubscription",
+					"Threshold": 40,
+					"ConditionId": "any"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 218,
+				"SpecOpsType": "ResearchersInCardStoreClaimed",
+				"RankMin": 155,
+				"RankMax": 199,
+				"Weight": 10,
+				"Condition": {
+					"ConditionType": "ResearchersInCardStoreClaimedSinceSubscription",
+					"Threshold": 45,
+					"ConditionId": "any"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
+			},
+			{
+				"Id": 219,
+				"SpecOpsType": "ResearchersInCardStoreClaimed",
+				"RankMin": 185,
+				"RankMax": 250,
+				"Weight": 10,
+				"Condition": {
+					"ConditionType": "ResearchersInCardStoreClaimedSinceSubscription",
+					"Threshold": 50,
+					"ConditionId": "any"
+				},
+				"RewardSize": "Medium",
+				"Points": 30
 			}
 		],
 		"SpecOpsRewardSizeConfig": [
@@ -85994,7 +88696,7 @@
 				"Id": 39,
 				"RewardSize": "Small",
 				"RankMin": 60,
-				"RankMax": 79,
+				"RankMax": 69,
 				"Weight": 10,
 				"Reward": {
 					"Reward": "Resources",
@@ -86006,7 +88708,7 @@
 				"Id": 40,
 				"RewardSize": "Small",
 				"RankMin": 60,
-				"RankMax": 79,
+				"RankMax": 69,
 				"Weight": 10,
 				"Reward": {
 					"Reward": "Resources",
@@ -86018,7 +88720,7 @@
 				"Id": 41,
 				"RewardSize": "Medium",
 				"RankMin": 60,
-				"RankMax": 79,
+				"RankMax": 69,
 				"Weight": 10,
 				"Reward": {
 					"Reward": "Resources",
@@ -86030,7 +88732,7 @@
 				"Id": 42,
 				"RewardSize": "Medium",
 				"RankMin": 60,
-				"RankMax": 79,
+				"RankMax": 69,
 				"Weight": 10,
 				"Reward": {
 					"Reward": "Resources",
@@ -86042,7 +88744,7 @@
 				"Id": 43,
 				"RewardSize": "Large",
 				"RankMin": 60,
-				"RankMax": 79,
+				"RankMax": 69,
 				"Weight": 20,
 				"Reward": {
 					"Reward": "Resources",
@@ -86053,8 +88755,8 @@
 			{
 				"Id": 44,
 				"RewardSize": "Small",
-				"RankMin": 80,
-				"RankMax": 250,
+				"RankMin": 70,
+				"RankMax": 80,
 				"Weight": 10,
 				"Reward": {
 					"Reward": "Resources",
@@ -86065,8 +88767,8 @@
 			{
 				"Id": 45,
 				"RewardSize": "Small",
-				"RankMin": 80,
-				"RankMax": 250,
+				"RankMin": 70,
+				"RankMax": 80,
 				"Weight": 10,
 				"Reward": {
 					"Reward": "Resources",
@@ -86077,8 +88779,8 @@
 			{
 				"Id": 46,
 				"RewardSize": "Medium",
-				"RankMin": 80,
-				"RankMax": 250,
+				"RankMin": 70,
+				"RankMax": 80,
 				"Weight": 10,
 				"Reward": {
 					"Reward": "Resources",
@@ -86089,8 +88791,8 @@
 			{
 				"Id": 47,
 				"RewardSize": "Medium",
-				"RankMin": 80,
-				"RankMax": 250,
+				"RankMin": 70,
+				"RankMax": 80,
 				"Weight": 10,
 				"Reward": {
 					"Reward": "Resources",
@@ -86101,8 +88803,8 @@
 			{
 				"Id": 48,
 				"RewardSize": "Large",
-				"RankMin": 80,
-				"RankMax": 250,
+				"RankMin": 70,
+				"RankMax": 80,
 				"Weight": 20,
 				"Reward": {
 					"Reward": "Resources",
@@ -86258,7 +88960,7 @@
 				"Id": 61,
 				"RewardSize": "Small",
 				"RankMin": 60,
-				"RankMax": 250,
+				"RankMax": 80,
 				"Weight": 25,
 				"Reward": {
 					"Reward": "ResearcherByRarity",
@@ -86269,8 +88971,8 @@
 			{
 				"Id": 62,
 				"RewardSize": "Medium",
-				"RankMin": 69,
-				"RankMax": 79,
+				"RankMin": 60,
+				"RankMax": 69,
 				"Weight": 25,
 				"Reward": {
 					"Reward": "ResearcherByRarity",
@@ -86281,8 +88983,8 @@
 			{
 				"Id": 63,
 				"RewardSize": "Medium",
-				"RankMin": 80,
-				"RankMax": 250,
+				"RankMin": 70,
+				"RankMax": 80,
 				"Weight": 25,
 				"Reward": {
 					"Reward": "ResearcherByRarity",
@@ -86402,7 +89104,7 @@
 				"Id": 73,
 				"RewardSize": "Small",
 				"RankMin": 70,
-				"RankMax": 89,
+				"RankMax": 80,
 				"Weight": 25,
 				"Reward": {
 					"Reward": "ResearcherByRarity",
@@ -86414,7 +89116,7 @@
 				"Id": 74,
 				"RewardSize": "Medium",
 				"RankMin": 70,
-				"RankMax": 89,
+				"RankMax": 80,
 				"Weight": 25,
 				"Reward": {
 					"Reward": "ResearcherByRarity",
@@ -86425,37 +89127,457 @@
 			{
 				"Id": 75,
 				"RewardSize": "Small",
-				"RankMin": 90,
-				"RankMax": 250,
+				"RankMin": 81,
+				"RankMax": 110,
 				"Weight": 25,
 				"Reward": {
 					"Reward": "ResearcherByRarity",
 					"RewardId": "rare",
-					"Value": 10
+					"Value": 9
 				}
 			},
 			{
 				"Id": 76,
 				"RewardSize": "Medium",
-				"RankMin": 90,
-				"RankMax": 250,
+				"RankMin": 81,
+				"RankMax": 110,
 				"Weight": 25,
 				"Reward": {
 					"Reward": "ResearcherByRarity",
 					"RewardId": "rare",
-					"Value": 20
+					"Value": 18
 				}
 			},
 			{
 				"Id": 77,
 				"RewardSize": "Large",
 				"RankMin": 20,
-				"RankMax": 250,
+				"RankMax": 150,
 				"Weight": 20,
 				"Reward": {
 					"Reward": "ResearcherByRarity",
 					"RewardId": "epic",
 					"Value": 1
+				}
+			},
+			{
+				"Id": 78,
+				"RewardSize": "Small",
+				"RankMin": 81,
+				"RankMax": 110,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 350
+				}
+			},
+			{
+				"Id": 79,
+				"RewardSize": "Small",
+				"RankMin": 81,
+				"RankMax": 110,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				}
+			},
+			{
+				"Id": 80,
+				"RewardSize": "Medium",
+				"RankMin": 81,
+				"RankMax": 110,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 700
+				}
+			},
+			{
+				"Id": 81,
+				"RewardSize": "Medium",
+				"RankMin": 81,
+				"RankMax": 110,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 900
+				}
+			},
+			{
+				"Id": 82,
+				"RewardSize": "Large",
+				"RankMin": 81,
+				"RankMax": 110,
+				"Weight": 20,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1250
+				}
+			},
+			{
+				"Id": 83,
+				"RewardSize": "Small",
+				"RankMin": 111,
+				"RankMax": 150,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 400
+				}
+			},
+			{
+				"Id": 84,
+				"RewardSize": "Small",
+				"RankMin": 111,
+				"RankMax": 150,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 600
+				}
+			},
+			{
+				"Id": 85,
+				"RewardSize": "Medium",
+				"RankMin": 111,
+				"RankMax": 150,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 800
+				}
+			},
+			{
+				"Id": 86,
+				"RewardSize": "Medium",
+				"RankMin": 111,
+				"RankMax": 150,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1000
+				}
+			},
+			{
+				"Id": 87,
+				"RewardSize": "Large",
+				"RankMin": 111,
+				"RankMax": 150,
+				"Weight": 20,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1500
+				}
+			},
+			{
+				"Id": 88,
+				"RewardSize": "Small",
+				"RankMin": 151,
+				"RankMax": 190,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				}
+			},
+			{
+				"Id": 89,
+				"RewardSize": "Small",
+				"RankMin": 151,
+				"RankMax": 190,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 700
+				}
+			},
+			{
+				"Id": 90,
+				"RewardSize": "Medium",
+				"RankMin": 151,
+				"RankMax": 190,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 900
+				}
+			},
+			{
+				"Id": 91,
+				"RewardSize": "Medium",
+				"RankMin": 151,
+				"RankMax": 190,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1200
+				}
+			},
+			{
+				"Id": 92,
+				"RewardSize": "Large",
+				"RankMin": 151,
+				"RankMax": 190,
+				"Weight": 20,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1750
+				}
+			},
+			{
+				"Id": 93,
+				"RewardSize": "Small",
+				"RankMin": 191,
+				"RankMax": 250,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 600
+				}
+			},
+			{
+				"Id": 94,
+				"RewardSize": "Small",
+				"RankMin": 191,
+				"RankMax": 250,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 800
+				}
+			},
+			{
+				"Id": 95,
+				"RewardSize": "Medium",
+				"RankMin": 191,
+				"RankMax": 250,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1000
+				}
+			},
+			{
+				"Id": 96,
+				"RewardSize": "Medium",
+				"RankMin": 191,
+				"RankMax": 250,
+				"Weight": 10,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1400
+				}
+			},
+			{
+				"Id": 97,
+				"RewardSize": "Large",
+				"RankMin": 191,
+				"RankMax": 250,
+				"Weight": 20,
+				"Reward": {
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				}
+			},
+			{
+				"Id": 98,
+				"RewardSize": "Small",
+				"RankMin": 81,
+				"RankMax": 110,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "common",
+					"Value": 60
+				}
+			},
+			{
+				"Id": 99,
+				"RewardSize": "Medium",
+				"RankMin": 81,
+				"RankMax": 110,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "common",
+					"Value": 125
+				}
+			},
+			{
+				"Id": 100,
+				"RewardSize": "Small",
+				"RankMin": 111,
+				"RankMax": 150,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "common",
+					"Value": 70
+				}
+			},
+			{
+				"Id": 101,
+				"RewardSize": "Medium",
+				"RankMin": 111,
+				"RankMax": 150,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "common",
+					"Value": 150
+				}
+			},
+			{
+				"Id": 102,
+				"RewardSize": "Small",
+				"RankMin": 151,
+				"RankMax": 190,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "common",
+					"Value": 80
+				}
+			},
+			{
+				"Id": 103,
+				"RewardSize": "Medium",
+				"RankMin": 151,
+				"RankMax": 190,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "common",
+					"Value": 175
+				}
+			},
+			{
+				"Id": 104,
+				"RewardSize": "Small",
+				"RankMin": 191,
+				"RankMax": 250,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "common",
+					"Value": 100
+				}
+			},
+			{
+				"Id": 105,
+				"RewardSize": "Medium",
+				"RankMin": 191,
+				"RankMax": 250,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "common",
+					"Value": 200
+				}
+			},
+			{
+				"Id": 106,
+				"RewardSize": "Small",
+				"RankMin": 111,
+				"RankMax": 150,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "rare",
+					"Value": 11
+				}
+			},
+			{
+				"Id": 107,
+				"RewardSize": "Medium",
+				"RankMin": 111,
+				"RankMax": 150,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "rare",
+					"Value": 22
+				}
+			},
+			{
+				"Id": 108,
+				"RewardSize": "Small",
+				"RankMin": 151,
+				"RankMax": 190,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "rare",
+					"Value": 13
+				}
+			},
+			{
+				"Id": 109,
+				"RewardSize": "Medium",
+				"RankMin": 151,
+				"RankMax": 190,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "rare",
+					"Value": 26
+				}
+			},
+			{
+				"Id": 110,
+				"RewardSize": "Small",
+				"RankMin": 191,
+				"RankMax": 250,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "rare",
+					"Value": 15
+				}
+			},
+			{
+				"Id": 111,
+				"RewardSize": "Medium",
+				"RankMin": 191,
+				"RankMax": 250,
+				"Weight": 25,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "rare",
+					"Value": 30
+				}
+			},
+			{
+				"Id": 112,
+				"RewardSize": "Large",
+				"RankMin": 151,
+				"RankMax": 250,
+				"Weight": 20,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "epic",
+					"Value": 2
 				}
 			}
 		],
@@ -95115,35 +98237,35 @@
 				"CostExponent": 1000,
 				"CostMultiplier": 5000,
 				"ComradeAdd": 1,
-				"MaxLevel": 99
+				"MaxLevel": 101
 			},
 			{
 				"Resource": "land",
 				"CostExponent": 1000,
 				"CostMultiplier": 5000,
 				"ComradeAdd": 2,
-				"MaxLevel": 99
+				"MaxLevel": 101
 			},
 			{
 				"Resource": "ore",
 				"CostExponent": 1000,
 				"CostMultiplier": 5000,
 				"ComradeAdd": 3,
-				"MaxLevel": 99
+				"MaxLevel": 101
 			},
 			{
 				"Resource": "weapon",
 				"CostExponent": 1000,
 				"CostMultiplier": 5000,
 				"ComradeAdd": 4,
-				"MaxLevel": 99
+				"MaxLevel": 101
 			},
 			{
 				"Resource": "medicine",
 				"CostExponent": 1000,
 				"CostMultiplier": 5000,
 				"ComradeAdd": 5,
-				"MaxLevel": 99
+				"MaxLevel": 101
 			}
 		]
 };
