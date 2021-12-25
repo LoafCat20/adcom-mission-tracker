@@ -72455,7 +72455,7 @@
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 1.29e204,
-					"ConditionId": "weapon"
+					"ConditionId": "medicine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -90852,7 +90852,7 @@
 				"Id": 77,
 				"RewardSize": "Large",
 				"RankMin": 20,
-				"RankMax": 150,
+				"RankMax": 59,
 				"Weight": 20,
 				"Reward": {
 					"Reward": "ResearcherByRarity",
@@ -91271,13 +91271,37 @@
 			{
 				"Id": 112,
 				"RewardSize": "Large",
-				"RankMin": 151,
-				"RankMax": 250,
+				"RankMin": 60,
+				"RankMax": 110,
 				"Weight": 20,
 				"Reward": {
 					"Reward": "ResearcherByRarity",
 					"RewardId": "epic",
 					"Value": 2
+				}
+			},
+			{
+				"Id": 113,
+				"RewardSize": "Large",
+				"RankMin": 111,
+				"RankMax": 190,
+				"Weight": 20,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "epic",
+					"Value": 3
+				}
+			},
+			{
+				"Id": 114,
+				"RewardSize": "Large",
+				"RankMin": 191,
+				"RankMax": 250,
+				"Weight": 20,
+				"Reward": {
+					"Reward": "ResearcherByRarity",
+					"RewardId": "epic",
+					"Value": 4
 				}
 			}
 		],
