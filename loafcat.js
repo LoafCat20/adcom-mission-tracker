@@ -72440,7 +72440,7 @@
 				"Rank": 219,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 11900000000,
+					"Threshold": 119000000000,
 					"ConditionId": "laserdrill"
 				},
 				"Reward": {
