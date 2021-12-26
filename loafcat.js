@@ -78614,7 +78614,7 @@
 				"Rank": 238,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 6.68e261,
+					"Threshold": 6.68e264,
 					"ConditionId": "potato"
 				},
 				"Reward": {
