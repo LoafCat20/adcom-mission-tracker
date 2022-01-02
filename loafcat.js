@@ -46176,7 +46176,7 @@
 				"Rank": 137,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 2.22e181,
+					"Threshold": 2.22e180,
 					"ConditionId": "weapon"
 				},
 				"Reward": {
@@ -48990,7 +48990,7 @@
 				"Rank": 146,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 9.29e184,
+					"Threshold": 6.1e184,
 					"ConditionId": "ore"
 				},
 				"Reward": {
@@ -49564,7 +49564,7 @@
 				"Rank": 148,
 				"Condition": {
 					"ConditionType": "ResourcesSpentSinceSubscription",
-					"Threshold": 67000,
+					"Threshold": 70000,
 					"ConditionId": "scientist"
 				},
 				"Reward": {
@@ -54156,7 +54156,7 @@
 				"Rank": 162,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 44500000000,
+					"Threshold": 445000000000,
 					"ConditionId": "bomber"
 				},
 				"Reward": {
@@ -54800,7 +54800,7 @@
 				"Rank": 164,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 19200000000,
+					"Threshold": 192000000000,
 					"ConditionId": "airrescue"
 				},
 				"Reward": {
@@ -55444,7 +55444,7 @@
 				"Rank": 166,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 28900000000,
+					"Threshold": 289000000000,
 					"ConditionId": "laserdrill"
 				},
 				"Reward": {
@@ -55739,7 +55739,7 @@
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 2.4e184,
-					"ConditionId": "ore"
+					"ConditionId": "weapon"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -56088,7 +56088,7 @@
 				"Rank": 168,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 28200000000,
+					"Threshold": 282000000000,
 					"ConditionId": "airrescue"
 				},
 				"Reward": {
@@ -56732,7 +56732,7 @@
 				"Rank": 170,
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
-					"Threshold": 21600000000,
+					"Threshold": 216000000000,
 					"ConditionId": "fusionplant"
 				},
 				"Reward": {
@@ -72231,7 +72231,7 @@
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
 					"Threshold": 5.37e223,
-					"ConditionId": "potato"
+					"ConditionId": "medicine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
