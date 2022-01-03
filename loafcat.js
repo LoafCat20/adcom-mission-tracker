@@ -68856,7 +68856,7 @@
 				"Rank": 207,
 				"Condition": {
 					"ConditionType": "ResourcesEarnedSinceSubscription",
-					"Threshold": 8.4e242,
+					"Threshold": 8.49e242,
 					"ConditionId": "medicine"
 				},
 				"Reward": {
