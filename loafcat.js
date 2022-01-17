@@ -79,9 +79,9 @@
 				"Weight": 30,
 				"MaxAdsPerInterval": 5,
 				"RewardCalculation": {
-					"A": 6000,
+					"A": -1900,
 					"B": 1.1,
-					"C": 0.005,
+					"C": -0.0125,
 					"D": 0
 				}
 			},
@@ -93,9 +93,9 @@
 				"Weight": 5,
 				"MaxAdsPerInterval": -1,
 				"RewardCalculation": {
-					"A": -45,
+					"A": -90,
 					"B": 1.099,
-					"C": -0.05,
+					"C": -0.025,
 					"D": 2.3
 				}
 			},
