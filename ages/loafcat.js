@@ -6714,7 +6714,7 @@
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteRare",
-			"PlayerRankUnlock": 14,
+			"PlayerRankUnlock": 13,
 			"ResearchOutputType": "Constant",
 			"ResearchOutputRate": 1
 		},
