@@ -2326,6 +2326,15 @@
 				"Supreme": 2,
 				"LteCommon": 0,
 				"LteRare": 0
+			},
+			{
+				"Rank": 240,
+				"Common": 200,
+				"Rare": 50,
+				"Epic": 10,
+				"Supreme": 2,
+				"LteCommon": 0,
+				"LteRare": 0
 			}
 		],
 		"CardToScienceConversion": {
