@@ -6546,7 +6546,7 @@
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 12,
+			"PlayerRankUnlock": 13,
 			"ResearchOutputType": "Constant",
 			"ResearchOutputRate": 1
 		},
@@ -6563,7 +6563,7 @@
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 14,
+			"PlayerRankUnlock": 15,
 			"ResearchOutputType": "Constant",
 			"ResearchOutputRate": 1
 		},
@@ -6580,7 +6580,7 @@
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 17,
+			"PlayerRankUnlock": 18,
 			"ResearchOutputType": "Constant",
 			"ResearchOutputRate": 1
 		},
@@ -6641,13 +6641,13 @@
 			"TargetIds": [
 				"building"
 			],
-			"ExpoMultiplier": 2,
-			"ExpoGrowth": 4,
+			"ExpoMultiplier": 3,
+			"ExpoGrowth": 3,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteRare",
-			"PlayerRankUnlock": 13,
+			"PlayerRankUnlock": 6,
 			"ResearchOutputType": "Constant",
 			"ResearchOutputRate": 1
 		},
@@ -6691,13 +6691,13 @@
 			"TargetIds": [
 				"learning"
 			],
-			"ExpoMultiplier": 2,
-			"ExpoGrowth": 4,
+			"ExpoMultiplier": 3,
+			"ExpoGrowth": 3,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteRare",
-			"PlayerRankUnlock": 16,
+			"PlayerRankUnlock": 9,
 			"ResearchOutputType": "Constant",
 			"ResearchOutputRate": 1
 		},
@@ -6714,7 +6714,7 @@
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteRare",
-			"PlayerRankUnlock": 13,
+			"PlayerRankUnlock": 12,
 			"ResearchOutputType": "Constant",
 			"ResearchOutputRate": 1
 		},
@@ -6741,13 +6741,13 @@
 			"TargetIds": [
 				"mourning"
 			],
-			"ExpoMultiplier": 2,
-			"ExpoGrowth": 4,
+			"ExpoMultiplier": 3,
+			"ExpoGrowth": 3,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteRare",
-			"PlayerRankUnlock": 19,
+			"PlayerRankUnlock": 14,
 			"ResearchOutputType": "Constant",
 			"ResearchOutputRate": 1
 		},
