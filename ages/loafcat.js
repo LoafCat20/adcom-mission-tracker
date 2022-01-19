@@ -1395,7 +1395,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 8
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1443,7 +1443,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 8
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1491,7 +1491,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 8
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1539,7 +1539,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 8
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1587,7 +1587,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 8
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1635,7 +1635,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 8
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1683,7 +1683,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 8
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1727,7 +1727,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 16
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1775,7 +1775,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 16
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1823,7 +1823,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 16
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1871,7 +1871,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 16
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1919,7 +1919,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 16
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1967,7 +1967,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 16
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2011,7 +2011,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2059,7 +2059,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2107,7 +2107,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2155,7 +2155,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2203,7 +2203,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 27
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -6307,7 +6307,7 @@
 			],
 			"ExpoMultiplier": 1,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6324,7 +6324,7 @@
 			],
 			"ExpoMultiplier": 2,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6340,7 +6340,7 @@
 			],
 			"ExpoMultiplier": 3,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6357,7 +6357,7 @@
 			],
 			"ExpoMultiplier": 4,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6374,7 +6374,7 @@
 			],
 			"ExpoMultiplier": 5,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6391,7 +6391,7 @@
 			],
 			"ExpoMultiplier": 6,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6408,7 +6408,7 @@
 			],
 			"ExpoMultiplier": 7,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6425,7 +6425,7 @@
 			],
 			"ExpoMultiplier": 2,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6442,7 +6442,7 @@
 			],
 			"ExpoMultiplier": 4,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6458,7 +6458,7 @@
 			],
 			"ExpoMultiplier": 6,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6475,7 +6475,7 @@
 			],
 			"ExpoMultiplier": 8,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6492,7 +6492,7 @@
 			],
 			"ExpoMultiplier": 10,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6509,7 +6509,7 @@
 			],
 			"ExpoMultiplier": 12,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6526,7 +6526,7 @@
 			],
 			"ExpoMultiplier": 3,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6542,7 +6542,7 @@
 			],
 			"ExpoMultiplier": 6,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6559,7 +6559,7 @@
 			],
 			"ExpoMultiplier": 9,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6576,7 +6576,7 @@
 			],
 			"ExpoMultiplier": 12,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6593,7 +6593,7 @@
 			],
 			"ExpoMultiplier": 15,
 			"ExpoGrowth": 3,
-			"UpgradePower": 1,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -6641,7 +6641,7 @@
 			"TargetIds": [
 				"building"
 			],
-			"ExpoMultiplier": 3,
+			"ExpoMultiplier": 1,
 			"ExpoGrowth": 3,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
@@ -6691,7 +6691,7 @@
 			"TargetIds": [
 				"learning"
 			],
-			"ExpoMultiplier": 3,
+			"ExpoMultiplier": 1,
 			"ExpoGrowth": 3,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
@@ -6741,7 +6741,7 @@
 			"TargetIds": [
 				"mourning"
 			],
-			"ExpoMultiplier": 3,
+			"ExpoMultiplier": 1,
 			"ExpoGrowth": 3,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
