@@ -1416,7 +1416,7 @@
 				},
 				{
 					"Resource": "Tool",
-					"Qty": "1.0E+04"
+					"Qty": "1.0E+06"
 				},
 				{
 					"Resource": "Comrade",
@@ -1464,7 +1464,7 @@
 				},
 				{
 					"Resource": "Tool",
-					"Qty": "1.0E+18"
+					"Qty": "1.0E+15"
 				},
 				{
 					"Resource": "Comrade",
@@ -1512,7 +1512,7 @@
 				},
 				{
 					"Resource": "Tool",
-					"Qty": "1.0E+33"
+					"Qty": "1.0E+31"
 				},
 				{
 					"Resource": "Comrade",
@@ -1560,7 +1560,7 @@
 				},
 				{
 					"Resource": "Tool",
-					"Qty": 1e48
+					"Qty": 1e47
 				},
 				{
 					"Resource": "Comrade",
@@ -1608,7 +1608,7 @@
 				},
 				{
 					"Resource": "Tool",
-					"Qty": "1.0E+64"
+					"Qty": "1.0E+63"
 				},
 				{
 					"Resource": "Comrade",
@@ -1748,7 +1748,7 @@
 				},
 				{
 					"Resource": "Hieroglyphic",
-					"Qty": "1.0E+8"
+					"Qty": "1.0E+9"
 				},
 				{
 					"Resource": "Comrade",
@@ -1796,7 +1796,7 @@
 				},
 				{
 					"Resource": "Hieroglyphic",
-					"Qty": 1e21
+					"Qty": 1e18
 				},
 				{
 					"Resource": "Comrade",
@@ -1844,7 +1844,7 @@
 				},
 				{
 					"Resource": "Hieroglyphic",
-					"Qty": "1.0E+37"
+					"Qty": "1.0E+36"
 				},
 				{
 					"Resource": "Comrade",
@@ -1892,7 +1892,7 @@
 				},
 				{
 					"Resource": "Hieroglyphic",
-					"Qty": "1.0E+54"
+					"Qty": "1.0E+53"
 				},
 				{
 					"Resource": "Comrade",
@@ -2080,7 +2080,7 @@
 				},
 				{
 					"Resource": "Urn",
-					"Qty": "1.0E+23"
+					"Qty": "1.0E+24"
 				},
 				{
 					"Resource": "Comrade",
@@ -2128,7 +2128,7 @@
 				},
 				{
 					"Resource": "Urn",
-					"Qty": "1.0E+40"
+					"Qty": "1.0E+41"
 				},
 				{
 					"Resource": "Comrade",
