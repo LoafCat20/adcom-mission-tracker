@@ -4541,7 +4541,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.1e98,
+				"Threshold": 1.1e96,
 				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
@@ -4555,7 +4555,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.11e95,
+				"Threshold": 1.11e102,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -4583,7 +4583,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.11e72,
+				"Threshold": 1.11e79,
 				"ConditionId": "urn"
 			},
 			"Reward": {
@@ -4597,7 +4597,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.5e95,
+				"Threshold": 2.5e106,
 				"ConditionId": "tool"
 			},
 			"Reward": {
