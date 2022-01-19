@@ -1416,7 +1416,7 @@
 				},
 				{
 					"Resource": "Tool",
-					"Qty": "1.0E+03"
+					"Qty": "1.0E+05"
 				},
 				{
 					"Resource": "Comrade",
@@ -1464,7 +1464,7 @@
 				},
 				{
 					"Resource": "Tool",
-					"Qty": "1.0E+06"
+					"Qty": "1.0E+20"
 				},
 				{
 					"Resource": "Comrade",
@@ -1512,7 +1512,7 @@
 				},
 				{
 					"Resource": "Tool",
-					"Qty": "1.0E+11"
+					"Qty": "1.0E+35"
 				},
 				{
 					"Resource": "Comrade",
@@ -1560,7 +1560,7 @@
 				},
 				{
 					"Resource": "Tool",
-					"Qty": 1e22
+					"Qty": 1e50
 				},
 				{
 					"Resource": "Comrade",
@@ -1608,7 +1608,7 @@
 				},
 				{
 					"Resource": "Tool",
-					"Qty": "1.0E+32"
+					"Qty": "1.0E+65"
 				},
 				{
 					"Resource": "Comrade",
@@ -1656,7 +1656,7 @@
 				},
 				{
 					"Resource": "Tool",
-					"Qty": "1.0E+40"
+					"Qty": "1.0E+85"
 				},
 				{
 					"Resource": "Comrade",
@@ -1748,7 +1748,7 @@
 				},
 				{
 					"Resource": "Hieroglyphic",
-					"Qty": "1.0E+08"
+					"Qty": "1.0E+10"
 				},
 				{
 					"Resource": "Comrade",
@@ -1796,7 +1796,7 @@
 				},
 				{
 					"Resource": "Hieroglyphic",
-					"Qty": 10000000000
+					"Qty": 1e25
 				},
 				{
 					"Resource": "Comrade",
@@ -1844,7 +1844,7 @@
 				},
 				{
 					"Resource": "Hieroglyphic",
-					"Qty": "1.0E+19"
+					"Qty": "1.0E+40"
 				},
 				{
 					"Resource": "Comrade",
@@ -1892,7 +1892,7 @@
 				},
 				{
 					"Resource": "Hieroglyphic",
-					"Qty": "1.0E+25"
+					"Qty": "1.0E+55"
 				},
 				{
 					"Resource": "Comrade",
@@ -1940,7 +1940,7 @@
 				},
 				{
 					"Resource": "Hieroglyphic",
-					"Qty": "1.0E+34"
+					"Qty": "1.0E+70"
 				},
 				{
 					"Resource": "Comrade",
@@ -2032,7 +2032,7 @@
 				},
 				{
 					"Resource": "Urn",
-					"Qty": "1.0E+09"
+					"Qty": "1.0E+10"
 				},
 				{
 					"Resource": "Comrade",
@@ -2080,7 +2080,7 @@
 				},
 				{
 					"Resource": "Urn",
-					"Qty": "1.0E+13"
+					"Qty": "1.0E+20"
 				},
 				{
 					"Resource": "Comrade",
@@ -2128,7 +2128,7 @@
 				},
 				{
 					"Resource": "Urn",
-					"Qty": "1.0E+16"
+					"Qty": "1.0E+35"
 				},
 				{
 					"Resource": "Comrade",
@@ -2176,7 +2176,7 @@
 				},
 				{
 					"Resource": "Urn",
-					"Qty": "1.0E+24"
+					"Qty": "1.0E+50"
 				},
 				{
 					"Resource": "Comrade",
