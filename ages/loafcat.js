@@ -2875,7 +2875,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2220000,
+				"Threshold": 88800000,
 				"ConditionId": "quarry"
 			},
 			"Reward": {
@@ -2903,7 +2903,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 757000,
+				"Threshold": 35300000,
 				"ConditionId": "papyrus"
 			},
 			"Reward": {
@@ -2931,7 +2931,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 11111111,
+				"Threshold": 333000000,
 				"ConditionId": "quarry"
 			},
 			"Reward": {
@@ -2959,8 +2959,8 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7400000,
-				"ConditionId": "papyrus"
+				"Threshold": 74,
+				"ConditionId": "relief"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -2987,7 +2987,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 373,
+				"Threshold": 3730,
 				"ConditionId": "relief"
 			},
 			"Reward": {
@@ -3015,7 +3015,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 99977777,
+				"Threshold": 666000000,
 				"ConditionId": "quarry"
 			},
 			"Reward": {
