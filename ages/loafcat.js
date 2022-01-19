@@ -1486,7 +1486,7 @@
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "limestone",
-				"Threshold": 45000
+				"Threshold": 450000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -1534,7 +1534,7 @@
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "sled",
-				"Threshold": 10000000
+				"Threshold": 100000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -1582,7 +1582,7 @@
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "quarry",
-				"Threshold": 100000000
+				"Threshold": 800000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -1630,7 +1630,7 @@
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "obelisk",
-				"Threshold": 250000000
+				"Threshold": 4000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -1770,7 +1770,7 @@
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "scribe",
-				"Threshold": 200000
+				"Threshold": 2000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -1818,7 +1818,7 @@
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "papyrus",
-				"Threshold": 7500000
+				"Threshold": 50000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -1866,7 +1866,7 @@
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "relief",
-				"Threshold": 35000000
+				"Threshold": 400000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -1914,7 +1914,7 @@
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "priest",
-				"Threshold": 550000000
+				"Threshold": 2500000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -2054,7 +2054,7 @@
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "mummy",
-				"Threshold": 5000000
+				"Threshold": 50000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -2080,7 +2080,7 @@
 				},
 				{
 					"Resource": "Urn",
-					"Qty": "1.0E+24"
+					"Qty": "1.0E+23"
 				},
 				{
 					"Resource": "Comrade",
@@ -2102,7 +2102,7 @@
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "pectoral",
-				"Threshold": 40000000
+				"Threshold": 400000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -2128,7 +2128,7 @@
 				},
 				{
 					"Resource": "Urn",
-					"Qty": "1.0E+41"
+					"Qty": "1.0E+40"
 				},
 				{
 					"Resource": "Comrade",
@@ -2150,7 +2150,7 @@
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "sarcophagus",
-				"Threshold": 1000000000
+				"Threshold": 2000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -2176,7 +2176,7 @@
 				},
 				{
 					"Resource": "Urn",
-					"Qty": "1.0E+60"
+					"Qty": "1.0E+58"
 				},
 				{
 					"Resource": "Comrade",
