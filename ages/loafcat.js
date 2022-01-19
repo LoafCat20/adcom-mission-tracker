@@ -1395,7 +1395,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1443,7 +1443,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1460,7 +1460,7 @@
 			"Cost": [
 				{
 					"Resource": "limestone",
-					"Qty": "1.0E+01"
+					"Qty": "1.0E+03"
 				},
 				{
 					"Resource": "Tool",
@@ -1491,7 +1491,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1508,7 +1508,7 @@
 			"Cost": [
 				{
 					"Resource": "Sled",
-					"Qty": "1.0E+02"
+					"Qty": "1.0E+05"
 				},
 				{
 					"Resource": "Tool",
@@ -1539,7 +1539,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1556,7 +1556,7 @@
 			"Cost": [
 				{
 					"Resource": "Quarry",
-					"Qty": "1.0E+03"
+					"Qty": "1.0E+07"
 				},
 				{
 					"Resource": "Tool",
@@ -1587,7 +1587,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1604,7 +1604,7 @@
 			"Cost": [
 				{
 					"Resource": "Obelisk",
-					"Qty": "1.0E+04"
+					"Qty": "1.0E+08"
 				},
 				{
 					"Resource": "Tool",
@@ -1635,7 +1635,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1652,7 +1652,7 @@
 			"Cost": [
 				{
 					"Resource": "Sphinx",
-					"Qty": "2.0E+04"
+					"Qty": "1.0E+09"
 				},
 				{
 					"Resource": "Tool",
@@ -1683,7 +1683,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1727,7 +1727,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1744,7 +1744,7 @@
 			"Cost": [
 				{
 					"Resource": "Scribe",
-					"Qty": "1.0E+02"
+					"Qty": "1.0E+03"
 				},
 				{
 					"Resource": "Hieroglyphic",
@@ -1775,7 +1775,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1792,7 +1792,7 @@
 			"Cost": [
 				{
 					"Resource": "papyrus",
-					"Qty": 100
+					"Qty": 100000
 				},
 				{
 					"Resource": "Hieroglyphic",
@@ -1823,7 +1823,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1840,7 +1840,7 @@
 			"Cost": [
 				{
 					"Resource": "Relief",
-					"Qty": 1000
+					"Qty": 10000000
 				},
 				{
 					"Resource": "Hieroglyphic",
@@ -1871,7 +1871,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1888,7 +1888,7 @@
 			"Cost": [
 				{
 					"Resource": "Priest",
-					"Qty": 10000
+					"Qty": 100000000
 				},
 				{
 					"Resource": "Hieroglyphic",
@@ -1919,7 +1919,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1936,7 +1936,7 @@
 			"Cost": [
 				{
 					"Resource": "Temple",
-					"Qty": "1.0E+05"
+					"Qty": "1.0E+09"
 				},
 				{
 					"Resource": "Hieroglyphic",
@@ -1967,7 +1967,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2011,7 +2011,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2028,7 +2028,7 @@
 			"Cost": [
 				{
 					"Resource": "mummy",
-					"Qty": "1.0E+02"
+					"Qty": "1.0E+05"
 				},
 				{
 					"Resource": "Urn",
@@ -2059,7 +2059,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2076,7 +2076,7 @@
 			"Cost": [
 				{
 					"Resource": "Pectoral",
-					"Qty": "1.0E+03"
+					"Qty": "1.0E+07"
 				},
 				{
 					"Resource": "Urn",
@@ -2107,7 +2107,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2124,7 +2124,7 @@
 			"Cost": [
 				{
 					"Resource": "Sarcophagus",
-					"Qty": "1.0E+04"
+					"Qty": "1.0E+08"
 				},
 				{
 					"Resource": "Urn",
@@ -2155,7 +2155,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2172,7 +2172,7 @@
 			"Cost": [
 				{
 					"Resource": "Cat",
-					"Qty": "1.0E+05"
+					"Qty": "1.0E+09"
 				},
 				{
 					"Resource": "Urn",
@@ -2203,7 +2203,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 32
+				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
