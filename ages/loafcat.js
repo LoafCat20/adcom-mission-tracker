@@ -1395,7 +1395,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1443,7 +1443,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1491,7 +1491,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1539,7 +1539,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1587,7 +1587,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1635,7 +1635,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1683,7 +1683,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1727,7 +1727,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1775,7 +1775,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1823,7 +1823,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1871,7 +1871,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1919,7 +1919,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1967,7 +1967,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2011,7 +2011,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2059,7 +2059,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2107,7 +2107,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2155,7 +2155,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2176,7 +2176,7 @@
 				},
 				{
 					"Resource": "Urn",
-					"Qty": "1.0E+58"
+					"Qty": "1.0E+60"
 				},
 				{
 					"Resource": "Comrade",
@@ -2203,7 +2203,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 81
+				"Multiplier": 32
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -6641,8 +6641,8 @@
 			"TargetIds": [
 				"building"
 			],
-			"ExpoMultiplier": 1,
-			"ExpoGrowth": 3,
+			"ExpoMultiplier": 2,
+			"ExpoGrowth": 4,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -6691,8 +6691,8 @@
 			"TargetIds": [
 				"learning"
 			],
-			"ExpoMultiplier": 1,
-			"ExpoGrowth": 3,
+			"ExpoMultiplier": 2,
+			"ExpoGrowth": 4,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -6741,8 +6741,8 @@
 			"TargetIds": [
 				"mourning"
 			],
-			"ExpoMultiplier": 1,
-			"ExpoGrowth": 3,
+			"ExpoMultiplier": 2,
+			"ExpoGrowth": 4,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
