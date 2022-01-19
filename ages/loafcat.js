@@ -2623,7 +2623,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5599,
+				"Threshold": 555999,
 				"ConditionId": "sled"
 			},
 			"Reward": {
@@ -2665,7 +2665,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 321000000000000,
+				"Threshold": 3.21e22,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -2679,8 +2679,8 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 444222,
-				"ConditionId": "sled"
+				"Threshold": 993322,
+				"ConditionId": "scribe"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -2690,6 +2690,20 @@
 		},
 		{
 			"Id": "M0030",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4200000,
+				"ConditionId": "sled"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0031",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearchersUpgradedSinceSubscription",
@@ -2703,26 +2717,12 @@
 			}
 		},
 		{
-			"Id": "M0031",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 22339,
-				"ConditionId": "scribe"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
 			"Id": "M0032",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2500000,
-				"ConditionId": "sled"
+				"Threshold": 181,
+				"ConditionId": "papyrus"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -2734,9 +2734,9 @@
 			"Id": "M0033",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 64200000000000000000.0,
-				"ConditionId": "tool"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 25000000,
+				"ConditionId": "sled"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -2748,9 +2748,9 @@
 			"Id": "M0034",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 333,
-				"ConditionId": "quarry"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.42e27,
+				"ConditionId": "tool"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -2763,8 +2763,8 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 181000,
-				"ConditionId": "scribe"
+				"Threshold": 66600000,
+				"ConditionId": "sled"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -2777,7 +2777,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 237000000000000000.0,
+				"Threshold": 237000000000000,
 				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
@@ -2791,7 +2791,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 181,
+				"Threshold": 181000,
 				"ConditionId": "papyrus"
 			},
 			"Reward": {
@@ -2819,7 +2819,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 33333,
+				"Threshold": 333,
 				"ConditionId": "quarry"
 			},
 			"Reward": {
@@ -2833,7 +2833,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.33e27,
+				"Threshold": 2.33e35,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -2847,7 +2847,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 78700,
+				"Threshold": 7870000,
 				"ConditionId": "papyrus"
 			},
 			"Reward": {
@@ -2861,7 +2861,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 950000000000000000000.0,
+				"Threshold": 950000000000000000,
 				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
