@@ -1425,9 +1425,9 @@
 			],
 			"Generate": {
 				"Resource": "builder",
-				"Qty": 2
+				"Qty": 3
 			},
-			"BaseCompletionTime": 4,
+			"BaseCompletionTime": 6,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -1473,9 +1473,9 @@
 			],
 			"Generate": {
 				"Resource": "limestone",
-				"Qty": 3
+				"Qty": 4
 			},
-			"BaseCompletionTime": 6,
+			"BaseCompletionTime": 18,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -1521,7 +1521,7 @@
 			],
 			"Generate": {
 				"Resource": "sled",
-				"Qty": 4
+				"Qty": 5
 			},
 			"BaseCompletionTime": 18,
 			"Visible": [
@@ -1569,7 +1569,7 @@
 			],
 			"Generate": {
 				"Resource": "quarry",
-				"Qty": 5
+				"Qty": 6
 			},
 			"BaseCompletionTime": 54,
 			"Visible": [
@@ -1617,7 +1617,7 @@
 			],
 			"Generate": {
 				"Resource": "obelisk",
-				"Qty": 6
+				"Qty": 7
 			},
 			"BaseCompletionTime": 162,
 			"Visible": [
@@ -1665,7 +1665,7 @@
 			],
 			"Generate": {
 				"Resource": "sphinx",
-				"Qty": 7
+				"Qty": 8
 			},
 			"BaseCompletionTime": 486,
 			"Visible": [
@@ -1757,9 +1757,9 @@
 			],
 			"Generate": {
 				"Resource": "scribe",
-				"Qty": 6
+				"Qty": 5
 			},
-			"BaseCompletionTime": 12,
+			"BaseCompletionTime": 9,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -1805,9 +1805,9 @@
 			],
 			"Generate": {
 				"Resource": "papyrus",
-				"Qty": 8
+				"Qty": 7
 			},
-			"BaseCompletionTime": 32,
+			"BaseCompletionTime": 27,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -1855,7 +1855,7 @@
 				"Resource": "relief",
 				"Qty": 9
 			},
-			"BaseCompletionTime": 48,
+			"BaseCompletionTime": 81,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -1901,9 +1901,9 @@
 			],
 			"Generate": {
 				"Resource": "priest",
-				"Qty": 12
+				"Qty": 11
 			},
-			"BaseCompletionTime": 192,
+			"BaseCompletionTime": 243,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -1949,9 +1949,9 @@
 			],
 			"Generate": {
 				"Resource": "temple",
-				"Qty": 15
+				"Qty": 13
 			},
-			"BaseCompletionTime": 768,
+			"BaseCompletionTime": 729,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -1995,7 +1995,7 @@
 				"Resource": "urn",
 				"Qty": 4
 			},
-			"BaseCompletionTime": 4,
+			"BaseCompletionTime": 12,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -2041,9 +2041,9 @@
 			],
 			"Generate": {
 				"Resource": "mummy",
-				"Qty": 6
+				"Qty": 7
 			},
-			"BaseCompletionTime": 18,
+			"BaseCompletionTime": 36,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -2089,9 +2089,9 @@
 			],
 			"Generate": {
 				"Resource": "pectoral",
-				"Qty": 9
+				"Qty": 10
 			},
-			"BaseCompletionTime": 24,
+			"BaseCompletionTime": 108,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -2137,9 +2137,9 @@
 			],
 			"Generate": {
 				"Resource": "sarcophagus",
-				"Qty": 14
+				"Qty": 13
 			},
-			"BaseCompletionTime": 144,
+			"BaseCompletionTime": 324,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -2185,9 +2185,9 @@
 			],
 			"Generate": {
 				"Resource": "cat",
-				"Qty": 19
+				"Qty": 16
 			},
-			"BaseCompletionTime": 864,
+			"BaseCompletionTime": 972,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
