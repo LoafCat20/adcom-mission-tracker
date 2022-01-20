@@ -4233,7 +4233,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.01e90,
+				"Threshold": 1.01e81,
 				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
@@ -4247,7 +4247,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.42e85,
+				"Threshold": 6.42e94,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -4331,7 +4331,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.82e64,
+				"Threshold": 2.82e66,
 				"ConditionId": "urn"
 			},
 			"Reward": {
@@ -4401,7 +4401,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e95,
+				"Threshold": 4.2e89,
 				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
@@ -4415,7 +4415,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e90,
+				"Threshold": 2.22e98,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -4499,7 +4499,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.21e70,
+				"Threshold": 3.21e75,
 				"ConditionId": "urn"
 			},
 			"Reward": {
