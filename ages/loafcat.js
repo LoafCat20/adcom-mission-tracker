@@ -3548,7 +3548,7 @@
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 383,
-				"ConditionId": "sacrophagus"
+				"ConditionId": "sarcophagus"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -4191,7 +4191,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 235000,
+				"Threshold": 23500000,
 				"ConditionId": "prophet"
 			},
 			"Reward": {
@@ -4303,7 +4303,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 346000000,
+				"Threshold": 3460000000,
 				"ConditionId": "prophet"
 			},
 			"Reward": {
@@ -4345,7 +4345,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3030000000,
+				"Threshold": 7070000000,
 				"ConditionId": "prophet"
 			},
 			"Reward": {
