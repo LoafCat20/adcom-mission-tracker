@@ -2287,7 +2287,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 4,
+				"Threshold": 1,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -2329,7 +2329,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 500,
+				"Threshold": 2500,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -2930,9 +2930,9 @@
 			"Id": "M0047",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 333000000,
-				"ConditionId": "quarry"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.5e18,
+				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -2944,9 +2944,9 @@
 			"Id": "M0048",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.5e24,
-				"ConditionId": "hieroglyphic"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 333000000,
+				"ConditionId": "quarry"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -2987,7 +2987,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3730,
+				"Threshold": 37373,
 				"ConditionId": "relief"
 			},
 			"Reward": {
@@ -3015,7 +3015,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.19e38,
+				"Threshold": 5.19e45,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -3043,7 +3043,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e32,
+				"Threshold": 2.22e28,
 				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
@@ -3071,7 +3071,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 33666,
+				"Threshold": 33660000,
 				"ConditionId": "relief"
 			},
 			"Reward": {
@@ -3113,7 +3113,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 333,
+				"Threshold": 3330000,
 				"ConditionId": "mummy"
 			},
 			"Reward": {
@@ -3127,7 +3127,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.27e40,
+				"Threshold": 7.27e50,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -3141,7 +3141,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4440000,
+				"Threshold": 144000000,
 				"ConditionId": "relief"
 			},
 			"Reward": {
@@ -3155,7 +3155,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8888888,
+				"Threshold": 8.88e9,
 				"ConditionId": "urn"
 			},
 			"Reward": {
@@ -3169,7 +3169,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 22333,
+				"Threshold": 222330000,
 				"ConditionId": "obelisk"
 			},
 			"Reward": {
@@ -3183,7 +3183,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 34000000,
+				"Threshold": 340000000,
 				"ConditionId": "relief"
 			},
 			"Reward": {
@@ -3211,7 +3211,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 23500,
+				"Threshold": 2350000,
 				"ConditionId": "mummy"
 			},
 			"Reward": {
@@ -3225,7 +3225,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 222333,
+				"Threshold": 1330000000,
 				"ConditionId": "obelisk"
 			},
 			"Reward": {
@@ -3239,7 +3239,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.33e40,
+				"Threshold": 3.33e35,
 				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
@@ -3267,7 +3267,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2210000,
+				"Threshold": 22100000,
 				"ConditionId": "mummy"
 			},
 			"Reward": {
@@ -3295,7 +3295,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2233000,
+				"Threshold": 2233000000,
 				"ConditionId": "obelisk"
 			},
 			"Reward": {
@@ -3309,7 +3309,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 77788,
+				"Threshold": 777888,
 				"ConditionId": "priest"
 			},
 			"Reward": {
@@ -3323,7 +3323,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8888888000,
+				"Threshold": 8.88e12,
 				"ConditionId": "urn"
 			},
 			"Reward": {
@@ -3337,7 +3337,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4890000,
+				"Threshold": 48900000,
 				"ConditionId": "mummy"
 			},
 			"Reward": {
@@ -3379,7 +3379,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 23300000,
+				"Threshold": 3330000000,
 				"ConditionId": "obelisk"
 			},
 			"Reward": {
@@ -3393,7 +3393,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7370000,
+				"Threshold": 737000000,
 				"ConditionId": "priest"
 			},
 			"Reward": {
@@ -3407,7 +3407,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.21e62,
+				"Threshold": 3.21e61,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -3421,7 +3421,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 61600,
+				"Threshold": 161000000,
 				"ConditionId": "pectoral"
 			},
 			"Reward": {
@@ -3435,8 +3435,8 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 240000000,
-				"ConditionId": "obelisk"
+				"Threshold": 24,
+				"ConditionId": "sphinx"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -3463,7 +3463,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9,
+				"Threshold": 9000,
 				"ConditionId": "sphinx"
 			},
 			"Reward": {
@@ -3477,7 +3477,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6160000,
+				"Threshold": 313000000,
 				"ConditionId": "pectoral"
 			},
 			"Reward": {
@@ -3491,7 +3491,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 808000000000000000.0,
+				"Threshold": 8.08e22,
 				"ConditionId": "urn"
 			},
 			"Reward": {
@@ -3505,7 +3505,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 78700000,
+				"Threshold": 1780000000,
 				"ConditionId": "priest"
 			},
 			"Reward": {
@@ -3519,7 +3519,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 22211,
+				"Threshold": 22110000,
 				"ConditionId": "sphinx"
 			},
 			"Reward": {
@@ -3547,8 +3547,8 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 38300000,
-				"ConditionId": "pectoral"
+				"Threshold": 383,
+				"ConditionId": "sacrophagus"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -3560,9 +3560,9 @@
 			"Id": "M0092",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 12,
-				"ConditionId": "sarcophagus"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.99e50,
+				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -3574,9 +3574,9 @@
 			"Id": "M0093",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.99e55,
-				"ConditionId": "hieroglyphic"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 12000,
+				"ConditionId": "sarcophagus"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -3589,7 +3589,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 88822200,
+				"Threshold": 4420000000,
 				"ConditionId": "sphinx"
 			},
 			"Reward": {
@@ -3603,7 +3603,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.22e65,
+				"Threshold": 1.22e74,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -3631,7 +3631,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 97000,
+				"Threshold": 9700000,
 				"ConditionId": "sarcophagus"
 			},
 			"Reward": {
@@ -3645,8 +3645,8 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 533000000,
-				"ConditionId": "priest"
+				"Threshold": 533,
+				"ConditionId": "temple"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -3659,7 +3659,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.23e25,
+				"Threshold": 3.23e33,
 				"ConditionId": "urn"
 			},
 			"Reward": {
@@ -3673,7 +3673,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 444000000,
+				"Threshold": 8880000000,
 				"ConditionId": "sphinx"
 			},
 			"Reward": {
@@ -3687,7 +3687,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 747000,
+				"Threshold": 747000000,
 				"ConditionId": "sarcophagus"
 			},
 			"Reward": {
@@ -3715,7 +3715,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 77,
+				"Threshold": 77000,
 				"ConditionId": "temple"
 			},
 			"Reward": {
@@ -3729,7 +3729,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1260000000,
+				"Threshold": 12600000000,
 				"ConditionId": "sphinx"
 			},
 			"Reward": {
@@ -3743,7 +3743,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e65,
+				"Threshold": 1.3e59,
 				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
@@ -3757,7 +3757,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 74700000,
+				"Threshold": 1470000000,
 				"ConditionId": "sarcophagus"
 			},
 			"Reward": {
@@ -3771,7 +3771,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.33e70,
+				"Threshold": 3.33e77,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -3799,7 +3799,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 444000,
+				"Threshold": 2220000000,
 				"ConditionId": "temple"
 			},
 			"Reward": {
@@ -3827,7 +3827,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.21e33,
+				"Threshold": 8.21e36,
 				"ConditionId": "urn"
 			},
 			"Reward": {
@@ -3841,8 +3841,8 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1000000000,
-				"ConditionId": "sarcophagus"
+				"Threshold": 10,
+				"ConditionId": "cat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -3883,7 +3883,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5,
+				"Threshold": 5000,
 				"ConditionId": "cat"
 			},
 			"Reward": {
@@ -3897,7 +3897,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 44400000,
+				"Threshold": 4440000000,
 				"ConditionId": "temple"
 			},
 			"Reward": {
@@ -3911,7 +3911,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.11e74,
+				"Threshold": 2.11e66,
 				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
@@ -3925,7 +3925,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.44e75,
+				"Threshold": 4.44e81,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -3939,7 +3939,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 505,
+				"Threshold": 50500000,
 				"ConditionId": "cat"
 			},
 			"Reward": {
@@ -3967,7 +3967,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6699,
+				"Threshold": 666999,
 				"ConditionId": "pyramid"
 			},
 			"Reward": {
@@ -3995,7 +3995,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.27e45,
+				"Threshold": 9.27e49,
 				"ConditionId": "urn"
 			},
 			"Reward": {
@@ -4009,7 +4009,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 505000,
+				"Threshold": 1550000000,
 				"ConditionId": "cat"
 			},
 			"Reward": {
@@ -4023,7 +4023,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 999666,
+				"Threshold": 966000000,
 				"ConditionId": "pyramid"
 			},
 			"Reward": {
@@ -4065,7 +4065,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 770000000,
+				"Threshold": 3770000000,
 				"ConditionId": "cat"
 			},
 			"Reward": {
@@ -4079,7 +4079,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.44e82,
+				"Threshold": 4.44e68,
 				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
@@ -4093,7 +4093,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.99e80,
+				"Threshold": 9.99e89,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -4107,7 +4107,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 333000000,
+				"Threshold": 3330000000,
 				"ConditionId": "pyramid"
 			},
 			"Reward": {
@@ -4149,7 +4149,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4040000000,
+				"Threshold": 6060000000,
 				"ConditionId": "cat"
 			},
 			"Reward": {
@@ -4163,7 +4163,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3400000000000001e60,
+				"Threshold": 1.34e57,
 				"ConditionId": "urn"
 			},
 			"Reward": {
@@ -4177,7 +4177,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3330000000,
+				"Threshold": 6660000000,
 				"ConditionId": "pyramid"
 			},
 			"Reward": {
@@ -4317,7 +4317,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6699,
+				"Threshold": 666999,
 				"ConditionId": "deity"
 			},
 			"Reward": {
@@ -4387,7 +4387,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 220055,
+				"Threshold": 2550000000,
 				"ConditionId": "deity"
 			},
 			"Reward": {
@@ -4471,7 +4471,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 554000000,
+				"Threshold": 5540000000,
 				"ConditionId": "deity"
 			},
 			"Reward": {
