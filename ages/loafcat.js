@@ -6625,11 +6625,11 @@
 			"TargetIds": [
 				"building"
 			],
-			"ExpoMultiplier": 0,
-			"ExpoGrowth": 0,
-			"UpgradePower": 0.02,
+			"ExpoMultiplier": 0.0075,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
-			"BasePower": 0.02,
+			"BasePower": 0.04,
 			"Rarity": "LteRare",
 			"PlayerRankUnlock": 2,
 			"ResearchOutputType": "Constant",
@@ -6675,11 +6675,11 @@
 			"TargetIds": [
 				"learning"
 			],
-			"ExpoMultiplier": 0,
-			"ExpoGrowth": 0,
-			"UpgradePower": 0.02,
+			"ExpoMultiplier": 0.0075,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
-			"BasePower": 0.02,
+			"BasePower": 0.04,
 			"Rarity": "LteRare",
 			"PlayerRankUnlock": 7,
 			"ResearchOutputType": "Constant",
@@ -6725,11 +6725,11 @@
 			"TargetIds": [
 				"mourning"
 			],
-			"ExpoMultiplier": 0,
-			"ExpoGrowth": 0,
-			"UpgradePower": 0.02,
+			"ExpoMultiplier": 0.0075,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
-			"BasePower": 0.02,
+			"BasePower": 0.04,
 			"Rarity": "LteRare",
 			"PlayerRankUnlock": 13,
 			"ResearchOutputType": "Constant",
