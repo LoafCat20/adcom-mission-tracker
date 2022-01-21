@@ -1395,7 +1395,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1443,7 +1443,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1491,7 +1491,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1539,7 +1539,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1587,7 +1587,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1635,7 +1635,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1683,7 +1683,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1727,7 +1727,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1775,7 +1775,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1823,7 +1823,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1871,7 +1871,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1919,7 +1919,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -1967,7 +1967,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2011,7 +2011,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2059,7 +2059,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2107,7 +2107,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2155,7 +2155,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
@@ -2203,7 +2203,7 @@
 			"IncludeInAll": true,
 			"Crit": {
 				"ChancePercent": 0,
-				"Multiplier": 64
+				"Multiplier": 128
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
