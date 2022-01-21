@@ -849,32 +849,23 @@
 				{
 					"Id": "EGY001",
 					"Value": 3
+				},
+				{
+					"Id": "EGY016",
+					"Value": 1
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m03",
 			"MimicGachaId": "plastic",
-			"Science": 47,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "EGY002",
-					"Value": 3
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m04",
-			"MimicGachaId": "plastic",
-			"Science": 46,
+			"Science": 52,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
 				{
 					"Id": "EGY001",
-					"Value": 3
+					"Value": 5
 				},
 				{
 					"Id": "EGY017",
@@ -883,14 +874,35 @@
 			]
 		},
 		{
-			"GachaId": "sc_m05",
+			"GachaId": "sc_m04",
 			"MimicGachaId": "plastic",
-			"Science": 54,
+			"Science": 61,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
 				{
 					"Id": "EGY001",
+					"Value": 4
+				},
+				{
+					"Id": "EGY022",
+					"Value": 4
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m05",
+			"MimicGachaId": "plastic",
+			"Science": 74,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "EGY002",
+					"Value": 4
+				},
+				{
+					"Id": "EGY007",
 					"Value": 6
 				}
 			]
@@ -2348,7 +2360,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -2362,7 +2374,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -2390,7 +2402,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -2404,7 +2416,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m03",
 				"Value": 1
 			}
 		},
@@ -2418,7 +2430,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -2446,7 +2458,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "sc_m04",
 				"Value": 1
 			}
 		},
@@ -2474,7 +2486,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -2502,7 +2514,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -2516,7 +2528,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m05",
 				"Value": 1
 			}
 		},
@@ -2530,7 +2542,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -2572,7 +2584,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -2586,7 +2598,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -2642,7 +2654,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -2656,7 +2668,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -2670,7 +2682,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -2698,7 +2710,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -2754,7 +2766,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -2810,7 +2822,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -2838,7 +2850,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -2880,7 +2892,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -2908,7 +2920,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -2978,7 +2990,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -3062,7 +3074,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -3076,7 +3088,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -3118,7 +3130,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -3188,7 +3200,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -3202,7 +3214,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -3258,7 +3270,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -3286,7 +3298,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -3328,7 +3340,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -3370,7 +3382,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -3398,7 +3410,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -3454,7 +3466,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -3468,7 +3480,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -3608,7 +3620,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -3622,7 +3634,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -3678,7 +3690,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -3706,7 +3718,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -3748,7 +3760,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -3790,7 +3802,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -3818,7 +3830,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -3874,7 +3886,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -3888,7 +3900,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -4028,7 +4040,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -4042,7 +4054,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -4098,7 +4110,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -4126,7 +4138,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -4168,7 +4180,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -4210,7 +4222,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -4238,7 +4250,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -4294,7 +4306,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -4308,7 +4320,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -4462,7 +4474,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -4504,7 +4516,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -4546,7 +4558,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -4728,7 +4740,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -4826,7 +4838,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -4924,7 +4936,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -5022,7 +5034,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -5120,7 +5132,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -5218,7 +5230,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -5316,7 +5328,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -5358,7 +5370,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -5414,7 +5426,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -5512,7 +5524,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -5610,7 +5622,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -5638,7 +5650,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -5708,7 +5720,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -5778,7 +5790,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		}
