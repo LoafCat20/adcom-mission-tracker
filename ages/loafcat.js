@@ -878,7 +878,7 @@
 			"MimicGachaId": "plastic",
 			"Science": 61,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 20,
 			"Card": [
 				{
 					"Id": "EGY001",
@@ -895,7 +895,7 @@
 			"MimicGachaId": "plastic",
 			"Science": 74,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 30,
 			"Card": [
 				{
 					"Id": "EGY002",
@@ -910,29 +910,41 @@
 		{
 			"GachaId": "sc_m06",
 			"MimicGachaId": "plastic",
-			"Science": 55,
+			"Science": 85,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 40,
 			"Card": [
 				{
 					"Id": "EGY002",
-					"Value": 6
+					"Value": 4
+				},
+				{
+					"Id": "EGY007",
+					"Value": 7
+				},
+				{
+					"Id": "EGY018",
+					"Value": 1
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m07",
 			"MimicGachaId": "plastic",
-			"Science": 53,
+			"Science": 93,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 50,
 			"Card": [
 				{
-					"Id": "EGY007",
-					"Value": 5
+					"Id": "EGY022",
+					"Value": 8
 				},
 				{
-					"Id": "EGY016",
+					"Id": "EGY008",
+					"Value": 6
+				},
+				{
+					"Id": "EGY025",
 					"Value": 1
 				}
 			]
@@ -940,26 +952,42 @@
 		{
 			"GachaId": "sc_m08",
 			"MimicGachaId": "plastic",
-			"Science": 62,
+			"Science": 112,
 			"Gold": 0,
-			"Trophy": 20,
+			"Trophy": 60,
 			"Card": [
 				{
-					"Id": "EGY003",
-					"Value": 8
+					"Id": "EGY001",
+					"Value": 7
+				},
+				{
+					"Id": "EGY007",
+					"Value": 11
+				},
+				{
+					"Id": "EGY019",
+					"Value": 1
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m09",
 			"MimicGachaId": "plastic",
-			"Science": 67,
+			"Science": 127,
 			"Gold": 0,
-			"Trophy": 30,
+			"Trophy": 70,
 			"Card": [
 				{
 					"Id": "EGY003",
-					"Value": 10
+					"Value": 13
+				},
+				{
+					"Id": "EGY002",
+					"Value": 8
+				},
+				{
+					"Id": "EGY016",
+					"Value": 1
 				}
 			]
 		},
@@ -2444,7 +2472,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m04",
 				"Value": 1
 			}
 		},
@@ -2458,7 +2486,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m04",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -2612,7 +2640,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m06",
 				"Value": 1
 			}
 		},
@@ -2696,7 +2724,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m07",
 				"Value": 1
 			}
 		},
@@ -2794,7 +2822,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m08",
 				"Value": 1
 			}
 		},
@@ -2878,7 +2906,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m09",
 				"Value": 1
 			}
 		},
