@@ -4293,7 +4293,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.01e76,
+				"Threshold": 1.01e77,
 				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
@@ -5721,7 +5721,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 270000000000000,
+				"Threshold": 450000000000000,
 				"ConditionId": "deity"
 			},
 			"Reward": {
@@ -5735,7 +5735,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.6e163,
+				"Threshold": 2.6e171,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -5749,7 +5749,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 900000000000000,
+				"Threshold": 6000000000000000,
 				"ConditionId": "prophet"
 			},
 			"Reward": {
@@ -5763,7 +5763,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.5e122,
+				"Threshold": 2.5e134,
 				"ConditionId": "urn"
 			},
 			"Reward": {
@@ -5777,7 +5777,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.7e147,
+				"Threshold": 1.7e164,
 				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
@@ -5791,7 +5791,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 500000000000000,
+				"Threshold": 25000000000000000,
 				"ConditionId": "deity"
 			},
 			"Reward": {
@@ -5805,7 +5805,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.6e166,
+				"Threshold": 8.6e194,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -5819,7 +5819,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1600000000000000,
+				"Threshold": 400000000000000000,
 				"ConditionId": "prophet"
 			},
 			"Reward": {
@@ -5833,7 +5833,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e125,
+				"Threshold": 7.5e157,
 				"ConditionId": "urn"
 			},
 			"Reward": {
