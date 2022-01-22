@@ -4363,7 +4363,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3460000000,
+				"Threshold": 1460000000,
 				"ConditionId": "prophet"
 			},
 			"Reward": {
@@ -4391,7 +4391,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7070000000,
+				"Threshold": 3030000000,
 				"ConditionId": "prophet"
 			},
 			"Reward": {
