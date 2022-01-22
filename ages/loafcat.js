@@ -994,51 +994,63 @@
 		{
 			"GachaId": "sc_m10",
 			"MimicGachaId": "plastic",
-			"Science": 83,
+			"Science": 143,
 			"Gold": 0,
-			"Trophy": 40,
+			"Trophy": 80,
 			"Card": [
 				{
-					"Id": "EGY008",
-					"Value": 10
+					"Id": "EGY023",
+					"Value": 9
 				},
 				{
-					"Id": "EGY018",
-					"Value": 1
+					"Id": "EGY022",
+					"Value": 13
+				},
+				{
+					"Id": "EGY026",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m11",
 			"MimicGachaId": "plastic",
-			"Science": 111,
+			"Science": 156,
 			"Gold": 0,
-			"Trophy": 60,
+			"Trophy": 90,
 			"Card": [
 				{
-					"Id": "EGY004",
-					"Value": 5
+					"Id": "EGY001",
+					"Value": 7
 				},
 				{
 					"Id": "EGY008",
+					"Value": 10
+				},
+				{
+					"Id": "EGY003",
 					"Value": 8
 				},
 				{
-					"Id": "EGY019",
-					"Value": 1
+					"Id": "EGY028",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m12",
 			"MimicGachaId": "plastic",
-			"Science": 122,
+			"Science": 172,
 			"Gold": 0,
-			"Trophy": 70,
+			"Trophy": 100,
 			"Card": [
 				{
 					"Id": "EGY012",
-					"Value": 4
+					"Value": 6
+				},
+				{
+					"Id": "EGY007",
+					"Value": 10
 				},
 				{
 					"Id": "EGY004",
@@ -1046,74 +1058,82 @@
 				},
 				{
 					"Id": "EGY019",
-					"Value": 1
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m13",
 			"MimicGachaId": "plastic",
-			"Science": 135,
+			"Science": 190,
 			"Gold": 0,
-			"Trophy": 80,
+			"Trophy": 110,
 			"Card": [
 				{
-					"Id": "EGY009",
-					"Value": 4
+					"Id": "EGY003",
+					"Value": 9
 				},
 				{
-					"Id": "EGY012",
+					"Id": "EGY009",
 					"Value": 15
 				},
 				{
-					"Id": "EGY018",
-					"Value": 1
+					"Id": "EGY023",
+					"Value": 6
+				},
+				{
+					"Id": "EGY020",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m14",
 			"MimicGachaId": "plastic",
-			"Science": 150,
+			"Science": 200,
 			"Gold": 0,
-			"Trophy": 90,
+			"Trophy": 120,
 			"Card": [
 				{
-					"Id": "EGY005",
-					"Value": 8
+					"Id": "EGY024",
+					"Value": 7
 				},
 				{
-					"Id": "EGY009",
-					"Value": 14
+					"Id": "EGY004",
+					"Value": 16
 				},
 				{
-					"Id": "EGY020",
-					"Value": 1
+					"Id": "EGY008",
+					"Value": 9
+				},
+				{
+					"Id": "EGY021",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m15",
 			"MimicGachaId": "plastic",
-			"Science": 169,
+			"Science": 229,
 			"Gold": 0,
-			"Trophy": 100,
+			"Trophy": 130,
 			"Card": [
 				{
-					"Id": "EGY013",
-					"Value": 7
+					"Id": "EGY009",
+					"Value": 12
 				},
 				{
 					"Id": "EGY005",
 					"Value": 8
 				},
 				{
-					"Id": "EGY001",
-					"Value": 10
+					"Id": "EGY012",
+					"Value": 15
 				},
 				{
-					"Id": "EGY020",
-					"Value": 1
+					"Id": "EGY027",
+					"Value": 2
 				}
 			]
 		},
@@ -2971,12 +2991,12 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 333000000,
-				"ConditionId": "quarry"
+				"Threshold": 74,
+				"ConditionId": "relief"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m10",
 				"Value": 1
 			}
 		},
@@ -2985,8 +3005,8 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 74,
-				"ConditionId": "relief"
+				"Threshold": 333000000,
+				"ConditionId": "quarry"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -3074,7 +3094,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m11",
 				"Value": 1
 			}
 		},
@@ -3172,7 +3192,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m12",
 				"Value": 1
 			}
 		},
@@ -3298,7 +3318,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m13",
 				"Value": 1
 			}
 		},
@@ -3396,7 +3416,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m14",
 				"Value": 1
 			}
 		},
@@ -3480,7 +3500,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m15",
 				"Value": 1
 			}
 		},
