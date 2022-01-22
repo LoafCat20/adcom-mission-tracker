@@ -1140,49 +1140,49 @@
 		{
 			"GachaId": "sc_m16",
 			"MimicGachaId": "plastic",
-			"Science": 194,
+			"Science": 229,
 			"Gold": 0,
 			"Trophy": 140,
 			"Card": [
 				{
-					"Id": "EGY010",
-					"Value": 9
+					"Id": "EGY004",
+					"Value": 15
 				},
 				{
 					"Id": "EGY013",
 					"Value": 10
 				},
 				{
-					"Id": "EGY007",
+					"Id": "EGY009",
 					"Value": 12
 				},
 				{
-					"Id": "EGY021",
-					"Value": 1
+					"Id": "EGY025",
+					"Value": 3
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m17",
 			"MimicGachaId": "plastic",
-			"Science": 207,
+			"Science": 247,
 			"Gold": 0,
-			"Trophy": 160,
+			"Trophy": 150,
 			"Card": [
 				{
-					"Id": "EGY014",
-					"Value": 8
+					"Id": "EGY002",
+					"Value": 9
 				},
 				{
-					"Id": "EGY010",
+					"Id": "EGY012",
 					"Value": 10
 				},
 				{
-					"Id": "EGY008",
-					"Value": 14
+					"Id": "EGY010",
+					"Value": 21
 				},
 				{
-					"Id": "EGY020",
+					"Id": "EGY028",
 					"Value": 2
 				}
 			]
@@ -1190,75 +1190,75 @@
 		{
 			"GachaId": "sc_m18",
 			"MimicGachaId": "plastic",
-			"Science": 219,
+			"Science": 279,
 			"Gold": 0,
-			"Trophy": 180,
+			"Trophy": 170,
 			"Card": [
 				{
 					"Id": "EGY006",
-					"Value": 7
+					"Value": 14
 				},
 				{
 					"Id": "EGY014",
-					"Value": 12
+					"Value": 18
 				},
 				{
-					"Id": "EGY012",
-					"Value": 15
+					"Id": "EGY008",
+					"Value": 11
 				},
 				{
-					"Id": "EGY021",
-					"Value": 2
+					"Id": "EGY018",
+					"Value": 3
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m19",
 			"MimicGachaId": "plastic",
-			"Science": 233,
+			"Science": 303,
 			"Gold": 0,
-			"Trophy": 250,
+			"Trophy": 190,
 			"Card": [
 				{
 					"Id": "EGY011",
 					"Value": 5
 				},
 				{
-					"Id": "EGY006",
-					"Value": 13
+					"Id": "EGY005",
+					"Value": 17
 				},
 				{
-					"Id": "EGY008",
-					"Value": 21
+					"Id": "EGY023",
+					"Value": 24
 				},
 				{
-					"Id": "EGY020",
-					"Value": 2
+					"Id": "EGY025",
+					"Value": 3
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m20",
 			"MimicGachaId": "plastic",
-			"Science": 247,
+			"Science": 347,
 			"Gold": 0,
-			"Trophy": 300,
+			"Trophy": 220,
 			"Card": [
 				{
 					"Id": "EGY015",
-					"Value": 9
+					"Value": 12
 				},
 				{
 					"Id": "EGY011",
-					"Value": 11
+					"Value": 16
 				},
 				{
-					"Id": "EGY010",
-					"Value": 22
+					"Id": "EGY006",
+					"Value": 20
 				},
 				{
-					"Id": "EGY021",
-					"Value": 2
+					"Id": "EGY028",
+					"Value": 3
 				}
 			]
 		},
@@ -1668,7 +1668,7 @@
 				},
 				{
 					"Resource": "Tool",
-					"Qty": "1.0E+63"
+					"Qty": "1.0E+62"
 				},
 				{
 					"Resource": "Comrade",
@@ -3570,7 +3570,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m16",
 				"Value": 1
 			}
 		},
@@ -3668,7 +3668,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m17",
 				"Value": 1
 			}
 		},
@@ -3872,9 +3872,9 @@
 			"Id": "M0110",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 15800000000,
-				"ConditionId": "sphinx"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.21e36,
+				"ConditionId": "urn"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -3886,9 +3886,9 @@
 			"Id": "M0111",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.21e36,
-				"ConditionId": "urn"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 15800000000,
+				"ConditionId": "sphinx"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -3906,7 +3906,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m18",
 				"Value": 1
 			}
 		},
@@ -4139,12 +4139,12 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.44e68,
-				"ConditionId": "hieroglyphic"
+				"Threshold": 9.99e92,
+				"ConditionId": "tool"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m19",
 				"Value": 1
 			}
 		},
@@ -4153,8 +4153,8 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.99e92,
-				"ConditionId": "tool"
+				"Threshold": 4.44e68,
+				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -4326,7 +4326,7 @@
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m20",
 				"Value": 1
 			}
 		},
