@@ -1620,7 +1620,7 @@
 				},
 				{
 					"Resource": "Tool",
-					"Qty": 1e47
+					"Qty": 1e46
 				},
 				{
 					"Resource": "Comrade",
@@ -2188,7 +2188,7 @@
 				},
 				{
 					"Resource": "Urn",
-					"Qty": "1.0E+41"
+					"Qty": "1.0E+42"
 				},
 				{
 					"Resource": "Comrade",
