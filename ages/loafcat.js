@@ -4111,7 +4111,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 12000000000,
+				"Threshold": 10000000000,
 				"ConditionId": "temple"
 			},
 			"Reward": {
@@ -4251,7 +4251,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 23500000,
+				"Threshold": 235000,
 				"ConditionId": "prophet"
 			},
 			"Reward": {
@@ -4293,7 +4293,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.01e81,
+				"Threshold": 1.01e76,
 				"ConditionId": "hieroglyphic"
 			},
 			"Reward": {
@@ -4331,12 +4331,12 @@
 			}
 		},
 		{
-			"Id": "M0143",
+			"Id": "M0145",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9330000000,
-				"ConditionId": "pyramid"
+				"Threshold": 346000000,
+				"ConditionId": "prophet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -4359,12 +4359,12 @@
 			}
 		},
 		{
-			"Id": "M0145",
+			"Id": "M0143",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1460000000,
-				"ConditionId": "prophet"
+				"Threshold": 9330000000,
+				"ConditionId": "pyramid"
 			},
 			"Reward": {
 				"Reward": "Gacha",
