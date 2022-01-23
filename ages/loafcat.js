@@ -4475,7 +4475,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e102,
+				"Threshold": 2.22e101,
 				"ConditionId": "tool"
 			},
 			"Reward": {
@@ -4573,7 +4573,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.11e105,
+				"Threshold": 1.11e104,
 				"ConditionId": "tool"
 			},
 			"Reward": {
