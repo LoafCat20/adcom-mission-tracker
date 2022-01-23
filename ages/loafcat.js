@@ -1878,7 +1878,7 @@
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "papyrus",
-				"Threshold": 50000000
+				"Threshold": 60000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -1926,7 +1926,7 @@
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "relief",
-				"Threshold": 400000000
+				"Threshold": 500000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -2935,7 +2935,7 @@
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 35300000,
+				"Threshold": 45400000,
 				"ConditionId": "papyrus"
 			},
 			"Reward": {
