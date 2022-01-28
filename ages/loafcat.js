@@ -9300,7 +9300,7 @@ DATA["music-bal-6"] = {
 				},
 				{
 					"Resource": "Baton",
-					"Qty": 9.999999999999999e22
+					"Qty": 1e27
 				},
 				{
 					"Resource": "Comrade",
@@ -9322,7 +9322,7 @@ DATA["music-bal-6"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "violin",
-				"Threshold": 1000000
+				"Threshold": 10000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -9348,7 +9348,7 @@ DATA["music-bal-6"] = {
 				},
 				{
 					"Resource": "Baton",
-					"Qty": "1.00E+40"
+					"Qty": "1.00E+45"
 				},
 				{
 					"Resource": "Comrade",
@@ -9370,7 +9370,7 @@ DATA["music-bal-6"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "harp",
-				"Threshold": 20000000
+				"Threshold": 100000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -9418,7 +9418,7 @@ DATA["music-bal-6"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "trumpet",
-				"Threshold": 500000000
+				"Threshold": 700000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -9510,7 +9510,7 @@ DATA["music-bal-6"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "drumkit",
-				"Threshold": 50000
+				"Threshold": 200000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -9558,7 +9558,7 @@ DATA["music-bal-6"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "saxophone",
-				"Threshold": 5000000
+				"Threshold": 10000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -9606,7 +9606,7 @@ DATA["music-bal-6"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "keyboard",
-				"Threshold": 25000000
+				"Threshold": 50000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -9746,7 +9746,7 @@ DATA["music-bal-6"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "erhu",
-				"Threshold": 1000000
+				"Threshold": 10000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -9772,7 +9772,7 @@ DATA["music-bal-6"] = {
 				},
 				{
 					"Resource": "SheetMusic",
-					"Qty": "1.00E+28"
+					"Qty": "1.00E+29"
 				},
 				{
 					"Resource": "Comrade",
@@ -9794,7 +9794,7 @@ DATA["music-bal-6"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "koto",
-				"Threshold": 22000000
+				"Threshold": 50000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
