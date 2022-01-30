@@ -9300,7 +9300,7 @@ DATA["music-bal-6"] = {
 				},
 				{
 					"Resource": "Baton",
-					"Qty": 1e27
+					"Qty": 1e29
 				},
 				{
 					"Resource": "Comrade",
@@ -9348,7 +9348,7 @@ DATA["music-bal-6"] = {
 				},
 				{
 					"Resource": "Baton",
-					"Qty": "1.00E+45"
+					"Qty": "1.00E+47"
 				},
 				{
 					"Resource": "Comrade",
@@ -9960,7 +9960,7 @@ DATA["music-bal-6"] = {
 				},
 				{
 					"Resource": "VinylRecord",
-					"Qty": 1e32
+					"Qty": 1e35
 				},
 				{
 					"Resource": "Comrade",
