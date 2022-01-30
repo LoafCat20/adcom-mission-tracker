@@ -9536,7 +9536,7 @@ DATA["music-bal-6"] = {
 				},
 				{
 					"Resource": "MusicStand",
-					"Qty": "1.00E+22"
+					"Qty": "1.00E+23"
 				},
 				{
 					"Resource": "Comrade",
