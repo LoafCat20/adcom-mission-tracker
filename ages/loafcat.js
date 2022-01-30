@@ -15199,8 +15199,8 @@ DATA["music-bal-6"] = {
 			"TargetIds": [
 				"western"
 			],
-			"ExpoMultiplier": 2.5,
-			"ExpoGrowth": 4,
+			"ExpoMultiplier": 3,
+			"ExpoGrowth": 5,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15217,8 +15217,8 @@ DATA["music-bal-6"] = {
 			"TargetIds": [
 				"americana"
 			],
-			"ExpoMultiplier": 3,
-			"ExpoGrowth": 4,
+			"ExpoMultiplier": 3.6,
+			"ExpoGrowth": 5,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15235,8 +15235,8 @@ DATA["music-bal-6"] = {
 			"TargetIds": [
 				"global"
 			],
-			"ExpoMultiplier": 3.5,
-			"ExpoGrowth": 4,
+			"ExpoMultiplier": 4.2,
+			"ExpoGrowth": 5,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15252,8 +15252,8 @@ DATA["music-bal-6"] = {
 			"TargetIds": [
 				"invention"
 			],
-			"ExpoMultiplier": 4,
-			"ExpoGrowth": 4,
+			"ExpoMultiplier": 4.8,
+			"ExpoGrowth": 5,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
