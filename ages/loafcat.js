@@ -10160,7 +10160,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 16,
+				"Threshold": 25,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -10272,7 +10272,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 30,
+				"Threshold": 50,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -10874,7 +10874,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 175,
+				"Threshold": 150,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -11014,7 +11014,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 200,
+				"Threshold": 175,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -11182,7 +11182,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 300,
+				"Threshold": 200,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -11336,7 +11336,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 400,
+				"Threshold": 225,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -11476,7 +11476,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 350,
+				"Threshold": 250,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -11616,7 +11616,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 350,
+				"Threshold": 300,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -11784,7 +11784,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 300,
+				"Threshold": 350,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -13478,7 +13478,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 700,
+				"Threshold": 750,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -13758,7 +13758,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 750,
+				"Threshold": 800,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -14038,7 +14038,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 750,
+				"Threshold": 850,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -14807,7 +14807,7 @@ DATA["music-bal-6"] = {
 				"flute"
 			],
 			"ExpoMultiplier": 1,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -14825,7 +14825,7 @@ DATA["music-bal-6"] = {
 				"bassoon"
 			],
 			"ExpoMultiplier": 2,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -14843,7 +14843,7 @@ DATA["music-bal-6"] = {
 				"violin"
 			],
 			"ExpoMultiplier": 3,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -14861,7 +14861,7 @@ DATA["music-bal-6"] = {
 				"harp"
 			],
 			"ExpoMultiplier": 4,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -14879,7 +14879,7 @@ DATA["music-bal-6"] = {
 				"trumpet"
 			],
 			"ExpoMultiplier": 5,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -14897,7 +14897,7 @@ DATA["music-bal-6"] = {
 				"piano"
 			],
 			"ExpoMultiplier": 6,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -14915,7 +14915,7 @@ DATA["music-bal-6"] = {
 				"drumkit"
 			],
 			"ExpoMultiplier": 2,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -14933,7 +14933,7 @@ DATA["music-bal-6"] = {
 				"saxophone"
 			],
 			"ExpoMultiplier": 4,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -14951,7 +14951,7 @@ DATA["music-bal-6"] = {
 				"keyboard"
 			],
 			"ExpoMultiplier": 6,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -14969,7 +14969,7 @@ DATA["music-bal-6"] = {
 				"electricguitar"
 			],
 			"ExpoMultiplier": 8,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -14987,7 +14987,7 @@ DATA["music-bal-6"] = {
 				"microphone"
 			],
 			"ExpoMultiplier": 10,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15005,7 +15005,7 @@ DATA["music-bal-6"] = {
 				"erhu"
 			],
 			"ExpoMultiplier": 3,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15023,7 +15023,7 @@ DATA["music-bal-6"] = {
 				"koto"
 			],
 			"ExpoMultiplier": 6,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15041,7 +15041,7 @@ DATA["music-bal-6"] = {
 				"peking"
 			],
 			"ExpoMultiplier": 9,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15059,7 +15059,7 @@ DATA["music-bal-6"] = {
 				"sitar"
 			],
 			"ExpoMultiplier": 12,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15077,7 +15077,7 @@ DATA["music-bal-6"] = {
 				"gramophone"
 			],
 			"ExpoMultiplier": 4,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15095,7 +15095,7 @@ DATA["music-bal-6"] = {
 				"jukebox"
 			],
 			"ExpoMultiplier": 8,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15113,7 +15113,7 @@ DATA["music-bal-6"] = {
 				"boombox"
 			],
 			"ExpoMultiplier": 12,
-			"ExpoGrowth": 5,
+			"ExpoGrowth": 6,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15200,7 +15200,7 @@ DATA["music-bal-6"] = {
 				"western"
 			],
 			"ExpoMultiplier": 2.5,
-			"ExpoGrowth": 6,
+			"ExpoGrowth": 4,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15218,7 +15218,7 @@ DATA["music-bal-6"] = {
 				"americana"
 			],
 			"ExpoMultiplier": 3,
-			"ExpoGrowth": 6,
+			"ExpoGrowth": 4,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15236,7 +15236,7 @@ DATA["music-bal-6"] = {
 				"global"
 			],
 			"ExpoMultiplier": 3.5,
-			"ExpoGrowth": 6,
+			"ExpoGrowth": 4,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
@@ -15253,7 +15253,7 @@ DATA["music-bal-6"] = {
 				"invention"
 			],
 			"ExpoMultiplier": 4,
-			"ExpoGrowth": 6,
+			"ExpoGrowth": 4,
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
