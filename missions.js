@@ -1246,8 +1246,12 @@ function getMissionEtaString(etaTimeStamp) {
   if (milliDifference <= 0) {
     return "Complete?";
   } else {
-    let localeDate = getTimeStampLocaleString(etaTimeStamp);
-    return `${getEta(milliDifference / 1000)} (${localeDate})`;
+    try {
+      let localeDate = getTimeStampLocaleString(etaTimeStamp);
+      return `${getEta(milliDifference / 1000)} (${localeDate})`;
+    } catch (e) {
+      return 'Invalid time';
+    }
   }
 }
 
@@ -1376,7 +1380,8 @@ function bigNum(x, minimumCutoff = 1e+6, significantCharacters = 100, localeOver
 
 // This is like bigNum but enforces 3 sig figs after 9999
 function shortBigNum(x) {
-  return bigNum(x, 1e4, 3);
+  let shortString = bigNum(x, 1e4, 3);
+  return shortString.replace(/[^0-9] /g, ' '); // three sig figs could result in something like "129. M", we will remove the superfluous decimal point
 }
 
 // Converts AdCom style numbers to normal. fromBigNum("1 CC") => 1E21
@@ -2100,7 +2105,7 @@ function getMissions() {
 function switchToNextAbGroup(missionId) {
   let mission = getMissions().find(m => m.Id == missionId);
   if (!mission || !("AbTestConfig" in mission)) {
-    console.log(`Cannot switch group for mission id "${missionId}"`);
+    console.warn(`Cannot switch group for mission id "${missionId}"`);
     return false;
   }
   
@@ -2111,7 +2116,7 @@ function switchToNextAbGroup(missionId) {
   let groupsForTest = getAvailableAbTestGroups()[testName];
   let testGroupIndex = groupsForTest.indexOf(groupName);
   if (testGroupIndex == -1) {
-    console.log(`Cannot switch group for mission id "${missionId}"`);
+    console.warn(`Cannot switch group for mission id "${missionId}"`);
     return false;
   }
   
@@ -2194,7 +2199,9 @@ function renderCalculator(mission) {
         <a class="infoButton ml-1" tabindex="-1" role="button" data-toggle="popover" data-trigger="focus" data-content="Simplify and speed up calculation by assuming production is irrelevant.">&#9432;</a></div>`;
     }
     
-    html += `<p><strong>Result:</strong> <span id="result"></span></p>`;
+    html += `<div class="form-inline"><label for="configMaxSimSeconds" id="configMaxSimSecondsLabel" class="mr-2">Max Sim Time:</label><input type="number" class="form-control w-25" min="1" value="1" id="configMaxSimSeconds" placeholder="Max Sim Seconds"><a class="infoButton ml-2" tabindex="-1" role="button" data-toggle="popover" data-trigger="focus" data-html="true" data-content="Higher Max Sim Time (<strong>in seconds</strong>) allows you to simulate further, but increases time when simulation doesn't succeed.  If it fails, double-check your Generators, ${upperCaseFirstLetter(ENGLISH_MAP['conditionmodel.researcher.plural'])}, and ${resourceName('comrade')}.">&#9432;</a></div>`;
+    
+    html += `<p class="mt-2"><strong>Result:</strong> <span id="result"></span></p>`;
     html += `<input type="hidden" id="missionId" value="${mission.Id}"><input type="hidden" id="industryId" value="${industryId}">`;
     html += `<p><button id="calcButton" class="btn btn-primary" type="button" onclick="doProductionSim()" title="Run simulation to calculate ETA">Calculate!</button>`;
     html += `<button id="importButton" class="btn btn-primary float-right" type="button" onclick="importCounts()">Import Counts</button></p>`;
@@ -3087,7 +3094,12 @@ function clickComradeLimited(generatorId) {
 
 function clickOffline() {
   let checked = $('#configOffline').is(':checked');
-  $("#configAutobuy,#configComradeLimited").prop("disabled", checked);
+  $("#configAutobuy,#configComradeLimited,#configMaxSimSeconds").prop("disabled", checked);
+  if (checked) {
+    $("#configMaxSimSecondsLabel").addClass("disabled");
+  } else {
+    $("#configMaxSimSecondsLabel").removeClass("disabled");
+  }
 }
 
 // Called OnClick for "Calculate!"  Interprets input, runs calc/sim, and outputs result.
@@ -3123,22 +3135,27 @@ function doProductionSim() {
     if (simData.Config.Offline) {
       $('#result').text(`Offline calculation did not succeed. This may be due to invalid parameters.`);
     } else {
-      $('#result').text(`Simulation did not complete.`);
+      $('#result').text(`Simulation did not complete in ${simData.Config.MaxSimSeconds} second(s). Double-check your Generators, ${ENGLISH_MAP['conditionmodel.researcher.plural']}, ${resourceName('comrade')}, and Max Sim Time.`);
     }
   } else if (result < -1) {
-    $('#result').text(`Simulation automatically terminated after 10 seconds (${getEta(-result)} had been simulated.)`);
+    $('#result').text(`Failed: Reached Max Sim Time (${getEta(-result)} had been simulated.) Double-check your Generators, ${ENGLISH_MAP['conditionmodel.researcher.plural']}, ${resourceName('comrade')}, and Max Sim Time.`);
   } else {
     $('#result').text(`ETA: ${getEta(result)}`);
   
     // Since we got a successful ETA, save it for future use.
     let missionEtas = getMissionEtas();
     let currentTimeStamp = (new Date()).getTime();
-    missionEtas[simData.Mission.Id] = (new Date(currentTimeStamp + result * 1000)).getTime();
-    
-    saveMissionEtas(missionEtas);
-    
-    updateMissionButtonTitles(simData.Mission.Id);
-    $('#lastEta').text(getMissionEtaString(missionEtas[simData.Mission.Id]));
+    let endTimestamp = new Date(currentTimeStamp + result * 1000);
+
+    // ONLY save timestamp if it can be represented as a JS date (upper limit 8.64e+15 seconds)
+    if (!isNaN(endTimestamp)) {
+      missionEtas[simData.Mission.Id] = (new Date(currentTimeStamp + result * 1000)).getTime();
+      
+      saveMissionEtas(missionEtas);
+      
+      updateMissionButtonTitles(simData.Mission.Id);
+      $('#lastEta').text(getMissionEtaString(missionEtas[simData.Mission.Id]));
+    }
   }
   
   $('#result').effect('highlight', {}, 2000);
@@ -3147,32 +3164,46 @@ function doProductionSim() {
 // Returns a string 
 function getEta(timeSeconds) {
   /* From https://stackoverflow.com/questions/1322732/convert-seconds-to-hh-mm-ss-with-javascript */
-  let days = Math.floor(timeSeconds / (60 * 60 * 24));
-  let [hours, minutes, seconds] = new Date(timeSeconds * 1000).toISOString().substr(11, 8).split(':');
-  
   let eta = '';
-  if (days > 0) {
-    eta =  `${days}d ${hours}h ${minutes}m ${seconds}s`;
-  } else if (hours > 0) {
-    eta = `${hours}h ${minutes}m ${seconds}s`;
-  } else if (minutes > 0) {
-    eta = `${minutes}m ${seconds}s`;
-  } else if (seconds > 0) {
-    eta = `${seconds}s`;
-  } else if (timeSeconds > 0.5) {
-    eta = '1s';
-  } else if (timeSeconds > 1e-3) {
-    eta = `${Math.floor(timeSeconds*1e3)} ms`;
-  } else if (timeSeconds > 1e-6) {
-    eta = `${Math.floor(timeSeconds*1e6)} ${String.fromCharCode(181)}s`;
-  } else if (timeSeconds > 1e-9) {
-    eta = `${Math.floor(timeSeconds*1e9)} ns`;
+  let offset;
+
+  if (timeSeconds >= 253402300800) {
+    offset = 14; // if the Date object has an ISO-8601 representation greater than 9999-12-31T23:59:59Z, substr needs to be adjusted
   } else {
-    eta = 'Instant';
+    offset = 11;
   }
-  
-  // Strip any leading 0's off
-  return eta.replace(/^0*/, '');
+
+  try {
+    let years = Math.floor(timeSeconds / (60 * 60 * 24 * 365));
+    let days = Math.floor(timeSeconds / (60 * 60 * 24)) % 365;
+    let [hours, minutes, seconds] = new Date(timeSeconds * 1000).toISOString().substr(offset, 8).split(':');
+
+    if (years > 0) {
+      eta = `${years}y ${days}d ${hours}h ${minutes}m ${seconds}s`;
+    } else if (days > 0) {
+      eta = `${days}d ${hours}h ${minutes}m ${seconds}s`;
+    } else if (hours > 0) {
+      eta = `${hours}h ${minutes}m ${seconds}s`;
+    } else if (minutes > 0) {
+      eta = `${minutes}m ${seconds}s`;
+    } else if (seconds > 0) {
+      eta = `${seconds}s`;
+    } else if (timeSeconds > 0.5) {
+      eta = '1s';
+    } else if (timeSeconds > 1e-6) {
+      eta = `1/${Math.floor(1/timeSeconds)}s`;
+    } else {
+      eta = 'Instant';
+    }
+    
+    // Strip any leading 0's off
+    return eta.replace(/^0*/, '');
+  } catch (error) {
+    if (error instanceof RangeError) {
+      // can't represent h:m:s with a date object, only years are significant at this point
+      return `${shortBigNum(years)} years`;
+    }
+  }
 }
 
 // Called OnClick for "Import Counts".  Takes past formData counts, simulates them forward to now, and then sets the inputs
@@ -3257,13 +3288,18 @@ function getProductionSimDataFromForm() {
   setupSimDataGenerators(simData, industryId, formValues);
   
   // Having 0 qty of every Generator is degenerate.  Let's at least start with 1 of the first.
+  /*
   if (hasNoGenerators(simData)) {
     simData.Counts[simData.Generators[1].Id] = 1; // Generator[0] is the comradegenerator
   }
+  */
   
   simData.Config.Autobuy = $('#configAutobuy').is(':checked');
   simData.Config.ComradeLimited = $('#configComradeLimited').is(':checked');
   simData.Config.Offline = $('#configOffline').is(':checked');
+  
+  simData.Config.MaxSimSeconds = getValueFromForm('#configMaxSimSeconds', 1, simData);
+  formValues.Config.MaxSimSeconds = simData.Config.MaxSimSeconds;
   
   formValues.Counts["comrade"].TimeStamp = (new Date()).getTime();
   formValues.Counts[resourceId].TimeStamp = formValues.Counts["comrade"].TimeStamp;
@@ -3500,7 +3536,7 @@ function calcLimitedComrades(simData) {
   return Math.max(neededComrades / comradeGenerator.QtyPerSec, 0);
 }
 
-// We don't need to do a full simulation for offline, but we do need to estimate a polynomial root
+// We don't need to do a full simulation for offline, but we do need to run a converging search
 function calcOffline(simData) {
   // There are two possibilities for offline: it's either comrade-limited (for Own) or production-limited.
   let comradeLimitedTime = 0;
@@ -3517,60 +3553,79 @@ function calcOffline(simData) {
   }
 }
 
-function calcOfflineProduction(simData) {
-  // There appears to be a bug in the game's offline calculations, where the deepest generator
-  //  is "run" for entire offline duration, followed by the second-deepest, etc., instead of
-  //  continuously running it.  This can make long offline sessions more effective than online.
-  
-  // I think the formula for the process creates a polynomial like:
-  // Potato(t) = Potato(0) + [Farmer(0) * FarmerOut]t + [Commune(0) * CommuneOut * FarmerOut]t^2
-  //                       + [Freight(0) * FreightOut * CommuneOut * FarmerOut]t^3 + ...
-  
-  // We will find coefficients, and apply Newton's method to:  Potato(t) - GoalPotato = 0
-  let resourceId = getResourceByIndustry(simData.IndustryId).Id;
-  let resourceGoal = getOfflineResourceGoal(simData);
-  
-  // Create f(x) = Potato(t) - GoalPotato, aka poly[]
-  let poly = [simData.Counts[resourceId] - resourceGoal];
-  if (poly[0] >= 0) {
-    return 0;  // The user claims to have enough resources to meet their goal.
-  }
-  
-  // Skip the comrade generator (simData.Generators[0]), otherwise find each coefficient
-  for (let genIndex = 1; genIndex < simData.Generators.length; genIndex++) {
-    let generator = simData.Generators[genIndex];
-    let coefficient = simData.Counts[generator.Id];
-    
-    for (let lowerGenIndex = 1; lowerGenIndex <= genIndex; lowerGenIndex++) {
-      coefficient *= simData.Generators[lowerGenIndex].QtyPerSec;
-    }
-    
-    poly.push(coefficient);
-  }
-  
-  // Create f'(x), aka deriv[]
-  let deriv = []
-  for (polyIndex = 1; polyIndex < poly.length; polyIndex++) {
-    deriv.push(poly[polyIndex] * polyIndex);
-  }
-  
-  // Iterate x1 = x0 - f(x0) / f'(x0) until |x1 - x0| < 0.1
-  let x = 10000;
-  for (let chances = 1000; chances > 0; chances--) {
-    let oldX = x;
-    x = x - evaluatePolynomial(poly, x) / evaluatePolynomial(deriv, x);
+/*
+  There appears to be a bug in the game's offline calculations, where the deepest generator
+  is "run" for entire offline duration, followed by the second-deepest, etc., instead of
+  continuously running it.  This can make long offline sessions more effective than online.
 
-    if (Math.abs(x - oldX) < 0.1) {
-      if (Math.abs(x) === Infinity || isNaN(x) || x < 0) {
-        return -1; // An error occurred or the mission will mathematically never complete (such as negative)
+  This method uses a binary search to calculate offline production, using a maximum range
+  of [2^0, 2^63] seconds, and calls the actual offline simulation method as needed.
+*/
+function calcOfflineProduction(simData) {
+  const DEFAULT_LOW_BOUND = Math.pow(2, 0);
+  const DEFAULT_HIGH_BOUND = Math.pow(2, 63);
+
+  let requirement = simData.Mission.Condition.Threshold;
+  let currentBounds = [
+    DEFAULT_LOW_BOUND,
+    DEFAULT_HIGH_BOUND
+  ];
+  let currentMidpoint = (currentBounds[1] - currentBounds[0] + 1) / 2 + currentBounds[0];
+
+  if (requirement > calcOfflineProductionResult(simData, DEFAULT_HIGH_BOUND)) {
+    // too long
+    return -1;
+  } else {
+    while (currentBounds[1] - currentBounds[0] >= DEFAULT_LOW_BOUND) {
+      let midpointResult = calcOfflineProductionResult(simData, currentMidpoint);
+
+      if (midpointResult < requirement) {
+        // increase LOWER bound
+        currentBounds[0] += (currentBounds[1] - currentBounds[0] + 1) / 2;
       } else {
-        return x;
+        // increase UPPER bound
+        currentBounds[1] -= (currentBounds[1] - currentBounds[0] + 1) / 2;
       }
+
+      currentMidpoint = (currentBounds[1] - currentBounds[0] + 1) / 2 + currentBounds[0];
+    }
+
+    let final1sCheck = calcOfflineProductionResult(simData, currentBounds[1]); // this check prevents 1s from showing as "Instant"
+
+    if (currentBounds[1] === DEFAULT_LOW_BOUND && final1sCheck > requirement) {
+      // we have reached the lowest bound, assume "instant"
+      return 0;
+    } else {
+      // return upper-bound (worst case) value, although it shouldn't really be that significant of a difference
+      return currentBounds[1]; 
     }
   }
-  
-  // We failed to find a close enough result in 1000 chances.
-  return -1;
+}
+
+// actual offline simulation, given mission data and duration
+function calcOfflineProductionResult(simData, duration) {
+  let generatorOutput = {};
+  let hasDeepestGenerator = false;
+  for ([key, value] of Object.entries(simData.Counts)) {
+    generatorOutput[key] = value;
+  }
+
+  for (let genIndex = simData.Generators.length - 1; genIndex > 0; genIndex--) {
+    let generatorReference = simData.Generators[genIndex]; // current generator that we're looking at
+    let preExistingResources = 0;
+
+    if (simData.Counts[generatorReference.Id] > 0 && !hasDeepestGenerator) {
+      preExistingResources = simData.Counts[generatorReference.Id]; // initial state for deepest generator
+      hasDeepestGenerator = true;
+    } else {
+      preExistingResources = simData.Counts[generatorReference.Id] + generatorOutput[generatorReference.Id]; // adds what has already been generated in deeper generators
+    }
+
+    let resourcesGeneratedInPeriod = generatorReference.QtyPerSec * duration * preExistingResources; // all resources generated in a period
+    generatorOutput[generatorReference.Resource] = Boolean(generatorReference.QtyPerSec) * (resourcesGeneratedInPeriod + preExistingResources); // adds the values together
+  }
+
+  return generatorOutput[simData.Generators[1].Resource];
 }
 
 // Get an appropriate resource goal dependant on the mission type.
@@ -3597,30 +3652,21 @@ function getOfflineResourceGoal(simData) {
   }
 }
 
-// Evaluates a polynomial at a value given the coefficients
-function evaluatePolynomial(poly, value) {
-  let result = 0;
-  
-  for (let power = 0; power < poly.length; power++) {
-    result += poly[power] * Math.pow(value, power);
-  }
-  
-  return result;
-}
-
-// The core "simulation."  Returns seconds until goal is met, or -N if N seconds pass before TIME_LIMIT_MS
+// The core "simulation."  Returns seconds until goal is met, or -N if N seconds pass before MaxSimSeconds
 function simulateProductionMission(simData, deltaTime = 1.0) {
-  const TIME_LIMIT_MS = 10000; // Max simulation time, should be a multiple of DELTA_INCREASE_TIME_MS
   // Delta increases handle longer runs on lower powered devices without much loss in precision.
   const DELTA_INCREASE_TIME_MS = 2000; // Time between delta increases
   const DELTA_INCREASE_MULT = 2; // How much deltaTime is multiplied each increase.
+  const TIME_CHECK_MS = 1000; // How frequently to check on the other time checks (Delta Increase and Max Time)
   
+  let now = new Date();
+  let maxSimTime = new Date(now.getTime() + simData.Config.MaxSimSeconds * 1000);
+  let nextIncreaseTime = new Date(now.getTime() + DELTA_INCREASE_TIME_MS);
+  let nextTimeCheck = new Date(now.getTime() + TIME_CHECK_MS);
   
   // First, handle autobuy, if enabled.
   let autobuyGenerator = null;
   let nextAutobuyGenerator = null;
-  let genesisTime = new Date();
-  let lastIncreaseTime = new Date();
   
   // search backwards through the generators for the first one with Qty > 0
   if (simData.Config.Autobuy) {
@@ -3679,18 +3725,22 @@ function simulateProductionMission(simData, deltaTime = 1.0) {
   // Now do the iteration
   let time;
   for (time = 0; !metGoals(simData, goals); time += deltaTime) {
-    // Cancel simulation after 10 seconds (we don't want to crash the page.)
-    if (new Date() - lastIncreaseTime > DELTA_INCREASE_TIME_MS) {
-      // Only check time limit on delta increases for a small performance gain.
-      if (new Date() - genesisTime > TIME_LIMIT_MS) {
-        return -time;
-      }
-      
-      deltaTime *= DELTA_INCREASE_MULT;
-      lastIncreaseTime = new Date();
+    // Every one second, check real-time sensitive things
+    now = new Date();
+    if (now >= nextTimeCheck) {
+        if (now >= maxSimTime) {
+          // Simulation took longer than MaxSimSeconds, cancelling.
+          return -time + 1;
+          
+        } else if (now >= nextIncreaseTime) {
+          // Gradually increase deltaTime to simulate further without losing much precision
+          deltaTime *= DELTA_INCREASE_MULT;
+          nextIncreaseTime = new Date(now.getTime() + DELTA_INCREASE_TIME_MS);
+        }
+        
+        nextTimeCheck = new Date(now.getTime() + TIME_CHECK_MS);
     }
     
-
     // Run each generator, starting from comrades and lowest-tier first.
     for (let genIndex in simData.Generators) {
       let generator = simData.Generators[genIndex];
