@@ -11854,7 +11854,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.34e42,
+				"Threshold": 2.34e50,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
@@ -11952,7 +11952,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 35,
+				"Threshold": 350,
 				"ConditionId": "sitar"
 			},
 			"Reward": {
@@ -12022,7 +12022,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.45e48,
+				"Threshold": 3.45e53,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
@@ -12050,7 +12050,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 156,
+				"Threshold": 156000,
 				"ConditionId": "sitar"
 			},
 			"Reward": {
@@ -12106,7 +12106,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2300,
+				"Threshold": 23000000,
 				"ConditionId": "sitar"
 			},
 			"Reward": {
@@ -12162,7 +12162,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.57e52,
+				"Threshold": 7.57e56,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
@@ -12246,7 +12246,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.3e55,
+				"Threshold": 3.3e58,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
