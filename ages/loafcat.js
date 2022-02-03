@@ -10285,9 +10285,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0015",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 8280,
-				"ConditionId": "violin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4442222,
+				"ConditionId": "musicstand"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -10299,9 +10299,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0016",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4442222,
-				"ConditionId": "musicstand"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 8280,
+				"ConditionId": "violin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -10356,12 +10356,12 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 42800,
-				"ConditionId": "violin"
+				"Threshold": 90,
+				"ConditionId": "saxophone"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -10370,12 +10370,12 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 90,
-				"ConditionId": "saxophone"
+				"Threshold": 42800,
+				"ConditionId": "violin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -10482,8 +10482,8 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 123,
-				"ConditionId": "erhu"
+				"Threshold": 36363,
+				"ConditionId": "harp"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -10510,8 +10510,8 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 36363,
-				"ConditionId": "harp"
+				"Threshold": 123,
+				"ConditionId": "erhu"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -10621,9 +10621,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0039",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 500000,
-				"ConditionId": "erhu"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.55e30,
+				"ConditionId": "baton"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -10635,9 +10635,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0040",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.55e30,
-				"ConditionId": "baton"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 500000,
+				"ConditionId": "erhu"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -10775,9 +10775,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0050",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 567000000000,
-				"ConditionId": "sheetmusic"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 333,
+				"ConditionId": "trumpet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -10789,9 +10789,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0051",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 333,
-				"ConditionId": "trumpet"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 567000000000,
+				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -11252,8 +11252,8 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 88888,
-				"ConditionId": "vinylrecord"
+				"Threshold": 9e28,
+				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -11266,8 +11266,8 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9e28,
-				"ConditionId": "sheetmusic"
+				"Threshold": 88888,
+				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -11335,9 +11335,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0090",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 17100000000,
-				"ConditionId": "vinylrecord"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 100000000,
+				"ConditionId": "peking"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -11349,9 +11349,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0091",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 100000000,
-				"ConditionId": "peking"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 17100000000,
+				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -11741,9 +11741,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0119",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 33300,
-				"ConditionId": "microphone"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.43e38,
+				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -11755,9 +11755,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0120",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.43e38,
-				"ConditionId": "sheetmusic"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 33300,
+				"ConditionId": "microphone"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -12036,12 +12036,12 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 156,
-				"ConditionId": "sitar"
+				"Threshold": 4,
+				"ConditionId": "boombox"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -12050,12 +12050,12 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4000000000,
-				"ConditionId": "jukebox"
+				"Threshold": 156,
+				"ConditionId": "sitar"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -12092,7 +12092,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.4e28,
+				"Threshold": 4.4e36,
 				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
@@ -12176,7 +12176,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4,
+				"Threshold": 44444,
 				"ConditionId": "boombox"
 			},
 			"Reward": {
@@ -12189,20 +12189,6 @@ DATA["music-bal-6"] = {
 			"Id": "M0151",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.1e32,
-				"ConditionId": "vinylrecord"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0152",
-			"Rank": 1,
-			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 60606,
 				"ConditionId": "sitar"
@@ -12210,6 +12196,20 @@ DATA["music-bal-6"] = {
 			"Reward": {
 				"Reward": "Gacha",
 				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0152",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.1e32,
+				"ConditionId": "vinylrecord"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -12260,7 +12260,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 707,
+				"Threshold": 707000000,
 				"ConditionId": "boombox"
 			},
 			"Reward": {
@@ -12483,9 +12483,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0172",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.1e80,
-				"ConditionId": "musicstand"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1010000,
+				"ConditionId": "sitar"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -12497,9 +12497,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0173",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 1010000,
-				"ConditionId": "sitar"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.1e80,
+				"ConditionId": "musicstand"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -12553,9 +12553,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0177",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 26420,
-				"ConditionId": "boombox"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3e88,
+				"ConditionId": "baton"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -12567,9 +12567,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0178",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3e88,
-				"ConditionId": "baton"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 26420,
+				"ConditionId": "boombox"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -12679,9 +12679,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0186",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.9e84,
-				"ConditionId": "musicstand"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 30300000,
+				"ConditionId": "sitar"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -12707,9 +12707,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0188",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 30300000,
-				"ConditionId": "sitar"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.9e84,
+				"ConditionId": "musicstand"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -12749,9 +12749,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0191",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 98400,
-				"ConditionId": "boombox"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.67e100,
+				"ConditionId": "baton"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -12763,9 +12763,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0192",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.67e100,
-				"ConditionId": "baton"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 98400,
+				"ConditionId": "boombox"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -12889,9 +12889,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0201",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.6e94,
-				"ConditionId": "musicstand"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 606000000,
+				"ConditionId": "sitar"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -12903,9 +12903,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0202",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 606000000,
-				"ConditionId": "sitar"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.6e94,
+				"ConditionId": "musicstand"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -12959,9 +12959,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0206",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 321000,
-				"ConditionId": "boombox"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.43e106,
+				"ConditionId": "baton"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -12973,9 +12973,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0207",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.43e106,
-				"ConditionId": "baton"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 321000,
+				"ConditionId": "boombox"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13085,9 +13085,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0215",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e92,
-				"ConditionId": "musicstand"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 9090000000,
+				"ConditionId": "sitar"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13099,9 +13099,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0216",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 9090000000,
-				"ConditionId": "sitar"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.2e92,
+				"ConditionId": "musicstand"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13155,9 +13155,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0220",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 6420000,
-				"ConditionId": "boombox"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.11e110,
+				"ConditionId": "baton"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13169,9 +13169,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0221",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.11e110,
-				"ConditionId": "baton"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 6420000,
+				"ConditionId": "boombox"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13393,9 +13393,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0237",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.43e72,
-				"ConditionId": "vinylrecord"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 626000000000,
+				"ConditionId": "piano"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13407,9 +13407,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0238",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 626000000000,
-				"ConditionId": "piano"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.43e72,
+				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13463,9 +13463,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0242",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 550000000000,
-				"ConditionId": "microphone"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.56e110,
+				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13477,9 +13477,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0243",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.56e110,
-				"ConditionId": "sheetmusic"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 550000000000,
+				"ConditionId": "microphone"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13575,9 +13575,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0250",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.7e78,
-				"ConditionId": "vinylrecord"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2220000000000,
+				"ConditionId": "piano"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13589,9 +13589,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0251",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 2220000000000,
-				"ConditionId": "piano"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.7e78,
+				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13631,9 +13631,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0254",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 750000000000,
-				"ConditionId": "microphone"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.55e116,
+				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13645,9 +13645,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0255",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.55e116,
-				"ConditionId": "sheetmusic"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 750000000000,
+				"ConditionId": "microphone"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13743,9 +13743,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0262",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.76e86,
-				"ConditionId": "vinylrecord"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 12100000000000,
+				"ConditionId": "piano"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13757,9 +13757,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0263",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 12100000000000,
-				"ConditionId": "piano"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.76e86,
+				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13799,9 +13799,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0266",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 1500000000000,
-				"ConditionId": "microphone"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.99e124,
+				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13813,9 +13813,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0267",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.99e124,
-				"ConditionId": "sheetmusic"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1500000000000,
+				"ConditionId": "microphone"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13911,9 +13911,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0274",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.3e94,
-				"ConditionId": "vinylrecord"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 42400000000000,
+				"ConditionId": "piano"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13925,9 +13925,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0275",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 42400000000000,
-				"ConditionId": "piano"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.3e94,
+				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13967,9 +13967,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0278",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 3500000000000,
-				"ConditionId": "microphone"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.76e132,
+				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -13981,9 +13981,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0279",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.76e132,
-				"ConditionId": "sheetmusic"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3500000000000,
+				"ConditionId": "microphone"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -14079,9 +14079,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0286",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.11e100,
-				"ConditionId": "vinylrecord"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 62600000000000,
+				"ConditionId": "piano"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -14093,9 +14093,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0287",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 62600000000000,
-				"ConditionId": "piano"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.11e100,
+				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -14135,9 +14135,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0290",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 5500000000000,
-				"ConditionId": "microphone"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.11e140,
+				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -14149,9 +14149,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0291",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.11e140,
-				"ConditionId": "sheetmusic"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5500000000000,
+				"ConditionId": "microphone"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -14247,9 +14247,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0298",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.75e120,
-				"ConditionId": "vinylrecord"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 92900000000000,
+				"ConditionId": "piano"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -14261,9 +14261,9 @@ DATA["music-bal-6"] = {
 			"Id": "M0299",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 92900000000000,
-				"ConditionId": "piano"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.75e120,
+				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
 				"Reward": "Gacha",
