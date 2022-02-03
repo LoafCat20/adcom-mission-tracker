@@ -12386,7 +12386,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e78,
+				"Threshold": 1.2e75,
 				"ConditionId": "musicstand"
 			},
 			"Reward": {
@@ -12414,7 +12414,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.3e60,
+				"Threshold": 6.3e61,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
