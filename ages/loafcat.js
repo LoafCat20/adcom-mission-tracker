@@ -11266,7 +11266,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 88888,
+				"Threshold": 8880000,
 				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
@@ -11322,7 +11322,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 111,
+				"Threshold": 11100000,
 				"ConditionId": "gramophone"
 			},
 			"Reward": {
@@ -11350,7 +11350,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 17100000000,
+				"Threshold": 171000000000,
 				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
@@ -11420,7 +11420,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 15000000,
+				"Threshold": 250000000,
 				"ConditionId": "gramophone"
 			},
 			"Reward": {
@@ -11476,7 +11476,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 13100000000000,
+				"Threshold": 131000000000000,
 				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
@@ -11560,8 +11560,8 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 555000000,
-				"ConditionId": "gramophone"
+				"Threshold": 5,
+				"ConditionId": "jukebox"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -11616,7 +11616,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 250000000000000,
+				"Threshold": 2.5e18,
 				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
@@ -11700,7 +11700,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2,
+				"Threshold": 200000,
 				"ConditionId": "jukebox"
 			},
 			"Reward": {
@@ -11784,7 +11784,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 12000000000000000.0,
+				"Threshold": 1.2e23,
 				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
@@ -11882,7 +11882,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 100000000,
+				"Threshold": 500000000,
 				"ConditionId": "jukebox"
 			},
 			"Reward": {
@@ -11924,7 +11924,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e24,
+				"Threshold": 1.3e28,
 				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
@@ -12204,7 +12204,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.1e32,
+				"Threshold": 4.1e41,
 				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
@@ -12302,7 +12302,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.8e38,
+				"Threshold": 1.8e43,
 				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
@@ -12330,7 +12330,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.4e42,
+				"Threshold": 3.4e45,
 				"ConditionId": "vinylrecord"
 			},
 			"Reward": {
