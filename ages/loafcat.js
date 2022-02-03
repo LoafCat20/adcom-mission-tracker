@@ -10468,7 +10468,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 4,
+				"Threshold": 3,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
@@ -10510,7 +10510,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 123,
+				"Threshold": 12300,
 				"ConditionId": "erhu"
 			},
 			"Reward": {
@@ -10636,7 +10636,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 500000,
+				"Threshold": 5000000,
 				"ConditionId": "erhu"
 			},
 			"Reward": {
@@ -10762,7 +10762,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 100000,
+				"Threshold": 10000,
 				"ConditionId": "koto"
 			},
 			"Reward": {
@@ -10790,7 +10790,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 567000000000,
+				"Threshold": 5.67e19,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
@@ -10832,7 +10832,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6000000,
+				"Threshold": 12000000,
 				"ConditionId": "koto"
 			},
 			"Reward": {
@@ -10874,7 +10874,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 987000000000000000.0,
+				"Threshold": 9.87e23,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
@@ -10930,7 +10930,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 22000000,
+				"Threshold": 33000000,
 				"ConditionId": "koto"
 			},
 			"Reward": {
@@ -10986,7 +10986,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5e24,
+				"Threshold": 5e27,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
@@ -11084,7 +11084,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5e27,
+				"Threshold": 5e32,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
@@ -11154,7 +11154,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6900000,
+				"Threshold": 690000,
 				"ConditionId": "peking"
 			},
 			"Reward": {
@@ -11252,7 +11252,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9e28,
+				"Threshold": 9e35,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
@@ -11406,7 +11406,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.48e32,
+				"Threshold": 8.48e39,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
@@ -11546,7 +11546,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2e34,
+				"Threshold": 2e42,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
@@ -11630,7 +11630,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 615000000,
+				"Threshold": 515000000,
 				"ConditionId": "peking"
 			},
 			"Reward": {
@@ -11686,7 +11686,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.23e37,
+				"Threshold": 1.23e45,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
@@ -11742,7 +11742,7 @@ DATA["music-bal-6"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.43e38,
+				"Threshold": 5.43e47,
 				"ConditionId": "sheetmusic"
 			},
 			"Reward": {
