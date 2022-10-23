@@ -5971,7 +5971,7 @@
 				]
 			},
 			{
-				"GeneratorId": "militaryt11",
+				"GeneratorId": "mech",
 				"MaximumObjectivesForRank": [
 					0,
 					1,
@@ -6079,7 +6079,7 @@
 				]
 			},
 			{
-				"GeneratorId": "placebot11",
+				"GeneratorId": "nanomachine",
 				"MaximumObjectivesForRank": [
 					0,
 					1,
@@ -6615,7 +6615,7 @@
 					},
 					{
 						"Resource": "Potato",
-						"Qty": "1.0E+192"
+						"Qty": "1.0E+191"
 					},
 					{
 						"Resource": "Comrade",
@@ -6659,11 +6659,11 @@
 				"Cost": [
 					{
 						"Resource": "SkyFarm",
-						"Qty": "1.0E+27"
+						"Qty": "5.0E+28"
 					},
 					{
 						"Resource": "Potato",
-						"Qty": "1.0E+243"
+						"Qty": "1.0E+250"
 					},
 					{
 						"Resource": "Comrade",
@@ -6685,7 +6685,7 @@
 				"Unlock": {
 					"ConditionType": "ResourceQuantity",
 					"ConditionId": "skyfarm",
-					"Threshold": 5000000000000
+					"Threshold": 15000000000000
 				},
 				"IncludeInAll": true,
 				"Crit": {
@@ -7143,7 +7143,7 @@
 				"Cost": [
 					{
 						"Resource": "Airport",
-						"Qty": "1.0E+20"
+						"Qty": "1.0E+19"
 					},
 					{
 						"Resource": "Land",
@@ -7195,7 +7195,7 @@
 					},
 					{
 						"Resource": "Land",
-						"Qty": "1.0E+194"
+						"Qty": "1.0E+195"
 					},
 					{
 						"Resource": "Comrade",
@@ -7239,11 +7239,11 @@
 				"Cost": [
 					{
 						"Resource": "FusionPlant",
-						"Qty": "5.0E+28"
+						"Qty": "5.0E+29"
 					},
 					{
 						"Resource": "Land",
-						"Qty": "1.0E+250"
+						"Qty": "1.0E+254"
 					},
 					{
 						"Resource": "Comrade",
@@ -7265,7 +7265,7 @@
 				"Unlock": {
 					"ConditionType": "ResourceQuantity",
 					"ConditionId": "fusionplant",
-					"Threshold": 4000000000000
+					"Threshold": 8000000000000
 				},
 				"IncludeInAll": true,
 				"Crit": {
@@ -7723,7 +7723,7 @@
 					},
 					{
 						"Resource": "Ore",
-						"Qty": "1.0E+175"
+						"Qty": "1.0E+176"
 					},
 					{
 						"Resource": "Comrade",
@@ -7767,11 +7767,11 @@
 				"Cost": [
 					{
 						"Resource": "laserdrill",
-						"Qty": "1.00E+26"
+						"Qty": "5.00E+25"
 					},
 					{
 						"Resource": "Ore",
-						"Qty": "1.00E+213"
+						"Qty": "1.00E+210"
 					},
 					{
 						"Resource": "Comrade",
@@ -7793,7 +7793,7 @@
 				"Unlock": {
 					"ConditionType": "ResourceQuantity",
 					"ConditionId": "laserdrill",
-					"Threshold": 1200000000000
+					"Threshold": 1000000000000
 				},
 				"IncludeInAll": true,
 				"Crit": {
@@ -7819,7 +7819,7 @@
 					},
 					{
 						"Resource": "Ore",
-						"Qty": "1.00E+261"
+						"Qty": "1.00E+262"
 					},
 					{
 						"Resource": "Comrade",
@@ -7841,7 +7841,7 @@
 				"Unlock": {
 					"ConditionType": "ResourceQuantity",
 					"ConditionId": "magmaextractor",
-					"Threshold": 5000000000000
+					"Threshold": 6000000000000
 				},
 				"IncludeInAll": true,
 				"Crit": {
@@ -8247,7 +8247,7 @@
 					},
 					{
 						"Resource": "Weapon",
-						"Qty": "1.0E+160"
+						"Qty": "1.0E+157"
 					},
 					{
 						"Resource": "Comrade",
@@ -8295,7 +8295,7 @@
 					},
 					{
 						"Resource": "Weapon",
-						"Qty": "1.0E+193"
+						"Qty": "1.0E+190"
 					},
 					{
 						"Resource": "Comrade",
@@ -8331,19 +8331,19 @@
 				}
 			},
 			{
-				"Id": "militaryt11",
-				"Name": "Military T11",
-				"ResourceType": "militaryt11",
+				"Id": "mech",
+				"Name": "Mech",
+				"ResourceType": "mech",
 				"GeneratorType": "Manual",
 				"IndustryId": "munitions",
 				"Cost": [
 					{
 						"Resource": "Cyborg",
-						"Qty": "1.0E+28"
+						"Qty": "1.0E+27"
 					},
 					{
 						"Resource": "Weapon",
-						"Qty": "1.0E+226"
+						"Qty": "1.0E+220"
 					},
 					{
 						"Resource": "Comrade",
@@ -8365,7 +8365,7 @@
 				"Unlock": {
 					"ConditionType": "ResourceQuantity",
 					"ConditionId": "cyborg",
-					"Threshold": 1500000000000
+					"Threshold": 1200000000000
 				},
 				"IncludeInAll": true,
 				"Crit": {
@@ -8386,12 +8386,12 @@
 				"IndustryId": "munitions",
 				"Cost": [
 					{
-						"Resource": "MilitaryT11",
+						"Resource": "mech",
 						"Qty": "1.0E+31"
 					},
 					{
 						"Resource": "Weapon",
-						"Qty": "1.0E+265"
+						"Qty": "1.0E+267"
 					},
 					{
 						"Resource": "Comrade",
@@ -8399,21 +8399,21 @@
 					}
 				],
 				"Generate": {
-					"Resource": "militaryt11",
+					"Resource": "mech",
 					"Qty": 17
 				},
 				"BaseCompletionTime": 10240,
 				"Visible": [
 					{
 						"ConditionType": "ResourceQuantity",
-						"ConditionId": "militaryt11",
+						"ConditionId": "mech",
 						"Threshold": 2
 					}
 				],
 				"Unlock": {
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "militaryt11",
-					"Threshold": 6000000000000
+					"ConditionId": "mech",
+					"Threshold": 5000000000000
 				},
 				"IncludeInAll": true,
 				"Crit": {
@@ -8767,11 +8767,11 @@
 				"Cost": [
 					{
 						"Resource": "CoastGuard",
-						"Qty": "1.0E+19"
+						"Qty": "1.0E+20"
 					},
 					{
 						"Resource": "Medicine",
-						"Qty": "1.0E+138"
+						"Qty": "1.0E+136"
 					},
 					{
 						"Resource": "Comrade",
@@ -8841,7 +8841,7 @@
 				"Unlock": {
 					"ConditionType": "ResourceQuantity",
 					"ConditionId": "laboratory",
-					"Threshold": 300000000000
+					"Threshold": 400000000000
 				},
 				"IncludeInAll": true,
 				"Crit": {
@@ -8863,11 +8863,11 @@
 				"Cost": [
 					{
 						"Resource": "AirRescue",
-						"Qty": "1.0E+27"
+						"Qty": "2.0E+26"
 					},
 					{
 						"Resource": "Medicine",
-						"Qty": "1.0E+200"
+						"Qty": "1.0E+196"
 					},
 					{
 						"Resource": "Comrade",
@@ -8889,7 +8889,7 @@
 				"Unlock": {
 					"ConditionType": "ResourceQuantity",
 					"ConditionId": "airrescue",
-					"Threshold": 800000000000
+					"Threshold": 750000000000
 				},
 				"IncludeInAll": true,
 				"Crit": {
@@ -8903,19 +8903,19 @@
 				}
 			},
 			{
-				"Id": "placebot11",
-				"Name": "Placebo T11",
-				"ResourceType": "placebot11",
+				"Id": "nanomachine",
+				"Name": "Nanomachine",
+				"ResourceType": "nanomachine",
 				"GeneratorType": "Manual",
 				"IndustryId": "big farma",
 				"Cost": [
 					{
 						"Resource": "CloningLab",
-						"Qty": "5.0E+29"
+						"Qty": "5.0E+27"
 					},
 					{
 						"Resource": "Medicine",
-						"Qty": "1.0E+234"
+						"Qty": "1.0E+225"
 					},
 					{
 						"Resource": "Comrade",
@@ -8937,7 +8937,7 @@
 				"Unlock": {
 					"ConditionType": "ResourceQuantity",
 					"ConditionId": "cloninglab",
-					"Threshold": 2000000000000
+					"Threshold": 1200000000000
 				},
 				"IncludeInAll": true,
 				"Crit": {
@@ -8958,12 +8958,12 @@
 				"IndustryId": "big farma",
 				"Cost": [
 					{
-						"Resource": "PlaceboT11",
+						"Resource": "nanomachine",
 						"Qty": "5.0E+31"
 					},
 					{
 						"Resource": "Medicine",
-						"Qty": "1.0E+270"
+						"Qty": "1.0E+272"
 					},
 					{
 						"Resource": "Comrade",
@@ -8971,21 +8971,21 @@
 					}
 				],
 				"Generate": {
-					"Resource": "placebot11",
+					"Resource": "nanomachine",
 					"Qty": 18
 				},
 				"BaseCompletionTime": 12288,
 				"Visible": [
 					{
 						"ConditionType": "ResourceQuantity",
-						"ConditionId": "placebot11",
+						"ConditionId": "nanomachine",
 						"Threshold": 2
 					}
 				],
 				"Unlock": {
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "placebot11",
-					"Threshold": 7000000000000
+					"ConditionId": "nanomachine",
+					"Threshold": 4500000000000
 				},
 				"IncludeInAll": true,
 				"Crit": {
@@ -55006,7 +55006,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 7,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -55342,7 +55342,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 95,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -55958,7 +55958,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 13370,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -56266,7 +56266,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 654321,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -57246,7 +57246,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3600000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -57890,7 +57890,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 102000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -58254,7 +58254,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 568000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -59486,7 +59486,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 276000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -60158,7 +60158,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 879000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -61110,7 +61110,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 491000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -61390,7 +61390,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 30800000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -62664,7 +62664,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 172000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -62706,7 +62706,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 4,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -62720,7 +62720,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 865000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -62972,7 +62972,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 281000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -63042,7 +63042,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 8822,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -63350,7 +63350,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 736000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -63686,7 +63686,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 121212,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -63952,7 +63952,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 212000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -64008,7 +64008,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 2100000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -64022,7 +64022,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 5700000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -64260,7 +64260,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 54000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -64358,7 +64358,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 683000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -64596,7 +64596,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 255000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -64652,7 +64652,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 2550000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -64946,7 +64946,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 917000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -65002,7 +65002,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3270000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -65254,7 +65254,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 708000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -65296,7 +65296,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 75000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -65590,7 +65590,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 1110000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -65646,7 +65646,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3600000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -65884,7 +65884,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 465000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -65926,7 +65926,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 162000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -65940,7 +65940,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 2950000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -66192,7 +66192,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 304000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -66262,7 +66262,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 625000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -66570,7 +66570,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3090000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -67214,7 +67214,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 765000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -67480,7 +67480,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 925000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -67816,7 +67816,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 1230000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -67872,7 +67872,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3440000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -68194,7 +68194,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3120000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -68460,7 +68460,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 1570000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -68516,7 +68516,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3810000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -68530,7 +68530,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3540000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -68754,7 +68754,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 842000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -68810,7 +68810,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 2680000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -68880,7 +68880,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 5400000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -69104,7 +69104,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 110000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -69160,7 +69160,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3490000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -69174,7 +69174,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 4700000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -69706,7 +69706,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 372000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -69790,7 +69790,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 5850000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -70056,7 +70056,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 2650000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -70336,7 +70336,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 168000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -70406,7 +70406,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 4260000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -70462,7 +70462,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 4770000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -70742,7 +70742,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 1710000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -70770,7 +70770,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 2.5e16,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -70812,7 +70812,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 5120000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -71078,7 +71078,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 2130000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -71330,7 +71330,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 1390000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -71386,7 +71386,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 5510000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -71624,7 +71624,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 205000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -71694,7 +71694,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 4610000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -71988,7 +71988,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 561000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -72324,7 +72324,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 797000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -72380,7 +72380,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3830000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -72926,7 +72926,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 1590000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -72982,7 +72982,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 1470000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -73248,7 +73248,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 1660000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -73304,7 +73304,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 2630000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -73934,7 +73934,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3560000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -74242,7 +74242,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3110000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -74312,7 +74312,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 5420000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -74536,7 +74536,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 672000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -74606,7 +74606,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3190000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -74676,7 +74676,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 6540000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -75166,7 +75166,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 1290000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -75222,7 +75222,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 2460000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -75236,7 +75236,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 4930000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -75278,7 +75278,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 4e16,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -75516,7 +75516,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 1330000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -75824,7 +75824,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 918000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -75866,7 +75866,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 4160000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -75894,7 +75894,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 4290000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -76090,7 +76090,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 251000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -76160,7 +76160,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3390000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -76510,7 +76510,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3760000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -76818,7 +76818,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3070000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -77364,7 +77364,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 411000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -77462,7 +77462,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 4250000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -77742,7 +77742,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 1020000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -77756,7 +77756,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 3060000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -77812,7 +77812,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 5820000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -78022,7 +78022,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 843000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -78092,7 +78092,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 4030000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -78316,7 +78316,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 98300000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -78386,7 +78386,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 2650000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -78400,7 +78400,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 1770000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -78736,7 +78736,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 2680000000000,
-					"ConditionId": "placebot11"
+					"ConditionId": "nanomachine"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -79324,7 +79324,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 2320000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -79660,7 +79660,7 @@
 				"Condition": {
 					"ConditionType": "ResourceQuantity",
 					"Threshold": 5000000000000,
-					"ConditionId": "militaryt11"
+					"ConditionId": "mech"
 				},
 				"Reward": {
 					"Reward": "Gacha",
@@ -88570,11 +88570,11 @@
 			},
 			{
 				"Id": "RS0098",
-				"Name": "Potato T12 Common",
+				"Name": "Charles von Lionel",
 				"Description": "researcher.RS0098.desc",
 				"ModType": "GenManagerAndSpeedMult",
 				"TargetIds": [
-					"potatot12"
+					"mech"
 				],
 				"ExpoMultiplier": 1,
 				"ExpoGrowth": 2,
@@ -88588,11 +88588,11 @@
 			},
 			{
 				"Id": "RS0099",
-				"Name": "Military T11 Common",
+				"Name": "Dr. Frankie Vamper",
 				"Description": "researcher.RS0099.desc",
 				"ModType": "GenManagerAndSpeedMult",
 				"TargetIds": [
-					"militaryt11"
+					"nanomachine"
 				],
 				"ExpoMultiplier": 1,
 				"ExpoGrowth": 2,
@@ -88606,11 +88606,11 @@
 			},
 			{
 				"Id": "RS0100",
-				"Name": "Land T12 Common",
+				"Name": "Potato T12 Common",
 				"Description": "researcher.RS0100.desc",
 				"ModType": "GenManagerAndSpeedMult",
 				"TargetIds": [
-					"landt12"
+					"potatot12"
 				],
 				"ExpoMultiplier": 1,
 				"ExpoGrowth": 2,
@@ -88624,11 +88624,11 @@
 			},
 			{
 				"Id": "RS0101",
-				"Name": "Placebo T11 Common",
+				"Name": "Land T12 Common",
 				"Description": "researcher.RS0101.desc",
 				"ModType": "GenManagerAndSpeedMult",
 				"TargetIds": [
-					"placebot11"
+					"landt12"
 				],
 				"ExpoMultiplier": 1,
 				"ExpoGrowth": 2,
@@ -88636,7 +88636,7 @@
 				"CurveModifier": 0,
 				"BasePower": 0,
 				"Rarity": "Common",
-				"PlayerRankUnlock": 189,
+				"PlayerRankUnlock": 190,
 				"ResearchOutputType": "Constant",
 				"ResearchOutputRate": 1
 			},
@@ -88654,7 +88654,7 @@
 				"CurveModifier": 0,
 				"BasePower": 0,
 				"Rarity": "Common",
-				"PlayerRankUnlock": 202,
+				"PlayerRankUnlock": 204,
 				"ResearchOutputType": "Constant",
 				"ResearchOutputRate": 1
 			},
@@ -88672,7 +88672,7 @@
 				"CurveModifier": 0,
 				"BasePower": 0,
 				"Rarity": "Common",
-				"PlayerRankUnlock": 215,
+				"PlayerRankUnlock": 219,
 				"ResearchOutputType": "Constant",
 				"ResearchOutputRate": 1
 			},
@@ -88690,7 +88690,7 @@
 				"CurveModifier": 0,
 				"BasePower": 0,
 				"Rarity": "Common",
-				"PlayerRankUnlock": 229,
+				"PlayerRankUnlock": 235,
 				"ResearchOutputType": "Constant",
 				"ResearchOutputRate": 1
 			}
@@ -89202,9 +89202,9 @@
 				"SharedData": false
 			},
 			{
-				"Id": "military t11",
-				"Singular": "Military T11",
-				"Plural": "Military T11s",
+				"Id": "Mech",
+				"Singular": "Mech",
+				"Plural": "Mechs",
 				"Action": "Build",
 				"ActionIng": "Building",
 				"StartingQty": 1,
@@ -89322,9 +89322,9 @@
 				"SharedData": false
 			},
 			{
-				"Id": "placebot11",
-				"Singular": "Placebo T11",
-				"Plural": "Placebo T11s",
+				"Id": "nanomachine",
+				"Singular": "Nanomachine",
+				"Plural": "Nanomachines",
 				"Action": "Build",
 				"ActionIng": "Building",
 				"StartingQty": 1,
@@ -103164,26 +103164,18 @@
 ENGLISH_LOCALIZATION_STRING += String.raw`
 mission.resourcequantity.landt12.name=Land up to Twelve!
 mission.resourcequantity.landt12.simplename=Own Land T12s
-mission.resourcequantity.militaryt11.name=Military up to Eleven!
-mission.resourcequantity.militaryt11.simplename=Own Military T11s
 mission.resourcequantity.militaryt12.name=Military up to Twelve!
 mission.resourcequantity.militaryt12.simplename=Own Military T12s
 mission.resourcequantity.oret12.name=Ore up to Twelve!
 mission.resourcequantity.oret12.simplename=Own Ore T12s
-mission.resourcequantity.placebot11.name=Placebos up to Eleven!
-mission.resourcequantity.placebot11.simplename=Own Placebo T12s
 mission.resourcequantity.placebot12.name=Placebos up to Twelve!
 mission.resourcequantity.placebot12.simplename=Own Placebo T12s
 mission.resourcequantity.potatot12.name=Potatoes up to Twelve!
 mission.resourcequantity.potatot12.simplename=Own Potato T12s
-researcher.RS0098.flavor=I automate and speed up Potato T12s
-researcher.RS0098.name=Potato T12 Common
-researcher.RS0099.flavor=I automate and speed up Military T11s
-researcher.RS0099.name=Military T11 Common
-researcher.RS0100.flavor=I automate and speed up Land T12s
-researcher.RS0100.name=Land T12 Common
-researcher.RS0101.flavor=I automate and speed up Placebo T11s
-researcher.RS0101.name=Placebo T11 Common
+researcher.RS0100.flavor=I automate and speed up Potato T12s
+researcher.RS0100.name=Potato T12 Common
+researcher.RS0101.flavor=I automate and speed up Land T12s
+researcher.RS0101.name=Land T12 Common
 researcher.RS0102.flavor=I automate and speed up Ore T12s
 researcher.RS0102.name=Ore T12 Common
 researcher.RS0103.flavor=I automate and speed up Military T12s
@@ -103194,25 +103186,17 @@ resource.landt12.longdesc=Finally, you have unlocked a new tier of land that pro
 resource.landt12.plural=Land T12s
 resource.landt12.shortdesc=Produces Fusion Plants
 resource.landt12.singular=Land T12
-resource.militaryt11.longdesc=Finally, you have unlocked a new tier of military that produces Cyborgs!
-resource.militaryt11.plural=Military T11s
-resource.militaryt11.shortdesc=Produces Cyborgs
-resource.militaryt11.singular=Military T11
-resource.militaryt12.longdesc=Finally, you have unlocked a new tier of military that produces Military T11s!
+resource.militaryt12.longdesc=Finally, you have unlocked a new tier of military that produces Mechs!
 resource.militaryt12.plural=Military T12s
-resource.militaryt12.shortdesc=Produces Military T11s
+resource.militaryt12.shortdesc=Produces Mechs
 resource.militaryt12.singular=Military T12
 resource.oret12.longdesc=Finally, you have unlocked a new tier of ore that produces Magma Extractors!
 resource.oret12.plural=Ore T12s
 resource.oret12.shortdesc=Produces Magma Extractors
 resource.oret12.singular=Ore T12
-resource.placebot11.longdesc=Finally, you have unlocked a new tier of placebos that produces Cloning Labs!
-resource.placebot11.plural=Placebo T11s
-resource.placebot11.shortdesc=Produces Cloning Labs
-resource.placebot11.singular=Placebo T11
-resource.placebot12.longdesc=Finally, you have unlocked a new tier of placebos that produces Military T11s!
+resource.placebot12.longdesc=Finally, you have unlocked a new tier of placebos that produces Mechs!
 resource.placebot12.plural=Placebo T12s
-resource.placebot12.shortdesc=Produces Placebo T11s
+resource.placebot12.shortdesc=Produces Nanomachines
 resource.placebot12.singular=Placebo T12
 resource.potatot12.longdesc=Finally, you have unlocked a new tier of potatoes that produces Sky Farms!
 resource.potatot12.plural=Potato T12s
