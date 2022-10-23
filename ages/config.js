@@ -10,13 +10,41 @@ var THEME_ID_TITLE_OVERRIDES = {
   "fusioncareers": "Careers",
   "fusioninfrastructure": "Infrastructure",
   "fusioninnovation": "Innovation",
+  "timetravel": "Anniversary"
+};
+
+// Theme ID != Balance ID
+// This is exclusively seen in Ages for now.
+var THEME_ID_OVERRIDES = {
+  "architecture-bal-18": "fusionarchitecture",
+  "careers-bal-1": "fusioncareers",
+  "infrastructure-bal-17": "fusioninfrastructure",
+  "innovation-bal-1": "fusioninnovation",
+  "monster-bal-13": "halloween"
+};
+
+// Version for last balance update
+var BALANCE_UPDATE_VERSION = {
+  "main": "1.15",
+  "architecture-bal-18": "1.14",
+  "careers-bal-1": "1.15",
+  "christmas-bal-13": "1.14",
+  "egypt-bal-1": "1.14",
+  "infrastructure-bal-17": "1.14",
+  "innovation-bal-1": "1.14",
+  "japan-bal-2": "1.15",
+  "mexico-bal-2": "1.17",
+  "monster-bal-13": "1.12",
+  "music-bal-6": "1.17",
+  "scandinavia-bal-21": "1.17",
+  "timetravel-bal-15": "1.16"
 };
 
 // For game-specific documentation and social channels
 var SOCIAL_HELP_URLS = {
-  "faq": "https://docs.google.com/document/d/1CVjPm2FAcCThtZyfwguFIj8ICpmOr8tLA_fANXOdtmU/",
+  "faq": "https://docs.google.com/document/d/1ioNAqUrwWRGMuPFyctSU7dP5lT-H0h4iBtoigi7fgwg/",
   "discord": "https://discord.gg/XCnZKvBdVf",
-  "reddit": "https://reddit.com/r/AdventureAges/",
+  "reddit": "https://reddit.com/r/AdventureAges/"
 }
 
 // So that AdCom can have "CurrentMode" and Ages can have "Ages-CurrentMode"

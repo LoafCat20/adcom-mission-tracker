@@ -26,7 +26,7 @@ function loadModeSettings() {
   // + ?rank=X
   //   -  X can be "event" (for current event), "main", or a motherland rank (1-MAX_RANK)
   // + ?mode=X
-  //   -  X can be "event", "main", or "schedule" (intended to depricate rank=X for these values)
+  //   -  X can be "event", "main", or "schedule" (intended to deprecate rank=X for these values)
   // + ?event=X
   //   -  X is any event's EndTime, in milliseconds from epoch UTC.
   // + ?eventOverride=X
@@ -105,6 +105,9 @@ function loadModeSettings() {
           EndTimeMillis: now,
           Rewards: Array(20) // empty values, which the tracker handles gracefully
         };
+        if (THEME_ID_OVERRIDES[keyValue[1]]) {
+          eventScheduleInfo['ThemeId'] = THEME_ID_OVERRIDES[keyValue[1]];
+        }
         $('#overrideWarning').addClass("show");
         $('#alertReset').remove(); // don't show the Reset Alert ever in this mode.  Hacky.
       }
@@ -151,13 +154,16 @@ function loadModeSettings() {
   $(`#mode-select-main,#mode-select-event`).removeClass("active");
   if (currentMode == "main" || trueCurrentEvent.EndTimeMillis == eventScheduleInfo.EndTimeMillis) {
     $(`#mode-select-${currentMode}`).addClass("active");
+  } else if (window.location.href.search('eventOverride') !== -1) {
+    $('#mode-select-eventbal').addClass("active");
   } else {
     $('#mode-select-schedule').addClass("active");
   }
   
   // Set up the icon for the "All Generators" button in the navbar
   let firstResourceId = getData().Resources[0].Id;
-  $('#viewAllGeneratorsButton').attr('style', `background-image:url('${getImageDirectory()}/${firstResourceId}.png`);
+  $('#viewAllGeneratorsButton').attr('style', `background-image:url('${getImageDirectory()}/${firstResourceId}.png')`);
+  $('#viewBalanceInfoButton').attr('style', `background-image:url('${getImageDirectory()}/schedule.png')`);
   
   // Show a "datamined" warning for future ranks that aren't in the current version
   if ((DATAMINE_WARNING_MIN_RANK && currentMode == "main" && currentMainRank >= DATAMINE_WARNING_MIN_RANK) ||
@@ -215,6 +221,61 @@ function getSchedulePopupEvent(eventInfo) {
         </div>
       </div>
     </div>`;
+}
+
+// get HTML for all balances
+function getAllEventBalanceHtml() {
+  let data = `
+  <div class="card">
+    <div class="card-header scheduleHeader" data-toggle="collapse" data-target="#scheduleBody-main" aria-controls="scheduleBody-main">
+      <img src='img/main/schedule.png' class="scheduleIconLarge">
+      ${THEME_ID_TITLE_OVERRIDES["main"]}
+      <span class="float-right"><span class="ml-2">(+)</span></span>
+    </div>
+    <div class="collapse" id="scheduleBody-main">
+      <div class="card-body">
+        <div><span class="float-right"><a href="?mode=main">View in Tracker</a></span></div>
+        <div><strong>Last Update: </strong>${BALANCE_UPDATE_VERSION['main']}</div>
+      </div>
+    </div>
+  </div>
+`;
+
+  for (i of Object.keys(DATA)) {
+    const lteId = i;
+
+    if (i === "event" || i === "main") {
+      continue;
+    }
+
+    let themeId = lteId.split('-')[0];
+    
+    if (THEME_ID_OVERRIDES[lteId]) {
+      themeId = THEME_ID_OVERRIDES[lteId];
+    }
+
+    let balanceLastUpdate = BALANCE_UPDATE_VERSION[lteId] ? BALANCE_UPDATE_VERSION[lteId] : "unknown";
+
+    const name = ENGLISH_MAP[`lte.${themeId}.name`];
+
+    data += `
+      <div class="card">
+        <div class="card-header scheduleHeader" data-toggle="collapse" data-target="#scheduleBody-${themeId}" aria-controls="scheduleBody-${themeId}">
+          <img src='img/event/${themeId}/schedule.png' class="scheduleIconLarge">
+          ${name}
+          <span class="float-right"><span class="ml-2">(+)</span></span>
+        </div>
+        <div class="collapse" id="scheduleBody-${themeId}">
+          <div class="card-body">
+            <div><span class="float-right"><a href="?mode=event&eventOverride=${lteId}">View in Tracker</a></span></div>
+            <div><strong>Last Update: </strong>${balanceLastUpdate}</div>
+          </div>
+        </div>
+      </div>
+    `;
+  }
+
+  return data;
 }
 
 // Returns the current event info based on the time and the schedule's cycles
@@ -632,6 +693,24 @@ function initializePopups() {
     });
   });
   
+  $('#balanceInfoPopup').on('show.bs.modal', function () {
+    // Fill in the body
+    let modal = $(this);
+    modal.find('#balanceInfoPopupBody').html(getBalanceInfoPopup());
+  });
+  
+  $('#airdropTablePopup').on('show.bs.modal', function () {
+    // Fill in the body
+    let modal = $(this);
+    modal.find('#airdropTablePopupBody').html(getAirdropTablePopup());
+  });
+  
+  $('#capsuleTablePopup').on('show.bs.modal', function () {
+    // Fill in the body
+    let modal = $(this);
+    modal.find('#capsuleTablePopupBody').html(getCapsuleTablePopup());
+  });
+  
   $('#allInfoPopup').on('show.bs.modal', function (event) {
     let button = $(event.relatedTarget); // Button that triggered the modal
     let activeTabId = button.data('tab'); // Extract info from data-* attributes
@@ -656,6 +735,16 @@ function initializePopups() {
     // Fill in the body
     let modal = $(this);
     modal.find('#schedulePopupBody').html(getSchedulePopup());
+    
+    $(function () {
+      $('[data-toggle="popover"]').popover();
+    });
+  });
+  
+  $('#eventBalancePopup').on('show.bs.modal', function (event) {
+    // Fill in the body
+    let modal = $(this);
+    modal.find('#eventBalanceBody').html(getAllEventBalanceHtml());
     
     $(function () {
       $('[data-toggle="popover"]').popover();
@@ -948,7 +1037,11 @@ function getHelpHtml(isPopup) {
   result += `<li class="my-1">Click ${isPopup? "the Completed tab's" : "this tab's"} toggle at the top-right &UpperRightArrow; to <strong>hide Completed</strong> missions.</li>`;
   result += `<li class="my-1">Click the capsule <span class="resourceIcon wood">&nbsp;</span> next to a mission to access its <strong>Calculator</strong>.</li>`;
   result += `<li class="my-1">If the capsule <span class="scriptedRewardInfo resourceIcon wood">&nbsp;</span> is circled, you can also view the <strong>pre-scripted rewards</strong>.</li>`;
-  result += `<li class="my-1">Click the <span class="resourceIcon" style="background-image:url('${getImageDirectory()}/${firstResourceId}.png')">&nbsp;</span> at the top to view all <strong>Resources/Generators</strong>, and <span class="resourceIcon cardIcon">&nbsp;</span> to view all <strong>${wordForResearchers}</strong>.</li>`;
+  result += `<li class="my-1">The header contains four sub-menus with different features:<ol>`
+  result += `<li class="my-1">Click <span class="resourceIcon" style="background-image:url('${getImageDirectory()}/schedule.png')">&nbsp;</span> to view infomation about the <strong>current balance</strong>.</li>`
+  result += `<li class="my-1">Click <span class="resourceIcon" style="background-image:url('${getImageDirectory()}/${firstResourceId}.png')">&nbsp;</span> to view all <strong>Resources/Generators</strong>.</li>`
+  result += `<li class="my-1">Click <span class="resourceIcon cardIcon">&nbsp;</span> to view all <strong>${wordForResearchers}</strong>.</li>`;
+  result += `<li class="my-1">Click <span class="resourceIcon comradesPerSec">&nbsp;</span> to view all <strong>${resourceName('comrade', false).toLowerCase()} trades</strong>.</li></ol>`;
   result += `<li class="my-1">Got <strong>questions?</strong>  Check out the <a href="${SOCIAL_HELP_URLS['faq']}">Game Guide/FAQ</a>, <a href="${SOCIAL_HELP_URLS['discord']}">Discord</a>, or <a href="${SOCIAL_HELP_URLS['reddit']}">Reddit</a>.</li></ul>`;
   
   return result;
@@ -1482,7 +1575,7 @@ function researcherName(researcherIdOrObj) {
     id = researcherIdOrObj.Id;
   }
   
-  return ENGLISH_MAP[`researcher.${id}.name`]
+  return ENGLISH_MAP[`researcher.${id}.name`].replaceAll('"', "'")
 }
 
 function upperCaseFirstLetter(name) {
@@ -2235,6 +2328,177 @@ function updateImportButton() {
   }
 }
 
+function getBalanceInfoPopup() {
+  const themeId = eventScheduleInfo['ThemeId'];
+  const lteId = eventScheduleInfo['BalanceId'];
+  let name;
+  let description;
+  let lastUpdate = BALANCE_UPDATE_VERSION[lteId] ? BALANCE_UPDATE_VERSION[lteId] : "unknown";
+
+  if (currentMode === 'event') {
+    name = ENGLISH_MAP[`lte.${themeId}.name`];
+    description = ENGLISH_MAP[`lte.${themeId}.desc`];
+  } else {
+    if ((window.location.href).includes('/ages')) {
+      name = 'Ages';
+      description = 'The main environment of AdVenture Ages!';
+      lastUpdate = BALANCE_UPDATE_VERSION['main'];
+    } else {
+      name = 'Motherland';
+      description = 'The main environment of AdVenture Communist!';
+      lastUpdate = BALANCE_UPDATE_VERSION['main'];
+    }
+  }
+
+  let airdrops = "";
+  let packs = "";
+  let packAdvisory = "";
+  let totalPrice = 0;
+  let adRemovalString = "Not available for this balance";
+  let goldenAirdrop = "";
+
+  // airdrop totals (ad and non-ad)
+  for (let i of getData()['AirDrops']) {
+    let airdropType;
+    let adStatus;
+
+    switch (i['AirDropRewardType']) {
+      case 'CoreResource':
+        airdropType = "Random Resource";
+        break;
+      case 'PrimaryCurrency':
+        airdropType = resourceName('comrade');
+        break;
+      case 'SoftCurrency':
+        airdropType = resourceName('darkscience');
+        break;
+      case 'HardCurrency':
+        airdropType = resourceName('gold');
+        break;
+    }
+
+    if (i['IsAd']) {
+      adStatus = `${i['MaxAdsPerInterval']} ads per cycle`;
+    } else {
+      adStatus = 'non-ad';
+    }
+
+    let weight = `${i['Weight']}%`;
+
+    let airdropLine = `<li>${airdropType} (${adStatus}; ${weight} weight)</li>`;
+    airdrops += airdropLine;
+  }
+
+  // get information about packs
+  for (let i of getData()['Store']) {
+    if (i['ItemClass'] === 'VirtualCurrencyBundle') {
+      // check if "Scheduled"
+      let _continue = true;
+      
+      if (getData()['ScheduledOffers']) {
+        for (let j of getData()['ScheduledOffers']) {
+          if (i['InternalId'] === j['ItemId']) {
+            // this is a scheduled offer; only display if in time period
+            let currentUnixTS = (new Date()).getTime() / 1000;
+            if (!(currentUnixTS >= j['StartDateTimestamp'] && currentUnixTS < j['EndDateTimestamp'])) {
+              _continue = false; // this is a nested loop, so we have to do some trickery.
+            }
+          }
+        }
+      }
+      
+      if (_continue) {
+        let name = i['Name'];
+        let price = `US$${(i['Price'] / 100).toFixed(2)}`;
+        totalPrice += i['Price'];
+        let rewardsString = "";
+
+        for (let j of i['Rewards']) {
+          // three reward types: "Gacha" (capsule), "Resources", and "Researcher"
+          let rewardContent = "";
+
+          switch (j['Reward']) {
+            case "Gacha":
+              rewardContent = `x${bigNum(j['Value'])} ${ENGLISH_MAP[`gacha.${j['RewardId']}.name`]} Capsule`;
+              break;
+            case "Resources":
+              let resourceImageUrl = "";
+              if (j['RewardId'] === 'darkscience') {
+                resourceImageUrl = "<img class='rewardIcon' src='img/event/darkscience.png'>";
+              } else if (j['RewardId'] === 'gold') {
+                resourceImageUrl = "<img class='rewardIcon' src='img/main/gold.png'>";
+              }
+
+              if (j['Value'] === 1) {
+                rewardContent = `x${bigNum(j['Value'])} ${resourceImageUrl} ${ENGLISH_MAP[`resource.${j['RewardId']}.singular`]}`;
+              } else {
+                rewardContent = `x${bigNum(j['Value'])} ${resourceImageUrl} ${ENGLISH_MAP[`resource.${j['RewardId']}.plural`]}`;
+              }
+              break;
+            case "Researcher":
+              let researcherInfo = getResearcherBasicDetails(getData().Researchers.filter(r => r.Id == j['RewardId'])[0]);
+              rewardContent = `x${bigNum(j['Value'])} <div class='resourceIcon cardIcon'>&nbsp;</div> ${ENGLISH_MAP[`researcher.${j['RewardId']}.name`]} (${researcherInfo})`;
+              break;
+            default:
+              rewardContent = 'Unknown Reward Type (please report this or check console for more information)';
+              console.warn(`Unknown Reward Type: ${JSON.stringify(j)}`);
+              break;
+          }
+
+          rewardsString += `<li>${rewardContent}</li>`
+        }
+        packs += `<li>${name} (${price})<ul>${rewardsString}</ul></li>`;
+      }
+    } else if (i['ItemClass'] === 'AdFreeAirdrop') {
+      // ad free airdrops with a price added in 6.11. (only for AdCom as of 25 April 2022)
+      let adRemovalPrice = i['Price'];
+      if (i['Currency'] === 'RM') {
+        adRemovalString = `US$${(adRemovalPrice / 100).toFixed(2)}`;
+      } else if (i['Currency'] === 'GO') {
+        adRemovalString = `${adRemovalPrice} Gold`;
+      }
+    }
+  }
+
+  if (GAME_SAVE_KEY_PREFIX !== "Ages-") {
+    // golden airdrops still work for the time being, this warning will be re-added if they are ever nerfed
+    //goldenAirdrop = `<p id="goldenAirdrop"><strong>Golden Airdrop Boost: </strong>${adRemovalString}</p><br><p><strong>Important Notice:</strong> It is strongly recommended NOT to buy the Golden Airdrop purchase as of 6.15 due to its negative effects in events. The Golden Airdrop purchase automatically skips the ads for large comrade and dark science airdrops, a useful feature, with the drawback of not giving you the choice to decline the ad. It is good strategy to decline these ads (especially at the beginning of the event) until you get better comrade rares. Due to a bug, you could originally get infinite ad-value airdrops via this purchase, which is the only thing that made it worth the buy. If you previously bought Golden Airdrops, I strongly recommend you to no longer do this and send feedback to HyperHippo to restore this functionality or something similar that makes the purchase worth it.</p>`;
+    goldenAirdrop = `<p id="goldenAirdrop"><strong>Golden Airdrop Boost: </strong>${adRemovalString}</p>`;
+  }
+  
+  if (currentMode === "main") {
+    packAdvisory = "<p><strong>Warning: </strong>Main offers are generated dynamically. Please refer to the wiki for a more human-readable synopsis on which offers you might see.</p>"
+  }
+
+  return `
+    <fieldset>
+      <legend>${name}</legend>
+      <p><em>${description}</em></p>
+      <p><strong>Balance Last Updated: </strong>${lastUpdate}</p>
+    </fieldset>
+    <hr>
+    <fieldset>
+      <legend>Airdrops</legend>
+      <ul>
+        ${airdrops}
+      </ul>
+      <p>The primary cycle for airdrops lasts: ${getEta(getData()['AirDropsConfig'][0]['ClaimCountResetInterval'])}
+      <br>The ad cycle for airdrops lasts: ${getEta(getData()['AirDropsConfig'][0]['AdCountResetInterval'])}
+      </p>
+      ${goldenAirdrop}
+    </fieldset>
+    <hr>
+    <fieldset>
+      <legend>Packs</legend>
+      ${packAdvisory}
+      <ul>
+        ${packs}
+      </ul>
+      <p><strong>Total Cost: </strong>US$${(totalPrice / 100).toFixed(2)}</p>
+    </fieldset>
+  `
+}
+
 function getAllIndustryPopup() {
   let resourceId = getData().Resources[0].Id;
   let wordForTrades = upperCaseFirstLetter(ENGLISH_MAP['conditionmodel.trade.plural']);
@@ -2257,6 +2521,182 @@ function getAllIndustryPopup() {
       <div class="tab-pane fade" id="all-researchers" role="tabpanel" aria-labelledby="all-researchers-tab">${getResearchersTab()}</div>
       <div class="tab-pane fade" id="all-trades" role="tabpanel" aria-labelledby="all-trades-tab">${getTradesTab()}</div>
     </div>`;
+}
+
+function getAirdropTablePopup() {
+  return `<div class="keyboardShortcutHolder"><table class="table">${getAirdropTable(getData()['AirDrops'], getData()['Ranks'].length)}</table></div>`
+}
+
+function getAirdropTable(airdrops, ranks) {
+  let rows = [];
+  let minimumRankDeploy = getData()['AirDropsConfig'][0]['StartCondition']['Threshold'];
+
+  for (let i = 0; i <= ranks; i++) {
+    let cols = [];
+    if (i <= 0) {
+      // header
+      cols.push(`<th>Rank</th>`);
+
+      let airdropType;
+      
+      for (let j = 0; j < airdrops.length; j++) {
+        switch (airdrops[j]['AirDropRewardType']) {
+          case 'CoreResource':
+            airdropType = "Resource";
+            break;
+          case 'PrimaryCurrency':
+            airdropType = resourceName('comrade');
+            break;
+          case 'SoftCurrency':
+            if (currentMode === 'event') {
+              airdropType = resourceName('darkscience');
+            } else {
+              airdropType = resourceName('scientist');
+            }
+            break;
+          case 'HardCurrency':
+            airdropType = resourceName('gold');
+            break;
+        }
+        if (airdrops[j]['IsAd']) {
+          airdropType += " Ad"
+        }
+
+        cols.push(`<th>${airdropType}</th>`);
+      }
+    } else if (i < minimumRankDeploy) {
+      // don't display ranks without Airdrops
+      continue;
+    } else {
+      // iterate through possible airdrops
+      cols.push(`<td>${i}</td>`);
+      for (let j = 0; j < airdrops.length; j++) {
+        if (airdrops[j]['AirDropRewardType'] === 'SoftCurrency' || airdrops[j]['AirDropRewardType'] === 'HardCurrency') {
+          cols.push(`<td>${getAirdropValue(airdrops[j], i)}</td>`);
+        } else {
+          cols.push(`<td>${getEta(getAirdropValue(airdrops[j], i))}</td>`);
+        }
+      }
+    }
+
+    let row = cols.join('');
+    rows.push(`<tr>${row}</tr>`);
+  }
+
+  return rows.join('');
+}
+
+function getAirdropValue(airdrops, rank) {
+  // Thanks to Alyce for deriving this formula.
+  let A = airdrops['RewardCalculation']['A'];
+  let B = airdrops['RewardCalculation']['B'];
+  let C = airdrops['RewardCalculation']['C'];
+  let D = airdrops['RewardCalculation']['D'];
+  let computedRaw = -A * Math.pow(B, (-C * rank)) + D + A;
+  let computedGame = Math.round(computedRaw / 5) * 5; // the game rounds to the nearest multiple of 5
+
+  return computedGame;
+}
+
+function getCapsuleTablePopup() {
+  if (currentMode !== 'event') {
+    return "<p>Coming soon for this mode!</p>"
+  }
+  let capsuleRoot = getData()['GachaLootTable'];
+  let output = [];
+
+  for (let i = 0; i < capsuleRoot.length; i++) {
+    if (capsuleRoot[i]['Type'] === 'Normal') {
+      // capsule has rank-variable rewards, so we are interested in reporting its contents
+      let gachaName = `gacha.${capsuleRoot[i]['Id']}.name.simple`;
+      output.push(`<h6>${ENGLISH_MAP[gachaName]} Capsule</h6><div class="keyboardShortcutHolder"><table class="table">${getCapsuleTable(capsuleRoot[i], getData()['Ranks'].length)}</table></div>`)
+    }
+  }
+
+  return output.join('');
+}
+
+function getCapsuleTable(capsule, ranks) {
+  let rows = [];
+  let mode = currentMode; // we need different behavior if it's an Event or Evergreen
+  let ranksRoot = getData()['Ranks'];
+
+  for (let i = 0; i <= ranks; i++) {
+    let cols = [];
+    if (i <= 0) {
+      // header
+      let jsonKeys = Object.keys(capsule);
+
+      cols.push(`<th>Rank</th>`);
+      cols.push(`<th>Cards</th>`);
+      cols.push(`<th>Common</th>`);
+      
+      for (let j = 0; j < jsonKeys.length; j++) {
+        if (jsonKeys[j].endsWith("Weight") && jsonKeys[j].indexOf("CardWeight") === -1 && capsule[jsonKeys[j]] !== -1) {
+          // possible candidate for weight rarity
+          let replacedName = jsonKeys[j].replace('Weight', '').replace('Lte', '');
+          cols.push(`<th>${replacedName}</th>`);
+        }
+      }
+
+      if (mode === "event") {
+        cols.push(`<th>${resourceName('darkscience')}</th>`);
+        cols.push(`<th>${resourceName('trophy')}</th>`);
+      } else {
+        cols.push(`<th>${resourceName('science')}</th>`);
+      }
+    } else {
+      // iterate through capsule rewards
+      cols.push(`<td>${i}</td>`);
+      cols.push(`<td>${Math.round(capsule['CardWeight'] * ranksRoot[i - 1]['NormalGachaMultiplier'])}</td>`);
+      cols.push(`<td>${getCapsuleDistribution(capsule, ranksRoot[i - 1], "LteCommon")}</td>`);
+      cols.push(`<td>${getCapsuleDistribution(capsule, ranksRoot[i - 1], "LteRare")}</td>`);
+      cols.push(`<td>${Math.ceil(capsule['ScienceMin'] * ranksRoot[i - 1]['NormalGachaMultiplierScience'])}&#8211;${Math.ceil(capsule['ScienceMax'] * ranksRoot[i - 1]['NormalGachaMultiplierScience'])}</td>`);
+      cols.push(`<td>${capsule['TrophyMin'] * ranksRoot[i - 1]['GachaMultiplierTrophy']}</td>`);
+    }
+
+    let row = cols.join('');
+    rows.push(`<tr>${row}</tr>`);
+  }
+
+  return rows.join('');
+}
+
+// Very bad code that only works for Events so far. Todo: analyze Evergreen capsule rewards and implement a symbiotic solution.
+function getCapsuleDistribution(capsule, rank, rarity) {
+  let n = Math.round(capsule['CardWeight'] * rank['NormalGachaMultiplier']);
+  let rareCountBase = Math.round(Math.floor(n / capsule['LteRareWeight']));
+  let rareCountOneUp = (n % capsule['LteRareWeight']) / capsule['LteRareWeight'];
+  let excludeNextOneUp = false;
+
+  if (n % capsule['LteRareWeight'] === 0) {
+    excludeNextOneUp = true;
+  }
+
+  if (rarity.indexOf("Common") !== -1) {
+    // common
+    if (!excludeNextOneUp) {
+      return `${n - rareCountBase - 1} (${percentageConversion(rareCountOneUp)})<br>${n - rareCountBase} (${percentageConversion(1 - rareCountOneUp)})`;
+    } else {
+      return `${n - rareCountBase} (${percentageConversion(1)})`;
+    }
+  } else {
+    // rare
+    if (!excludeNextOneUp) {
+      return `${rareCountBase} (${percentageConversion(1 - rareCountOneUp)})<br>${rareCountBase + 1} (${percentageConversion(rareCountOneUp)})`;
+    } else {
+      return `${rareCountBase} (${percentageConversion(1)})`;
+    }
+  }
+}
+
+// quick helper function to convert float to percentage
+function percentageConversion(f) {
+  let fp = parseFloat(f);
+  fp *= 100;
+  fp = fp.toFixed(0);
+  let fs = fp.toString() + "%";
+  return fs
 }
 
 // Returns html for the calculator's sub-tab where you input generator and resource counts.
@@ -3289,9 +3729,11 @@ function getProductionSimDataFromForm() {
   setupSimDataGenerators(simData, industryId, formValues);
   
   // Having 0 qty of every Generator is degenerate.  Let's at least start with 1 of the first.
+  /*
   if (hasNoGenerators(simData)) {
     simData.Counts[simData.Generators[1].Id] = 1; // Generator[0] is the comradegenerator
   }
+  */
   
   simData.Config.Autobuy = $('#configAutobuy').is(':checked');
   simData.Config.ComradeLimited = $('#configComradeLimited').is(':checked');
@@ -3558,11 +4000,11 @@ function calcOffline(simData) {
   continuously running it.  This can make long offline sessions more effective than online.
 
   This method uses a binary search to calculate offline production, using a maximum range
-  of [2^0, 2^63] seconds, and calls the actual offline simulation method as needed.
+  of [2^0, 2^53] seconds, and calls the actual offline simulation method as needed.
 */
 function calcOfflineProduction(simData) {
   const INITIAL_LOW_BOUND = 0;
-  const INITIAL_HIGH_BOUND = Math.pow(2, 63);
+  const INITIAL_HIGH_BOUND = Math.pow(2, 53);
   const ACCURACY = 1;  // Final result will be within ACCURACY of correct answer.
 
   let requirement = getOfflineResourceGoal(simData);
@@ -3625,8 +4067,7 @@ function getOfflineResourceGoal(simData) {
   
   if (condition.ConditionType == "ResourcesEarnedSinceSubscription") {
     let resourceProgress = simData.Counts["resourceProgress"] || 0;
-    let currentResource = simData.Counts[condition.ConditionId] || 0;
-    return condition.Threshold - resourceProgress + currentResource;
+    return condition.Threshold - resourceProgress;
     
   } else if (condition.ConditionType == "ResourceQuantity") {
     let generator = simData.Generators.find(g => g.Id == condition.ConditionId);

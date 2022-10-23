@@ -2,16 +2,16 @@
 <html>
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142480721-1"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-37R6V8R8CG"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'UA-142480721-1');
+    gtag('config', 'G-37R6V8R8CG');
   </script>
 
-  <title>Adventure Ages Mission Tracker</title>
+  <title>AdVenture Ages Mission Tracker</title>
   <link id="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="../missions_base.css" rel="stylesheet">
@@ -28,9 +28,13 @@
         <a href="?mode=event" class="dropdown-item" id="mode-select-event" title="Switch to Current Event"><img class="scheduleIcon" src="img/event/egypt/schedule.png"> Event</a>
         <div class="dropdown-divider"></div>
         <a href="#" class="dropdown-item" id="mode-select-schedule" data-toggle="modal" data-target="#schedulePopup" title="View Schedule"><img class="scheduleIcon" src="img/shared/calendar.png"> Schedule</a>
+        <a href="#" class="dropdown-item" id="mode-select-eventbal" data-toggle="modal" data-target="#eventBalancePopup" title="View All Events"><img class="scheduleIcon" src="img/shared/calendar.png"> All Events</a>
       </ul>
     </span>
     <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a href="#" class="nav-link" data-toggle="modal" data-target="#balanceInfoPopup" data-tab="balance-info-tab" title="View Balance Info"><div id="viewBalanceInfoButton" class="resourceIcon">&nbsp;</div></a>
+      </li>
       <li class="nav-item">
         <a href="#" class="nav-link" data-toggle="modal" data-target="#allInfoPopup" data-tab="all-generators-tab" title="View Generators"><div id="viewAllGeneratorsButton" class="resourceIcon">&nbsp;</div></a>
       </li>
@@ -53,6 +57,10 @@
           <h6 class="dropdown-header text-center">Progress</h6>
           <button class="dropdown-item" data-toggle="modal" data-target="#rankPopup" onclick="focusRankSelectPrompt()">Advance To Rank</button>
           <button class="dropdown-item" data-toggle="modal" data-target="#dataPopup">Reset Data</button>
+          <div class="dropdown-divider"></div>
+          <h6 class="dropdown-header text-center">Tables</h6>
+          <button class="dropdown-item" data-toggle="modal" data-target="#airdropTablePopup">Airdrops by Rank</button>
+          <button class="dropdown-item" data-toggle="modal" data-target="#capsuleTablePopup">Capsules by Rank</button>
           <div class="dropdown-divider"></div>
           <h6 class="dropdown-header text-center">Help</h6>
           <button class="dropdown-item" data-toggle="modal" data-target="#helpPopup">General Help</button>
@@ -90,6 +98,21 @@
       </div>
     </div>
   </div>
+  <div class="modal fade" id="balanceInfoPopup" tabindex="-1" role="dialog" aria-labelledby="allInfoTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="allInfoTitle">Balance Information</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div id="balanceInfoPopupBody"></div>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="modal fade" id="allInfoPopup" tabindex="-1" role="dialog" aria-labelledby="allInfoTitle" aria-hidden="true">
     <div class="modal-dialog" role="document">
       <div class="modal-content">
@@ -118,6 +141,21 @@
           <div class="alert alert-info mb-4 collapse">This is where I would put any schedule notifcations and remove collapse.</div>
           <div class="alert alert-info mb-4 collapse">The following schedule is from an unreleased version and subject to change.</div>
           <div id="schedulePopupBody"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="eventBalancePopup" tabindex="-1" role="dialog" aria-labelledby="eventBalancePopupTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="eventBalanceTitle">All Balances</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div id="eventBalanceBody"></div>
         </div>
       </div>
     </div>
@@ -152,6 +190,36 @@
       </div>
     </div>
   </div>
+  <div class="modal fade" id="airdropTablePopup" tabindex="-1" role="dialog" aria-labelledby="airdropTablePopupTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="airdropTablePopupTitle">Airdrop Tables</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div id="airdropTablePopupBody"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="capsuleTablePopup" tabindex="-1" role="dialog" aria-labelledby="capsuleTablePopupTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="capsuleTableTitle">Capsule Tables</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div id="capsuleTablePopupBody"></div>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="modal fade" id="helpPopup" tabindex="-1" role="dialog" aria-labelledby="helpPopupTitle" aria-hidden="true">
     <div class="modal-dialog" role="document">
       <div class="modal-content">
@@ -182,7 +250,7 @@
       </div>
     </div>
   </div>
-  <div id="alertNoSchedule" class="alert alert-warning collapse mx-2 my-2" role="alert">There is no additional schedule data.  Please contact /u/Zephyron1237 to update the schedule.</div>
+  <div id="alertNoSchedule" class="alert alert-warning collapse mx-2 my-2" role="alert">There is no additional schedule data.  Please contact Enigma#2989 to update the schedule.</div>
   <div id="alertUnconfirmed" class="alert alert-warning collapse mx-2 my-2" role="alert">This mission list has been datamined from a future version and may not be final.</div>
   <div id="alertFakeEvent" class="alert alert-warning collapse mx-2 my-2" role="alert">This event is new content, and will be added to the Tracker shortly before the event begins.</div>
   <div id="overrideWarning" class="alert alert-warning collapse mx-2 my-2" role="alert">You are in <strong>Event Override</strong> mode.  Event progress is temporary.</div>
@@ -198,19 +266,19 @@
      <table class="small text-muted">
       <tr>
        <td class="px-2"><img class="scheduleIcon" src="../img/main/schedule.png" title="AdVenture Communist"></td>
-       <td class="px-2"><a href='https://docs.google.com/document/d/1a314ZQM1f4ggFCtsC__Nb3B_1Hrc02cS0ZhY7_T08v8/'>Game Guide/FAQ</a></td>
-       <td class="px-2"><a href='https://loafcat20.github.io/adcom-mission-tracker/'>Missions</a></td>
-       <td class="px-2"><a href='https://zephyron1237.github.io/adcom-capsule-tracker/'>Capsules</a></td>
+       <td class="px-2"><a href='/adcom-mission-tracker/guide.html?product=adcom'>Game Guide/FAQ</a></td>
+       <td class="px-2"><a href='/adcom-mission-tracker/'>Missions</a></td>
+       <td class="px-2"><a href='/adcom-capsule-tracker/'>Capsules</a></td>
       </tr>
       <tr>
        <td class="px-2"><img class="scheduleIcon" src="img/main/schedule.png" title="AdVenture Ages"></td>
-       <td class="px-2"><a href='https://docs.google.com/document/d/1CVjPm2FAcCThtZyfwguFIj8ICpmOr8tLA_fANXOdtmU/'>Game Guide/FAQ</a></td>
+       <td class="px-2"><a href='/adcom-mission-tracker/guide.html?product=ages'>Game Guide/FAQ</a></td>
        <td class="px-2">Missions</td>
-       <td class="px-2"><a href='https://zephyron1237.github.io/adcom-capsule-tracker/ages/'>Capsules</a></td>
+       <td class="px-2"><a href='/adcom-capsule-tracker/ages/'>Capsules</a></td>
       </tr>
      </table>
      <small class="text-muted ml-2">
-     Issues?  Suggestions?  Want to contribute?  Project on <a href='https://github.com/loafcat20/adcom-mission-tracker'>GitHub</a>.  Version 8 "Future's Future"
+     Issues?  Suggestions?  Want to contribute?  Project on <a href='https://github.com/darrenrs/adcom-mission-tracker'>GitHub</a>.
      </small>
     </div>
   </footer>
@@ -227,6 +295,5 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script src="config.js"></script>
 <script src="data.js"></script>
-<script src="loafcat.js"></script>
 <script src="../missions.js"></script>
 </html>
