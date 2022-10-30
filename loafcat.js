@@ -26837,7 +26837,7 @@
 			"Rank": 74,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3000000000,
+				"Threshold": 30000000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -28097,7 +28097,7 @@
 			"Rank": 79,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.1,
+				"Threshold": 7.3e121,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -29455,8 +29455,8 @@
 			"Rank": 84,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7800000000,
-				"ConditionId": "artillery"
+				"Threshold": 3400000000,
+				"ConditionId": "battleship"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -30925,7 +30925,7 @@
 			"Rank": 89,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 13000000000,
+				"Threshold": 6500000000,
 				"ConditionId": "battleship"
 			},
 			"Reward": {
@@ -31261,7 +31261,7 @@
 			"Rank": 90,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1800000000,
+				"Threshold": 18000000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -32101,7 +32101,7 @@
 			"Rank": 93,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5600000000,
+				"Threshold": 10200000000,
 				"ConditionId": "battleship"
 			},
 			"Reward": {
@@ -32395,7 +32395,7 @@
 			"Rank": 94,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 8600000000,
+				"Threshold": 12900000000,
 				"ConditionId": "battleship"
 			},
 			"Reward": {
@@ -33558,7 +33558,7 @@
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 4400000000,
-				"ConditionId": "coldstorage"
+				"ConditionId": "cropduster"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -34482,7 +34482,7 @@
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 25000000000,
-				"ConditionId": "nuclearplant"
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -35293,7 +35293,7 @@
 			"Rank": 103,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.28e162,
+				"Threshold": 2.56e162,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -39018,7 +39018,7 @@
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 75000000000,
-				"ConditionId": "uraniummine"
+				"ConditionId": "ozonecollector"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -40263,7 +40263,7 @@
 			"Rank": 119,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1e171,
+				"Threshold": 1e172,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -41383,7 +41383,7 @@
 			"Rank": 122,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 300000000000,
+				"Threshold": 200000000000,
 				"ConditionId": "bomber"
 			},
 			"Reward": {
@@ -43735,7 +43735,7 @@
 			"Rank": 129,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.37e182,
+				"Threshold": 7.4e182,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -69873,7 +69873,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 81000000000,
+				"Threshold": 118000000000,
 				"ConditionId": "laserdrill"
 			},
 			"Reward": {
@@ -69887,7 +69887,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.43e194,
+				"Threshold": 9.61e195,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -69943,7 +69943,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.47e222,
+				"Threshold": 3.47e228,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -69957,7 +69957,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.44e206,
+				"Threshold": 3.44e215,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -69971,8 +69971,8 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 462000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 12100000000000,
+				"ConditionId": "skyfarm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -69985,7 +69985,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1080000000000,
+				"Threshold": 1160000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -69999,7 +69999,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.22e234,
+				"Threshold": 2.35e235,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -70013,7 +70013,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.52e219,
+				"Threshold": 9.49e226,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -70041,7 +70041,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1220000000000,
+				"Threshold": 122000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -70055,7 +70055,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2650000000000,
+				"Threshold": 1950000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -70069,7 +70069,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.62e260,
+				"Threshold": 8.62e263,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -70083,7 +70083,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.79e247,
+				"Threshold": 9.79e250,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -70097,7 +70097,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5460000000000,
+				"Threshold": 2730000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -70111,7 +70111,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.37e243,
+				"Threshold": 3.43e245,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -70125,7 +70125,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 25000000000000,
+				"Threshold": 12500000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -70139,7 +70139,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.83e247,
+				"Threshold": 7.83e249,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -70167,7 +70167,7 @@
 			"Rank": 211,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 12200000000000,
+				"Threshold": 9660000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -70181,7 +70181,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 219000000000,
+				"Threshold": 235000000000,
 				"ConditionId": "bomber"
 			},
 			"Reward": {
@@ -70195,7 +70195,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 87,
+				"Threshold": 85,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -70223,7 +70223,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.94e198,
+				"Threshold": 5.94e201,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -70237,7 +70237,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 608000000000,
+				"Threshold": 709000000000,
 				"ConditionId": "laserdrill"
 			},
 			"Reward": {
@@ -70279,8 +70279,8 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 153000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 10900000000000,
+				"ConditionId": "skyfarm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -70293,7 +70293,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 71000,
+				"Threshold": 62000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -70307,7 +70307,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.1e233,
+				"Threshold": 4.22e234,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -70321,7 +70321,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.01e217,
+				"Threshold": 5.05e223,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -70335,7 +70335,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 168000000,
+				"Threshold": 329000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -70349,7 +70349,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5390000000000,
+				"Threshold": 2130000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -70377,7 +70377,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.69e227,
+				"Threshold": 2.69e233,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -70391,7 +70391,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4130000000000,
+				"Threshold": 5130000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -70405,7 +70405,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4260000000000,
+				"Threshold": 2750000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -70433,7 +70433,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 22900000000000,
+				"Threshold": 11700000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -70461,7 +70461,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4770000000000,
+				"Threshold": 1960000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -70475,7 +70475,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.86e249,
+				"Threshold": 4.35e252,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -70489,7 +70489,7 @@
 			"Rank": 212,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.08e271,
+				"Threshold": 8.14e272,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -70531,7 +70531,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.09e233,
+				"Threshold": 4.09e227,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -70559,7 +70559,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.74e214,
+				"Threshold": 9.74e217,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -70573,7 +70573,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 578000000000,
+				"Threshold": 698000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -70601,7 +70601,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.38e245,
+				"Threshold": 4.38e248,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -70615,7 +70615,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 819000000000,
+				"Threshold": 919000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -70629,7 +70629,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 866000000000,
+				"Threshold": 1730000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -70685,8 +70685,8 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1480000000000,
-				"ConditionId": "cloninglab"
+				"Threshold": 301000000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -70699,7 +70699,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3830000000000,
+				"Threshold": 4830000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -70713,7 +70713,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.26e240,
+				"Threshold": 2.26e243,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -70727,7 +70727,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.43e259,
+				"Threshold": 9.43e262,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -70741,7 +70741,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1710000000000,
+				"Threshold": 1480000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -70755,7 +70755,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.54e267,
+				"Threshold": 7.54e268,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -70769,7 +70769,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 25000000000000000.0,
+				"Threshold": 4000000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -70797,7 +70797,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.62e270,
+				"Threshold": 2.62e273,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -70811,7 +70811,7 @@
 			"Rank": 213,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5120000000000,
+				"Threshold": 3200000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -70839,7 +70839,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 78,
+				"Threshold": 77,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -70867,7 +70867,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.28e212,
+				"Threshold": 9.28e215,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -70895,7 +70895,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.84e223,
+				"Threshold": 1.84e229,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -70909,7 +70909,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4470000000000,
+				"Threshold": 8460000000000,
 				"ConditionId": "skyfarm"
 			},
 			"Reward": {
@@ -70923,7 +70923,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 193000000000,
+				"Threshold": 479000000000,
 				"ConditionId": "cloninglab"
 			},
 			"Reward": {
@@ -70937,7 +70937,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 72000,
+				"Threshold": 64000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -70965,7 +70965,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.16e230,
+				"Threshold": 6.34e234,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -70979,7 +70979,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3680000000000,
+				"Threshold": 1340000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -70993,8 +70993,8 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1380000000000,
-				"ConditionId": "cloninglab"
+				"Threshold": 276000000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71007,7 +71007,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.53e240,
+				"Threshold": 1.53e246,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -71021,7 +71021,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.92e239,
+				"Threshold": 5.92e242,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -71035,7 +71035,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4030000000000,
+				"Threshold": 2030000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -71049,7 +71049,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 15400000000000,
+				"Threshold": 7710000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -71063,7 +71063,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.84e251,
+				"Threshold": 8.84e257,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -71077,7 +71077,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2130000000000,
+				"Threshold": 1710000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -71091,7 +71091,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 10300000000000,
+				"Threshold": 5720000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -71105,8 +71105,8 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2,
-				"ConditionId": "militaryt12"
+				"Threshold": 4800000000000,
+				"ConditionId": "mech"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71119,7 +71119,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.76e273,
+				"Threshold": 2.76e274,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -71133,7 +71133,7 @@
 			"Rank": 214,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.12e263,
+				"Threshold": 1.12e266,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -71161,8 +71161,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 226000000000,
-				"ConditionId": "laboratory"
+				"Threshold": 43700000000,
+				"ConditionId": "fusionplant"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71175,8 +71175,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.32e228,
-				"ConditionId": "land"
+				"Threshold": 3.66e212,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71189,8 +71189,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2240000000000,
-				"ConditionId": "skyfarm"
+				"Threshold": 292000000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71203,7 +71203,7 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.62e221,
+				"Threshold": 6.51e227,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -71217,8 +71217,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 446000000000,
-				"ConditionId": "cyborg"
+				"Threshold": 6350000000000,
+				"ConditionId": "skyfarm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71231,8 +71231,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.52e207,
-				"ConditionId": "medicine"
+				"Threshold": 6.25e241,
+				"ConditionId": "land"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71245,8 +71245,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.74e242,
-				"ConditionId": "land"
+				"Threshold": 9.4e247,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71259,7 +71259,7 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 666000000000,
+				"Threshold": 1370000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -71273,8 +71273,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1950000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 913000000000,
+				"ConditionId": "cloninglab"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71287,8 +71287,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.13e222,
-				"ConditionId": "medicine"
+				"Threshold": 9.02e250,
+				"ConditionId": "land"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71301,8 +71301,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.06e252,
-				"ConditionId": "land"
+				"Threshold": 5.16e236,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71329,8 +71329,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1390000000000,
-				"ConditionId": "mech"
+				"Threshold": 5040000000000,
+				"ConditionId": "potatot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71343,8 +71343,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 11700000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 663000000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71357,7 +71357,7 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.71e248,
+				"Threshold": 4.05e251,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -71371,8 +71371,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.89e239,
-				"ConditionId": "medicine"
+				"Threshold": 9.58e263,
+				"ConditionId": "land"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71385,8 +71385,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5510000000000,
-				"ConditionId": "mech"
+				"Threshold": 11400000000000,
+				"ConditionId": "potatot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71399,8 +71399,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.94e264,
-				"ConditionId": "land"
+				"Threshold": 6.58e250,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71427,8 +71427,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.54e272,
-				"ConditionId": "potato"
+				"Threshold": 1.63e248,
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71441,8 +71441,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.99e248,
-				"ConditionId": "medicine"
+				"Threshold": 1.94e274,
+				"ConditionId": "land"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71455,8 +71455,8 @@
 			"Rank": 215,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1877,
-				"ConditionId": "militaryt12"
+				"Threshold": 22800000000000,
+				"ConditionId": "potatot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71469,7 +71469,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 228000000000,
+				"Threshold": 258000000000,
 				"ConditionId": "bomber"
 			},
 			"Reward": {
@@ -71483,7 +71483,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 86,
+				"Threshold": 85,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -71511,7 +71511,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.85e221,
+				"Threshold": 7.85e224,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -71525,7 +71525,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2590000000000,
+				"Threshold": 4590000000000,
 				"ConditionId": "skyfarm"
 			},
 			"Reward": {
@@ -71539,7 +71539,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.19e207,
+				"Threshold": 7.19e213,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -71553,7 +71553,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 661000000000,
+				"Threshold": 761000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -71567,7 +71567,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2380000000000,
+				"Threshold": 2870000000000,
 				"ConditionId": "fusionplant"
 			},
 			"Reward": {
@@ -71581,7 +71581,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 73000,
+				"Threshold": 66000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -71595,7 +71595,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.12e252,
+				"Threshold": 7.12e255,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -71609,7 +71609,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.35e238,
+				"Threshold": 4.1e239,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -71623,7 +71623,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 205000000000,
+				"Threshold": 922000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -71637,8 +71637,8 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2230000000000,
-				"ConditionId": "landt12"
+				"Threshold": 7790000000000,
+				"ConditionId": "fusionplant"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71651,7 +71651,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.63e230,
+				"Threshold": 5.63e233,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -71665,7 +71665,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.83e246,
+				"Threshold": 8.83e249,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -71679,7 +71679,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 13100000000000,
+				"Threshold": 7860000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -71693,7 +71693,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4610000000000,
+				"Threshold": 3450000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -71707,7 +71707,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.58e242,
+				"Threshold": 1.58e245,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -71721,7 +71721,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 8350000000000,
+				"Threshold": 5350000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -71735,7 +71735,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 26400000000000,
+				"Threshold": 15800000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -71749,7 +71749,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3150000000000,
+				"Threshold": 2820000000000,
 				"ConditionId": "oret12"
 			},
 			"Reward": {
@@ -71763,7 +71763,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.35e255,
+				"Threshold": 9.85e253,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -71777,7 +71777,7 @@
 			"Rank": 216,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.84e250,
+				"Threshold": 8.53e253,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -71805,8 +71805,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 43700000000,
-				"ConditionId": "fusionplant"
+				"Threshold": 254000000000,
+				"ConditionId": "laboratory"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71819,8 +71819,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.66e209,
-				"ConditionId": "weapon"
+				"Threshold": 5.32e225,
+				"ConditionId": "land"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71833,8 +71833,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 401000000000,
-				"ConditionId": "airrescue"
+				"Threshold": 2740000000000,
+				"ConditionId": "skyfarm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71847,7 +71847,7 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.51e224,
+				"Threshold": 2.62e230,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -71861,8 +71861,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3850000000000,
-				"ConditionId": "skyfarm"
+				"Threshold": 645000000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71875,8 +71875,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.25e241,
-				"ConditionId": "land"
+				"Threshold": 6.52e216,
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71889,8 +71889,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.4e224,
-				"ConditionId": "weapon"
+				"Threshold": 6.52e245,
+				"ConditionId": "land"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71903,7 +71903,7 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 868000000000,
+				"Threshold": 1510000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -71917,8 +71917,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 513000000000,
-				"ConditionId": "cloninglab"
+				"Threshold": 195000000000,
+				"ConditionId": "potatot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71931,8 +71931,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.02e250,
-				"ConditionId": "land"
+				"Threshold": 7.13e228,
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71945,8 +71945,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.34e234,
-				"ConditionId": "weapon"
+				"Threshold": 7.06e252,
+				"ConditionId": "land"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71973,8 +71973,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9040000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 1880000000000,
+				"ConditionId": "mech"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -71987,8 +71987,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 561000000000,
-				"ConditionId": "nanomachine"
+				"Threshold": 7020000000000,
+				"ConditionId": "potatot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72001,7 +72001,7 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.05e251,
+				"Threshold": 5.71e254,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -72015,8 +72015,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.58e263,
-				"ConditionId": "land"
+				"Threshold": 3.89e242,
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72029,8 +72029,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 19200000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 4510000000000,
+				"ConditionId": "mech"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72043,8 +72043,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.58e253,
-				"ConditionId": "weapon"
+				"Threshold": 9.94e267,
+				"ConditionId": "land"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72057,7 +72057,7 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2820000000000,
+				"Threshold": 1570000000000,
 				"ConditionId": "oret12"
 			},
 			"Reward": {
@@ -72071,8 +72071,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.56e246,
-				"ConditionId": "medicine"
+				"Threshold": 2.36e273,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72085,8 +72085,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.94e274,
-				"ConditionId": "land"
+				"Threshold": 1.98e250,
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72099,8 +72099,8 @@
 			"Rank": 217,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 30200000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 4,
+				"ConditionId": "militaryt12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72113,8 +72113,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 524000000000,
-				"ConditionId": "skyfarm"
+				"Threshold": 295000000000,
+				"ConditionId": "laboratory"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72127,8 +72127,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 85,
-				"ConditionId": "ore"
+				"Threshold": 82,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72155,8 +72155,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.09e235,
-				"ConditionId": "land"
+				"Threshold": 1.78e238,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72169,8 +72169,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 447000000000,
-				"ConditionId": "airrescue"
+				"Threshold": 1380000000000,
+				"ConditionId": "fusionplant"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72183,8 +72183,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.05e219,
-				"ConditionId": "weapon"
+				"Threshold": 9.96e232,
+				"ConditionId": "ore"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72197,8 +72197,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 206000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 310000000000,
+				"ConditionId": "cloninglab"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72211,8 +72211,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 533000000000,
-				"ConditionId": "magmaextractor"
+				"Threshold": 1090000000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72225,7 +72225,7 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 74000,
+				"Threshold": 68000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -72239,8 +72239,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.37e223,
-				"ConditionId": "medicine"
+				"Threshold": 8.86e249,
+				"ConditionId": "land"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72253,8 +72253,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.37e251,
-				"ConditionId": "land"
+				"Threshold": 3.31e258,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72267,8 +72267,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6170000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 162000000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72281,8 +72281,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3330000000000,
-				"ConditionId": "magmaextractor"
+				"Threshold": 1590000000000,
+				"ConditionId": "mech"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72295,8 +72295,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.55e240,
-				"ConditionId": "weapon"
+				"Threshold": 4.25e250,
+				"ConditionId": "ore"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72309,8 +72309,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.65e258,
-				"ConditionId": "land"
+				"Threshold": 4.73e264,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72323,8 +72323,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 797000000000,
-				"ConditionId": "nanomachine"
+				"Threshold": 2720000000000,
+				"ConditionId": "landt12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72337,8 +72337,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 16700000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 1470000000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72351,8 +72351,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.03e250,
-				"ConditionId": "weapon"
+				"Threshold": 3.28e259,
+				"ConditionId": "ore"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72365,8 +72365,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2300000000000,
-				"ConditionId": "oret12"
+				"Threshold": 2,
+				"ConditionId": "militaryt12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72379,8 +72379,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3830000000000,
-				"ConditionId": "nanomachine"
+				"Threshold": 6950000000000,
+				"ConditionId": "landt12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72393,8 +72393,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 12400000000000,
-				"ConditionId": "landt12"
+				"Threshold": 21400000000000,
+				"ConditionId": "potatot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72407,8 +72407,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.18e277,
-				"ConditionId": "potato"
+				"Threshold": 3.46e251,
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72421,8 +72421,8 @@
 			"Rank": 218,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.34e259,
-				"ConditionId": "weapon"
+				"Threshold": 4.27e270,
+				"ConditionId": "ore"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72449,7 +72449,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 119000000000,
+				"Threshold": 167000000000,
 				"ConditionId": "laserdrill"
 			},
 			"Reward": {
@@ -72463,7 +72463,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.29e204,
+				"Threshold": 1.29e207,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -72477,7 +72477,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2650000000000,
+				"Threshold": 3150000000000,
 				"ConditionId": "skyfarm"
 			},
 			"Reward": {
@@ -72491,7 +72491,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.81e217,
+				"Threshold": 8.81e220,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -72519,7 +72519,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.17e231,
+				"Threshold": 9.17e234,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -72533,7 +72533,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.29e217,
+				"Threshold": 3.29e220,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -72547,8 +72547,8 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1250000000000,
-				"ConditionId": "cyborg"
+				"Threshold": 125000000000,
+				"ConditionId": "mech"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72561,7 +72561,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3160000000000,
+				"Threshold": 949000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -72575,7 +72575,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.52e241,
+				"Threshold": 7.52e244,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -72589,7 +72589,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.96e228,
+				"Threshold": 3.96e231,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -72617,7 +72617,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2890000000000,
+				"Threshold": 1890000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -72631,7 +72631,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 12900000000000,
+				"Threshold": 7740000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -72645,7 +72645,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.08e245,
+				"Threshold": 5.08e248,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -72659,7 +72659,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.53e255,
+				"Threshold": 2.53e259,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -72673,7 +72673,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7070000000000,
+				"Threshold": 5310000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -72687,7 +72687,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.52e245,
+				"Threshold": 4.52e249,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -72701,7 +72701,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6920000,
+				"Threshold": 69,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -72715,7 +72715,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.36e276,
+				"Threshold": 9.54e275,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -72729,7 +72729,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.62e270,
+				"Threshold": 3.61e272,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -72743,7 +72743,7 @@
 			"Rank": 219,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 16100000000000,
+				"Threshold": 12200000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -72757,8 +72757,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 245000000000,
-				"ConditionId": "laboratory"
+				"Threshold": 524000000000,
+				"ConditionId": "skyfarm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72771,8 +72771,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 84,
-				"ConditionId": "weapon"
+				"Threshold": 85,
+				"ConditionId": "ore"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72799,8 +72799,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.78e241,
-				"ConditionId": "potato"
+				"Threshold": 8.09e235,
+				"ConditionId": "land"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72813,8 +72813,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1130000000000,
-				"ConditionId": "fusionplant"
+				"Threshold": 553000000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72827,8 +72827,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.96e229,
-				"ConditionId": "ore"
+				"Threshold": 2.05e222,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72841,8 +72841,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 154000000000,
-				"ConditionId": "cloninglab"
+				"Threshold": 10300000000000,
+				"ConditionId": "skyfarm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72855,8 +72855,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 996000000000,
-				"ConditionId": "cyborg"
+				"Threshold": 1210000000000,
+				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72869,7 +72869,7 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 75000,
+				"Threshold": 70000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -72883,8 +72883,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.86e249,
-				"ConditionId": "land"
+				"Threshold": 5.37e229,
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72897,8 +72897,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.31e255,
-				"ConditionId": "potato"
+				"Threshold": 8.37e254,
+				"ConditionId": "land"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72911,8 +72911,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1620000000000,
-				"ConditionId": "cloninglab"
+				"Threshold": 3170000000000,
+				"ConditionId": "potatot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72925,8 +72925,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1590000000000,
-				"ConditionId": "mech"
+				"Threshold": 4310000000000,
+				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72939,8 +72939,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.25e247,
-				"ConditionId": "ore"
+				"Threshold": 4.55e243,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72953,8 +72953,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.73e261,
-				"ConditionId": "potato"
+				"Threshold": 5.65e261,
+				"ConditionId": "land"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72967,8 +72967,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5120000000000,
-				"ConditionId": "landt12"
+				"Threshold": 1180000000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72981,8 +72981,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1470000000000,
-				"ConditionId": "nanomachine"
+				"Threshold": 11300000000000,
+				"ConditionId": "potatot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -72995,8 +72995,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.29e258,
-				"ConditionId": "ore"
+				"Threshold": 4.03e250,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -73009,8 +73009,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 16300000,
-				"ConditionId": "militaryt12"
+				"Threshold": 2300000000000,
+				"ConditionId": "oret12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -73023,7 +73023,7 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 11600000000000,
+				"Threshold": 2830000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -73037,8 +73037,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 28500000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 8270000000000,
+				"ConditionId": "landt12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -73051,8 +73051,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.43e252,
-				"ConditionId": "medicine"
+				"Threshold": 7.43e277,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -73065,8 +73065,8 @@
 			"Rank": 220,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.27e273,
-				"ConditionId": "ore"
+				"Threshold": 1.34e256,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -73079,7 +73079,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.95e206,
+				"Threshold": 9.95e209,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -73093,7 +73093,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 76000,
+				"Threshold": 72000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -73135,7 +73135,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.06e241,
+				"Threshold": 1.06e238,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -73149,7 +73149,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 552000000000,
+				"Threshold": 752000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -73163,7 +73163,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 184000000000,
+				"Threshold": 460000000000,
 				"ConditionId": "cloninglab"
 			},
 			"Reward": {
@@ -73177,7 +73177,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.84e235,
+				"Threshold": 5.84e238,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -73191,7 +73191,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.38e253,
+				"Threshold": 9.38e256,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -73233,8 +73233,8 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1870000000000,
-				"ConditionId": "cloninglab"
+				"Threshold": 374000000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -73247,7 +73247,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1660000000000,
+				"Threshold": 2670000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -73261,7 +73261,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.58e262,
+				"Threshold": 3.58e265,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -73303,7 +73303,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2630000000000,
+				"Threshold": 1630000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -73331,7 +73331,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.32e273,
+				"Threshold": 9.32e274,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -73345,7 +73345,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5630000000000,
+				"Threshold": 3120000000000,
 				"ConditionId": "oret12"
 			},
 			"Reward": {
@@ -73359,7 +73359,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.32e275,
+				"Threshold": 2.64e273,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -73373,7 +73373,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.73e253,
+				"Threshold": 6.55e253,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -73387,7 +73387,7 @@
 			"Rank": 221,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 50700000000,
+				"Threshold": 50700,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -73415,7 +73415,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 88,
+				"Threshold": 87,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -73429,7 +73429,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 248000000000,
+				"Threshold": 291000000000,
 				"ConditionId": "bomber"
 			},
 			"Reward": {
@@ -73443,7 +73443,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.41e244,
+				"Threshold": 8.41e247,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -73471,7 +73471,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.33e214,
+				"Threshold": 8.33e217,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -73499,8 +73499,8 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2110000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 12900000000000,
+				"ConditionId": "skyfarm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -73513,7 +73513,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3530000000000,
+				"Threshold": 4480000000000,
 				"ConditionId": "fusionplant"
 			},
 			"Reward": {
@@ -73527,7 +73527,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1330000000000,
+				"Threshold": 2490000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -73541,7 +73541,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.87e238,
+				"Threshold": 4.87e241,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -73555,7 +73555,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.06e232,
+				"Threshold": 2.06e235,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -73583,7 +73583,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3580000000000,
+				"Threshold": 2590000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -73597,7 +73597,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4920000000000,
+				"Threshold": 5920000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -73611,7 +73611,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.77e268,
+				"Threshold": 8.28e269,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -73625,7 +73625,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.18e249,
+				"Threshold": 4.18e252,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -73639,7 +73639,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.65e246,
+				"Threshold": 6.63e247,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -73653,7 +73653,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 11400000000000,
+				"Threshold": 9110000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -73667,7 +73667,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 27500000000000,
+				"Threshold": 22100000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -73681,7 +73681,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6640000000000,
+				"Threshold": 3980000000000,
 				"ConditionId": "oret12"
 			},
 			"Reward": {
@@ -73695,7 +73695,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.93e264,
+				"Threshold": 7.93e261,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -73709,7 +73709,7 @@
 			"Rank": 222,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.18e254,
+				"Threshold": 7.43e255,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -73723,7 +73723,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.87e226,
+				"Threshold": 6.87e229,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -73737,7 +73737,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 77000,
+				"Threshold": 74000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -73751,7 +73751,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 269000000000,
+				"Threshold": 331000000000,
 				"ConditionId": "laboratory"
 			},
 			"Reward": {
@@ -73765,7 +73765,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 233000000000,
+				"Threshold": 138000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -73779,7 +73779,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.83e247,
+				"Threshold": 1.83e244,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -73793,7 +73793,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1890000000000,
+				"Threshold": 2380000000000,
 				"ConditionId": "fusionplant"
 			},
 			"Reward": {
@@ -73807,7 +73807,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 486000000000,
+				"Threshold": 969000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -73835,7 +73835,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.64e223,
+				"Threshold": 1.64e226,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -73849,7 +73849,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.38e256,
+				"Threshold": 1.38e259,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -73877,7 +73877,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3250000000000,
+				"Threshold": 3850000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -73891,7 +73891,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3090000000000,
+				"Threshold": 2060000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -73905,7 +73905,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.85e238,
+				"Threshold": 5.87e240,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -73919,7 +73919,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.28e266,
+				"Threshold": 1.77e268,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -73933,7 +73933,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3560000000000,
+				"Threshold": 4560000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -73947,7 +73947,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1680000000000,
+				"Threshold": 1180000000000,
 				"ConditionId": "oret12"
 			},
 			"Reward": {
@@ -73961,7 +73961,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9740000000000,
+				"Threshold": 6740000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -73989,7 +73989,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 545000000000,
+				"Threshold": 5450000,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -74003,7 +74003,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.45e278,
+				"Threshold": 7.45e277,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -74017,7 +74017,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.42e275,
+				"Threshold": 1.36e275,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -74031,7 +74031,7 @@
 			"Rank": 223,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 18200000000000,
+				"Threshold": 16300000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -74059,7 +74059,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 90,
+				"Threshold": 88,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -74073,7 +74073,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 92900000000,
+				"Threshold": 189000000000,
 				"ConditionId": "fusionplant"
 			},
 			"Reward": {
@@ -74087,7 +74087,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.26e211,
+				"Threshold": 3.26e214,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -74115,7 +74115,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.36e235,
+				"Threshold": 3.36e238,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -74143,7 +74143,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 590000000000,
+				"Threshold": 883000000000,
 				"ConditionId": "cloninglab"
 			},
 			"Reward": {
@@ -74157,7 +74157,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3240000000000,
+				"Threshold": 32400000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -74171,8 +74171,8 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1470000000000,
-				"ConditionId": "cyborg"
+				"Threshold": 734000000000,
+				"ConditionId": "mech"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -74185,7 +74185,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.95e253,
+				"Threshold": 6.95e256,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -74199,7 +74199,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.52e250,
+				"Threshold": 5.52e253,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -74227,7 +74227,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 12600000000000,
+				"Threshold": 7560000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -74241,7 +74241,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3110000000000,
+				"Threshold": 4110000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -74283,7 +74283,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.42e265,
+				"Threshold": 5.42e266,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -74297,7 +74297,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 23300000000000,
+				"Threshold": 20900000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -74311,7 +74311,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5420000000000,
+				"Threshold": 3250000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -74325,7 +74325,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1010000000000,
+				"Threshold": 1010000000,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -74339,7 +74339,7 @@
 			"Rank": 224,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.06e277,
+				"Threshold": 8.06e276,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -74367,7 +74367,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.05e238,
+				"Threshold": 4.05e232,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -74381,7 +74381,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 78000,
+				"Threshold": 76000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -74395,7 +74395,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 142000000000,
+				"Threshold": 213000000000,
 				"ConditionId": "laserdrill"
 			},
 			"Reward": {
@@ -74423,7 +74423,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.37e223,
+				"Threshold": 9.37e226,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -74437,7 +74437,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 17000000000,
+				"Threshold": 340000000000,
 				"ConditionId": "cloninglab"
 			},
 			"Reward": {
@@ -74451,8 +74451,8 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 937000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 11700000000000,
+				"ConditionId": "skyfarm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -74479,7 +74479,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.75e241,
+				"Threshold": 9.75e244,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -74493,7 +74493,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.51e238,
+				"Threshold": 5.51e241,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -74521,7 +74521,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9630000000000,
+				"Threshold": 4630000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -74535,7 +74535,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 672000000000,
+				"Threshold": 840000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -74563,7 +74563,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.69e248,
+				"Threshold": 7.69e251,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -74591,7 +74591,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 20700000000000,
+				"Threshold": 16600000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -74605,7 +74605,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3190000000000,
+				"Threshold": 2240000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -74633,7 +74633,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 15900000000000,
+				"Threshold": 12700000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -74675,7 +74675,7 @@
 			"Rank": 225,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6540000000000,
+				"Threshold": 3970000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -74703,7 +74703,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 88,
+				"Threshold": 87,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -74717,7 +74717,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 295000000000,
+				"Threshold": 362000000000,
 				"ConditionId": "laboratory"
 			},
 			"Reward": {
@@ -74731,7 +74731,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.97e222,
+				"Threshold": 7.97e225,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -74745,7 +74745,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3710000000000,
+				"Threshold": 5210000000000,
 				"ConditionId": "skyfarm"
 			},
 			"Reward": {
@@ -74773,7 +74773,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.88e220,
+				"Threshold": 3.88e223,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -74787,8 +74787,8 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1450000000000,
-				"ConditionId": "cyborg"
+				"Threshold": 145000000000,
+				"ConditionId": "mech"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -74801,7 +74801,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1390000000000,
+				"Threshold": 2010000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -74815,7 +74815,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5830000000000,
+				"Threshold": 1830000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -74843,7 +74843,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.92e256,
+				"Threshold": 2.92e259,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -74871,7 +74871,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4640000000000,
+				"Threshold": 5540000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -74885,7 +74885,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 16900000000000,
+				"Threshold": 13500000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -74899,7 +74899,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.36e251,
+				"Threshold": 3.36e254,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -74913,7 +74913,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.63e247,
+				"Threshold": 9.65e247,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -74941,7 +74941,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3510000000000,
+				"Threshold": 2760000000000,
 				"ConditionId": "oret12"
 			},
 			"Reward": {
@@ -74955,7 +74955,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1180000000000,
+				"Threshold": 118000000000,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -74969,7 +74969,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 33900000000000,
+				"Threshold": 30500000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -74983,7 +74983,7 @@
 			"Rank": 226,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.96e255,
+				"Threshold": 5.97e254,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -75011,7 +75011,7 @@
 			"Rank": 227,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.03e214,
+				"Threshold": 9.03e220,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -75025,7 +75025,7 @@
 			"Rank": 227,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 79000,
+				"Threshold": 78000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -75081,7 +75081,7 @@
 			"Rank": 227,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2120000000000,
+				"Threshold": 3130000000000,
 				"ConditionId": "fusionplant"
 			},
 			"Reward": {
@@ -75095,7 +75095,7 @@
 			"Rank": 227,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1260000000000,
+				"Threshold": 1130000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -75165,7 +75165,7 @@
 			"Rank": 227,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1290000000000,
+				"Threshold": 2290000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -75179,7 +75179,7 @@
 			"Rank": 227,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5240000000000,
+				"Threshold": 3240000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -75221,7 +75221,7 @@
 			"Rank": 227,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2460000000000,
+				"Threshold": 1960000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -75235,7 +75235,7 @@
 			"Rank": 227,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4930000000000,
+				"Threshold": 493,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -75249,7 +75249,7 @@
 			"Rank": 227,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 11200000000000,
+				"Threshold": 8380000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -75277,7 +75277,7 @@
 			"Rank": 227,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 40000000000000000.0,
+				"Threshold": 3600000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -75319,7 +75319,7 @@
 			"Rank": 227,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 20400000000000,
+				"Threshold": 18600000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -75347,7 +75347,7 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 82,
+				"Threshold": 81,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -75389,8 +75389,8 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1140000000000,
-				"ConditionId": "laserdrill"
+				"Threshold": 114000000000,
+				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -75403,7 +75403,7 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.82e232,
+				"Threshold": 2.82e235,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -75417,7 +75417,7 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.39e256,
+				"Threshold": 8.39e253,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -75431,7 +75431,7 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3730000000000,
+				"Threshold": 4950000000000,
 				"ConditionId": "fusionplant"
 			},
 			"Reward": {
@@ -75445,8 +75445,8 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 904000000000,
-				"ConditionId": "cloninglab"
+				"Threshold": 90400000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -75459,7 +75459,7 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2790000000000,
+				"Threshold": 3040000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -75487,7 +75487,7 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.98e244,
+				"Threshold": 4.98e247,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -75515,7 +75515,7 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1330000000000,
+				"Threshold": 1390000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -75557,7 +75557,7 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.07e272,
+				"Threshold": 6.21e273,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -75571,7 +75571,7 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.87e256,
+				"Threshold": 7.87e259,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -75585,8 +75585,8 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5,
-				"ConditionId": "placebot12"
+				"Threshold": 3000000000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -75599,7 +75599,7 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 17500000000000,
+				"Threshold": 14000000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -75613,7 +75613,7 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9210000000000,
+				"Threshold": 6910000000000,
 				"ConditionId": "oret12"
 			},
 			"Reward": {
@@ -75641,7 +75641,7 @@
 			"Rank": 228,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.34e275,
+				"Threshold": 2.34e274,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -75655,7 +75655,7 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.72e244,
+				"Threshold": 7.09e234,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -75683,7 +75683,7 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 209000000000,
+				"Threshold": 238000000000,
 				"ConditionId": "laserdrill"
 			},
 			"Reward": {
@@ -75697,7 +75697,7 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 504000000000,
+				"Threshold": 241000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -75725,7 +75725,7 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 136000000000,
+				"Threshold": 436000000000,
 				"ConditionId": "cloninglab"
 			},
 			"Reward": {
@@ -75739,8 +75739,8 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1210000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 13200000000000,
+				"ConditionId": "skyfarm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -75753,7 +75753,7 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.74e238,
+				"Threshold": 1.74e241,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -75809,7 +75809,7 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 11900000000000,
+				"Threshold": 5950000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -75823,7 +75823,7 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 918000000000,
+				"Threshold": 1190000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -75865,8 +75865,8 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4160000000000,
-				"ConditionId": "mech"
+				"Threshold": 4160000,
+				"ConditionId": "militaryt12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -75879,7 +75879,7 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 25700000000000,
+				"Threshold": 20700000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -75893,7 +75893,7 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4290000000000,
+				"Threshold": 2790000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -75907,7 +75907,7 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.24e272,
+				"Threshold": 3.23e271,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -75921,7 +75921,7 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2930000000000,
+				"Threshold": 977000000000,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -75935,7 +75935,7 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.17e279,
+				"Threshold": 8.17e278,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -75963,8 +75963,8 @@
 			"Rank": 229,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 41714,
-				"ConditionId": "placebot12"
+				"Threshold": 4390000000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -75991,7 +75991,7 @@
 			"Rank": 230,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 87,
+				"Threshold": 85,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -76005,8 +76005,8 @@
 			"Rank": 230,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 39300000000,
-				"ConditionId": "airrescue"
+				"Threshold": 393000000000,
+				"ConditionId": "laboratory"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76033,7 +76033,7 @@
 			"Rank": 230,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4040000000000,
+				"Threshold": 6040000000000,
 				"ConditionId": "skyfarm"
 			},
 			"Reward": {
@@ -76075,7 +76075,7 @@
 			"Rank": 230,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3950000000000,
+				"Threshold": 5730000000000,
 				"ConditionId": "fusionplant"
 			},
 			"Reward": {
@@ -76089,7 +76089,7 @@
 			"Rank": 230,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 251000000000,
+				"Threshold": 503000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -76103,7 +76103,7 @@
 			"Rank": 230,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 8530000000000,
+				"Threshold": 2530000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -76159,7 +76159,7 @@
 			"Rank": 230,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3390000000000,
+				"Threshold": 4890000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -76173,7 +76173,7 @@
 			"Rank": 230,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 19900000000000,
+				"Threshold": 16200000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -76229,7 +76229,7 @@
 			"Rank": 230,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1440000000000,
+				"Threshold": 726000000000,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -76243,7 +76243,7 @@
 			"Rank": 230,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 18100000000000,
+				"Threshold": 14500000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -76257,7 +76257,7 @@
 			"Rank": 230,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 40700000000000,
+				"Threshold": 36600000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -76271,7 +76271,7 @@
 			"Rank": 230,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.84e261,
+				"Threshold": 3.84e255,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -76299,7 +76299,7 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.35e233,
+				"Threshold": 9.35e232,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -76313,7 +76313,7 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 81000,
+				"Threshold": 82000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -76327,8 +76327,8 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 252000000000,
-				"ConditionId": "laserdrill"
+				"Threshold": 31800000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76341,8 +76341,8 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 641000000000,
-				"ConditionId": "airrescue"
+				"Threshold": 3190000000000,
+				"ConditionId": "skyfarm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76355,7 +76355,7 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.19e233,
+				"Threshold": 9.14e233,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -76369,8 +76369,8 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 294000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 527000000000,
+				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76383,7 +76383,7 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3010000000000,
+				"Threshold": 3280000000000,
 				"ConditionId": "fusionplant"
 			},
 			"Reward": {
@@ -76397,8 +76397,8 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.23e230,
-				"ConditionId": "medicine"
+				"Threshold": 1.52e262,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76411,8 +76411,8 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.73e253,
-				"ConditionId": "ore"
+				"Threshold": 5.18e247,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76453,7 +76453,7 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4450000000000,
+				"Threshold": 3460000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -76467,8 +76467,8 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 14600000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 174000000000,
+				"ConditionId": "oret12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76481,8 +76481,8 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.74e263,
-				"ConditionId": "ore"
+				"Threshold": 3.83e247,
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76495,7 +76495,7 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.96e256,
+				"Threshold": 7.92e256,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -76509,8 +76509,8 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3760000000000,
-				"ConditionId": "nanomachine"
+				"Threshold": 18800000000000,
+				"ConditionId": "potatot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76523,7 +76523,7 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9930000000000,
+				"Threshold": 8890000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -76537,8 +76537,8 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 26700000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 4190000000000,
+				"ConditionId": "oret12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76551,8 +76551,8 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.19e274,
-				"ConditionId": "ore"
+				"Threshold": 3.34e254,
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76565,8 +76565,8 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 105000000,
-				"ConditionId": "placebot12"
+				"Threshold": 31600000000000,
+				"ConditionId": "potatot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76607,8 +76607,8 @@
 			"Rank": 231,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 50000000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 10300000000000,
+				"ConditionId": "oret12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76635,7 +76635,7 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 90,
+				"Threshold": 89,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -76649,7 +76649,7 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1280000000000,
+				"Threshold": 1160000000000,
 				"ConditionId": "skyfarm"
 			},
 			"Reward": {
@@ -76677,8 +76677,8 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 723000000000,
-				"ConditionId": "airrescue"
+				"Threshold": 56400000000,
+				"ConditionId": "cloninglab"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76705,7 +76705,7 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.53e261,
+				"Threshold": 4.53e258,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -76719,7 +76719,7 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1300000000000,
+				"Threshold": 1800000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -76733,8 +76733,8 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 463000000000,
-				"ConditionId": "landt12"
+				"Threshold": 7630000000000,
+				"ConditionId": "fusionplant"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76747,8 +76747,8 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1570000000000,
-				"ConditionId": "cloninglab"
+				"Threshold": 1280000000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76761,7 +76761,7 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.86e268,
+				"Threshold": 9.86e267,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -76803,7 +76803,7 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7020000000000,
+				"Threshold": 5020000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -76817,7 +76817,7 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3070000000000,
+				"Threshold": 2770000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -76859,7 +76859,7 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.36e268,
+				"Threshold": 8.36e265,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -76873,7 +76873,7 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 15300000000000,
+				"Threshold": 13800000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -76887,7 +76887,7 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7030000000000,
+				"Threshold": 6330000000000,
 				"ConditionId": "oret12"
 			},
 			"Reward": {
@@ -76901,8 +76901,8 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 61100000000,
-				"ConditionId": "placebot12"
+				"Threshold": 6.11e15,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76915,7 +76915,7 @@
 			"Rank": 232,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.62e282,
+				"Threshold": 3.44e283,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -76943,7 +76943,7 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.09e234,
+				"Threshold": 8.76e233,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -76957,7 +76957,7 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 82000,
+				"Threshold": 84000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -76971,8 +76971,8 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 159000000000,
-				"ConditionId": "airrescue"
+				"Threshold": 281000000000,
+				"ConditionId": "laserdrill"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76985,8 +76985,8 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2690000000000,
-				"ConditionId": "skyfarm"
+				"Threshold": 641000000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -76999,7 +76999,7 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.14e236,
+				"Threshold": 6.19e236,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -77013,8 +77013,8 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 527000000000,
-				"ConditionId": "magmaextractor"
+				"Threshold": 11800000000000,
+				"ConditionId": "skyfarm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -77027,7 +77027,7 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3280000000000,
+				"Threshold": 4010000000000,
 				"ConditionId": "fusionplant"
 			},
 			"Reward": {
@@ -77041,8 +77041,8 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.52e265,
-				"ConditionId": "potato"
+				"Threshold": 5.23e233,
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -77055,8 +77055,8 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.14e235,
-				"ConditionId": "medicine"
+				"Threshold": 8.73e253,
+				"ConditionId": "ore"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -77069,7 +77069,7 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.18e250,
+				"Threshold": 3.41e251,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -77097,7 +77097,7 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5450000000000,
+				"Threshold": 3950000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -77111,8 +77111,8 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 174000000000,
-				"ConditionId": "oret12"
+				"Threshold": 11600000000000,
+				"ConditionId": "potatot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -77125,8 +77125,8 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.83e250,
-				"ConditionId": "medicine"
+				"Threshold": 8.74e263,
+				"ConditionId": "ore"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -77139,7 +77139,7 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.92e262,
+				"Threshold": 2.96e262,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -77153,8 +77153,8 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 20900000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 3260000000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -77167,7 +77167,7 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 11100000000000,
+				"Threshold": 9930000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -77181,8 +77181,8 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4650000000000,
-				"ConditionId": "oret12"
+				"Threshold": 24100000000000,
+				"ConditionId": "potatot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -77195,8 +77195,8 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.34e266,
-				"ConditionId": "medicine"
+				"Threshold": 8.19e274,
+				"ConditionId": "ore"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -77209,8 +77209,8 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 39200000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 5,
+				"ConditionId": "placebot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -77251,8 +77251,8 @@
 			"Rank": 233,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 12900000000000,
-				"ConditionId": "oret12"
+				"Threshold": 44400000000000,
+				"ConditionId": "potatot12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -77279,7 +77279,7 @@
 			"Rank": 234,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 92,
+				"Threshold": 90,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -77321,7 +77321,7 @@
 			"Rank": 234,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 56400000000,
+				"Threshold": 13200000000,
 				"ConditionId": "cloninglab"
 			},
 			"Reward": {
@@ -77363,7 +77363,7 @@
 			"Rank": 234,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 411000000000,
+				"Threshold": 983000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -77377,7 +77377,7 @@
 			"Rank": 234,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5890000000000,
+				"Threshold": 2890000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -77391,8 +77391,8 @@
 			"Rank": 234,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1910000000000,
-				"ConditionId": "cloninglab"
+				"Threshold": 1570000000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -77447,7 +77447,7 @@
 			"Rank": 234,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 17600000000000,
+				"Threshold": 15600000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -77461,7 +77461,7 @@
 			"Rank": 234,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4250000000000,
+				"Threshold": 3250000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -77517,7 +77517,7 @@
 			"Rank": 234,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 38800000000000,
+				"Threshold": 28800000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -77531,7 +77531,7 @@
 			"Rank": 234,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4930000000000,
+				"Threshold": 4430000000000,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -77545,7 +77545,7 @@
 			"Rank": 234,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 784000000000,
+				"Threshold": 9,
 				"ConditionId": "placebot12"
 			},
 			"Reward": {
@@ -77573,7 +77573,7 @@
 			"Rank": 234,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.54e283,
+				"Threshold": 1.73e283,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -77587,7 +77587,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.28e213,
+				"Threshold": 7.28e219,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -77601,7 +77601,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 83000,
+				"Threshold": 86000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -77643,7 +77643,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.84e259,
+				"Threshold": 9.84e253,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -77657,7 +77657,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1130000000000,
+				"Threshold": 1080000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -77671,7 +77671,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 629000000000,
+				"Threshold": 851000000000,
 				"ConditionId": "cloninglab"
 			},
 			"Reward": {
@@ -77685,7 +77685,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.69e258,
+				"Threshold": 4.69e257,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -77699,7 +77699,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.12e257,
+				"Threshold": 6.12e255,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -77713,7 +77713,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.41e268,
+				"Threshold": 5.41e267,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -77741,7 +77741,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1020000000000,
+				"Threshold": 2540000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -77755,7 +77755,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3060000000000,
+				"Threshold": 4060000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -77769,7 +77769,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.57e267,
+				"Threshold": 6.53e266,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -77797,7 +77797,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9330000000000,
+				"Threshold": 8410000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -77811,7 +77811,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5820000000000,
+				"Threshold": 4120000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -77825,7 +77825,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2310000000000,
+				"Threshold": 3290000000000,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -77853,7 +77853,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 19500000000000,
+				"Threshold": 17500000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -77867,7 +77867,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.06e282,
+				"Threshold": 4.87e282,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -77881,7 +77881,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.69e271,
+				"Threshold": 2.69e259,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -77895,7 +77895,7 @@
 			"Rank": 235,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9550000000000,
+				"Threshold": 9040000000000,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -77923,7 +77923,7 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 89,
+				"Threshold": 87,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -77937,7 +77937,7 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1540000000000,
+				"Threshold": 1410000000000,
 				"ConditionId": "skyfarm"
 			},
 			"Reward": {
@@ -77951,7 +77951,7 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.11e221,
+				"Threshold": 8.11e227,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -77993,7 +77993,7 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.83e266,
+				"Threshold": 1.83e263,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -78007,7 +78007,7 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 946000000000,
+				"Threshold": 1110000000000,
 				"ConditionId": "cloninglab"
 			},
 			"Reward": {
@@ -78021,7 +78021,7 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 843000000000,
+				"Threshold": 1680000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -78035,7 +78035,7 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4060000000000,
+				"Threshold": 4570000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -78049,7 +78049,7 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.16e272,
+				"Threshold": 3.18e270,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -78091,8 +78091,8 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4030000000000,
-				"ConditionId": "mech"
+				"Threshold": 403000000000,
+				"ConditionId": "militaryt12"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -78119,7 +78119,7 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.77e256,
+				"Threshold": 5.86e255,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -78161,7 +78161,7 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4840000000000,
+				"Threshold": 4240000000000,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -78175,7 +78175,7 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1310000000000,
+				"Threshold": 131,
 				"ConditionId": "placebot12"
 			},
 			"Reward": {
@@ -78189,7 +78189,7 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 13000000000000,
+				"Threshold": 11000000000000,
 				"ConditionId": "oret12"
 			},
 			"Reward": {
@@ -78217,7 +78217,7 @@
 			"Rank": 236,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.48e284,
+				"Threshold": 8.54e283,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -78245,7 +78245,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 84000,
+				"Threshold": 88000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -78273,7 +78273,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3540000000000,
+				"Threshold": 4540000000000,
 				"ConditionId": "skyfarm"
 			},
 			"Reward": {
@@ -78287,7 +78287,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.01e247,
+				"Threshold": 7.01e244,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -78301,7 +78301,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 549000000000,
+				"Threshold": 629000000000,
 				"ConditionId": "cloninglab"
 			},
 			"Reward": {
@@ -78315,7 +78315,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 98300000000,
+				"Threshold": 411000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -78329,7 +78329,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.65e269,
+				"Threshold": 5.65e266,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -78385,7 +78385,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2650000000000,
+				"Threshold": 3640000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -78399,7 +78399,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1770000000000,
+				"Threshold": 3140000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -78427,7 +78427,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.91e271,
+				"Threshold": 8.91e270,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -78441,7 +78441,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 24900000000000,
+				"Threshold": 22400000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -78455,7 +78455,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 994000000000,
+				"Threshold": 2310000000000,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -78469,7 +78469,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 137378,
+				"Threshold": 1337,
 				"ConditionId": "placebot12"
 			},
 			"Reward": {
@@ -78497,7 +78497,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 48600000000000,
+				"Threshold": 38600000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -78511,7 +78511,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.48e281,
+				"Threshold": 9.48e280,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -78525,7 +78525,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.15e280,
+				"Threshold": 4.07e281,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -78539,7 +78539,7 @@
 			"Rank": 237,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3610000000000,
+				"Threshold": 3610000,
 				"ConditionId": "placebot12"
 			},
 			"Reward": {
@@ -78567,7 +78567,7 @@
 			"Rank": 238,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 85,
+				"Threshold": 84,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -78595,7 +78595,7 @@
 			"Rank": 238,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.34e245,
+				"Threshold": 9.34e242,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -78609,7 +78609,7 @@
 			"Rank": 238,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2300000000000,
+				"Threshold": 2450000000000,
 				"ConditionId": "fusionplant"
 			},
 			"Reward": {
@@ -78623,7 +78623,7 @@
 			"Rank": 238,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.68e264,
+				"Threshold": 6.68e258,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -78651,7 +78651,7 @@
 			"Rank": 238,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2660000000000,
+				"Threshold": 2910000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -78665,8 +78665,8 @@
 			"Rank": 238,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1550000000000,
-				"ConditionId": "cloninglab"
+				"Threshold": 946000000000,
+				"ConditionId": "nanomachine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -78679,7 +78679,7 @@
 			"Rank": 238,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4200000000000,
+				"Threshold": 2110000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -78735,7 +78735,7 @@
 			"Rank": 238,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2680000000000,
+				"Threshold": 3680000000000,
 				"ConditionId": "nanomachine"
 			},
 			"Reward": {
@@ -78749,7 +78749,7 @@
 			"Rank": 238,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 11000000000000,
+				"Threshold": 8810000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -78763,7 +78763,7 @@
 			"Rank": 238,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.32e275,
+				"Threshold": 6.31e274,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -78805,7 +78805,7 @@
 			"Rank": 238,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1910000000000,
+				"Threshold": 1910000,
 				"ConditionId": "placebot12"
 			},
 			"Reward": {
@@ -78819,7 +78819,7 @@
 			"Rank": 238,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 12500000000000,
+				"Threshold": 10500000000000,
 				"ConditionId": "oret12"
 			},
 			"Reward": {
@@ -78833,7 +78833,7 @@
 			"Rank": 238,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 27600000000000,
+				"Threshold": 21900000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -78875,7 +78875,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.69e234,
+				"Threshold": 6.69e233,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -78889,7 +78889,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 85000,
+				"Threshold": 90000,
 				"ConditionId": "scientist"
 			},
 			"Reward": {
@@ -78917,7 +78917,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 536000000000,
+				"Threshold": 386000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -78931,7 +78931,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.67e228,
+				"Threshold": 9.67e231,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -78945,8 +78945,8 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2000000000000,
-				"ConditionId": "potatot12"
+				"Threshold": 14000000000000,
+				"ConditionId": "skyfarm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -78959,7 +78959,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1760000000000,
+				"Threshold": 2470000000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -79001,7 +79001,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.19e246,
+				"Threshold": 9.19e243,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -79043,7 +79043,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 20000000000000,
+				"Threshold": 15000000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -79071,7 +79071,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.86e258,
+				"Threshold": 9.77e256,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -79085,7 +79085,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 722000000000,
+				"Threshold": 2170000000000,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -79099,7 +79099,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7320000000000,
+				"Threshold": 6090000000000,
 				"ConditionId": "oret12"
 			},
 			"Reward": {
@@ -79113,7 +79113,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 40000000000000,
+				"Threshold": 30000000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -79155,7 +79155,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.85e276,
+				"Threshold": 7.85e267,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -79169,7 +79169,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.48e283,
+				"Threshold": 5.48e282,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -79183,7 +79183,7 @@
 			"Rank": 239,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 68800000000000,
+				"Threshold": 55300000000000,
 				"ConditionId": "potatot12"
 			},
 			"Reward": {
@@ -79211,7 +79211,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 91,
+				"Threshold": 90,
 				"ConditionId": "ore"
 			},
 			"Reward": {
@@ -79225,7 +79225,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1770000000000,
+				"Threshold": 1670000000000,
 				"ConditionId": "skyfarm"
 			},
 			"Reward": {
@@ -79239,7 +79239,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.72e247,
+				"Threshold": 7.72e245,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -79253,7 +79253,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 992000000000,
+				"Threshold": 792000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -79281,7 +79281,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.16e271,
+				"Threshold": 9.16e265,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -79295,8 +79295,8 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2160000000000,
-				"ConditionId": "landt12"
+				"Threshold": 7160000000000,
+				"ConditionId": "fusionplant"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -79323,7 +79323,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2320000000000,
+				"Threshold": 2840000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -79337,7 +79337,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.28e276,
+				"Threshold": 6.28e273,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -79351,7 +79351,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.56e253,
+				"Threshold": 9.56e250,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -79393,7 +79393,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 686000000000,
+				"Threshold": 2050000000000,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -79407,7 +79407,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.07e279,
+				"Threshold": 9.07e277,
 				"ConditionId": "land"
 			},
 			"Reward": {
@@ -79421,7 +79421,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.6e281,
+				"Threshold": 8.65e280,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -79435,7 +79435,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.35e271,
+				"Threshold": 6.35e265,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -79449,7 +79449,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 12000000000000,
+				"Threshold": 10000000000000,
 				"ConditionId": "oret12"
 			},
 			"Reward": {
@@ -79463,7 +79463,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 25800000000000,
+				"Threshold": 20500000000000,
 				"ConditionId": "landt12"
 			},
 			"Reward": {
@@ -79477,7 +79477,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 8050000000000,
+				"Threshold": 7240000000000,
 				"ConditionId": "militaryt12"
 			},
 			"Reward": {
@@ -79491,7 +79491,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.74e286,
+				"Threshold": 6.75e285,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -79505,7 +79505,7 @@
 			"Rank": 240,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.73e281,
+				"Threshold": 1.73e275,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
