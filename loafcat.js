@@ -79856,7 +79856,7 @@
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 5.98e225,
-				"ConditionId": "placebo"
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -79940,7 +79940,7 @@
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 8.21e248,
-				"ConditionId": "placebo"
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -80429,7 +80429,7 @@
 			"Rank": 243,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.88e288,
+				"Threshold": 9.88e278,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -80457,7 +80457,7 @@
 			"Rank": 243,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.41e286,
+				"Threshold": 9.41e276,
 				"ConditionId": "medicine"
 			},
 			"Reward": {
@@ -80626,7 +80626,7 @@
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 3.84e257,
-				"ConditionId": "placebo"
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -82487,7 +82487,7 @@
 			"Rank": 250,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.72e265,
+				"Threshold": 4.72e266,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -82753,7 +82753,7 @@
 			"Rank": 251,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.37e240,
+				"Threshold": 5.58e240,
 				"ConditionId": "ore"
 			},
 			"Reward": {
