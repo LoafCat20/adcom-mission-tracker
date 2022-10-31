@@ -81774,7 +81774,7 @@
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
 				"Threshold": 92,
-				"ConditionId": ore"
+				"ConditionId": "ore"
 			},
 			"Reward": {
 				"Reward": "Gacha",
