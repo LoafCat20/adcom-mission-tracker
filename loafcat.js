@@ -82418,7 +82418,7 @@
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
 				"Threshold": 88,
-				"ConditionId": medicine"
+				"ConditionId": "medicine"
 			},
 			"Reward": {
 				"Reward": "Gacha",
