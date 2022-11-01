@@ -108235,7 +108235,7 @@ DATA["defense-bal-21"] = {
 				"Resource": "coastguard",
 				"Qty": 63
 			},
-			"BaseCompletionTime": 81,
+			"BaseCompletionTime": 729,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -109968,7 +109968,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 20000000000,
+				"Threshold": 10000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110024,7 +110024,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 40000000000,
+				"Threshold": 20000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110080,7 +110080,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 90000000000,
+				"Threshold": 45000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110136,7 +110136,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 225000000000,
+				"Threshold": 110000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110192,7 +110192,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 450000000000,
+				"Threshold": 225000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110248,7 +110248,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1500000000000,
+				"Threshold": 750000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110304,7 +110304,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7000000000000,
+				"Threshold": 3500000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110360,7 +110360,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 36000000000000,
+				"Threshold": 18000000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
