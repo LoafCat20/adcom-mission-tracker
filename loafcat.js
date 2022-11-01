@@ -111042,9 +111042,9 @@ DATA["defense-bal-21"] = {
 			],
 			"ExpoMultiplier": 0,
 			"ExpoGrowth": 0,
-			"UpgradePower": 0.005,
-			"CurveModifier": 0.125,
-			"BasePower": 0,
+			"UpgradePower": 0.01,
+			"CurveModifier": 0.10,
+			"BasePower": 0.02,
 			"Rarity": "LteRare",
 			"PlayerRankUnlock": 6,
 			"ResearchOutputType": "Constant"
