@@ -111077,7 +111077,7 @@ DATA["defense-bal-21"] = {
 			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
-			"Rarity": "Supreme",
+			"Rarity": "LteRare",
 			"PlayerRankUnlock": 12,
 			"ResearchOutputType": "Constant",
 		}
