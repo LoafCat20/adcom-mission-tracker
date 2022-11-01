@@ -107632,6 +107632,12 @@ DATA["defense-bal-21"] = {
 			]
 		},
 		{
+			"GeneratorId": "barrack",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
 			"GeneratorId": "bunker",
 			"MaximumObjectivesForRank": [
 				999
@@ -107639,12 +107645,6 @@ DATA["defense-bal-21"] = {
 		},
 		{
 			"GeneratorId": "artillery",
-			"MaximumObjectivesForRank": [
-				999
-			]
-		},
-		{
-			"GeneratorId": "fortress",
 			"MaximumObjectivesForRank": [
 				999
 			]
@@ -107662,13 +107662,13 @@ DATA["defense-bal-21"] = {
 			]
 		},
 		{
-			"GeneratorId": "hospital",
+			"GeneratorId": "ambulance",
 			"MaximumObjectivesForRank": [
 				999
 			]
 		},
 		{
-			"GeneratorId": "coastguard",
+			"GeneratorId": "hospital",
 			"MaximumObjectivesForRank": [
 				999
 			]
@@ -107736,9 +107736,9 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "bunker",
-			"Name": "Bunker",
-			"ResourceType": "bunker",
+			"Id": "barrack",
+			"Name": "Barrack",
+			"ResourceType": "barrack",
 			"GeneratorType": "Manual",
 			"IndustryId": "munitions",
 			"Cost": [
@@ -107784,14 +107784,14 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "artillery",
-			"Name": "Artillery",
-			"ResourceType": "artillery",
+			"Id": "bunker",
+			"Name": "Bunker",
+			"ResourceType": "bunker",
 			"GeneratorType": "Manual",
 			"IndustryId": "munitions",
 			"Cost": [
 				{
-					"Resource": "Bunker",
+					"Resource": "barrack",
 					"Qty": "1.0E+02"
 				},
 				{
@@ -107804,10 +107804,58 @@ DATA["defense-bal-21"] = {
 				}
 			],
 			"Generate": {
-				"Resource": "bunker",
+				"Resource": "barrack",
 				"Qty": 12
 			},
 			"BaseCompletionTime": 27,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "barrack",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "barrack",
+				"Threshold": 1000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 16
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "artillery",
+			"Name": "Artillery",
+			"ResourceType": "artillery",
+			"GeneratorType": "Manual",
+			"IndustryId": "munitions",
+			"Cost": [
+				{
+					"Resource": "bunker",
+					"Qty": "1.0E+03"
+				},
+				{
+					"Resource": "Weapon",
+					"Qty": 1e28
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "bunker",
+				"Qty": 15
+			},
+			"BaseCompletionTime": 81,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -107818,7 +107866,7 @@ DATA["defense-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "bunker",
-				"Threshold": 1000000
+				"Threshold": 25000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -107834,17 +107882,17 @@ DATA["defense-bal-21"] = {
 		{
 			"Id": "fortress",
 			"Name": "Fortress",
-			"ResourceType": "fortress",
+			"ResourceType": "artillery",
 			"GeneratorType": "Manual",
 			"IndustryId": "munitions",
 			"Cost": [
 				{
-					"Resource": "Artillery",
-					"Qty": "1.0E+03"
+					"Resource": "artillery",
+					"Qty": "1.0E+04"
 				},
 				{
 					"Resource": "Weapon",
-					"Qty": 1e28
+					"Qty": 1e41
 				},
 				{
 					"Resource": "Comrade",
@@ -107853,9 +107901,9 @@ DATA["defense-bal-21"] = {
 			],
 			"Generate": {
 				"Resource": "artillery",
-				"Qty": 15
+				"Qty": 18
 			},
-			"BaseCompletionTime": 81,
+			"BaseCompletionTime": 243,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -107866,7 +107914,55 @@ DATA["defense-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "artillery",
-				"Threshold": 25000000
+				"Threshold": 60000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 16
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "cyborg",
+			"Name": "Cyborg",
+			"ResourceType": "cyborg",
+			"GeneratorType": "Manual",
+			"IndustryId": "munitions",
+			"Cost": [
+				{
+					"Resource": "fortress",
+					"Qty": "1.0E+05"
+				},
+				{
+					"Resource": "Weapon",
+					"Qty": 1e56
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "fortress",
+				"Qty": 21
+			},
+			"BaseCompletionTime": 729,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "fortress",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "fortress",
+				"Threshold": 200000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -107972,9 +108068,9 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "hospital",
-			"Name": "Hospital",
-			"ResourceType": "hospital",
+			"Id": "ambulance",
+			"Name": "Ambulance",
+			"ResourceType": "ambulance",
 			"GeneratorType": "Manual",
 			"IndustryId": "care",
 			"Cost": [
@@ -108020,14 +108116,14 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "coastguard",
-			"Name": "Coast Guard",
-			"ResourceType": "coastguard",
+			"Id": "hospital",
+			"Name": "Hospital",
+			"ResourceType": "hospital",
 			"GeneratorType": "Manual",
 			"IndustryId": "care",
 			"Cost": [
 				{
-					"Resource": "Hospital",
+					"Resource": "ambulance",
 					"Qty": "1.0E+5"
 				},
 				{
@@ -108040,20 +108136,20 @@ DATA["defense-bal-21"] = {
 				}
 			],
 			"Generate": {
-				"Resource": "hospital",
+				"Resource": "ambulance",
 				"Qty": 45
 			},
 			"BaseCompletionTime": 81,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "hospital",
+					"ConditionId": "ambulance",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "hospital",
+				"ConditionId": "ambulance",
 				"Threshold": 12000000
 			},
 			"IncludeInAll": true,
@@ -108065,6 +108161,102 @@ DATA["defense-bal-21"] = {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
 				"Value": 6
+			}
+		},
+		{
+			"Id": "coastguard",
+			"Name": "Coast Guard",
+			"ResourceType": "coastguard",
+			"GeneratorType": "Manual",
+			"IndustryId": "care",
+			"Cost": [
+				{
+					"Resource": "hospital",
+					"Qty": "5.0E+5"
+				},
+				{
+					"Resource": "Bandage",
+					"Qty": 1e38
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "hospital",
+				"Qty": 54
+			},
+			"BaseCompletionTime": 243,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "hospital",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "hospital",
+				"Threshold": 40000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 16
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 7
+			}
+		},
+		{
+			"Id": "airrescue",
+			"Name": "Air Rescue",
+			"ResourceType": "airrescue",
+			"GeneratorType": "Manual",
+			"IndustryId": "care",
+			"Cost": [
+				{
+					"Resource": "coastguard",
+					"Qty": "2.0E+6"
+				},
+				{
+					"Resource": "Bandage",
+					"Qty": 1e52
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "coastguard",
+				"Qty": 63
+			},
+			"BaseCompletionTime": 81,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "coastguard",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "coastguard",
+				"Threshold": 150000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 16
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 8
 			}
 		}
 	],
@@ -108181,7 +108373,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10000,
-				"ConditionId": "bunker"
+				"ConditionId": "barrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108251,7 +108443,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 456456,
-				"ConditionId": "bunker"
+				"ConditionId": "barrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108321,7 +108513,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1024,
-				"ConditionId": "artillery"
+				"ConditionId": "bunker"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108391,7 +108583,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 5000000,
-				"ConditionId": "artillery"
+				"ConditionId": "bunker"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108475,7 +108667,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10,
-				"ConditionId": "hospital"
+				"ConditionId": "ambulance"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108489,7 +108681,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10000000,
-				"ConditionId": "artillery"
+				"ConditionId": "bunker"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108545,7 +108737,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 30,
-				"ConditionId": "fortress"
+				"ConditionId": "artillery"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108559,7 +108751,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2048,
-				"ConditionId": "hospital"
+				"ConditionId": "ambulance"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108615,7 +108807,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 90,
-				"ConditionId": "fortress"
+				"ConditionId": "artillery"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108629,7 +108821,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 15,
-				"ConditionId": "coastguard"
+				"ConditionId": "hospital"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108671,7 +108863,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 8263,
-				"ConditionId": "fortress"
+				"ConditionId": "artillery"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108685,7 +108877,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 454,
-				"ConditionId": "coastguard"
+				"ConditionId": "hospital"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108740,8 +108932,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 30000000,
-				"ConditionId": "fortress"
+				"Threshold": 20000000,
+				"ConditionId": "artillery"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108769,7 +108961,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 6000000,
-				"ConditionId": "coastguard"
+				"ConditionId": "hospital"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108797,7 +108989,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 40000000,
-				"ConditionId": "fortress"
+				"ConditionId": "artillery"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108839,7 +109031,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10000000,
-				"ConditionId": "coastguard"
+				"ConditionId": "hospital"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108880,7 +109072,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 80000000,
+				"Threshold": 80,
 				"ConditionId": "fortress"
 			},
 			"Reward": {
@@ -108894,7 +109086,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.5e41,
+				"Threshold": 1.5e44,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -108909,7 +109101,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 30000000,
-				"ConditionId": "coastguard"
+				"ConditionId": "hospital"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -108922,7 +109114,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 150,
+				"Threshold": 175,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -108936,7 +109128,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.2e42,
+				"Threshold": 2.2e46,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -108950,7 +109142,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 111000000,
+				"Threshold": 11100000,
 				"ConditionId": "fortress"
 			},
 			"Reward": {
@@ -108978,7 +109170,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 69000000,
+				"Threshold": 69,
 				"ConditionId": "coastguard"
 			},
 			"Reward": {
@@ -109006,7 +109198,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e43,
+				"Threshold": 4.2e49,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109020,7 +109212,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 200000000,
+				"Threshold": 80000000,
 				"ConditionId": "fortress"
 			},
 			"Reward": {
@@ -109048,7 +109240,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 120000000,
+				"Threshold": 120000,
 				"ConditionId": "coastguard"
 			},
 			"Reward": {
@@ -109062,7 +109254,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 150,
+				"Threshold": 200,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -109076,7 +109268,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.66e44,
+				"Threshold": 6.66e53,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109090,7 +109282,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 333000000,
+				"Threshold": 167000000,
 				"ConditionId": "fortress"
 			},
 			"Reward": {
@@ -109118,7 +109310,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 222000000,
+				"Threshold": 44400000,
 				"ConditionId": "coastguard"
 			},
 			"Reward": {
@@ -109146,7 +109338,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.8e46,
+				"Threshold": 2.8e55,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109160,8 +109352,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 500000000,
-				"ConditionId": "fortress"
+				"Threshold": 5,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109174,7 +109366,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.7e43,
+				"Threshold": 3.7e46,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109188,7 +109380,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 350000000,
+				"Threshold": 105000000,
 				"ConditionId": "coastguard"
 			},
 			"Reward": {
@@ -109202,7 +109394,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 150,
+				"Threshold": 225,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -109216,7 +109408,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.56e47,
+				"Threshold": 4.56e59,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109230,8 +109422,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 800000000,
-				"ConditionId": "fortress"
+				"Threshold": 8000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109244,7 +109436,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.67e44,
+				"Threshold": 5.67e50,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109258,8 +109450,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 475000000,
-				"ConditionId": "coastguard"
+				"Threshold": 475,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109286,7 +109478,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.3e48,
+				"Threshold": 3.3e63,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109300,8 +109492,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1200000000,
-				"ConditionId": "fortress"
+				"Threshold": 120000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109314,7 +109506,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.4e45,
+				"Threshold": 4.4e57,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109328,8 +109520,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 750000000,
-				"ConditionId": "coastguard"
+				"Threshold": 25000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109342,7 +109534,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 150,
+				"Threshold": 250,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -109356,7 +109548,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e49,
+				"Threshold": 1.3e67,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109370,8 +109562,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1800000000,
-				"ConditionId": "fortress"
+				"Threshold": 360000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109384,7 +109576,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2e46,
+				"Threshold": 2e61,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109398,8 +109590,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1100000000,
-				"ConditionId": "coastguard"
+				"Threshold": 220000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109426,7 +109618,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.56e50,
+				"Threshold": 2.56e71,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109440,8 +109632,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2400000000,
-				"ConditionId": "fortress"
+				"Threshold": 600000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109454,7 +109646,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.8e47,
+				"Threshold": 1.8e65,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109468,8 +109660,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1700000000,
-				"ConditionId": "coastguard"
+				"Threshold": 425000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109482,7 +109674,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 150,
+				"Threshold": 275,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -109496,7 +109688,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.5e51,
+				"Threshold": 5.5e75,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109510,8 +109702,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3800000000,
-				"ConditionId": "fortress"
+				"Threshold": 1300000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109524,7 +109716,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e48,
+				"Threshold": 1.2e69,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109538,8 +109730,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2300000000,
-				"ConditionId": "coastguard"
+				"Threshold": 770000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109566,7 +109758,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.5e52,
+				"Threshold": 9.5e79,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109580,8 +109772,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5000000000,
-				"ConditionId": "fortress"
+				"Threshold": 2500000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109594,7 +109786,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.4e49,
+				"Threshold": 1.4e73,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109608,8 +109800,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3000000000,
-				"ConditionId": "coastguard"
+				"Threshold": 1500000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109622,7 +109814,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e55,
+				"Threshold": 5.2e83,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109636,8 +109828,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9000000000,
-				"ConditionId": "fortress"
+				"Threshold": 4500000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109650,7 +109842,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.24e50,
+				"Threshold": 7.24e77,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109664,8 +109856,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5000000000,
-				"ConditionId": "coastguard"
+				"Threshold": 2500000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109678,7 +109870,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.73e59,
+				"Threshold": 8.73e88,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109692,8 +109884,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 18000000000,
-				"ConditionId": "fortress"
+				"Threshold": 9000000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109706,7 +109898,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.8e54,
+				"Threshold": 5.8e81,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109720,8 +109912,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 10000000000,
-				"ConditionId": "coastguard"
+				"Threshold": 5000000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109734,7 +109926,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.23e65,
+				"Threshold": 9.23e93,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109748,8 +109940,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 33000000000,
-				"ConditionId": "fortress"
+				"Threshold": 17000000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109762,7 +109954,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.2e58,
+				"Threshold": 6.2e85,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109776,8 +109968,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 40000000000,
-				"ConditionId": "coastguard"
+				"Threshold": 20000000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109790,7 +109982,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.1e73,
+				"Threshold": 7.1e98,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109804,8 +109996,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 70000000000,
-				"ConditionId": "fortress"
+				"Threshold": 35000000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109818,7 +110010,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e66,
+				"Threshold": 4.2e90,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109832,8 +110024,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 80000000000,
-				"ConditionId": "coastguard"
+				"Threshold": 40000000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109846,7 +110038,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.9e88,
+				"Threshold": 7.9e103,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109860,8 +110052,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 125000000000,
-				"ConditionId": "fortress"
+				"Threshold": 62500000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109874,7 +110066,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.5e85,
+				"Threshold": 2.5e97,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109888,8 +110080,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 180000000000,
-				"ConditionId": "coastguard"
+				"Threshold": 90000000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109902,7 +110094,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.11e107,
+				"Threshold": 4.11e108,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109916,8 +110108,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 250000000000,
-				"ConditionId": "fortress"
+				"Threshold": 125000000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109930,7 +110122,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.3e103,
+				"Threshold": 6.3e106,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109944,8 +110136,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 450000000000,
-				"ConditionId": "coastguard"
+				"Threshold": 225000000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109958,7 +110150,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.2e126,
+				"Threshold": 7.2e117,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109972,8 +110164,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 675000000000,
-				"ConditionId": "fortress"
+				"Threshold": 335000000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110000,8 +110192,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 900000000000,
-				"ConditionId": "coastguard"
+				"Threshold": 450000000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110028,8 +110220,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1500000000000,
-				"ConditionId": "fortress"
+				"Threshold": 750000000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110056,8 +110248,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3000000000000,
-				"ConditionId": "coastguard"
+				"Threshold": 1500000000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110084,8 +110276,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7000000000000,
-				"ConditionId": "fortress"
+				"Threshold": 3500000000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110112,8 +110304,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 14000000000000,
-				"ConditionId": "coastguard"
+				"Threshold": 7000000000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110140,8 +110332,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 25000000000000,
-				"ConditionId": "fortress"
+				"Threshold": 12500000000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110169,7 +110361,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 36000000000000,
-				"ConditionId": "coastguard"
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110197,7 +110389,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50000000000000,
-				"ConditionId": "fortress"
+				"ConditionId": "artillery"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110555,7 +110747,8 @@ DATA["defense-bal-21"] = {
 				20,
 				50,
 				100,
-				200
+				200,
+				400
 			],
 			"Science": [
 				100,
@@ -110563,7 +110756,8 @@ DATA["defense-bal-21"] = {
 				300,
 				400,
 				800,
-				2000
+				2000,
+				4000
 			]
 		},
 		{
@@ -110572,13 +110766,15 @@ DATA["defense-bal-21"] = {
 				5,
 				10,
 				20,
-				50
+				50,
+				100
 			],
 			"Science": [
 				250,
 				500,
 				1000,
-				2500
+				2500,
+				5000
 			]
 		}
 	],
@@ -110589,6 +110785,23 @@ DATA["defense-bal-21"] = {
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
 				"soldier"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 1,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0032",
+			"Name": "Chuck Manhart",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"barrack"
 			],
 			"ExpoMultiplier": 1,
 			"ExpoGrowth": 4,
@@ -110613,7 +110826,7 @@ DATA["defense-bal-21"] = {
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 1,
+			"PlayerRankUnlock": 4,
 			"ResearchOutputType": "Constant",
 			"ResearchOutputRate": 1
 		},
@@ -110630,7 +110843,7 @@ DATA["defense-bal-21"] = {
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 4,
+			"PlayerRankUnlock": 7,
 			"ResearchOutputType": "Constant",
 			"ResearchOutputRate": 1
 		},
@@ -110647,7 +110860,24 @@ DATA["defense-bal-21"] = {
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 7,
+			"PlayerRankUnlock": 10,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0040",
+			"Name": "Locutus Freak",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"cyborg"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 13,
 			"ResearchOutputType": "Constant",
 			"ResearchOutputRate": 1
 		},
@@ -110686,6 +110916,23 @@ DATA["defense-bal-21"] = {
 			"ResearchOutputRate": 1
 		},
 		{
+			"Id": "RS0043",
+			"Name": "J.D.M.D.",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"ambulance"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 6,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
 			"Id": "RS0046",
 			"Name": "Doctor McSizzly",
 			"ModType": "GenManagerAndSpeedMult",
@@ -110698,7 +110945,7 @@ DATA["defense-bal-21"] = {
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 6,
+			"PlayerRankUnlock": 8,
 			"ResearchOutputType": "Constant",
 			"ResearchOutputRate": 1
 		},
@@ -110715,7 +110962,24 @@ DATA["defense-bal-21"] = {
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 8,
+			"PlayerRankUnlock": 11,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0049",
+			"Name": "Zap McNicoy",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"airrescue"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 14,
 			"ResearchOutputType": "Constant",
 			"ResearchOutputRate": 1
 		},
@@ -110778,12 +111042,44 @@ DATA["defense-bal-21"] = {
 			],
 			"ExpoMultiplier": 0,
 			"ExpoGrowth": 0,
-			"UpgradePower": 0.01,
-			"CurveModifier": 0.12,
+			"UpgradePower": 0.005,
+			"CurveModifier": 0.125,
 			"BasePower": 0,
 			"Rarity": "LteRare",
 			"PlayerRankUnlock": 6,
 			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "RS0077",
+			"Name": "Ratchemus Prime",
+			"ModType": "GeneratorPayoutMultiplier",
+			"TargetIds": [
+				"munitions, care"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 9,
+			"ResearchOutputType": "Constant",
+		},
+		{
+			"Id": "RS0080",
+			"Name": "Earth Wyrm Jym",
+			"ModType": "TradePayoutMultiplier",
+			"TargetIds": [
+				"munitions, care"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "Supreme",
+			"PlayerRankUnlock": 12,
+			"ResearchOutputType": "Constant",
 		}
 	],
 	"Resources": [
@@ -110805,6 +111101,14 @@ DATA["defense-bal-21"] = {
 			"Id": "soldier",
 			"Singular": "Soldier",
 			"Plural": "Soldiers",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "barrack",
+			"Singular": "Barrack",
+			"Plural": "Barracks",
 			"StartingQty": 1,
 			"Resettable": true,
 			"SharedData": false
@@ -110834,6 +111138,14 @@ DATA["defense-bal-21"] = {
 			"SharedData": false
 		},
 		{
+			"Id": "cyborg",
+			"Singular": "Cyborg",
+			"Plural": "Cyborgs",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
 			"Id": "nurse",
 			"Singular": "Nurse",
 			"Plural": "Nurses",
@@ -110850,6 +111162,14 @@ DATA["defense-bal-21"] = {
 			"SharedData": false
 		},
 		{
+			"Id": "ambulance",
+			"Singular": "Ambulance",
+			"Plural": "Ambulances",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
 			"Id": "hospital",
 			"Singular": "Hospital",
 			"Plural": "Hospitals",
@@ -110861,6 +111181,14 @@ DATA["defense-bal-21"] = {
 			"Id": "coastguard",
 			"Singular": "Coast Guard",
 			"Plural": "Coast Guards",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "airrescue",
+			"Singular": "Air Rescue",
+			"Plural": "Air Rescues",
 			"StartingQty": 1,
 			"Resettable": true,
 			"SharedData": false
