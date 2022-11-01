@@ -3075,7 +3075,7 @@
 		{
 			"GroupId": 4,
 			"RankMin": 60,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Rewards": [
 				{
 					"Reward": "ResearcherByRarity",
@@ -3102,7 +3102,7 @@
 		{
 			"GroupId": 4,
 			"RankMin": 60,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Rewards": [
 				{
 					"Reward": "Gacha",
@@ -3129,7 +3129,7 @@
 		{
 			"GroupId": 4,
 			"RankMin": 60,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Rewards": [
 				{
 					"Reward": "Resources",
@@ -3156,7 +3156,7 @@
 		{
 			"GroupId": 4,
 			"RankMin": 60,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Rewards": [
 				{
 					"Reward": "Resources",
@@ -3183,7 +3183,7 @@
 		{
 			"GroupId": 4,
 			"RankMin": 60,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Rewards": [
 				{
 					"Reward": "Gacha",
@@ -3209,13 +3209,13 @@
 		},
 		{
 			"GroupId": 5,
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Rewards": [
 				{
 					"Reward": "ResearcherByRarity",
 					"RewardId": "Common",
-					"Value": 30
+					"Value": 31
 				},
 				{
 					"Reward": "Gacha",
@@ -3236,8 +3236,8 @@
 		},
 		{
 			"GroupId": 5,
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Rewards": [
 				{
 					"Reward": "Gacha",
@@ -3247,7 +3247,7 @@
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 175
+					"Value": 185
 				},
 				{
 					"Reward": "Gacha",
@@ -3263,8 +3263,8 @@
 		},
 		{
 			"GroupId": 5,
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Rewards": [
 				{
 					"Reward": "Resources",
@@ -3290,8 +3290,8 @@
 		},
 		{
 			"GroupId": 5,
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Rewards": [
 				{
 					"Reward": "Resources",
@@ -3306,7 +3306,7 @@
 				{
 					"Reward": "ResearcherByRarity",
 					"RewardId": "Common",
-					"Value": 60
+					"Value": 62
 				}
 			],
 			"Points": [
@@ -3317,8 +3317,8 @@
 		},
 		{
 			"GroupId": 5,
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Rewards": [
 				{
 					"Reward": "Gacha",
@@ -3344,13 +3344,13 @@
 		},
 		{
 			"GroupId": 6,
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Rewards": [
 				{
 					"Reward": "ResearcherByRarity",
 					"RewardId": "Common",
-					"Value": 35
+					"Value": 38
 				},
 				{
 					"Reward": "Gacha",
@@ -3360,7 +3360,7 @@
 				{
 					"Reward": "ResearcherByRarity",
 					"RewardId": "Rare",
-					"Value": 14
+					"Value": 15
 				}
 			],
 			"Points": [
@@ -3371,8 +3371,8 @@
 		},
 		{
 			"GroupId": 6,
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Rewards": [
 				{
 					"Reward": "Gacha",
@@ -3382,7 +3382,7 @@
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 200
+					"Value": 225
 				},
 				{
 					"Reward": "Gacha",
@@ -3398,8 +3398,8 @@
 		},
 		{
 			"GroupId": 6,
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Rewards": [
 				{
 					"Reward": "Resources",
@@ -3409,7 +3409,7 @@
 				{
 					"Reward": "ResearcherByRarity",
 					"RewardId": "Rare",
-					"Value": 7
+					"Value": 8
 				},
 				{
 					"Reward": "Gacha",
@@ -3425,8 +3425,8 @@
 		},
 		{
 			"GroupId": 6,
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Rewards": [
 				{
 					"Reward": "Resources",
@@ -3441,7 +3441,7 @@
 				{
 					"Reward": "ResearcherByRarity",
 					"RewardId": "Common",
-					"Value": 70
+					"Value": 75
 				}
 			],
 			"Points": [
@@ -3452,8 +3452,8 @@
 		},
 		{
 			"GroupId": 6,
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Rewards": [
 				{
 					"Reward": "Gacha",
@@ -3479,13 +3479,13 @@
 		},
 		{
 			"GroupId": 7,
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Rewards": [
 				{
 					"Reward": "ResearcherByRarity",
 					"RewardId": "Common",
-					"Value": 40
+					"Value": 44
 				},
 				{
 					"Reward": "Gacha",
@@ -3495,7 +3495,7 @@
 				{
 					"Reward": "ResearcherByRarity",
 					"RewardId": "Rare",
-					"Value": 17
+					"Value": 18
 				}
 			],
 			"Points": [
@@ -3506,8 +3506,8 @@
 		},
 		{
 			"GroupId": 7,
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Rewards": [
 				{
 					"Reward": "Gacha",
@@ -3517,7 +3517,7 @@
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 250
+					"Value": 265
 				},
 				{
 					"Reward": "Gacha",
@@ -3533,8 +3533,8 @@
 		},
 		{
 			"GroupId": 7,
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Rewards": [
 				{
 					"Reward": "Resources",
@@ -3544,7 +3544,7 @@
 				{
 					"Reward": "ResearcherByRarity",
 					"RewardId": "Rare",
-					"Value": 8
+					"Value": 9
 				},
 				{
 					"Reward": "Gacha",
@@ -3560,8 +3560,8 @@
 		},
 		{
 			"GroupId": 7,
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Rewards": [
 				{
 					"Reward": "Resources",
@@ -3576,7 +3576,7 @@
 				{
 					"Reward": "ResearcherByRarity",
 					"RewardId": "Common",
-					"Value": 85
+					"Value": 8
 				}
 			],
 			"Points": [
@@ -3587,8 +3587,8 @@
 		},
 		{
 			"GroupId": 7,
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Rewards": [
 				{
 					"Reward": "Gacha",
@@ -3614,8 +3614,8 @@
 		},
 		{
 			"GroupId": 8,
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Rewards": [
 				{
 					"Reward": "ResearcherByRarity",
@@ -3641,8 +3641,8 @@
 		},
 		{
 			"GroupId": 8,
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Rewards": [
 				{
 					"Reward": "Gacha",
@@ -3668,8 +3668,8 @@
 		},
 		{
 			"GroupId": 8,
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Rewards": [
 				{
 					"Reward": "Resources",
@@ -3695,8 +3695,8 @@
 		},
 		{
 			"GroupId": 8,
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Rewards": [
 				{
 					"Reward": "Resources",
@@ -3722,8 +3722,8 @@
 		},
 		{
 			"GroupId": 8,
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Rewards": [
 				{
 					"Reward": "Gacha",
@@ -93504,7 +93504,7 @@
 			"Id": 2,
 			"SpecOpsType": "FreeGachaOpened",
 			"RankMin": 9,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "FreeGachaOpenedSinceSubscription",
@@ -93518,7 +93518,7 @@
 			"Id": 3,
 			"SpecOpsType": "FreeGachaOpened",
 			"RankMin": 11,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "FreeGachaOpenedSinceSubscription",
@@ -93532,7 +93532,7 @@
 			"Id": 4,
 			"SpecOpsType": "FreeGachaOpened",
 			"RankMin": 18,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "FreeGachaOpenedSinceSubscription",
@@ -93546,7 +93546,7 @@
 			"Id": 5,
 			"SpecOpsType": "GachaOpened",
 			"RankMin": 15,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 30,
 			"Condition": {
 				"ConditionType": "GachaOpenedSinceSubscription",
@@ -93560,7 +93560,7 @@
 			"Id": 6,
 			"SpecOpsType": "GachaOpened",
 			"RankMin": 10,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "GachaOpenedSinceSubscription",
@@ -93574,7 +93574,7 @@
 			"Id": 7,
 			"SpecOpsType": "GachaOpened",
 			"RankMin": 20,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "GachaOpenedSinceSubscription",
@@ -93602,7 +93602,7 @@
 			"Id": 9,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 10,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93616,7 +93616,7 @@
 			"Id": 10,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 16,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 70,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93630,7 +93630,7 @@
 			"Id": 11,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 12,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 50,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93644,7 +93644,7 @@
 			"Id": 12,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 22,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93658,11 +93658,11 @@
 			"Id": 13,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 11,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 60,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
-				"Threshold": 8,
+				"Threshold": 6,
 				"ConditionId": "scientist"
 			},
 			"RewardSize": "Small",
@@ -93672,11 +93672,11 @@
 			"Id": 14,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 18,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
-				"Threshold": 10,
+				"Threshold": 7,
 				"ConditionId": "scientist"
 			},
 			"RewardSize": "Medium",
@@ -93686,11 +93686,11 @@
 			"Id": 15,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 28,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 5,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
-				"Threshold": 12,
+				"Threshold": 8,
 				"ConditionId": "scientist"
 			},
 			"RewardSize": "Large",
@@ -93700,7 +93700,7 @@
 			"Id": 16,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 12,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 60,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93714,7 +93714,7 @@
 			"Id": 17,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 20,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93728,7 +93728,7 @@
 			"Id": 18,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 30,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 5,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93742,7 +93742,7 @@
 			"Id": 19,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 13,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 8,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93756,7 +93756,7 @@
 			"Id": 20,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 22,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 8,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93770,7 +93770,7 @@
 			"Id": 21,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 14,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 8,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93784,7 +93784,7 @@
 			"Id": 22,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 23,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 8,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93798,7 +93798,7 @@
 			"Id": 23,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 15,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 8,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93812,7 +93812,7 @@
 			"Id": 24,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 24,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 8,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93826,7 +93826,7 @@
 			"Id": 25,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 16,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 8,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93840,7 +93840,7 @@
 			"Id": 26,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 25,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 8,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93854,7 +93854,7 @@
 			"Id": 27,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 17,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 8,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -93868,7 +93868,7 @@
 			"Id": 28,
 			"SpecOpsType": "AirdropsClaimed",
 			"RankMin": 26,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 8,
 			"Condition": {
 				"ConditionType": "AirdropsClaimedSinceSubscription",
@@ -94750,7 +94750,7 @@
 			"Id": 91,
 			"SpecOpsType": "ScienceEarned",
 			"RankMin": 140,
-			"RankMax": 149,
+			"RankMax": 154,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -94764,7 +94764,7 @@
 			"Id": 92,
 			"SpecOpsType": "ScienceEarned",
 			"RankMin": 140,
-			"RankMax": 149,
+			"RankMax": 154,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -94778,7 +94778,7 @@
 			"Id": 93,
 			"SpecOpsType": "ScienceEarned",
 			"RankMin": 140,
-			"RankMax": 149,
+			"RankMax": 154,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -94791,8 +94791,8 @@
 		{
 			"Id": 94,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 150,
-			"RankMax": 164,
+			"RankMin": 155,
+			"RankMax": 169,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -94805,8 +94805,8 @@
 		{
 			"Id": 95,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 150,
-			"RankMax": 164,
+			"RankMin": 155,
+			"RankMax": 169,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -94819,8 +94819,8 @@
 		{
 			"Id": 96,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 150,
-			"RankMax": 164,
+			"RankMin": 155,
+			"RankMax": 169,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -94833,8 +94833,8 @@
 		{
 			"Id": 97,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 165,
-			"RankMax": 179,
+			"RankMin": 170,
+			"RankMax": 184,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -94847,8 +94847,8 @@
 		{
 			"Id": 98,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 165,
-			"RankMax": 179,
+			"RankMin": 170,
+			"RankMax": 184,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -94861,8 +94861,8 @@
 		{
 			"Id": 99,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 165,
-			"RankMax": 179,
+			"RankMin": 170,
+			"RankMax": 184,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -95702,7 +95702,7 @@
 			"Id": 159,
 			"SpecOpsType": "ResearcherCardsEarned",
 			"RankMin": 140,
-			"RankMax": 164,
+			"RankMax": 159,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -95716,7 +95716,7 @@
 			"Id": 160,
 			"SpecOpsType": "ResearcherCardsEarned",
 			"RankMin": 140,
-			"RankMax": 164,
+			"RankMax": 159,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -95730,7 +95730,7 @@
 			"Id": 161,
 			"SpecOpsType": "ResearcherCardsEarned",
 			"RankMin": 140,
-			"RankMax": 164,
+			"RankMax": 159,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -95744,7 +95744,7 @@
 			"Id": 162,
 			"SpecOpsType": "ResearcherCardsEarned",
 			"RankMin": 140,
-			"RankMax": 164,
+			"RankMax": 159,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -95758,7 +95758,7 @@
 			"Id": 163,
 			"SpecOpsType": "ResearcherCardsEarned",
 			"RankMin": 140,
-			"RankMax": 164,
+			"RankMax": 159,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -95898,7 +95898,7 @@
 			"Id": 173,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -95912,7 +95912,7 @@
 			"Id": 174,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -95926,7 +95926,7 @@
 			"Id": 175,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -95940,7 +95940,7 @@
 			"Id": 176,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -95954,7 +95954,7 @@
 			"Id": 177,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -95968,7 +95968,7 @@
 			"Id": 178,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -95982,7 +95982,7 @@
 			"Id": 179,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -95996,7 +95996,7 @@
 			"Id": 180,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -96010,7 +96010,7 @@
 			"Id": 181,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -96024,7 +96024,7 @@
 			"Id": 182,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -96038,7 +96038,7 @@
 			"Id": 183,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -96052,11 +96052,11 @@
 			"Id": 184,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
-				"Threshold": 4,
+				"Threshold": 5,
 				"ConditionId": "any"
 			},
 			"RewardSize": "Small",
@@ -96066,7 +96066,7 @@
 			"Id": 185,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -96074,13 +96074,13 @@
 				"ConditionId": "any"
 			},
 			"RewardSize": "Medium",
-			"Points": 15
+			"Points": 10
 		},
 		{
 			"Id": 186,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -96088,13 +96088,13 @@
 				"ConditionId": "any"
 			},
 			"RewardSize": "Large",
-			"Points": 30
+			"Points": 25
 		},
 		{
 			"Id": 187,
 			"SpecOpsType": "RankReachedInLte",
 			"RankMin": 0,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 0,
 			"Condition": {
 				"ConditionType": "RankReachedInLte",
@@ -96107,8 +96107,8 @@
 		{
 			"Id": 188,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 180,
-			"RankMax": 194,
+			"RankMin": 185,
+			"RankMax": 199,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -96121,8 +96121,8 @@
 		{
 			"Id": 189,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 180,
-			"RankMax": 194,
+			"RankMin": 185,
+			"RankMax": 199,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -96135,8 +96135,8 @@
 		{
 			"Id": 190,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 180,
-			"RankMax": 194,
+			"RankMin": 185,
+			"RankMax": 199,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -96149,8 +96149,8 @@
 		{
 			"Id": 191,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 195,
-			"RankMax": 209,
+			"RankMin": 200,
+			"RankMax": 214,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -96163,8 +96163,8 @@
 		{
 			"Id": 192,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 195,
-			"RankMax": 209,
+			"RankMin": 200,
+			"RankMax": 214,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -96177,8 +96177,8 @@
 		{
 			"Id": 193,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 195,
-			"RankMax": 209,
+			"RankMin": 200,
+			"RankMax": 214,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -96191,8 +96191,8 @@
 		{
 			"Id": 194,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 210,
-			"RankMax": 224,
+			"RankMin": 215,
+			"RankMax": 229,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -96205,8 +96205,8 @@
 		{
 			"Id": 195,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 210,
-			"RankMax": 224,
+			"RankMin": 215,
+			"RankMax": 229,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -96219,8 +96219,8 @@
 		{
 			"Id": 196,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 210,
-			"RankMax": 224,
+			"RankMin": 215,
+			"RankMax": 229,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -96233,8 +96233,8 @@
 		{
 			"Id": 197,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 225,
-			"RankMax": 250,
+			"RankMin": 230,
+			"RankMax": 251,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -96247,8 +96247,8 @@
 		{
 			"Id": 198,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 225,
-			"RankMax": 250,
+			"RankMin": 230,
+			"RankMax": 251,
 			"Weight": 40,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -96261,8 +96261,8 @@
 		{
 			"Id": 199,
 			"SpecOpsType": "ScienceEarned",
-			"RankMin": 225,
-			"RankMax": 250,
+			"RankMin": 230,
+			"RankMax": 251,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -96275,7 +96275,7 @@
 		{
 			"Id": 200,
 			"SpecOpsType": "ResearcherCardsEarned",
-			"RankMin": 165,
+			"RankMin": 160,
 			"RankMax": 189,
 			"Weight": 10,
 			"Condition": {
@@ -96289,7 +96289,7 @@
 		{
 			"Id": 201,
 			"SpecOpsType": "ResearcherCardsEarned",
-			"RankMin": 165,
+			"RankMin": 160,
 			"RankMax": 189,
 			"Weight": 20,
 			"Condition": {
@@ -96303,7 +96303,7 @@
 		{
 			"Id": 202,
 			"SpecOpsType": "ResearcherCardsEarned",
-			"RankMin": 165,
+			"RankMin": 160,
 			"RankMax": 189,
 			"Weight": 10,
 			"Condition": {
@@ -96317,7 +96317,7 @@
 		{
 			"Id": 203,
 			"SpecOpsType": "ResearcherCardsEarned",
-			"RankMin": 165,
+			"RankMin": 160,
 			"RankMax": 189,
 			"Weight": 20,
 			"Condition": {
@@ -96331,7 +96331,7 @@
 		{
 			"Id": 204,
 			"SpecOpsType": "ResearcherCardsEarned",
-			"RankMin": 165,
+			"RankMin": 160,
 			"RankMax": 189,
 			"Weight": 20,
 			"Condition": {
@@ -96346,7 +96346,7 @@
 			"Id": 205,
 			"SpecOpsType": "ResearcherCardsEarned",
 			"RankMin": 190,
-			"RankMax": 214,
+			"RankMax": 219,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -96360,7 +96360,7 @@
 			"Id": 206,
 			"SpecOpsType": "ResearcherCardsEarned",
 			"RankMin": 190,
-			"RankMax": 214,
+			"RankMax": 219,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -96374,7 +96374,7 @@
 			"Id": 207,
 			"SpecOpsType": "ResearcherCardsEarned",
 			"RankMin": 190,
-			"RankMax": 214,
+			"RankMax": 219,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -96388,7 +96388,7 @@
 			"Id": 208,
 			"SpecOpsType": "ResearcherCardsEarned",
 			"RankMin": 190,
-			"RankMax": 214,
+			"RankMax": 219,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -96402,7 +96402,7 @@
 			"Id": 209,
 			"SpecOpsType": "ResearcherCardsEarned",
 			"RankMin": 190,
-			"RankMax": 214,
+			"RankMax": 219,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -96415,8 +96415,8 @@
 		{
 			"Id": 210,
 			"SpecOpsType": "ResearcherCardsEarned",
-			"RankMin": 215,
-			"RankMax": 250,
+			"RankMin": 220,
+			"RankMax": 251,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -96429,8 +96429,8 @@
 		{
 			"Id": 211,
 			"SpecOpsType": "ResearcherCardsEarned",
-			"RankMin": 215,
-			"RankMax": 250,
+			"RankMin": 220,
+			"RankMax": 251,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -96443,8 +96443,8 @@
 		{
 			"Id": 212,
 			"SpecOpsType": "ResearcherCardsEarned",
-			"RankMin": 215,
-			"RankMax": 250,
+			"RankMin": 220,
+			"RankMax": 251,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -96457,8 +96457,8 @@
 		{
 			"Id": 213,
 			"SpecOpsType": "ResearcherCardsEarned",
-			"RankMin": 215,
-			"RankMax": 250,
+			"RankMin": 220,
+			"RankMax": 251,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -96471,8 +96471,8 @@
 		{
 			"Id": 214,
 			"SpecOpsType": "ResearcherCardsEarned",
-			"RankMin": 215,
-			"RankMax": 250,
+			"RankMin": 220,
+			"RankMax": 251,
 			"Weight": 20,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
@@ -96500,7 +96500,7 @@
 			"Id": 216,
 			"SpecOpsType": "ResearchersInCardStoreClaimed",
 			"RankMin": 110,
-			"RankMax": 139,
+			"RankMax": 149,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "ResearchersInCardStoreClaimedSinceSubscription",
@@ -96513,8 +96513,8 @@
 		{
 			"Id": 217,
 			"SpecOpsType": "ResearchersInCardStoreClaimed",
-			"RankMin": 130,
-			"RankMax": 169,
+			"RankMin": 135,
+			"RankMax": 179,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "ResearchersInCardStoreClaimedSinceSubscription",
@@ -96527,8 +96527,8 @@
 		{
 			"Id": 218,
 			"SpecOpsType": "ResearchersInCardStoreClaimed",
-			"RankMin": 155,
-			"RankMax": 199,
+			"RankMin": 165,
+			"RankMax": 209,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "ResearchersInCardStoreClaimedSinceSubscription",
@@ -96541,8 +96541,8 @@
 		{
 			"Id": 219,
 			"SpecOpsType": "ResearchersInCardStoreClaimed",
-			"RankMin": 185,
-			"RankMax": 250,
+			"RankMin": 195,
+			"RankMax": 251,
 			"Weight": 10,
 			"Condition": {
 				"ConditionType": "ResearchersInCardStoreClaimedSinceSubscription",
@@ -96551,6 +96551,34 @@
 			},
 			"RewardSize": "Medium",
 			"Points": 30
+		},
+		{
+			"Id": 220,
+			"SpecOpsType": "RankReachedInLte",
+			"RankMin": 0,
+			"RankMax": 251,
+			"Weight": 0,
+			"Condition": {
+				"ConditionType": "RankReachedInLte",
+				"Threshold": 13,
+				"ConditionId": "any"
+			},
+			"RewardSize": "Medium",
+			"Points": 25
+		},
+		{
+			"Id": 221,
+			"SpecOpsType": "RankReachedInLte",
+			"RankMin": 0,
+			"RankMax": 251,
+			"Weight": 0,
+			"Condition": {
+				"ConditionType": "RankReachedInLte",
+				"Threshold": 16,
+				"ConditionId": "any"
+			},
+			"RewardSize": "Large",
+			"Points": 40
 		}
 	],
 	"SpecOpsRewardSizeConfig": [
@@ -96558,7 +96586,7 @@
 			"Id": 1,
 			"RewardSize": "Small",
 			"RankMin": 6,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
@@ -96570,7 +96598,7 @@
 			"Id": 2,
 			"RewardSize": "Medium",
 			"RankMin": 6,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
@@ -96582,7 +96610,7 @@
 			"Id": 3,
 			"RewardSize": "Large",
 			"RankMin": 8,
-			"RankMax": 250,
+			"RankMax": 251,
 			"Weight": 20,
 			"Reward": {
 				"Reward": "Resources",
@@ -97074,7 +97102,7 @@
 			"Id": 44,
 			"RewardSize": "Small",
 			"RankMin": 70,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
@@ -97086,7 +97114,7 @@
 			"Id": 45,
 			"RewardSize": "Small",
 			"RankMin": 70,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
@@ -97098,7 +97126,7 @@
 			"Id": 46,
 			"RewardSize": "Medium",
 			"RankMin": 70,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
@@ -97110,7 +97138,7 @@
 			"Id": 47,
 			"RewardSize": "Medium",
 			"RankMin": 70,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
@@ -97122,7 +97150,7 @@
 			"Id": 48,
 			"RewardSize": "Large",
 			"RankMin": 70,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Weight": 20,
 			"Reward": {
 				"Reward": "Resources",
@@ -97278,7 +97306,7 @@
 			"Id": 61,
 			"RewardSize": "Small",
 			"RankMin": 60,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
@@ -97302,7 +97330,7 @@
 			"Id": 63,
 			"RewardSize": "Medium",
 			"RankMin": 70,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
@@ -97422,31 +97450,31 @@
 			"Id": 73,
 			"RewardSize": "Small",
 			"RankMin": 70,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
 				"RewardId": "rare",
-				"Value": 8
+				"Value": 7
 			}
 		},
 		{
 			"Id": 74,
 			"RewardSize": "Medium",
 			"RankMin": 70,
-			"RankMax": 80,
+			"RankMax": 89,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
 				"RewardId": "rare",
-				"Value": 15
+				"Value": 14
 			}
 		},
 		{
 			"Id": 75,
 			"RewardSize": "Small",
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
@@ -97457,13 +97485,13 @@
 		{
 			"Id": 76,
 			"RewardSize": "Medium",
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
 				"RewardId": "rare",
-				"Value": 18
+				"Value": 17
 			}
 		},
 		{
@@ -97481,20 +97509,20 @@
 		{
 			"Id": 78,
 			"RewardSize": "Small",
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
 				"RewardId": "scientist",
-				"Value": 350
+				"Value": 375
 			}
 		},
 		{
 			"Id": 79,
 			"RewardSize": "Small",
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
@@ -97505,32 +97533,32 @@
 		{
 			"Id": 80,
 			"RewardSize": "Medium",
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
 				"RewardId": "scientist",
-				"Value": 700
+				"Value": 625
 			}
 		},
 		{
 			"Id": 81,
 			"RewardSize": "Medium",
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
 				"RewardId": "scientist",
-				"Value": 900
+				"Value": 875
 			}
 		},
 		{
 			"Id": 82,
 			"RewardSize": "Large",
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Weight": 20,
 			"Reward": {
 				"Reward": "Resources",
@@ -97541,20 +97569,20 @@
 		{
 			"Id": 83,
 			"RewardSize": "Small",
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
 				"RewardId": "scientist",
-				"Value": 400
+				"Value": 450
 			}
 		},
 		{
 			"Id": 84,
 			"RewardSize": "Small",
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
@@ -97565,32 +97593,32 @@
 		{
 			"Id": 85,
 			"RewardSize": "Medium",
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
 				"RewardId": "scientist",
-				"Value": 800
+				"Value": 750
 			}
 		},
 		{
 			"Id": 86,
 			"RewardSize": "Medium",
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
 				"RewardId": "scientist",
-				"Value": 1000
+				"Value": 1050
 			}
 		},
 		{
 			"Id": 87,
 			"RewardSize": "Large",
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Weight": 20,
 			"Reward": {
 				"Reward": "Resources",
@@ -97601,20 +97629,20 @@
 		{
 			"Id": 88,
 			"RewardSize": "Small",
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
 				"RewardId": "scientist",
-				"Value": 500
+				"Value": 525
 			}
 		},
 		{
 			"Id": 89,
 			"RewardSize": "Small",
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
@@ -97625,32 +97653,32 @@
 		{
 			"Id": 90,
 			"RewardSize": "Medium",
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
 				"RewardId": "scientist",
-				"Value": 900
+				"Value": 875
 			}
 		},
 		{
 			"Id": 91,
 			"RewardSize": "Medium",
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
 				"RewardId": "scientist",
-				"Value": 1200
+				"Value": 1225
 			}
 		},
 		{
 			"Id": 92,
 			"RewardSize": "Large",
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Weight": 20,
 			"Reward": {
 				"Reward": "Resources",
@@ -97661,8 +97689,8 @@
 		{
 			"Id": 93,
 			"RewardSize": "Small",
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
@@ -97673,8 +97701,8 @@
 		{
 			"Id": 94,
 			"RewardSize": "Small",
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
@@ -97685,8 +97713,8 @@
 		{
 			"Id": 95,
 			"RewardSize": "Medium",
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
@@ -97697,8 +97725,8 @@
 		{
 			"Id": 96,
 			"RewardSize": "Medium",
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Weight": 10,
 			"Reward": {
 				"Reward": "Resources",
@@ -97709,8 +97737,8 @@
 		{
 			"Id": 97,
 			"RewardSize": "Large",
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Weight": 20,
 			"Reward": {
 				"Reward": "Resources",
@@ -97721,20 +97749,20 @@
 		{
 			"Id": 98,
 			"RewardSize": "Small",
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
 				"RewardId": "common",
-				"Value": 60
+				"Value": 62
 			}
 		},
 		{
 			"Id": 99,
 			"RewardSize": "Medium",
-			"RankMin": 81,
-			"RankMax": 110,
+			"RankMin": 90,
+			"RankMax": 119,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
@@ -97745,20 +97773,20 @@
 		{
 			"Id": 100,
 			"RewardSize": "Small",
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
 				"RewardId": "common",
-				"Value": 70
+				"Value": 75
 			}
 		},
 		{
 			"Id": 101,
 			"RewardSize": "Medium",
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
@@ -97769,20 +97797,20 @@
 		{
 			"Id": 102,
 			"RewardSize": "Small",
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
 				"RewardId": "common",
-				"Value": 80
+				"Value": 88
 			}
 		},
 		{
 			"Id": 103,
 			"RewardSize": "Medium",
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
@@ -97793,8 +97821,8 @@
 		{
 			"Id": 104,
 			"RewardSize": "Small",
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
@@ -97805,8 +97833,8 @@
 		{
 			"Id": 105,
 			"RewardSize": "Medium",
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
@@ -97817,8 +97845,8 @@
 		{
 			"Id": 106,
 			"RewardSize": "Small",
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
@@ -97829,68 +97857,68 @@
 		{
 			"Id": 107,
 			"RewardSize": "Medium",
-			"RankMin": 111,
-			"RankMax": 150,
+			"RankMin": 120,
+			"RankMax": 159,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
 				"RewardId": "rare",
-				"Value": 22
+				"Value": 21
 			}
 		},
 		{
 			"Id": 108,
 			"RewardSize": "Small",
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
 				"RewardId": "rare",
-				"Value": 13
+				"Value": 12
 			}
 		},
 		{
 			"Id": 109,
 			"RewardSize": "Medium",
-			"RankMin": 151,
-			"RankMax": 190,
+			"RankMin": 160,
+			"RankMax": 199,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
 				"RewardId": "rare",
-				"Value": 26
+				"Value": 25
 			}
 		},
 		{
 			"Id": 110,
 			"RewardSize": "Small",
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
 				"RewardId": "rare",
-				"Value": 15
+				"Value": 14
 			}
 		},
 		{
 			"Id": 111,
 			"RewardSize": "Medium",
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 200,
+			"RankMax": 251,
 			"Weight": 25,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
 				"RewardId": "rare",
-				"Value": 30
+				"Value": 28
 			}
 		},
 		{
 			"Id": 112,
 			"RewardSize": "Large",
 			"RankMin": 70,
-			"RankMax": 110,
+			"RankMax": 109,
 			"Weight": 20,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
@@ -97901,8 +97929,8 @@
 		{
 			"Id": 113,
 			"RewardSize": "Large",
-			"RankMin": 111,
-			"RankMax": 190,
+			"RankMin": 110,
+			"RankMax": 179,
 			"Weight": 20,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
@@ -97913,8 +97941,8 @@
 		{
 			"Id": 114,
 			"RewardSize": "Large",
-			"RankMin": 191,
-			"RankMax": 250,
+			"RankMin": 180,
+			"RankMax": 251,
 			"Weight": 20,
 			"Reward": {
 				"Reward": "ResearcherByRarity",
@@ -97964,7 +97992,7 @@
 		{
 			"Id": "elder_player",
 			"MinRank": 45,
-			"MaxRank": 80,
+			"MaxRank": 89,
 			"RewardTrackIds": [
 				"RT_ElderPlayer_01",
 				"RT_ElderPlayer_02",
@@ -97973,8 +98001,8 @@
 		},
 		{
 			"Id": "super_elder_player",
-			"MinRank": 81,
-			"MaxRank": 110,
+			"MinRank": 90,
+			"MaxRank": 119,
 			"RewardTrackIds": [
 				"RT_SuperElderPlayer_01",
 				"RT_SuperElderPlayer_02",
@@ -97983,8 +98011,8 @@
 		},
 		{
 			"Id": "ancient_player",
-			"MinRank": 111,
-			"MaxRank": 150,
+			"MinRank": 120,
+			"MaxRank": 159,
 			"RewardTrackIds": [
 				"RT_AncientPlayer_01",
 				"RT_AncientPlayer_02",
@@ -97993,8 +98021,8 @@
 		},
 		{
 			"Id": "super_ancient_player",
-			"MinRank": 111,
-			"MaxRank": 150,
+			"MinRank": 160,
+			"MaxRank": 199,
 			"RewardTrackIds": [
 				"RT_SuperAncientPlayer_01",
 				"RT_SuperAncientPlayer_02",
@@ -98003,8 +98031,8 @@
 		},
 		{
 			"Id": "endgame_player",
-			"MinRank": 191,
-			"MaxRank": 250,
+			"MinRank": 200,
+			"MaxRank": 251,
 			"RewardTrackIds": [
 				"RT_EndgamePlayer_01",
 				"RT_EndgamePlayer_02",
@@ -106652,6 +106680,5657 @@
 	]
 };
 
+DATA["defense-bal-21"] = {
+	"Ads": [
+		{
+			"Id": "AD011",
+			"AdType": "Industry",
+			"Name": "Propaganda Boost",
+			"Description": "Applies a x2 payout to all industries",
+			"ViewLimit": 3,
+			"ResetType": "Now",
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"RewardId": "EXAD6",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"Id": "AD012",
+			"AdType": "Tool",
+			"Name": "Air Drop",
+			"ViewLimit": 1,
+			"ResetType": "Now",
+			"Rewards": [
+				{
+					"Reward": "None"
+				}
+			]
+		}
+	],
+	"AirDrops": [
+		{
+			"Id": 10001,
+			"AirDropRewardType": "CoreResource",
+			"IsAd": false,
+			"IsAdSkippable": false,
+			"Weight": 15,
+			"MaxAdsPerInterval": -1,
+			"RewardCalculation": {
+				"A": 1800,
+				"B": 5,
+				"C": 0.125,
+				"D": 25
+			}
+		},
+		{
+			"Id": 10002,
+			"AirDropRewardType": "PrimaryCurrency",
+			"IsAd": false,
+			"IsAdSkippable": false,
+			"Weight": 10,
+			"MaxAdsPerInterval": -1,
+			"RewardCalculation": {
+				"A": 450,
+				"B": 1.55,
+				"C": 0.4,
+				"D": 10
+			}
+		},
+		{
+			"Id": 10003,
+			"AirDropRewardType": "PrimaryCurrency",
+			"IsAd": true,
+			"IsAdSkippable": false,
+			"Weight": 50,
+			"MaxAdsPerInterval": 6,
+			"RewardCalculation": {
+				"A": 7500,
+				"B": 1.7,
+				"C": 0.2,
+				"D": -650
+			}
+		},
+		{
+			"Id": 10004,
+			"AirDropRewardType": "SoftCurrency",
+			"IsAd": true,
+			"IsAdSkippable": false,
+			"Weight": 25,
+			"MaxAdsPerInterval": 4,
+			"RewardCalculation": {
+				"A": 550,
+				"B": 1.01,
+				"C": 1.001,
+				"D": 65
+			}
+		}
+	],
+	"AirDropsConfig": [
+		{
+			"AirDropBaseInterval": 50,
+			"AirDropIntervalVariance": 0.1,
+			"AirDropIntervalMultiplier": 1.2,
+			"ClaimCountResetInterval": 5400,
+			"AdCountResetInterval": 43200,
+			"StartupDelay": 30,
+			"StartCondition": {
+				"ConditionType": "RankReached",
+				"Threshold": 2
+			},
+			"HasAdFreeAirDrops": true
+		}
+	],
+	"CardStoreCost": [
+		{
+			"Rarity": "Common",
+			"ScienceCost": 0,
+			"GoldCost": 0,
+			"AdWatchStackModifier": 0
+		},
+		{
+			"Rarity": "Rare",
+			"ScienceCost": 0,
+			"GoldCost": 0,
+			"AdWatchStackModifier": 0
+		},
+		{
+			"Rarity": "Epic",
+			"ScienceCost": 0,
+			"GoldCost": 0,
+			"AdWatchStackModifier": 0
+		},
+		{
+			"Rarity": "Supreme",
+			"ScienceCost": 0,
+			"GoldCost": 0,
+			"AdWatchStackModifier": 0
+		},
+		{
+			"Rarity": "LteCommon",
+			"ScienceCost": 30,
+			"GoldCost": 2,
+			"AdWatchStackModifier": 0.25
+		},
+		{
+			"Rarity": "LteRare",
+			"ScienceCost": 250,
+			"GoldCost": 15,
+			"AdWatchStackModifier": 0.1
+		}
+	],
+	"CardStoreStackSize": [
+		{
+			"Rank": 1,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 10,
+			"LteRare": 2
+		},
+		{
+			"Rank": 2,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 10,
+			"LteRare": 2
+		},
+		{
+			"Rank": 3,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 10,
+			"LteRare": 2
+		},
+		{
+			"Rank": 4,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 20,
+			"LteRare": 3
+		},
+		{
+			"Rank": 5,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 20,
+			"LteRare": 3
+		},
+		{
+			"Rank": 6,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 20,
+			"LteRare": 3
+		},
+		{
+			"Rank": 7,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 20,
+			"LteRare": 3
+		},
+		{
+			"Rank": 8,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 4
+		},
+		{
+			"Rank": 9,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 4
+		},
+		{
+			"Rank": 10,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 4
+		},
+		{
+			"Rank": 11,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 4
+		},
+		{
+			"Rank": 12,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 13,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 14,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 15,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 16,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		}
+	],
+	"CardToScienceConversion": {
+		"Common": 0,
+		"Rare": 0,
+		"Epic": 0,
+		"Supreme": 0,
+		"LteCommon": 15,
+		"LteRare": 125
+	},
+	"DailyDealSlotChance": [
+		{
+			"Slot": 1,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 0.5,
+			"LteRare": 0.5,
+			"GoldCostChance": 0,
+			"AdWatchChance": 1
+		},
+		{
+			"Slot": 2,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 0.5,
+			"LteRare": 0.5,
+			"GoldCostChance": 0,
+			"AdWatchChance": 0
+		},
+		{
+			"Slot": 3,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 0,
+			"LteRare": 1,
+			"GoldCostChance": 1,
+			"AdWatchChance": 0
+		}
+	],
+	"Experiments": [
+		{
+			"Id": "EX164",
+			"Name": "Basic Time Hack",
+			"IconKey": "timehack_4",
+			"Lifespan": "OneTime",
+			"Lifetime": 1,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "ResourceSurge",
+					"AllResources": true,
+					"Value": 14400,
+					"Description": "Resource Surge! Get 4 hours' worth instantly!"
+				}
+			],
+			"Description": "Resource Surge! Get 4 hours' worth instantly!"
+		},
+		{
+			"Id": "EX165",
+			"Name": "Mega Time Hack",
+			"IconKey": "timehack_24",
+			"Lifespan": "OneTime",
+			"Lifetime": 1,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "ResourceSurge",
+					"AllResources": true,
+					"Value": 86400,
+					"Description": "Resource Surge! Get 24 hours' worth instantly!"
+				}
+			],
+			"Description": "Resource Surge! Get 24 hours' worth instantly!"
+		},
+		{
+			"Id": "EX167",
+			"Name": "Simple Time Hack",
+			"IconKey": "timehack_1",
+			"Lifespan": "OneTime",
+			"Lifetime": 1,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "ResourceSurge",
+					"AllResources": true,
+					"Value": 3600,
+					"Description": "Resource Surge! Get 1 hours' worth instantly!"
+				}
+			],
+			"Description": "Resource Surge! Get 1 hours' worth instantly!"
+		},
+		{
+			"Id": "EX210",
+			"Name": "Double Time",
+			"IconKey": "propaganda",
+			"Lifespan": "Permanent",
+			"Lifetime": 0,
+			"Type": "Ad",
+			"Rewards": [
+				{
+					"Type": "PayoutMultiplier",
+					"AllResources": true,
+					"Value": 2,
+					"Description": "Receive a permanent x2 speed boost to all industries!"
+				}
+			],
+			"Description": "Receive a permanent x2 speed boost to all industries!"
+		},
+		{
+			"Id": "EX211",
+			"Name": "Quintuple Time",
+			"IconKey": "propaganda",
+			"Lifespan": "Permanent",
+			"Lifetime": 0,
+			"Type": "Ad",
+			"Rewards": [
+				{
+					"Type": "PayoutMultiplier",
+					"AllResources": true,
+					"Value": 5,
+					"Description": "Receive a permanent x5 speed boost to all industries!"
+				}
+			],
+			"Description": "Receive a permanent x5 speed boost to all industries!"
+		},
+		{
+			"Id": "EX215",
+			"Name": "Long Term Propaganda",
+			"IconKey": "propaganda",
+			"Lifespan": "Timed",
+			"Lifetime": 5184000,
+			"Type": "Ad",
+			"Rewards": [
+				{
+					"Type": "PayoutMultiplier",
+					"AllResources": true,
+					"Value": 5,
+					"Description": "Receive a x5 speed boost to all industries for 60D!"
+				}
+			],
+			"Description": "Receive a x5 speed boost to all industries for 60D!"
+		},
+		{
+			"Id": "EXAD6",
+			"Name": "Propaganda Boost",
+			"IconKey": "propaganda",
+			"Lifespan": "Timed",
+			"Lifetime": 14400,
+			"Type": "Ad",
+			"Rewards": [
+				{
+					"Type": "PayoutMultiplier",
+					"AllResources": true,
+					"Value": 2,
+					"Description": "x2 boost to all industries!"
+				}
+			],
+			"Description": "x2 boost for 3 more hours!"
+		},
+		{
+			"Id": "SCH2",
+			"Name": "Free Gacha Capsule",
+			"Lifespan": "Timed",
+			"Lifetime": 7200,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "None",
+					"AllResources": false
+				}
+			]
+		},
+		{
+			"Id": "SCH3",
+			"Name": "Science Air Drop Availability",
+			"IconKey": "darkscience",
+			"Lifespan": "Timed",
+			"Lifetime": 14400,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "None"
+				}
+			]
+		},
+		{
+			"Id": "SCH4",
+			"Name": "Air Drop Session Reset",
+			"IconKey": "none",
+			"Lifespan": "Timed",
+			"Lifetime": 14400,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "None"
+				}
+			]
+		}
+	],
+	"FreeGachaData": {
+		"TimeBetweenGachas": 7200,
+		"MaxStackCount": 2
+	},
+	"GachaFreeCycle": [
+		{
+			"Cycle": [
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic"
+			],
+			"ScriptId": "sc3"
+		}
+	],
+	"GachaGoldCycle": [
+		{
+			"Cycle": {
+				"plastic": [
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				],
+				"armored": [
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				]
+			}
+		}
+	],
+	"GachaLootTable": [
+		{
+			"Id": "plastic",
+			"CardWeight": 10,
+			"RareWeight": -1,
+			"EpicWeight": -1,
+			"SupremeWeight": -1,
+			"LteRareWeight": 17,
+			"ScienceMin": 70,
+			"ScienceMax": 80,
+			"TrophyMin": 10,
+			"TrophyMax": 10,
+			"ChanceMultiplier": 10,
+			"WeightDivider": 10,
+			"Type": "Normal"
+		},
+		{
+			"Id": "armored",
+			"CardWeight": 30,
+			"RareWeight": -1,
+			"EpicWeight": -1,
+			"SupremeWeight": -1,
+			"LteRareWeight": 15,
+			"ScienceMin": 140,
+			"ScienceMax": 160,
+			"TrophyMin": 50,
+			"TrophyMax": 50,
+			"ChanceMultiplier": 10,
+			"WeightDivider": 10,
+			"Type": "Normal"
+		},
+		{
+			"Id": "titanium",
+			"CardWeight": 200,
+			"RareWeight": -1,
+			"EpicWeight": -1,
+			"SupremeWeight": -1,
+			"LteRareWeight": 5,
+			"ScienceMin": 1400,
+			"ScienceMax": 1600,
+			"TrophyMin": 0,
+			"TrophyMax": 0,
+			"ChanceMultiplier": 10,
+			"WeightDivider": 10,
+			"Type": "Premium"
+		},
+		{
+			"Id": "tech",
+			"CardWeight": 100,
+			"RareWeight": -1,
+			"EpicWeight": -1,
+			"SupremeWeight": -1,
+			"LteRareWeight": 1,
+			"ScienceMin": 0,
+			"ScienceMax": 0,
+			"TrophyMin": 0,
+			"TrophyMax": 0,
+			"ChanceMultiplier": 10,
+			"WeightDivider": 10,
+			"Type": "Fixed"
+		},
+		{
+			"Id": "sc_m01",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m02",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m03",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m04",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m05",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m06",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m07",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m08",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m09",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m10",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m11",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m12",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc3",
+			"Type": "Scripted"
+		}
+	],
+	"GachaScripts": [
+		{
+			"GachaId": "sc_m01",
+			"MimicGachaId": "plastic",
+			"Science": 48,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0031",
+					"Value": 4
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m02",
+			"MimicGachaId": "plastic",
+			"Science": 46,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0034",
+					"Value": 4
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m03",
+			"MimicGachaId": "plastic",
+			"Science": 47,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0034",
+					"Value": 3
+				},
+				{
+					"Id": "RS0055",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m04",
+			"MimicGachaId": "plastic",
+			"Science": 45,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0031",
+					"Value": 4
+				},
+				{
+					"Id": "RS0054",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m05",
+			"MimicGachaId": "plastic",
+			"Science": 48,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0041",
+					"Value": 4
+				},
+				{
+					"Id": "RS0054",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m06",
+			"MimicGachaId": "plastic",
+			"Science": 52,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0041",
+					"Value": 6
+				},
+				{
+					"Id": "RS0055",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m07",
+			"MimicGachaId": "plastic",
+			"Science": 55,
+			"Gold": 0,
+			"Trophy": 20,
+			"Card": [
+				{
+					"Id": "RS0042",
+					"Value": 6
+				},
+				{
+					"Id": "RS0054",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m08",
+			"MimicGachaId": "plastic",
+			"Science": 54,
+			"Gold": 0,
+			"Trophy": 20,
+			"Card": [
+				{
+					"Id": "RS0042",
+					"Value": 6
+				},
+				{
+					"Id": "RS0059",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m09",
+			"MimicGachaId": "plastic",
+			"Science": 69,
+			"Gold": 0,
+			"Trophy": 30,
+			"Card": [
+				{
+					"Id": "RS0036",
+					"Value": 3
+				},
+				{
+					"Id": "RS0042",
+					"Value": 4
+				},
+				{
+					"Id": "RS0059",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m10",
+			"MimicGachaId": "plastic",
+			"Science": 92,
+			"Gold": 0,
+			"Trophy": 50,
+			"Card": [
+				{
+					"Id": "RS0046",
+					"Value": 4
+				},
+				{
+					"Id": "RS0036",
+					"Value": 7
+				},
+				{
+					"Id": "RS0065",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m11",
+			"MimicGachaId": "plastic",
+			"Science": 101,
+			"Gold": 0,
+			"Trophy": 60,
+			"Card": [
+				{
+					"Id": "RS0038",
+					"Value": 2
+				},
+				{
+					"Id": "RS0046",
+					"Value": 11
+				},
+				{
+					"Id": "RS0059",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m12",
+			"MimicGachaId": "plastic",
+			"Science": 123,
+			"Gold": 0,
+			"Trophy": 70,
+			"Card": [
+				{
+					"Id": "RS0047",
+					"Value": 3
+				},
+				{
+					"Id": "RS0038",
+					"Value": 13
+				},
+				{
+					"Id": "RS0065",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc3",
+			"MimicGachaId": "plastic",
+			"Science": 50,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0031",
+					"Value": 3
+				},
+				{
+					"Id": "RS0054",
+					"Value": 1
+				}
+			]
+		}
+	],
+	"GachaStackSplit": [
+		{
+			"Split": 2,
+			"LteCommon": 8,
+			"LteRare": 4
+		},
+		{
+			"Split": 3,
+			"LteCommon": 25,
+			"LteRare": 25
+		},
+		{
+			"Split": 4,
+			"LteRare": 75
+		}
+	],
+	"GeneratorObjectiveLimits": [
+		{
+			"GeneratorId": "soldier",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "bunker",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "artillery",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "fortress",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "nurse",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "clinic",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "hospital",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "coastguard",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		}
+	],
+	"Generators": [
+		{
+			"Id": "comradegenerator",
+			"Name": "Comrade",
+			"ResourceType": "comradegenerator",
+			"GeneratorType": "Automatic",
+			"Generate": {
+				"Resource": "comrade",
+				"Qty": 1
+			},
+			"BaseCompletionTime": 1,
+			"IncludeInAll": false,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 1
+			}
+		},
+		{
+			"Id": "soldier",
+			"Name": "Soldier",
+			"ResourceType": "soldier",
+			"GeneratorType": "Manual",
+			"IndustryId": "munitions",
+			"Cost": [
+				{
+					"Resource": "Weapon",
+					"Qty": "1.0E+01"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "weapon",
+				"Qty": 6
+			},
+			"BaseCompletionTime": 3,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "weapon",
+					"Threshold": 0
+				}
+			],
+			"Unlock": {
+				"ConditionType": "IndustryUnlocked",
+				"ConditionId": "munitions",
+				"Threshold": 0
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 16
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "bunker",
+			"Name": "Bunker",
+			"ResourceType": "bunker",
+			"GeneratorType": "Manual",
+			"IndustryId": "munitions",
+			"Cost": [
+				{
+					"Resource": "Soldier",
+					"Qty": "1.0E+01"
+				},
+				{
+					"Resource": "Weapon",
+					"Qty": "1.0E+04"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "soldier",
+				"Qty": 9
+			},
+			"BaseCompletionTime": 9,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "soldier",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "soldier",
+				"Threshold": 1000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 16
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "artillery",
+			"Name": "Artillery",
+			"ResourceType": "artillery",
+			"GeneratorType": "Manual",
+			"IndustryId": "munitions",
+			"Cost": [
+				{
+					"Resource": "Bunker",
+					"Qty": "1.0E+02"
+				},
+				{
+					"Resource": "Weapon",
+					"Qty": "1.0E+16"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "bunker",
+				"Qty": 12
+			},
+			"BaseCompletionTime": 27,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "bunker",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "bunker",
+				"Threshold": 1000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 16
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "fortress",
+			"Name": "Fortress",
+			"ResourceType": "fortress",
+			"GeneratorType": "Manual",
+			"IndustryId": "munitions",
+			"Cost": [
+				{
+					"Resource": "Artillery",
+					"Qty": "1.0E+03"
+				},
+				{
+					"Resource": "Weapon",
+					"Qty": 1e28
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "artillery",
+				"Qty": 15
+			},
+			"BaseCompletionTime": 81,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "artillery",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "artillery",
+				"Threshold": 25000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 16
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "nurse",
+			"Name": "Nurse",
+			"ResourceType": "nurse",
+			"GeneratorType": "Manual",
+			"IndustryId": "care",
+			"Cost": [
+				{
+					"Resource": "Bandage",
+					"Qty": "1.0E+01"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "bandage",
+				"Qty": 18
+			},
+			"BaseCompletionTime": 3,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "weapon",
+					"Threshold": 250000000
+				}
+			],
+			"Unlock": {
+				"ConditionType": "IndustryUnlocked",
+				"ConditionId": "care",
+				"Threshold": 250000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 16
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 3
+			}
+		},
+		{
+			"Id": "clinic",
+			"Name": "Clinic",
+			"ResourceType": "clinic",
+			"GeneratorType": "Manual",
+			"IndustryId": "care",
+			"Cost": [
+				{
+					"Resource": "Nurse",
+					"Qty": "1.0E+03"
+				},
+				{
+					"Resource": "Bandage",
+					"Qty": "1.0E+10"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "nurse",
+				"Qty": 27
+			},
+			"BaseCompletionTime": 9,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "nurse",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "nurse",
+				"Threshold": 250000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 16
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 4
+			}
+		},
+		{
+			"Id": "hospital",
+			"Name": "Hospital",
+			"ResourceType": "hospital",
+			"GeneratorType": "Manual",
+			"IndustryId": "care",
+			"Cost": [
+				{
+					"Resource": "Clinic",
+					"Qty": 10000
+				},
+				{
+					"Resource": "Bandage",
+					"Qty": "1.0E+19"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "clinic",
+				"Qty": 36
+			},
+			"BaseCompletionTime": 27,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "clinic",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "clinic",
+				"Threshold": 8000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 16
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 5
+			}
+		},
+		{
+			"Id": "coastguard",
+			"Name": "Coast Guard",
+			"ResourceType": "coastguard",
+			"GeneratorType": "Manual",
+			"IndustryId": "care",
+			"Cost": [
+				{
+					"Resource": "Hospital",
+					"Qty": "1.0E+5"
+				},
+				{
+					"Resource": "Bandage",
+					"Qty": 1e26
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "hospital",
+				"Qty": 45
+			},
+			"BaseCompletionTime": 81,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "hospital",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "hospital",
+				"Threshold": 12000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 16
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 6
+			}
+		}
+	],
+	"Industries": [
+		{
+			"Id": "munitions",
+			"SortingOrder": 1,
+			"VisibleConditions": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "soldier"
+				}
+			],
+			"InteractableConditions": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "soldier",
+					"Threshold": 0
+				}
+			]
+		},
+		{
+			"Id": "care",
+			"SortingOrder": 2,
+			"UnlockCostResourceId": "weapon",
+			"UnlockCostResourceQty": 250000000,
+			"VisibleConditions": [
+				{
+					"ConditionType": "IndustryUnlocked",
+					"ConditionId": "munitions"
+				}
+			],
+			"InteractableConditions": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "soldier",
+					"Threshold": 0
+				}
+			]
+		}
+	],
+	"MiscBalance": {
+		"SoftCurrencyId": "darkscience",
+		"PrimaryGeneratorId": "comradegenerator",
+		"PrimaryResourceId": "comrade",
+		"HardToSoftCurrencyConversionRatio": 20,
+		"OfferwallPlatforms": "android",
+		"TotalSpendIncludesLte": false,
+		"DaysForRecentSpend": 26,
+		"RanksToTriggerOffers": "3,6,9",
+		"ComradeSpendWarningEnableRank": 3,
+		"ReferralReward": 110
+	},
+	"Missions": [
+		{
+			"Id": "M0001",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 500,
+				"ConditionId": "soldier"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m02",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0002",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m04",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0003",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7000000,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m01",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0004",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "IndustryUnlocked",
+				"Threshold": 1,
+				"ConditionId": "care"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m03",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0005",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 10000,
+				"ConditionId": "bunker"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m05",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0006",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 15,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0007",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 25000000000000,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m06",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0008",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 38383,
+				"ConditionId": "nurse"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0009",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 400,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0010",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 456456,
+				"ConditionId": "bunker"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m07",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0011",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 10,
+				"ConditionId": "clinic"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m08",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0012",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 256000000000000000.0,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0013",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 40,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0014",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8000000000000,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0015",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1024,
+				"ConditionId": "artillery"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m09",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0016",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 50505,
+				"ConditionId": "clinic"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0017",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0018",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 666000000000000000000.0,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0019",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 123000000000000000.0,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0020",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5000000,
+				"ConditionId": "artillery"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0021",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 75,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0022",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4000000,
+				"ConditionId": "clinic"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0023",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.6e25,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0024",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7700000000000000000.0,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0025",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 800,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0026",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 10,
+				"ConditionId": "hospital"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m10",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0027",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 10000000,
+				"ConditionId": "artillery"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0028",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.6e27,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0029",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 100,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0030",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.5e21,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m11",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0031",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 30,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0032",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2048,
+				"ConditionId": "hospital"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0033",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.22e29,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0034",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0035",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.3e25,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0036",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 90,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m12",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0037",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 15,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0038",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.4e30,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0039",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 125,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0040",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 8263,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0041",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 454,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0042",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.9e33,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0043",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1200,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0044",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4e31,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0045",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 30000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0046",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.7e36,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0047",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 6000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0048",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 150,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0049",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 40000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0050",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.6e35,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0051",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9e39,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0052",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 10000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0053",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0054",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.8e37,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0055",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 80000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0056",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.5e41,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0057",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 30000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0058",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 150,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0059",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.2e42,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0060",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 111000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0061",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.5e39,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0062",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 69000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0063",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0064",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.2e43,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0065",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 200000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0066",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.23e41,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0067",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 120000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0068",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 150,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0069",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.66e44,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0070",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 333000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0071",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.1e42,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0072",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 222000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0073",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0074",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.8e46,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0075",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 500000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0076",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.7e43,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0077",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 350000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0078",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 150,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0079",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.56e47,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0080",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 800000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0081",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.67e44,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0082",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 475000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0083",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0084",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.3e48,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0085",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1200000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0086",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.4e45,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0087",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 750000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0088",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 150,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0089",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.3e49,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0090",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1800000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0091",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e46,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0092",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1100000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0093",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0094",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.56e50,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0095",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2400000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0096",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.8e47,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0097",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1700000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0098",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 150,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0099",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.5e51,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0100",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3800000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0101",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.2e48,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0102",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2300000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0103",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0104",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.5e52,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0105",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5000000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0106",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.4e49,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0107",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3000000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0108",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.2e55,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0109",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 9000000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0110",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.24e50,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0111",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5000000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0112",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.73e59,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0113",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 18000000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0114",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.8e54,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0115",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 10000000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0116",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.23e65,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0117",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 33000000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0118",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.2e58,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0119",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 40000000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0120",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.1e73,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0121",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 70000000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0122",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.2e66,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0123",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 80000000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0124",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.9e88,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0125",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 125000000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0126",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.5e85,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0127",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 180000000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0128",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.11e107,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0129",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 250000000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0130",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.3e103,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0131",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 450000000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0132",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.2e126,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0133",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 675000000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0134",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.7e120,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0135",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 900000000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0136",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.4e159,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0137",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1500000000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0138",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.6e154,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0139",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3000000000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0140",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.2e189,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0141",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 7000000000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0142",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.45e185,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0143",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 14000000000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0144",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.5e226,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0145",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 25000000000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0146",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.2e222,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0147",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 36000000000000,
+				"ConditionId": "coastguard"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0148",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.5e273,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0149",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 50000000000000,
+				"ConditionId": "fortress"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0150",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.2e270,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		}
+	],
+	"OfferPools": [
+		{
+			"SegmentId": "LteSegment",
+			"OfferType": "Permanent",
+			"ShowTakeover": false,
+			"OfferDataList": [
+				{
+					"ItemId": "t07_lte_starter",
+					"Duration": 0
+				}
+			]
+		},
+		{
+			"SegmentId": "LteSegment",
+			"OfferType": "RankUp",
+			"ShowTakeover": true,
+			"OfferDataList": [
+				{
+					"ItemId": "t03_minilte_rank3",
+					"Duration": 0
+				},
+				{
+					"ItemId": "t04_minilte_rank6",
+					"Duration": 0
+				},
+				{
+					"ItemId": "t06_minilte_rank9",
+					"Duration": 0
+				}
+			]
+		}
+	],
+	"Promotions": [
+		{
+			"Id": "HolidaySale",
+			"Title": "Holiday Sale!",
+			"Subtitle": "Glorious Savings!",
+			"StartTime": "2020-11-27T17:35:00",
+			"EndTime": "2021-01-04T16:00:00",
+			"TargetLocation": "Store",
+			"SpriteId": "icon-holidaypromo",
+			"OverrideTheming": true,
+			"BannerTriColorTheme": "santaranktricolor",
+			"TitleColorTheme": "santarankcolor",
+			"ActionButtonTriColorTheme": "primarybuttontheme",
+			"FlameAnimatedColor": "santaanimatedspritecolor"
+		}
+	],
+	"Ranks": [
+		{
+			"Rank": "1",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "0",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 0.4,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 0.6,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 1,
+			"AirDropScience": 25,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "2",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "3",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 0.5,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 0.6,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 1,
+			"AirDropScience": 50,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "3",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "4",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 0.7,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 0.7,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 2,
+			"AirDropScience": 70,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "4",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "5",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 0.8,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 0.9,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 3,
+			"AirDropScience": 85,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "5",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.1,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 4,
+			"AirDropScience": 100,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "6",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "4",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1.2,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.2,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 5,
+			"AirDropScience": 110,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "7",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "5",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1.4,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.4,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 6,
+			"AirDropScience": 120,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "8",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1.6,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.6,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 7,
+			"AirDropScience": 130,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "9",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "7",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1.9,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.8,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 8,
+			"AirDropScience": 135,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "10",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 2.2,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 9,
+			"AirDropScience": 140,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "11",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "8",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 2.5,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2.2,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 10,
+			"AirDropScience": 145,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "12",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "7",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 2.8,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2.4,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 12,
+			"AirDropScience": 150,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "13",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "9",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 3.1,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2.6,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 14,
+			"AirDropScience": 155,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "14",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "8",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 3.4,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2.8,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 16,
+			"AirDropScience": 160,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "15",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "9",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 3.7,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 3,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 18,
+			"AirDropScience": 165,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "16",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "10",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 4,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 3.2,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 20,
+			"AirDropScience": 170,
+			"AirDropRankUpCoolDown": 60
+		}
+	],
+	"ResearcherRankCosts": [
+		{
+			"Rarity": "Common",
+			"Quantity": [
+				9999
+			],
+			"Science": [
+				999999
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Quantity": [
+				9999
+			],
+			"Science": [
+				999999
+			]
+		},
+		{
+			"Rarity": "Epic",
+			"Quantity": [
+				9999
+			],
+			"Science": [
+				999999
+			]
+		},
+		{
+			"Rarity": "Supreme",
+			"Quantity": [
+				9999
+			],
+			"Science": [
+				999999
+			]
+		},
+		{
+			"Rarity": "LteCommon",
+			"Quantity": [
+				5,
+				10,
+				20,
+				50,
+				100,
+				200
+			],
+			"Science": [
+				100,
+				200,
+				300,
+				400,
+				800,
+				2000
+			]
+		},
+		{
+			"Rarity": "LteRare",
+			"Quantity": [
+				5,
+				10,
+				20,
+				50
+			],
+			"Science": [
+				250,
+				500,
+				1000,
+				2500
+			]
+		}
+	],
+	"Researchers": [
+		{
+			"Id": "RS0031",
+			"Name": "Duke O'Hazzard",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"soldier"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 1,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0034",
+			"Name": "Starvin",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"bunker"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 1,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0036",
+			"Name": "Skeezy McScott",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"artillery"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 4,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0038",
+			"Name": "Dominics Angels",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"fortress"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 7,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0041",
+			"Name": "Kennie Whooser",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"nurse"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 2,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0042",
+			"Name": "Patcheye",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"clinic"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 3,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0046",
+			"Name": "Doctor McSizzly",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"hospital"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 6,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0047",
+			"Name": "Doctor Hasselberg",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"coastguard"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 8,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0054",
+			"Name": "Adrian X. Vultor",
+			"ModType": "TradePayoutMultiplier",
+			"TargetIds": [
+				"weapon"
+			],
+			"ExpoMultiplier": 2,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 1,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0055",
+			"Name": "Sir Lance Egon",
+			"ModType": "TradePayoutMultiplier",
+			"TargetIds": [
+				"bandage"
+			],
+			"ExpoMultiplier": 2,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 1,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0059",
+			"Name": "Johnny O. Rambo",
+			"ModType": "GeneratorPayoutMultiplier",
+			"TargetIds": [
+				"munitions"
+			],
+			"ExpoMultiplier": 2.5,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 3,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "RS0065",
+			"Name": "Nurse Temple",
+			"ModType": "GeneratorCritChance",
+			"TargetIds": [
+				"care"
+			],
+			"ExpoMultiplier": 0,
+			"ExpoGrowth": 0,
+			"UpgradePower": 0.01,
+			"CurveModifier": 0.12,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 6,
+			"ResearchOutputType": "Constant"
+		}
+	],
+	"Resources": [
+		{
+			"Id": "weapon",
+			"Singular": "Bullet",
+			"Plural": "Bullets",
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "bandage",
+			"Singular": "Bandage",
+			"Plural": "Bandages",
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "soldier",
+			"Singular": "Soldier",
+			"Plural": "Soldiers",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "bunker",
+			"Singular": "Bunker",
+			"Plural": "Bunkers",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "artillery",
+			"Singular": "Artillery",
+			"Plural": "Artilleries",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "fortress",
+			"Singular": "Fortress",
+			"Plural": "Fortresses",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "nurse",
+			"Singular": "Nurse",
+			"Plural": "Nurses",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "clinic",
+			"Singular": "Clinic",
+			"Plural": "Clinics",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "hospital",
+			"Singular": "Hospital",
+			"Plural": "Hospitals",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "coastguard",
+			"Singular": "Coast Guard",
+			"Plural": "Coast Guards",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "darkscience",
+			"Singular": "Dark Science",
+			"Plural": "Dark Science",
+			"CurrencyCode": "SC",
+			"Resettable": false,
+			"SharedData": false
+		},
+		{
+			"Id": "comrade",
+			"Singular": "Comrade",
+			"Plural": "Comrades",
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "comradegenerator",
+			"Singular": "Comrade",
+			"Plural": "Comrades",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "gold",
+			"Singular": "Gold",
+			"Plural": "Gold",
+			"CurrencyCode": "GO",
+			"Resettable": false,
+			"SharedData": true
+		},
+		{
+			"Id": "trophy",
+			"Singular": "Trophy",
+			"Plural": "Trophies",
+			"Resettable": false,
+			"SharedData": false
+		},
+		{
+			"Id": "timehack_1",
+			"Singular": "Basic Warp",
+			"Plural": "Basic Warps",
+			"CurrencyCode": "TH",
+			"Resettable": false,
+			"SharedData": true
+		},
+		{
+			"Id": "timehack_4",
+			"Singular": "Super Warp",
+			"Plural": "Super Warps",
+			"CurrencyCode": "TH",
+			"Resettable": false,
+			"SharedData": true
+		},
+		{
+			"Id": "timehack_24",
+			"Singular": "Elite Warp",
+			"Plural": "Elite Warps",
+			"CurrencyCode": "TH",
+			"Resettable": false,
+			"SharedData": true
+		},
+		{
+			"Id": "specops_point",
+			"Singular": "SpecialOps Point",
+			"Plural": "SpecialOps Points",
+			"StartingQty": 0,
+			"Resettable": false,
+			"SharedData": false
+		}
+	],
+	"Sales": [],
+	"Segments": [
+		{
+			"Id": "LteSegment",
+			"Priority": 1,
+			"Triggers": [
+				{
+					"Type": "Rank",
+					"Operator": ">=",
+					"Value": 1
+				}
+			]
+		}
+	],
+	"Store": [
+		{
+			"Name": "Bit O'Gold",
+			"InternalId": "t02_gold",
+			"AbTestConfig": "GoldTest|A",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 199,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 160,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold1\"}"
+		},
+		{
+			"Name": "Lot O'Gold",
+			"InternalId": "t05_gold",
+			"AbTestConfig": "GoldTest|A",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold2\"}"
+		},
+		{
+			"Name": "Tonne O'Gold",
+			"InternalId": "t10_gold",
+			"AbTestConfig": "GoldTest|A",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1200,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold3\",\"popular\":\"true\"}"
+		},
+		{
+			"Name": "Bucket O'Gold",
+			"InternalId": "t20_gold",
+			"AbTestConfig": "GoldTest|A",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 2500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold4\"}"
+		},
+		{
+			"Name": "Bit O'Gold",
+			"InternalId": "t05_gold_c",
+			"AbTestConfig": "GoldTest|B",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold1\"}"
+		},
+		{
+			"Name": "Lot O'Gold",
+			"InternalId": "t10_gold_c",
+			"AbTestConfig": "GoldTest|B",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1200,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold2\",\"popular\":\"true\"}"
+		},
+		{
+			"Name": "Tonne O'Gold",
+			"InternalId": "t20_gold_c",
+			"AbTestConfig": "GoldTest|B",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 2500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold3\"}"
+		},
+		{
+			"Name": "Bucket O'Gold",
+			"InternalId": "t30_gold",
+			"AbTestConfig": "GoldTest|B",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 3800,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold4\"}"
+		},
+		{
+			"Name": "Barrel O'Gold",
+			"InternalId": "t50_gold",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 4999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 6500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold5\"}"
+		},
+		{
+			"Name": "Wheels O'Gold",
+			"InternalId": "t60_gold",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 9999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 14000,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold6\",\"bestValue\":\"true\"}"
+		},
+		{
+			"Name": "Discovery Pack",
+			"InternalId": "darkscience_1000",
+			"ItemClass": "VirtualCurrencyScience",
+			"Price": 50,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1000,
+					"RewardId": "SC"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-science1\",\"topUp\":\"true\"}"
+		},
+		{
+			"Name": "Wise Pack",
+			"InternalId": "darkscience_5000",
+			"ItemClass": "VirtualCurrencyScience",
+			"Price": 200,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 5000,
+					"RewardId": "SC"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-science2\"}"
+		},
+		{
+			"Name": "Brilliant Pack",
+			"InternalId": "darkscience_25000",
+			"ItemClass": "VirtualCurrencyScience",
+			"Price": 800,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 25000,
+					"RewardId": "SC"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-science3\",\"bestValue\":\"true\"}"
+		},
+		{
+			"Name": "Titanium Capsule",
+			"InternalId": "gacha_titanium",
+			"ItemClass": "Gacha",
+			"Price": 750,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "titanium"
+				}
+			],
+			"CustomData": "{\"icon\":\"ga-titanium\"}"
+		},
+		{
+			"Name": "Skip 1 Hour!",
+			"InternalId": "timehack_1",
+			"ItemClass": "Experiment",
+			"Price": 50,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"Value": 1,
+					"RewardId": "EX167"
+				}
+			],
+			"CustomData": "{\"rarity\":\"Rare\"}"
+		},
+		{
+			"Name": "Skip 4 Hours!",
+			"InternalId": "timehack_4",
+			"ItemClass": "Experiment",
+			"Price": 150,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"Value": 1,
+					"RewardId": "EX164"
+				}
+			],
+			"CustomData": "{\"rarity\":\"Epic\"}"
+		},
+		{
+			"Name": "Skip 1 Day!",
+			"InternalId": "timehack_24",
+			"ItemClass": "Experiment",
+			"Price": 750,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"Value": 1,
+					"RewardId": "EX165"
+				}
+			],
+			"CustomData": "{\"rarity\":\"Supreme\"}"
+		},
+		{
+			"Name": "Lot O'Gold",
+			"InternalId": "t04_gold500_sale",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 399,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold2\",\"hidden\":\"true\", \"saleValue\":\"20\"}"
+		},
+		{
+			"Name": "Tonne O'Gold",
+			"InternalId": "t08_gold1200_sale",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 799,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1200,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold3\",\"hidden\":\"true\", \"saleValue\":\"20\"}"
+		},
+		{
+			"Name": "Bucket O'Gold",
+			"InternalId": "t16_gold2500_sale",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1599,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 2500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold4\",\"hidden\":\"true\", \"saleValue\":\"20\"}"
+		},
+		{
+			"Name": "Barrel O'Gold",
+			"InternalId": "t40_gold6500_sale",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 3999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 6500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold5\",\"hidden\":\"true\", \"saleValue\":\"20\"}"
+		},
+		{
+			"Name": "Wheels O'Gold",
+			"InternalId": "t56_gold14000_sale",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 7999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 14000,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold6\",\"hidden\":\"true\", \"saleValue\":\"20\"}"
+		},
+		{
+			"Name": "Discovery Pack",
+			"InternalId": "darkscience_1000_sale",
+			"ItemClass": "VirtualCurrencyScience",
+			"Price": 40,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1000,
+					"RewardId": "SC"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-science1\",\"topUp\":\"true\",\"hidden\":\"true\", \"saleValue\":\"20\"}"
+		},
+		{
+			"Name": "Smarty Pack",
+			"InternalId": "darkscience_5000_sale",
+			"ItemClass": "VirtualCurrencyScience",
+			"Price": 160,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 5000,
+					"RewardId": "SC"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-science2\",\"hidden\":\"true\", \"saleValue\":\"20\"}"
+		},
+		{
+			"Name": "Genius Pack",
+			"InternalId": "darkscience_25000_sale",
+			"ItemClass": "VirtualCurrencyScience",
+			"Price": 640,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 25000,
+					"RewardId": "SC"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-science3\",\"hidden\":\"true\", \"saleValue\":\"20\"}"
+		},
+		{
+			"Name": "Skip 1 Hour!",
+			"InternalId": "timehack_1_sale",
+			"ItemClass": "Experiment",
+			"Price": 40,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"Value": 1,
+					"RewardId": "EX167"
+				}
+			],
+			"CustomData": "{\"rarity\":\"Rare\",\"hidden\":\"true\", \"saleValue\":\"20\"}"
+		},
+		{
+			"Name": "Skip 4 Hours!",
+			"InternalId": "timehack_4_sale",
+			"ItemClass": "Experiment",
+			"Price": 120,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"Value": 1,
+					"RewardId": "EX164"
+				}
+			],
+			"CustomData": "{\"rarity\":\"Epic\", \"hidden\":\"true\", \"saleValue\":\"20\"}"
+		},
+		{
+			"Name": "Skip 1 Day!",
+			"InternalId": "timehack_24_sale",
+			"ItemClass": "Experiment",
+			"Price": 600,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"Value": 1,
+					"RewardId": "EX165"
+				}
+			],
+			"CustomData": "{\"rarity\":\"Supreme\",\"hidden\":\"true\", \"saleValue\":\"20\"}"
+		},
+		{
+			"Name": "Titanium Capsule",
+			"InternalId": "gacha_titanium_sale",
+			"ItemClass": "Gacha",
+			"Price": 600,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "iron"
+				}
+			],
+			"CustomData": "{\"icon\":\"ga-titanium\",\"hidden\":\"true\", \"saleValue\":\"20\"}"
+		},
+		{
+			"Name": "Event Starter Pack",
+			"InternalId": "t07_lte_starter",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 699,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "titanium"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 100,
+					"RewardId": "gold"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 2500,
+					"RewardId": "darkscience"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 3 Bundle",
+			"InternalId": "t03_minilte_rank3",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 299,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 5,
+					"RewardId": "RS0059"
+				},
+				{
+					"Reward": "Researcher",
+					"Value": 50,
+					"RewardId": "RS0042"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 500,
+					"RewardId": "darkscience"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 6 Bundle",
+			"InternalId": "t04_minilte_rank6",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 399,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 10,
+					"RewardId": "RS0065"
+				},
+				{
+					"Reward": "Researcher",
+					"Value": 75,
+					"RewardId": "RS0046"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 1000,
+					"RewardId": "darkscience"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 1,
+					"RewardId": "timehack_1"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 9 Bundle",
+			"InternalId": "t06_minilte_rank9",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 599,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "titanium"
+				},
+				{
+					"Reward": "Researcher",
+					"Value": 100,
+					"RewardId": "RS0047"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 1,
+					"RewardId": "timehack_4"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Ad Free Airdrops",
+			"InternalId": "g200_adfreeairdrop",
+			"ItemClass": "AdFreeAirdrop",
+			"Price": 200,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			]
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t01_.wap_ori_44e3",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 99,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t02_.wap_ori_700d",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 199,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t03_.wap_ori_f9b9",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 299,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t04_.wap_ori_48a3",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 399,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t05_.wap_ori_1c23",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t06_.wap_ori_afe0",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 599,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t07_.wap_ori_fa69",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 699,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t08_.wap_ori_5abc",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 799,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t09_.wap_ori_18f4",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 899,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t10_.wap_ori_77c5",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t11_.wap_ori_fe3f",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1099,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t12_.wap_ori_c5d5",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1199,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t13_.wap_ori_9e4b",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1299,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t14_.wap_ori_e0f7",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1399,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t15_.wap_ori_07ef",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t16_.wap_ori_5396",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1599,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t17_.wap_ori_f6ab",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1699,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t18_.wap_ori_9afb",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1799,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t20_.wap_ori_5fa5",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t22_.wap_ori_fc51",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2199,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t23_.wap_ori_8790",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2299,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t25_.wap_ori_00a1",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t27_.wap_ori_925d",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2699,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t28_.wap_ori_da68",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2799,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t30_.wap_ori_85a7",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t32_.wap_ori_870d",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 3199,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t35_.wap_ori_9f9a",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 3499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t37_.wap_ori_bbcf",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 3699,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t40_.wap_ori_07fd",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 3999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t45_.wap_ori_c2f5",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 4499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t50_.wap_ori_c507",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 4999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t51_.wap_ori_3dad",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 5499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t52_.wap_ori_e1d6",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 5999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t53_.wap_ori_1afc",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 6499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t54_.wap_ori_ccbc",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 6999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t55_.wap_ori_86c5",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 7499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t56_.wap_ori_5c95",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 7999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t60_.wap_ori_4c46",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 9999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		}
+	],
+	"SupremePassConfig": {
+		"NumExtraFreeGachaCapsule": 2,
+		"PropagandaAdsRemoved": true,
+		"SpecOpsTimeReduction": 4,
+		"NumExtraSpecOpsSlots": 1,
+		"NumPerks": 6,
+		"SupremePassStoreItemId": "t10_supremepass",
+		"PurchaseTierCost": 250
+	},
+	"Trades": [
+		{
+			"Resource": "weapon",
+			"CostExponent": 10,
+			"CostMultiplier": 500,
+			"ComradeMultiplier": 0,
+			"ComradeAdd": 2,
+			"MaxLevel": 149
+		},
+		{
+			"Resource": "bandage",
+			"CostExponent": 10,
+			"CostMultiplier": 500,
+			"ComradeMultiplier": 0,
+			"ComradeAdd": 3,
+			"MaxLevel": 149
+		}
+	]
+};
+;
 ENGLISH_LOCALIZATION_STRING += String.raw`
 mission.resourcequantity.landt12.name=Land up to Twelve!
 mission.resourcequantity.landt12.simplename=Own Land T12s
