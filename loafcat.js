@@ -108042,7 +108042,7 @@ DATA["defense-bal-21"] = {
 				},
 				{
 					"Resource": "Weapon",
-					"Qty": 1e41
+					"Qty": 1e40
 				},
 				{
 					"Resource": "Comrade",
@@ -108090,7 +108090,7 @@ DATA["defense-bal-21"] = {
 				},
 				{
 					"Resource": "Weapon",
-					"Qty": 1e56
+					"Qty": 1e54
 				},
 				{
 					"Resource": "Comrade",
@@ -109236,7 +109236,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.5e44,
+				"Threshold": 1.5e43,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109278,7 +109278,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.2e46,
+				"Threshold": 2.2e45,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109348,7 +109348,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e49,
+				"Threshold": 4.2e48,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109418,7 +109418,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.66e53,
+				"Threshold": 6.66e51,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109488,7 +109488,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.8e55,
+				"Threshold": 2.8e53,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109558,7 +109558,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.56e59,
+				"Threshold": 4.56e58,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109628,7 +109628,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.3e63,
+				"Threshold": 3.3e62,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109698,7 +109698,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e67,
+				"Threshold": 1.3e66,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109768,7 +109768,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.56e71,
+				"Threshold": 2.56e70,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109838,7 +109838,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.5e75,
+				"Threshold": 5.5e74,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109908,7 +109908,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.5e79,
+				"Threshold": 9.5e78,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
