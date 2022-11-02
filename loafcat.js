@@ -107430,7 +107430,7 @@ DATA["defense-bal-21"] = {
 			"Card": [
 				{
 					"Id": "RS0031",
-					"Value": 4
+					"Value": 3
 				},
 				{
 					"Id": "RS0054",
@@ -107447,7 +107447,7 @@ DATA["defense-bal-21"] = {
 			"Card": [
 				{
 					"Id": "RS0041",
-					"Value": 4
+					"Value": 3
 				},
 				{
 					"Id": "RS0054",
@@ -107458,13 +107458,13 @@ DATA["defense-bal-21"] = {
 		{
 			"GachaId": "sc_m06",
 			"MimicGachaId": "plastic",
-			"Science": 52,
+			"Science": 46,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
 				{
 					"Id": "RS0041",
-					"Value": 6
+					"Value": 4
 				},
 				{
 					"Id": "RS0055",
@@ -107514,7 +107514,7 @@ DATA["defense-bal-21"] = {
 			"Trophy": 30,
 			"Card": [
 				{
-					"Id": "RS0036",
+					"Id": "RS0034",
 					"Value": 3
 				},
 				{
@@ -107535,11 +107535,11 @@ DATA["defense-bal-21"] = {
 			"Trophy": 50,
 			"Card": [
 				{
-					"Id": "RS0046",
+					"Id": "RS0043",
 					"Value": 4
 				},
 				{
-					"Id": "RS0036",
+					"Id": "RS0034",
 					"Value": 7
 				},
 				{
@@ -107556,11 +107556,11 @@ DATA["defense-bal-21"] = {
 			"Trophy": 60,
 			"Card": [
 				{
-					"Id": "RS0038",
+					"Id": "RS0036",
 					"Value": 2
 				},
 				{
-					"Id": "RS0046",
+					"Id": "RS0043",
 					"Value": 11
 				},
 				{
@@ -107577,12 +107577,12 @@ DATA["defense-bal-21"] = {
 			"Trophy": 70,
 			"Card": [
 				{
-					"Id": "RS0047",
+					"Id": "RS0046",
 					"Value": 3
 				},
 				{
-					"Id": "RS0038",
-					"Value": 13
+					"Id": "RS0036",
+					"Value": 12
 				},
 				{
 					"Id": "RS0065",
@@ -107591,9 +107591,135 @@ DATA["defense-bal-21"] = {
 			]
 		},
 		{
+			"GachaId": "sc_m13",
+			"MimicGachaId": "plastic",
+			"Science": 133,
+			"Gold": 0,
+			"Trophy": 80,
+			"Card": [
+				{
+					"Id": "RS0043",
+					"Value": 5
+				},
+				{
+					"Id": "RS0046",
+					"Value": 12
+				},
+				{
+					"Id": "RS0077",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m14",
+			"MimicGachaId": "plastic",
+			"Science": 156,
+			"Gold": 0,
+			"Trophy": 90,
+			"Card": [
+				{
+					"Id": "RS0038",
+					"Value": 10
+				},
+				{
+					"Id": "RS0036",
+					"Value": 11
+				},
+				{
+					"Id": "RS0055",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m15",
+			"MimicGachaId": "plastic",
+			"Science": 170,
+			"Gold": 0,
+			"Trophy": 100,
+			"Card": [
+				{
+					"Id": "RS0047",
+					"Value": 14
+				},
+				{
+					"Id": "RS0038",
+					"Value": 10
+				},
+				{
+					"Id": "RS0077",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m16",
+			"MimicGachaId": "plastic",
+			"Science": 187,
+			"Gold": 0,
+			"Trophy": 120,
+			"Card": [
+				{
+					"Id": "RS0047",
+					"Value": 9
+				},
+				{
+					"Id": "RS0036",
+					"Value": 17
+				},
+				{
+					"Id": "RS0080",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m17",
+			"MimicGachaId": "plastic",
+			"Science": 200,
+			"Gold": 0,
+			"Trophy": 140,
+			"Card": [
+				{
+					"Id": "RS0040",
+					"Value": 13
+				},
+				{
+					"Id": "RS0046",
+					"Value": 16
+				},
+				{
+					"Id": "RS0059",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m18",
+			"MimicGachaId": "plastic",
+			"Science": 216,
+			"Gold": 0,
+			"Trophy": 160,
+			"Card": [
+				{
+					"Id": "RS0049",
+					"Value": 20
+				},
+				{
+					"Id": "RS0040",
+					"Value": 12
+				},
+				{
+					"Id": "RS0080",
+					"Value": 2
+				}
+			]
+		},
+		{
 			"GachaId": "sc3",
 			"MimicGachaId": "plastic",
-			"Science": 50,
+			"Science": 48,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -108937,7 +109063,7 @@ DATA["defense-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m13",
 				"Value": 1
 			}
 		},
@@ -109007,7 +109133,7 @@ DATA["defense-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m14",
 				"Value": 1
 			}
 		},
@@ -109133,7 +109259,7 @@ DATA["defense-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m15",
 				"Value": 1
 			}
 		},
@@ -109203,7 +109329,7 @@ DATA["defense-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m16",
 				"Value": 1
 			}
 		},
@@ -109343,7 +109469,7 @@ DATA["defense-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m17",
 				"Value": 1
 			}
 		},
@@ -109441,7 +109567,7 @@ DATA["defense-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m18",
 				"Value": 1
 			}
 		},
