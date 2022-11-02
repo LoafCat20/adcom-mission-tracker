@@ -107373,6 +107373,30 @@ DATA["defense-bal-21"] = {
 			"Type": "Scripted"
 		},
 		{
+			"Id": "sc_m13",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m14",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m15",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m16",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m17",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m18",
+			"Type": "Scripted"
+		},
+		{
 			"Id": "sc3",
 			"Type": "Scripted"
 		}
