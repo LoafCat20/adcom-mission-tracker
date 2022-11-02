@@ -109576,7 +109576,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2e61,
+				"Threshold": 2e62,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109646,7 +109646,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.8e65,
+				"Threshold": 1.8e67,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109716,7 +109716,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e69,
+				"Threshold": 1.2e72,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109786,7 +109786,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.4e73,
+				"Threshold": 1.4e76,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109842,7 +109842,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.24e77,
+				"Threshold": 7.24e81,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109898,7 +109898,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.8e81,
+				"Threshold": 5.8e86,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109954,7 +109954,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.2e85,
+				"Threshold": 6.2e91,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -110010,7 +110010,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e90,
+				"Threshold": 4.2e96,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -110066,7 +110066,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.5e97,
+				"Threshold": 2.5e101,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -110389,7 +110389,7 @@ DATA["defense-bal-21"] = {
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50000000000000,
-				"ConditionId": "artillery"
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
