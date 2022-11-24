@@ -114263,7 +114263,7 @@ DATA["attack-bal-20"] = {
 				},
 				{
 					"Resource": "Oil",
-					"Qty": "1.0E+32"
+					"Qty": "1.0E+33"
 				},
 				{
 					"Resource": "Comrade",
@@ -114311,7 +114311,7 @@ DATA["attack-bal-20"] = {
 				},
 				{
 					"Resource": "Oil",
-					"Qty": "1.0E+43"
+					"Qty": "1.0E+45"
 				},
 				{
 					"Resource": "Comrade",
@@ -115145,7 +115145,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.44e31,
+				"Threshold": 4.44e32,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -115215,7 +115215,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.2e32,
+				"Threshold": 8.2e33,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -115285,7 +115285,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.8e35,
+				"Threshold": 1.8e36,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -115355,7 +115355,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.2e37,
+				"Threshold": 2.2e38,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -115425,7 +115425,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.87e39,
+				"Threshold": 1.87e40,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -115495,7 +115495,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.7e40,
+				"Threshold": 8.7e42,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -115565,7 +115565,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.9e42,
+				"Threshold": 9.9e44,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -115635,7 +115635,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.56e45,
+				"Threshold": 4.56e47,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -115663,7 +115663,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e58,
+				"Threshold": 5.2e59,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -115705,7 +115705,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.6e48,
+				"Threshold": 6.6e51,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -115733,7 +115733,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2e65,
+				"Threshold": 2e63,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -115775,7 +115775,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.7e52,
+				"Threshold": 8.7e55,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -115845,7 +115845,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.9e55,
+				"Threshold": 4.9e59,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -115901,7 +115901,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.91e58,
+				"Threshold": 3.91e62,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -115957,7 +115957,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.98e61,
+				"Threshold": 6.98e65,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -116013,7 +116013,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.5e64,
+				"Threshold": 3.5e69,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -116069,7 +116069,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.3e67,
+				"Threshold": 7.3e72,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -116125,7 +116125,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.2e70,
+				"Threshold": 3.2e75,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -116181,7 +116181,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.7e73,
+				"Threshold": 8.7e78,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -116237,7 +116237,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e77,
+				"Threshold": 4.2e82,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -116293,7 +116293,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.78e81,
+				"Threshold": 5.78e86,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -116349,7 +116349,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.7e85,
+				"Threshold": 8.7e90,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -116405,7 +116405,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.77e92,
+				"Threshold": 7.77e97,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -116461,7 +116461,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.7e114,
+				"Threshold": 4.7e119,
 				"ConditionId": "oil"
 			},
 			"Reward": {
