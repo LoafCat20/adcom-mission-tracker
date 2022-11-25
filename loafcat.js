@@ -122677,7 +122677,7 @@ SCHEDULE_CYCLES = {
 			"EndDayOfTheWeek": "Wednesday",
 			"StartHourUTC": 16,
 			"StartTime": "2022-08-25T00:00:00",
-			"EndTime": "2200-02-22T09:00:00",
+			"EndTime": "2200-11-24T09:00:00",
 			"LteBalanceIds": [
 				"attack-bal-20",
 				"export-bal-21",
@@ -122690,6 +122690,38 @@ SCHEDULE_CYCLES = {
 				"rewardmini1",
 				"rewardmini2",
 				"rewardmini3"
+			],
+			"LteLeaderboardIds": [
+				"leaderboard4"
+			],
+			"LteShortLeaderboardIds": [
+				"bucket2"
+			]
+		},
+		{
+			"Id": "Mini",
+			"BalanceType": "LteMidWeek",
+			"StartDayOfTheWeek": "Tuesday",
+			"EndDayOfTheWeek": "Thursday",
+			"StartHourUTC": 4,
+			"StartTime": "2022-11-25T00:00:00",
+			"EndTime": "2200-02-22T09:00:00",
+			"LteBalanceIds": [
+				"defense-bal-21",
+				"fusfarm-bal-30",
+				"attack-bal-20",
+				"fusscience-bal-31",
+				"export-bal-21",
+				"fuspet-bal-32",
+				"power-bal-20",
+				"fusvehicle-bal-32"
+			],
+			"LteRewardIds": [
+				"rewardmini1",
+				"rewardmini2",
+				"rewardmini3",
+				"rewardmini4",
+				"rewardmini5"
 			],
 			"LteLeaderboardIds": [
 				"leaderboard4"
