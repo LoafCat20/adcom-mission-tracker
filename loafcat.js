@@ -118514,7 +118514,4637 @@ DATA["attack-bal-20"] = {
 		}
 	]
 };
-  
+ 
+SSCHEDULE_CYCLES = {
+	"LeaderboardLoadTestData": [
+		{
+			"SubmitScore": false,
+			"GetScoreAtPosition": false,
+			"GetPlayerScore": false
+		}
+	],
+	"LteBalanceData": [
+		{
+			"BalanceId": "ninja-bal-1",
+			"DurationHours": 100,
+			"ThemeId": "ninja",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "cowboy-bal-2",
+			"DurationHours": 100,
+			"ThemeId": "cowboy",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "winter-bal-3",
+			"DurationHours": 100,
+			"ThemeId": "winter",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"DurationHours": 100,
+			"ThemeId": "crusade",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"DurationHours": 100,
+			"ThemeId": "space",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"DurationHours": 100,
+			"ThemeId": "atlantis",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "stone-bal-4",
+			"DurationHours": 100,
+			"ThemeId": "stone",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "zombie-bal-5",
+			"DurationHours": 100,
+			"ThemeId": "zombie",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "defense-bal-21",
+			"DurationHours": 32,
+			"ThemeId": "defense",
+			"SpecOpsIds": "184,185,186"
+		},
+		{
+			"BalanceId": "attack-bal-20",
+			"DurationHours": 32,
+			"ThemeId": "attack",
+			"SpecOpsIds": "184,185,186"
+		},
+		{
+			"BalanceId": "export-bal-21",
+			"DurationHours": 32,
+			"ThemeId": "export",
+			"SpecOpsIds": "184,185,186"
+		},
+		{
+			"BalanceId": "power-bal-20",
+			"DurationHours": 32,
+			"ThemeId": "power",
+			"SpecOpsIds": "184,185,186"
+		}
+	],
+	"LteLeaderboards": [
+		{
+			"LeaderboardId": "leaderboard1",
+			"BracketsActive": true,
+			"Brackets": [
+				{
+					"IsPercentage": false,
+					"Value": 1
+				},
+				{
+					"IsPercentage": false,
+					"Value": 5
+				},
+				{
+					"IsPercentage": false,
+					"Value": 25
+				},
+				{
+					"IsPercentage": false,
+					"Value": 100
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.01
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.05
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.1
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.25
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.5
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.75
+				},
+				{
+					"IsPercentage": true,
+					"Value": 1
+				}
+			],
+			"BracketRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "champion",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "top5",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "top25",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "top100",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "glorious",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "elite",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "prime",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "grand",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "advanced",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "workforce",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 50
+				}
+			]
+		},
+		{
+			"LeaderboardId": "leaderboard2",
+			"BracketsActive": true,
+			"Brackets": [
+				{
+					"IsPercentage": false,
+					"Value": 1
+				},
+				{
+					"IsPercentage": false,
+					"Value": 5
+				},
+				{
+					"IsPercentage": false,
+					"Value": 25
+				},
+				{
+					"IsPercentage": false,
+					"Value": 100
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.01
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.05
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.1
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.25
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.5
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.75
+				},
+				{
+					"IsPercentage": true,
+					"Value": 1
+				}
+			],
+			"BracketRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 8
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 3
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 3
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 5
+				}
+			]
+		},
+		{
+			"LeaderboardId": "leaderboard3",
+			"BracketsActive": true,
+			"Brackets": [
+				{
+					"IsPercentage": false,
+					"Value": 1
+				},
+				{
+					"IsPercentage": false,
+					"Value": 5
+				},
+				{
+					"IsPercentage": false,
+					"Value": 25
+				},
+				{
+					"IsPercentage": false,
+					"Value": 100
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.01
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.05
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.1
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.25
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.5
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.75
+				},
+				{
+					"IsPercentage": true,
+					"Value": 1
+				}
+			],
+			"BracketRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "champion",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "top5",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "top25",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "top100",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "specops_point",
+					"Value": 100
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "specops_point",
+					"Value": 40
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "specops_point",
+					"Value": 20
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 20
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 50
+				}
+			]
+		},
+		{
+			"LeaderboardId": "leaderboard4",
+			"BracketsActive": true,
+			"Brackets": [
+				{
+					"IsPercentage": false,
+					"Value": 1
+				},
+				{
+					"IsPercentage": false,
+					"Value": 5
+				},
+				{
+					"IsPercentage": false,
+					"Value": 25
+				},
+				{
+					"IsPercentage": false,
+					"Value": 100
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.01
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.05
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.1
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.25
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.5
+				},
+				{
+					"IsPercentage": true,
+					"Value": 0.75
+				},
+				{
+					"IsPercentage": true,
+					"Value": 1
+				}
+			],
+			"BracketRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 8
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 75
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 1
+				}
+			]
+		}
+	],
+	"LteOneOff": [
+		{
+			"BalanceId": "spooky-bal-10",
+			"BalanceType": "Lte",
+			"StartTime": "2022-10-20T16:00:00",
+			"EndTime": "2022-10-31T20:00:00",
+			"ThemeId": "spooky",
+			"RewardId": "rewardSpooky",
+			"LeaderboardId": "leaderboard3",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "fusscience-bal-31",
+			"BundleBackupId": "fusion",
+			"BalanceType": "Lte",
+			"StartTime": "2022-10-03T23:00:00",
+			"EndTime": "2022-10-06T03:00:00",
+			"ThemeId": "fusscience",
+			"RewardId": "rewardFUS2",
+			"LeaderboardId": "leaderboard4",
+			"LteShortLeaderboardId": "bucket2",
+			"SpecOpsIds": "173,174,179"
+		},
+		{
+			"BalanceId": "fusfarm-bal-30",
+			"BundleBackupId": "fusion",
+			"BalanceType": "Lte",
+			"StartTime": "2022-09-19T23:00:00",
+			"EndTime": "2022-09-22T03:00:00",
+			"ThemeId": "fusfarm",
+			"RewardId": "rewardFUS2",
+			"LeaderboardId": "leaderboard4",
+			"LteShortLeaderboardId": "bucket2",
+			"SpecOpsIds": "173,174,179"
+		},
+		{
+			"BalanceId": "bamboo-bal-10",
+			"BalanceType": "Lte",
+			"StartTime": "2022-09-01T16:00:00",
+			"EndTime": "2022-09-12T20:00:00",
+			"ThemeId": "bamboo",
+			"RewardId": "rewardBamboo",
+			"LeaderboardId": "leaderboard3",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "santa-bal-10",
+			"BalanceType": "Lte",
+			"StartTime": "2022-07-07T16:00:00",
+			"EndTime": "2022-07-18T20:00:00",
+			"ThemeId": "santa",
+			"RewardId": "rewardSanta",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "supervillain-bal-17",
+			"BalanceType": "Lte",
+			"StartTime": "2022-05-26T16:00:00",
+			"EndTime": "2022-06-06T20:00:00",
+			"ThemeId": "supervillain",
+			"RewardId": "rewardSupervillain",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "potatofactory-bal-13",
+			"BalanceType": "Lte",
+			"StartTime": "2022-03-03T16:00:00",
+			"EndTime": "2022-03-14T20:00:00",
+			"ThemeId": "potatofactory",
+			"RewardId": "rewardPotato",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "santa-bal-10",
+			"BalanceType": "Lte",
+			"StartTime": "2021-12-23T16:00:00",
+			"EndTime": "2022-01-03T20:00:00",
+			"ThemeId": "santa",
+			"RewardId": "rewardSanta",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "spooky-bal-10",
+			"BalanceType": "Lte",
+			"StartTime": "2021-10-21T16:00:00",
+			"EndTime": "2021-11-01T20:00:00",
+			"ThemeId": "spooky",
+			"RewardId": "rewardSpooky",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "santa-bal-10",
+			"BalanceType": "Lte",
+			"StartTime": "2021-08-18T16:00:00",
+			"EndTime": "2021-08-31T00:00:00",
+			"ThemeId": "santa",
+			"RewardId": "rewardSanta",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "cowboy-bal-2",
+			"BalanceType": "Lte",
+			"StartTime": "2021-08-13T16:00:00",
+			"EndTime": "2021-08-18T00:00:00",
+			"ThemeId": "cowboy",
+			"RewardId": "reward5",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"BalanceType": "Lte",
+			"StartTime": "2021-08-08T16:00:00",
+			"EndTime": "2021-08-13T00:00:00",
+			"ThemeId": "atlantis",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"BalanceType": "Lte",
+			"StartTime": "2021-08-03T16:00:00",
+			"EndTime": "2021-08-08T00:00:00",
+			"ThemeId": "space",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"BalanceType": "Lte",
+			"StartTime": "2021-07-29T16:00:00",
+			"EndTime": "2021-08-03T00:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "santa-bal-10",
+			"BalanceType": "Lte",
+			"StartTime": "2020-12-17T16:00:00",
+			"EndTime": "2020-12-28T20:00:00",
+			"ThemeId": "santa",
+			"RewardId": "rewardSanta",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "spooky-bal-10",
+			"BalanceType": "Lte",
+			"StartTime": "2020-10-22T16:00:00",
+			"EndTime": "2020-11-02T20:00:00",
+			"ThemeId": "spooky",
+			"RewardId": "rewardSpooky",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"Id": "event2213",
+			"BalanceType": "Lte",
+			"StartTime": "2020-07-23T16:00:00",
+			"EndTime": "2020-07-27T20:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "winter-bal-3",
+			"Id": "event2212",
+			"BalanceType": "Lte",
+			"StartTime": "2020-07-16T16:00:00",
+			"EndTime": "2020-07-20T20:00:00",
+			"ThemeId": "winter",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "cowboy-bal-2",
+			"Id": "event2211",
+			"BalanceType": "Lte",
+			"StartTime": "2020-07-09T16:00:00",
+			"EndTime": "2020-07-13T20:00:00",
+			"ThemeId": "cowboy",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "ninja-bal-1",
+			"Id": "event2210",
+			"BalanceType": "Lte",
+			"StartTime": "2020-07-02T16:00:00",
+			"EndTime": "2020-07-06T20:00:00",
+			"ThemeId": "ninja",
+			"RewardId": "reward5",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"Id": "event2209",
+			"BalanceType": "Lte",
+			"StartTime": "2020-06-25T16:00:00",
+			"EndTime": "2020-06-29T20:00:00",
+			"ThemeId": "atlantis",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"Id": "event2208",
+			"BalanceType": "Lte",
+			"StartTime": "2020-06-18T16:00:00",
+			"EndTime": "2020-06-22T20:00:00",
+			"ThemeId": "space",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"Id": "event2207",
+			"BalanceType": "Lte",
+			"StartTime": "2020-06-11T16:00:00",
+			"EndTime": "2020-06-15T20:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "winter-bal-3",
+			"Id": "event2206",
+			"BalanceType": "Lte",
+			"StartTime": "2020-06-04T16:00:00",
+			"EndTime": "2020-06-08T20:00:00",
+			"ThemeId": "winter",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "cowboy-bal-2",
+			"Id": "event2205",
+			"BalanceType": "Lte",
+			"StartTime": "2020-05-28T16:00:00",
+			"EndTime": "2020-06-01T20:00:00",
+			"ThemeId": "cowboy",
+			"RewardId": "reward5",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "ninja-bal-1",
+			"Id": "event2204",
+			"BalanceType": "Lte",
+			"StartTime": "2020-05-21T16:00:00",
+			"EndTime": "2020-05-25T20:00:00",
+			"ThemeId": "ninja",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"Id": "event2203",
+			"BalanceType": "Lte",
+			"StartTime": "2020-05-14T16:00:00",
+			"EndTime": "2020-05-18T20:00:00",
+			"ThemeId": "atlantis",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"Id": "event2202",
+			"BalanceType": "Lte",
+			"StartTime": "2020-05-07T16:00:00",
+			"EndTime": "2020-05-11T20:00:00",
+			"ThemeId": "space",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "santa-bal-10",
+			"Id": "event2201",
+			"BalanceType": "Lte",
+			"StartTime": "2020-04-23T16:00:00",
+			"EndTime": "2020-05-04T20:00:00",
+			"ThemeId": "santa",
+			"RewardId": "rewardSanta",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"Id": "event2200",
+			"BalanceType": "Lte",
+			"StartTime": "2020-04-16T16:00:00",
+			"EndTime": "2020-04-20T20:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "cowboy-bal-2",
+			"Id": "event2103",
+			"BalanceType": "Lte",
+			"StartTime": "2020-04-09T16:00:00",
+			"EndTime": "2020-04-13T20:00:00",
+			"ThemeId": "cowboy",
+			"RewardId": "reward5",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "ninja-bal-1",
+			"Id": "event2102",
+			"BalanceType": "Lte",
+			"StartTime": "2020-04-02T16:00:00",
+			"EndTime": "2020-04-06T20:00:00",
+			"ThemeId": "ninja",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"Id": "event2101",
+			"BalanceType": "Lte",
+			"StartTime": "2020-03-26T16:00:00",
+			"EndTime": "2020-03-30T20:00:00",
+			"ThemeId": "atlantis",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"Id": "event2100",
+			"BalanceType": "Lte",
+			"StartTime": "2020-03-19T16:00:00",
+			"EndTime": "2020-03-23T20:00:00",
+			"ThemeId": "space",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"Id": "event2004",
+			"BalanceType": "Lte",
+			"StartTime": "2020-03-12T16:00:00",
+			"EndTime": "2020-03-16T20:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "winter-bal-3",
+			"Id": "event1000",
+			"BalanceType": "Lte",
+			"StartTime": "2020-03-05T17:00:00",
+			"EndTime": "2020-03-09T21:00:00",
+			"ThemeId": "winter",
+			"RewardId": "reward5",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "cowboy-bal-2",
+			"Id": "event1001",
+			"BalanceType": "Lte",
+			"StartTime": "2020-02-27T17:00:00",
+			"EndTime": "2020-03-02T21:00:00",
+			"ThemeId": "cowboy",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "ninja-bal-1",
+			"Id": "event1002",
+			"BalanceType": "Lte",
+			"StartTime": "2020-02-20T17:00:00",
+			"EndTime": "2020-02-24T21:00:00",
+			"ThemeId": "ninja",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"Id": "event40",
+			"BalanceType": "Lte",
+			"StartTime": "2020-02-13T17:00:00",
+			"EndTime": "2020-02-17T21:00:00",
+			"ThemeId": "atlantis",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"Id": "event39",
+			"BalanceType": "Lte",
+			"StartTime": "2020-02-06T17:00:00",
+			"EndTime": "2020-02-10T21:00:00",
+			"ThemeId": "space",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"Id": "event38",
+			"BalanceType": "Lte",
+			"StartTime": "2020-01-30T17:00:00",
+			"EndTime": "2020-02-03T21:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "winter-bal-3",
+			"Id": "event37",
+			"BalanceType": "Lte",
+			"StartTime": "2020-01-23T17:00:00",
+			"EndTime": "2020-01-27T21:00:00",
+			"ThemeId": "winter",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "cowboy-bal-2",
+			"Id": "event36",
+			"BalanceType": "Lte",
+			"StartTime": "2020-01-16T17:00:00",
+			"EndTime": "2020-01-20T21:00:00",
+			"ThemeId": "cowboy",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "ninja-bal-1",
+			"Id": "event35",
+			"BalanceType": "Lte",
+			"StartTime": "2020-01-09T17:00:00",
+			"EndTime": "2020-01-13T21:00:00",
+			"ThemeId": "ninja",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"Id": "event34",
+			"BalanceType": "Lte",
+			"StartTime": "2020-01-02T17:00:00",
+			"EndTime": "2020-01-06T21:00:00",
+			"ThemeId": "atlantis",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "santa-bal-10",
+			"Id": "event33",
+			"BalanceType": "Lte",
+			"StartTime": "2019-12-19T17:00:00",
+			"EndTime": "2019-12-30T21:00:00",
+			"ThemeId": "santa",
+			"RewardId": "rewardSanta",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"Id": "event32",
+			"BalanceType": "Lte",
+			"StartTime": "2019-12-12T17:00:00",
+			"EndTime": "2019-12-16T21:00:00",
+			"ThemeId": "space",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"Id": "event31",
+			"BalanceType": "Lte",
+			"StartTime": "2019-12-05T17:00:00",
+			"EndTime": "2019-12-09T21:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "cowboy-bal-2",
+			"Id": "event30",
+			"BalanceType": "Lte",
+			"StartTime": "2019-11-28T17:00:00",
+			"EndTime": "2019-12-02T21:00:00",
+			"ThemeId": "cowboy",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "ninja-bal-1",
+			"Id": "event29",
+			"BalanceType": "Lte",
+			"StartTime": "2019-11-21T17:00:00",
+			"EndTime": "2019-11-25T21:00:00",
+			"ThemeId": "ninja",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"Id": "event28",
+			"BalanceType": "Lte",
+			"StartTime": "2019-11-14T17:00:00",
+			"EndTime": "2019-11-18T21:00:00",
+			"ThemeId": "atlantis",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"Id": "event27",
+			"BalanceType": "Lte",
+			"StartTime": "2019-11-07T17:00:00",
+			"EndTime": "2019-11-11T21:00:00",
+			"ThemeId": "space",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"Id": "event26",
+			"BalanceType": "Lte",
+			"StartTime": "2019-10-31T16:00:00",
+			"EndTime": "2019-11-04T20:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "cowboy-bal-2",
+			"Id": "event25",
+			"BalanceType": "Lte",
+			"StartTime": "2019-10-24T16:00:00",
+			"EndTime": "2019-10-28T20:00:00",
+			"ThemeId": "cowboy",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "ninja-bal-1",
+			"Id": "event24",
+			"BalanceType": "Lte",
+			"StartTime": "2019-10-17T16:00:00",
+			"EndTime": "2019-10-21T20:00:00",
+			"ThemeId": "ninja",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"Id": "event23",
+			"BalanceType": "Lte",
+			"StartTime": "2019-10-10T16:00:00",
+			"EndTime": "2019-10-14T20:00:00",
+			"ThemeId": "atlantis",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"Id": "event22",
+			"BalanceType": "Lte",
+			"StartTime": "2019-10-03T16:00:00",
+			"EndTime": "2019-10-07T20:00:00",
+			"ThemeId": "space",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"Id": "event21",
+			"BalanceType": "Lte",
+			"StartTime": "2019-09-26T16:00:00",
+			"EndTime": "2019-09-30T20:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "cowboy-bal-2",
+			"Id": "event20",
+			"BalanceType": "Lte",
+			"StartTime": "2019-09-19T16:00:00",
+			"EndTime": "2019-09-23T20:00:00",
+			"ThemeId": "cowboy",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "ninja-bal-1",
+			"Id": "event19",
+			"BalanceType": "Lte",
+			"StartTime": "2019-09-12T16:00:00",
+			"EndTime": "2019-09-16T20:00:00",
+			"ThemeId": "ninja",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"Id": "event18",
+			"BalanceType": "Lte",
+			"StartTime": "2019-09-05T16:00:00",
+			"EndTime": "2019-09-09T20:00:00",
+			"ThemeId": "atlantis",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"Id": "event17",
+			"BalanceType": "Lte",
+			"StartTime": "2019-08-29T16:00:00",
+			"EndTime": "2019-09-02T20:00:00",
+			"ThemeId": "space",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"Id": "event16",
+			"BalanceType": "Lte",
+			"StartTime": "2019-08-22T16:00:00",
+			"EndTime": "2019-08-26T20:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "cowboy-bal-2",
+			"Id": "event15",
+			"BalanceType": "Lte",
+			"StartTime": "2019-08-15T16:00:00",
+			"EndTime": "2019-08-19T20:00:00",
+			"ThemeId": "cowboy",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "ninja-bal-1",
+			"Id": "event14",
+			"BalanceType": "Lte",
+			"StartTime": "2019-08-08T16:00:00",
+			"EndTime": "2019-08-12T20:00:00",
+			"ThemeId": "ninja",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"Id": "event13",
+			"BalanceType": "Lte",
+			"StartTime": "2019-08-01T16:00:00",
+			"EndTime": "2019-08-05T20:00:00",
+			"ThemeId": "atlantis",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"Id": "event12",
+			"BalanceType": "Lte",
+			"StartTime": "2019-07-25T16:00:00",
+			"EndTime": "2019-07-29T20:00:00",
+			"ThemeId": "space",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"Id": "event11",
+			"BalanceType": "Lte",
+			"StartTime": "2019-07-18T16:00:00",
+			"EndTime": "2019-07-22T20:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "cowboy-bal-2",
+			"Id": "event10",
+			"BalanceType": "Lte",
+			"StartTime": "2019-07-11T16:00:00",
+			"EndTime": "2019-07-15T20:00:00",
+			"ThemeId": "cowboy",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"Id": "event9",
+			"BalanceType": "Lte",
+			"StartTime": "2019-07-04T16:00:00",
+			"EndTime": "2019-07-08T20:00:00",
+			"ThemeId": "atlantis",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"Id": "event8",
+			"BalanceType": "Lte",
+			"StartTime": "2019-06-27T16:00:00",
+			"EndTime": "2019-07-01T20:00:00",
+			"ThemeId": "space",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"Id": "event7",
+			"BalanceType": "Lte",
+			"StartTime": "2019-06-20T16:00:00",
+			"EndTime": "2019-06-24T20:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"Id": "event6",
+			"BalanceType": "Lte",
+			"StartTime": "2019-06-13T16:00:00",
+			"EndTime": "2019-06-17T20:00:00",
+			"ThemeId": "atlantis",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"Id": "event5",
+			"BalanceType": "Lte",
+			"StartTime": "2019-06-06T16:00:00",
+			"EndTime": "2019-06-10T20:00:00",
+			"ThemeId": "space",
+			"RewardId": "rewardlessranks5",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"Id": "event4",
+			"BalanceType": "Lte",
+			"StartTime": "2019-05-30T16:00:00",
+			"EndTime": "2019-06-03T20:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "rewardlessranks4",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"Id": "event3",
+			"BalanceType": "Lte",
+			"StartTime": "2019-05-23T16:00:00",
+			"EndTime": "2019-05-27T00:00:00",
+			"ThemeId": "space",
+			"RewardId": "rewardlessranks3",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "crusade-bal-1",
+			"Id": "event2",
+			"BalanceType": "Lte",
+			"StartTime": "2019-05-16T16:00:00",
+			"EndTime": "2019-05-20T00:00:00",
+			"ThemeId": "crusade",
+			"RewardId": "rewardlessranks2",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"Id": "event1",
+			"BalanceType": "Lte",
+			"StartTime": "2019-05-09T16:00:00",
+			"EndTime": "2019-05-13T00:00:00",
+			"ThemeId": "space",
+			"RewardId": "rewardlessranks1",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		}
+	],
+	"LteRewards": [
+		{
+			"RewardId": "reward1",
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 250
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 750
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1500
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 75
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 40
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 6000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 8
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 18000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 8
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 18000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "reward2",
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 75
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 150
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 15
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 8
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 400
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 30
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 25
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 3000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 8
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 12000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 8
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 12000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "reward3",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 25
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 250
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 8
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 750
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 2
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2500
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 30
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 100
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 12
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 12
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				}
+			]
+		},
+		{
+			"RewardId": "reward4",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 5
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 200
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 400
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 800
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 25
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 40
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 2
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 7
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 4000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 10
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 10
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "reward5",
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 200
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 400
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 6
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 2
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 800
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 12
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 40
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1600
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 4800
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 6
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 9600
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 9600
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "rewardSanta",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 250
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "present",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 750
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "present",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 15
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 2
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "present",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 25
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "present",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "present",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 50
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "present",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 10
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "rewardlessranks1",
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 30
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 250
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 50
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 10000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 10000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "rewardlessranks2",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 250
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 30
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 50
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 10000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "rewardlessranks3",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 30
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 25
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 50
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 5
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 15
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 15
+				}
+			]
+		},
+		{
+			"RewardId": "rewardlessranks4",
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 30
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 75
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 12
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 10000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 25000
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 25000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 12
+				}
+			]
+		},
+		{
+			"RewardId": "rewardlessranks5",
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 30
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 250
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 50
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 15000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 15000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "rewardmini1",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 25
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 200
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 4
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 750
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 15
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 25
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 15000
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 15000
+				}
+			]
+		},
+		{
+			"RewardId": "rewardmini2",
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 15
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 5
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 600
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 15
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 2
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1800
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rare",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 3600
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 12000
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 12000
+				}
+			]
+		},
+		{
+			"RewardId": "rewardmini3",
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 200
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 8
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 20
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 10
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 10
+				}
+			]
+		},
+		{
+			"RewardId": "rewardmini4",
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 6
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1500
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 3000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "rewardmini5",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 25
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 200
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 400
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 800
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 12
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2400
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 4800
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 5
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 4800
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 5
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "rewardSpooky",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 250
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "pumpkin",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 750
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "pumpkin",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 15
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 2
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "pumpkin",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 25
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "pumpkin",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "pumpkin",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 50
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "pumpkin",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 10
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "rewardPotato",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 250
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "potatofactory",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 750
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "potatofactory",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 15
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 2
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "potatofactory",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 25
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "potatofactory",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "potatofactory",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 50
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "potatofactory",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 10
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "rewardSupervillain",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 250
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supervillain",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 750
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supervillain",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 15
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 2
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supervillain",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 25
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supervillain",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supervillain",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 50
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supervillain",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 10
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "rewardBamboo",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 250
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "bamboo",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 750
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "bamboo",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 15
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 2
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "bamboo",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 25
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "bamboo",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "bamboo",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 50
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "bamboo",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 10
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "rewardFUS2",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 15
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 2
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 150
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 8
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 750
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 35
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 100
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 12
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 18000
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 12
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 18000
+				}
+			]
+		}
+	],
+	"LteSchedule": [
+		{
+			"Id": "Regular",
+			"BalanceType": "Lte",
+			"StartDayOfTheWeek": "Thursday",
+			"EndDayOfTheWeek": "Monday",
+			"StartHourUTC": 16,
+			"StartTime": "2020-04-15T09:00:00",
+			"EndTime": "2020-02-22T09:00:00",
+			"LteBalanceIds": [
+				"space-bal-2",
+				"atlantis-bal-3",
+				"ninja-bal-1",
+				"cowboy-bal-2",
+				"winter-bal-3",
+				"crusade-bal-1"
+			],
+			"LteRewardIds": [
+				"reward4",
+				"reward5",
+				"reward1",
+				"reward2",
+				"reward3"
+			],
+			"LteLeaderboardIds": [
+				"leaderboard3"
+			],
+			"LteShortLeaderboardIds": [
+				"bucket1"
+			]
+		},
+		{
+			"Id": "Mini",
+			"BalanceType": "LteMidWeek",
+			"StartDayOfTheWeek": "Tuesday",
+			"EndDayOfTheWeek": "Wednesday",
+			"StartHourUTC": 16,
+			"StartTime": "2020-07-28T09:00:00",
+			"EndTime": "2021-07-29T00:00:00",
+			"LteBalanceIds": [
+				"defense-bal-21",
+				"attack-bal-20",
+				"export-bal-21",
+				"power-bal-20"
+			],
+			"LteRewardIds": [
+				"rewardmini1",
+				"rewardmini2",
+				"rewardmini3",
+				"rewardmini4",
+				"rewardmini5"
+			],
+			"LteLeaderboardIds": [
+				"leaderboard4"
+			],
+			"LteShortLeaderboardIds": [
+				"bucket2"
+			]
+		},
+		{
+			"Id": "Regular",
+			"BalanceType": "Lte",
+			"StartDayOfTheWeek": "Thursday",
+			"EndDayOfTheWeek": "Monday",
+			"StartHourUTC": 16,
+			"StartTime": "2021-04-19T09:00:00",
+			"EndTime": "2021-07-29T00:00:00",
+			"LteBalanceIds": [
+				"winter-bal-3",
+				"stone-bal-4",
+				"crusade-bal-1",
+				"space-bal-2",
+				"atlantis-bal-3",
+				"ninja-bal-1",
+				"cowboy-bal-2"
+			],
+			"LteRewardIds": [
+				"reward3",
+				"reward4",
+				"reward5",
+				"reward1",
+				"reward2"
+			],
+			"LteLeaderboardIds": [
+				"leaderboard3"
+			],
+			"LteShortLeaderboardIds": [
+				"bucket1"
+			]
+		},
+		{
+			"Id": "Mini",
+			"BalanceType": "LteMidWeek",
+			"StartDayOfTheWeek": "Tuesday",
+			"EndDayOfTheWeek": "Wednesday",
+			"StartHourUTC": 16,
+			"StartTime": "2021-08-31T00:00:00",
+			"EndTime": "2022-08-18T09:00:00",
+			"LteBalanceIds": [
+				"power-bal-20",
+				"defense-bal-21",
+				"attack-bal-20",
+				"export-bal-21"
+			],
+			"LteRewardIds": [
+				"rewardmini2",
+				"rewardmini3",
+				"rewardmini4",
+				"rewardmini5",
+				"rewardmini1"
+			],
+			"LteLeaderboardIds": [
+				"leaderboard4"
+			],
+			"LteShortLeaderboardIds": [
+				"bucket2"
+			]
+		},
+		{
+			"Id": "Regular",
+			"BalanceType": "Lte",
+			"StartDayOfTheWeek": "Thursday",
+			"EndDayOfTheWeek": "Monday",
+			"StartHourUTC": 16,
+			"StartTime": "2021-08-31T00:00:00",
+			"EndTime": "2021-10-22T09:00:00",
+			"LteBalanceIds": [
+				"winter-bal-3",
+				"stone-bal-4",
+				"ninja-bal-1",
+				"crusade-bal-1",
+				"space-bal-2",
+				"atlantis-bal-3",
+				"cowboy-bal-2"
+			],
+			"LteRewardIds": [
+				"reward1",
+				"reward2",
+				"reward3",
+				"reward4",
+				"reward5"
+			],
+			"LteLeaderboardIds": [
+				"leaderboard3"
+			],
+			"LteShortLeaderboardIds": [
+				"bucket1"
+			]
+		},
+		{
+			"Id": "Regular",
+			"BalanceType": "Lte",
+			"StartDayOfTheWeek": "Thursday",
+			"EndDayOfTheWeek": "Monday",
+			"StartHourUTC": 16,
+			"StartTime": "2021-11-01T09:00:00",
+			"EndTime": "2221-10-29T09:00:00",
+			"LteBalanceIds": [
+				"zombie-bal-5",
+				"winter-bal-3",
+				"stone-bal-4",
+				"ninja-bal-1",
+				"crusade-bal-1",
+				"space-bal-2",
+				"atlantis-bal-3",
+				"cowboy-bal-2"
+			],
+			"LteRewardIds": [
+				"reward4",
+				"reward5",
+				"reward1",
+				"reward2",
+				"reward3"
+			],
+			"LteLeaderboardIds": [
+				"leaderboard3"
+			],
+			"LteShortLeaderboardIds": [
+				"bucket1"
+			]
+		},
+		{
+			"Id": "Mini",
+			"BalanceType": "LteMidWeek",
+			"StartDayOfTheWeek": "Tuesday",
+			"EndDayOfTheWeek": "Wednesday",
+			"StartHourUTC": 16,
+			"StartTime": "2022-08-25T00:00:00",
+			"EndTime": "2200-02-22T09:00:00",
+			"LteBalanceIds": [
+				"attack-bal-20",
+				"export-bal-21",
+				"power-bal-20",
+				"defense-bal-21"
+			],
+			"LteRewardIds": [
+				"rewardmini4",
+				"rewardmini5",
+				"rewardmini1",
+				"rewardmini2",
+				"rewardmini3"
+			],
+			"LteLeaderboardIds": [
+				"leaderboard4"
+			],
+			"LteShortLeaderboardIds": [
+				"bucket2"
+			]
+		}
+	],
+	"LteShortLeaderboards": [
+		{
+			"LeaderboardId": "bucket1",
+			"BracketsActive": true,
+			"Brackets": [
+				{
+					"IsPercentage": false,
+					"Value": 1
+				},
+				{
+					"IsPercentage": false,
+					"Value": 2
+				},
+				{
+					"IsPercentage": false,
+					"Value": 3
+				},
+				{
+					"IsPercentage": false,
+					"Value": 4
+				},
+				{
+					"IsPercentage": false,
+					"Value": 5
+				},
+				{
+					"IsPercentage": false,
+					"Value": 6
+				},
+				{
+					"IsPercentage": false,
+					"Value": 7
+				},
+				{
+					"IsPercentage": false,
+					"Value": 8
+				},
+				{
+					"IsPercentage": false,
+					"Value": 9
+				},
+				{
+					"IsPercentage": false,
+					"Value": 10
+				},
+				{
+					"IsPercentage": false,
+					"Value": 11
+				},
+				{
+					"IsPercentage": false,
+					"Value": 12
+				},
+				{
+					"IsPercentage": false,
+					"Value": 13
+				},
+				{
+					"IsPercentage": false,
+					"Value": 14
+				},
+				{
+					"IsPercentage": false,
+					"Value": 15
+				},
+				{
+					"IsPercentage": false,
+					"Value": 16
+				},
+				{
+					"IsPercentage": false,
+					"Value": 17
+				},
+				{
+					"IsPercentage": false,
+					"Value": 18
+				},
+				{
+					"IsPercentage": false,
+					"Value": 19
+				},
+				{
+					"IsPercentage": false,
+					"Value": 20
+				},
+				{
+					"IsPercentage": false,
+					"Value": 21
+				},
+				{
+					"IsPercentage": false,
+					"Value": 22
+				},
+				{
+					"IsPercentage": false,
+					"Value": 23
+				},
+				{
+					"IsPercentage": false,
+					"Value": 24
+				},
+				{
+					"IsPercentage": false,
+					"Value": 25
+				}
+			],
+			"BracketRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "elite",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "prime",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 200
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "timehack_4",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "grand",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 120
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "advanced",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 75
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "workforce",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "workforce",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "workforce",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "workforce",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "workforce",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 20
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 20
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 20
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 20
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 20
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				}
+			]
+		},
+		{
+			"LeaderboardId": "bucket2",
+			"BracketsActive": true,
+			"Brackets": [
+				{
+					"IsPercentage": false,
+					"Value": 1
+				},
+				{
+					"IsPercentage": false,
+					"Value": 2
+				},
+				{
+					"IsPercentage": false,
+					"Value": 3
+				},
+				{
+					"IsPercentage": false,
+					"Value": 4
+				},
+				{
+					"IsPercentage": false,
+					"Value": 5
+				},
+				{
+					"IsPercentage": false,
+					"Value": 6
+				},
+				{
+					"IsPercentage": false,
+					"Value": 7
+				},
+				{
+					"IsPercentage": false,
+					"Value": 8
+				},
+				{
+					"IsPercentage": false,
+					"Value": 9
+				},
+				{
+					"IsPercentage": false,
+					"Value": 10
+				},
+				{
+					"IsPercentage": false,
+					"Value": 11
+				},
+				{
+					"IsPercentage": false,
+					"Value": 12
+				},
+				{
+					"IsPercentage": false,
+					"Value": 13
+				},
+				{
+					"IsPercentage": false,
+					"Value": 14
+				},
+				{
+					"IsPercentage": false,
+					"Value": 15
+				},
+				{
+					"IsPercentage": false,
+					"Value": 16
+				},
+				{
+					"IsPercentage": false,
+					"Value": 17
+				},
+				{
+					"IsPercentage": false,
+					"Value": 18
+				},
+				{
+					"IsPercentage": false,
+					"Value": 19
+				},
+				{
+					"IsPercentage": false,
+					"Value": 20
+				},
+				{
+					"IsPercentage": false,
+					"Value": 21
+				},
+				{
+					"IsPercentage": false,
+					"Value": 22
+				},
+				{
+					"IsPercentage": false,
+					"Value": 23
+				},
+				{
+					"IsPercentage": false,
+					"Value": 24
+				},
+				{
+					"IsPercentage": false,
+					"Value": 25
+				}
+			],
+			"BracketRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "prime",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "grand",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "advanced",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 40
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "workforce",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 20
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 12
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 2
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 10
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 8
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 8
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 8
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 8
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 8
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 25
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 25
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 25
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 25
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 25
+				}
+			]
+		}
+	]
+};
+
 
 ;
 ENGLISH_LOCALIZATION_STRING += String.raw`
