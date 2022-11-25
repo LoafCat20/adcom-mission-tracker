@@ -122677,7 +122677,7 @@ SCHEDULE_CYCLES = {
 			"EndDayOfTheWeek": "Wednesday",
 			"StartHourUTC": 16,
 			"StartTime": "2022-08-25T00:00:00",
-			"EndTime": "2200-11-24T09:00:00",
+			"EndTime": "2022-11-24T09:00:00",
 			"LteBalanceIds": [
 				"attack-bal-20",
 				"export-bal-21",
@@ -122717,11 +122717,12 @@ SCHEDULE_CYCLES = {
 				"fusvehicle-bal-32"
 			],
 			"LteRewardIds": [
+				"rewardmini1",
 				"rewardmini2",
 				"rewardmini3",
 				"rewardmini4",
-				"rewardmini5",
-				"rewardmini1"
+				"rewardmini5"
+
 			],
 			"LteLeaderboardIds": [
 				"leaderboard4"
