@@ -118515,7 +118515,7 @@ DATA["attack-bal-20"] = {
 	]
 };
  
-SSCHEDULE_CYCLES = {
+SCHEDULE_CYCLES = {
 	"LeaderboardLoadTestData": [
 		{
 			"SubmitScore": false,
@@ -118574,27 +118574,51 @@ SSCHEDULE_CYCLES = {
 		},
 		{
 			"BalanceId": "defense-bal-21",
-			"DurationHours": 32,
+			"DurationHours": 52,
 			"ThemeId": "defense",
-			"SpecOpsIds": "184,185,186"
+			"SpecOpsIds": "173,174,220,221"
 		},
 		{
 			"BalanceId": "attack-bal-20",
-			"DurationHours": 32,
+			"DurationHours": 52,
 			"ThemeId": "attack",
-			"SpecOpsIds": "184,185,186"
+			"SpecOpsIds": "173,174,220,221"
 		},
 		{
 			"BalanceId": "export-bal-21",
-			"DurationHours": 32,
+			"DurationHours": 52,
 			"ThemeId": "export",
-			"SpecOpsIds": "184,185,186"
+			"SpecOpsIds": "173,174,220,221"
 		},
 		{
 			"BalanceId": "power-bal-20",
-			"DurationHours": 32,
+			"DurationHours": 52,
 			"ThemeId": "power",
-			"SpecOpsIds": "184,185,186"
+			"SpecOpsIds": "173,174,220,221"
+		},
+		{
+			"BalanceId": "fusfarm-bal-30",
+			"DurationHours": 52,
+			"ThemeId": "fusfarm",
+			"SpecOpsIds": "173,174,220,221"
+		},
+		{
+			"BalanceId": "fusscience-bal-31",
+			"DurationHours": 52,
+			"ThemeId": "fusscience",
+			"SpecOpsIds": "173,174,220,221"
+		},
+		{
+			"BalanceId": "fusvehicle-bal-32",
+			"DurationHours": 52,
+			"ThemeId": "fusvehicle",
+			"SpecOpsIds": "173,174,220,221"
+		},
+		{
+			"BalanceId": "fuspet-bal-32",
+			"DurationHours": 52,
+			"ThemeId": "fuspet",
+			"SpecOpsIds": "173,174,220,221"
 		}
 	],
 	"LteLeaderboards": [
