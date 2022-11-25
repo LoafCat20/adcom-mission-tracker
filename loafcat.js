@@ -122717,11 +122717,11 @@ SCHEDULE_CYCLES = {
 				"fusvehicle-bal-32"
 			],
 			"LteRewardIds": [
-				"rewardmini1",
 				"rewardmini2",
 				"rewardmini3",
 				"rewardmini4",
-				"rewardmini5"
+				"rewardmini5",
+				"rewardmini1"
 			],
 			"LteLeaderboardIds": [
 				"leaderboard4"
