@@ -123255,7 +123255,7 @@ SCHEDULE_CYCLES = {
 			"EndDayOfTheWeek": "Wednesday",
 			"StartHourUTC": 16,
 			"StartTime": "2022-08-25T00:00:00",
-			"EndTime": "2200-02-22T09:00:00",
+			"EndTime": "2023-01-05T09:00:00",
 			"LteBalanceIds": [
 				"attack-bal-20",
 				"export-bal-21",
