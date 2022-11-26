@@ -113478,7 +113478,7 @@ DATA["attack-bal-20"] = {
 		{
 			"GachaId": "sc_m02",
 			"MimicGachaId": "plastic",
-			"Science": 52,
+			"Science": 50,
 			"Trophy": 10,
 			"Card": [
 				{
@@ -113494,7 +113494,7 @@ DATA["attack-bal-20"] = {
 		{
 			"GachaId": "sc_m03",
 			"MimicGachaId": "plastic",
-			"Science": 51,
+			"Science": 49,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -113530,7 +113530,7 @@ DATA["attack-bal-20"] = {
 			"Card": [
 				{
 					"Id": "RS0033",
-					"Value": 5
+					"Value": 4
 				},
 				{
 					"Id": "RS0063",
@@ -113547,7 +113547,7 @@ DATA["attack-bal-20"] = {
 			"Card": [
 				{
 					"Id": "RS0031",
-					"Value": 5
+					"Value": 4
 				},
 				{
 					"Id": "RS0054",
@@ -113584,7 +113584,7 @@ DATA["attack-bal-20"] = {
 			"Trophy": 30,
 			"Card": [
 				{
-					"Id": "RS0025",
+					"Id": "RS0022",
 					"Value": 3
 				},
 				{
@@ -113605,11 +113605,11 @@ DATA["attack-bal-20"] = {
 			"Trophy": 40,
 			"Card": [
 				{
-					"Id": "RS0037",
+					"Id": "RS0036",
 					"Value": 3
 				},
 				{
-					"Id": "RS0025",
+					"Id": "RS0022",
 					"Value": 7
 				},
 				{
@@ -113626,15 +113626,15 @@ DATA["attack-bal-20"] = {
 			"Trophy": 60,
 			"Card": [
 				{
-					"Id": "RS0026",
+					"Id": "RS0025",
 					"Value": 4
 				},
 				{
-					"Id": "RS0037",
+					"Id": "RS0036",
 					"Value": 9
 				},
 				{
-					"Id": "RS0053",
+					"Id": "RS0080",
 					"Value": 1
 				}
 			]
@@ -113647,15 +113647,15 @@ DATA["attack-bal-20"] = {
 			"Trophy": 70,
 			"Card": [
 				{
-					"Id": "RS0039",
+					"Id": "RS0037",
 					"Value": 2
 				},
 				{
-					"Id": "RS0026",
-					"Value": 14
+					"Id": "RS0025",
+					"Value": 13
 				},
 				{
-					"Id": "RS0053",
+					"Id": "RS0080",
 					"Value": 1
 				}
 			]
@@ -113668,16 +113668,121 @@ DATA["attack-bal-20"] = {
 			"Trophy": 80,
 			"Card": [
 				{
-					"Id": "RS0027",
+					"Id": "RS0026",
 					"Value": 4
+				},
+				{
+					"Id": "RS0037",
+					"Value": 14
+				},
+				{
+					"Id": "RS0058",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m13",
+			"MimicGachaId": "plastic",
+			"Science": 125,
+			"Gold": 0,
+			"Trophy": 90,
+			"Card": [
+				{
+					"Id": "RS0039",
+					"Value": 13
+				},
+				{
+					"Id": "RS0026",
+					"Value": 7
+				},
+				{
+					"Id": "RS0053",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m14",
+			"MimicGachaId": "plastic",
+			"Science": 138,
+			"Gold": 0,
+			"Trophy": 100,
+			"Card": [
+				{
+					"Id": "RS0027",
+					"Value": 9
 				},
 				{
 					"Id": "RS0039",
 					"Value": 15
 				},
 				{
-					"Id": "RS0058",
+					"Id": "RS0053",
 					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m15",
+			"MimicGachaId": "plastic",
+			"Science": 150,
+			"Gold": 0,
+			"Trophy": 120,
+			"Card": [
+				{
+					"Id": "RS0027",
+					"Value": 5
+				},
+				{
+					"Id": "RS0036",
+					"Value": 21
+				},
+				{
+					"Id": "RS0074",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m16",
+			"MimicGachaId": "plastic",
+			"Science": 161,
+			"Gold": 0,
+			"Trophy": 140,
+			"Card": [
+				{
+					"Id": "RS0098",
+					"Value": 20
+				},
+				{
+					"Id": "RS0027",
+					"Value": 8
+				},
+				{
+					"Id": "RS0058",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m17",
+			"MimicGachaId": "plastic",
+			"Science": 169,
+			"Gold": 0,
+			"Trophy": 160,
+			"Card": [
+				{
+					"Id": "RS0097",
+					"Value": 16
+				},
+				{
+					"Id": "RS0098",
+					"Value": 16
+				},
+				{
+					"Id": "RS0074",
+					"Value": 2
 				}
 			]
 		},
@@ -114464,7 +114569,7 @@ DATA["attack-bal-20"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m05",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -114492,7 +114597,7 @@ DATA["attack-bal-20"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m05",
 				"Value": 1
 			}
 		},
@@ -116645,7 +116750,7 @@ DATA["attack-bal-20"] = {
 			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 1.7,
+			"NormalGachaMultiplier": 1.6,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2,
 			"PremiumGachaMultiplierScience": 1,
@@ -116660,7 +116765,7 @@ DATA["attack-bal-20"] = {
 			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2,
+			"NormalGachaMultiplier": 1.9,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.2,
 			"PremiumGachaMultiplierScience": 1,
@@ -116675,7 +116780,7 @@ DATA["attack-bal-20"] = {
 			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2.3,
+			"NormalGachaMultiplier": 2.2,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.4,
 			"PremiumGachaMultiplierScience": 1,
@@ -116690,7 +116795,7 @@ DATA["attack-bal-20"] = {
 			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2.6,
+			"NormalGachaMultiplier": 2.5,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.6,
 			"PremiumGachaMultiplierScience": 1,
@@ -116705,7 +116810,7 @@ DATA["attack-bal-20"] = {
 			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2.9,
+			"NormalGachaMultiplier": 2.8,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.8,
 			"PremiumGachaMultiplierScience": 1,
@@ -116720,7 +116825,7 @@ DATA["attack-bal-20"] = {
 			"Missions": "8",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 3.2,
+			"NormalGachaMultiplier": 3.1,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3,
 			"PremiumGachaMultiplierScience": 1,
@@ -116735,7 +116840,7 @@ DATA["attack-bal-20"] = {
 			"Missions": "9",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 3.5,
+			"NormalGachaMultiplier": 3.4,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3.2,
 			"PremiumGachaMultiplierScience": 1,
@@ -116750,7 +116855,7 @@ DATA["attack-bal-20"] = {
 			"Missions": "9",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 3.8,
+			"NormalGachaMultiplier": 3.7,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3.4,
 			"PremiumGachaMultiplierScience": 1,
@@ -116765,7 +116870,7 @@ DATA["attack-bal-20"] = {
 			"Missions": "10",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 4.1,
+			"NormalGachaMultiplier": 4,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3.6,
 			"PremiumGachaMultiplierScience": 1,
