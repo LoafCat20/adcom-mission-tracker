@@ -113457,6 +113457,26 @@ DATA["attack-bal-20"] = {
 			"Type": "Scripted"
 		},
 		{
+			"Id": "sc_m13",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m14",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m15",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m16",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m17",
+			"Type": "Scripted"
+		},
+		{
 			"Id": "sc3",
 			"Type": "Scripted"
 		}
@@ -113848,6 +113868,18 @@ DATA["attack-bal-20"] = {
 			]
 		},
 		{
+			"GeneratorId": "bomber",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "mech",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
 			"GeneratorId": "excavator",
 			"MaximumObjectivesForRank": [
 				999
@@ -113861,6 +113893,18 @@ DATA["attack-bal-20"] = {
 		},
 		{
 			"GeneratorId": "oilrig",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "tanker",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "magmaextractor",
 			"MaximumObjectivesForRank": [
 				999
 			]
@@ -115213,7 +115257,7 @@ DATA["attack-bal-20"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m13",
 				"Value": 1
 			}
 		},
@@ -115311,7 +115355,7 @@ DATA["attack-bal-20"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m14",
 				"Value": 1
 			}
 		},
@@ -115409,7 +115453,7 @@ DATA["attack-bal-20"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m15",
 				"Value": 1
 			}
 		},
@@ -115535,7 +115579,7 @@ DATA["attack-bal-20"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m16",
 				"Value": 1
 			}
 		},
@@ -115661,7 +115705,7 @@ DATA["attack-bal-20"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m17",
 				"Value": 1
 			}
 		},
