@@ -119053,6 +119053,52 @@ SCHEDULE_CYCLES = {
 	],
 	"LteOneOff": [
 		{
+			"BalanceId": "santa-bal-10",
+			"BalanceType": "Lte",
+			"StartTime": "2022-12-15T16:00:00",
+			"EndTime": "2022-12-26T20:00:00",
+			"ThemeId": "santa",
+			"RewardId": "rewardSanta",
+			"LeaderboardId": "leaderboard3",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "fuspet-bal-32",
+			"BundleBackupId": "fusion",
+			"BalanceType": "Lte",
+			"StartTime": "2022-12-05T23:00:00",
+			"EndTime": "2022-12-08T03:00:00",
+			"ThemeId": "fuspet",
+			"RewardId": "rewardFUS2",
+			"LeaderboardId": "leaderboard4",
+			"LteShortLeaderboardId": "bucket2",
+			"SpecOpsIds": "173,174,179"
+		},
+		{
+			"BalanceId": "hexathlon-bal-13",
+			"BalanceType": "Lte",
+			"StartTime": "2022-11-17T16:00:00",
+			"EndTime": "2022-11-28T20:00:00",
+			"ThemeId": "hexathlon",
+			"RewardId": "rewardHexathlon",
+			"LeaderboardId": "leaderboard3",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "fusvehicle-bal-32",
+			"BundleBackupId": "fusion",
+			"BalanceType": "Lte",
+			"StartTime": "2022-11-07T23:00:00",
+			"EndTime": "2022-11-10T03:00:00",
+			"ThemeId": "fusvehicle",
+			"RewardId": "rewardFUS2",
+			"LeaderboardId": "leaderboard4",
+			"LteShortLeaderboardId": "bucket2",
+			"SpecOpsIds": "173,174,179"
+		},
+		{
 			"BalanceId": "spooky-bal-10",
 			"BalanceType": "Lte",
 			"StartTime": "2022-10-20T16:00:00",
@@ -121224,22 +121270,22 @@ SCHEDULE_CYCLES = {
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 100
+					"Value": 50
 				},
 				{
 					"Reward": "Researcher",
 					"RewardId": "common",
-					"Value": 25
+					"Value": 8
 				},
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 200
+					"Value": 100
 				},
 				{
 					"Reward": "Researcher",
 					"RewardId": "rare",
-					"Value": 4
+					"Value": 3
 				},
 				{
 					"Reward": "Gacha",
@@ -121254,64 +121300,39 @@ SCHEDULE_CYCLES = {
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 750
+					"Value": 500
 				},
 				{
 					"Reward": "Researcher",
 					"RewardId": "event",
-					"Value": 1
+					"Value": 2
 				},
 				{
 					"Reward": "Resources",
-					"RewardId": "gold",
-					"Value": 15
+					"RewardId": "scientist",
+					"Value": 1000
 				},
 				{
 					"Reward": "Gacha",
 					"RewardId": "iron",
 					"Value": 1
-				},
-				{
-					"Reward": "Researcher",
-					"RewardId": "rare",
-					"Value": 25
-				},
-				{
-					"Reward": "Resources",
-					"RewardId": "scientist",
-					"Value": 2000
-				},
-				{
-					"Reward": "Gacha",
-					"RewardId": "rankup",
-					"Value": 1
-				},
-				{
-					"Reward": "Researcher",
-					"RewardId": "event",
-					"Value": 4
-				},
-				{
-					"Reward": "Resources",
-					"RewardId": "scientist",
-					"Value": 15000
 				}
 			],
 			"FeaturedRewards": [
 				{
-					"Reward": "Gacha",
-					"RewardId": "rankup",
-					"Value": 1
-				},
-				{
 					"Reward": "Researcher",
 					"RewardId": "event",
-					"Value": 4
+					"Value": 2
 				},
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 15000
+					"Value": 1000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
 				}
 			]
 		},
@@ -121321,7 +121342,7 @@ SCHEDULE_CYCLES = {
 				{
 					"Reward": "Researcher",
 					"RewardId": "common",
-					"Value": 15
+					"Value": 5
 				},
 				{
 					"Reward": "Gacha",
@@ -121335,23 +121356,23 @@ SCHEDULE_CYCLES = {
 				},
 				{
 					"Reward": "Gacha",
-					"RewardId": "wood",
+					"RewardId": "stone",
 					"Value": 1
 				},
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 600
+					"Value": 250
 				},
 				{
 					"Reward": "Gacha",
-					"RewardId": "wood",
+					"RewardId": "stone",
 					"Value": 1
 				},
 				{
-					"Reward": "Resources",
-					"RewardId": "gold",
-					"Value": 15
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
 				},
 				{
 					"Reward": "Gacha",
@@ -121366,49 +121387,24 @@ SCHEDULE_CYCLES = {
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 1800
-				},
-				{
-					"Reward": "Gacha",
-					"RewardId": "rare",
-					"Value": 1
-				},
-				{
-					"Reward": "Researcher",
-					"RewardId": "event",
-					"Value": 3
-				},
-				{
-					"Reward": "Resources",
-					"RewardId": "scientist",
-					"Value": 3600
-				},
-				{
-					"Reward": "Gacha",
-					"RewardId": "rankup",
-					"Value": 1
-				},
-				{
-					"Reward": "Resources",
-					"RewardId": "scientist",
-					"Value": 12000
+					"Value": 2500
 				}
 			],
 			"FeaturedRewards": [
 				{
 					"Reward": "Researcher",
 					"RewardId": "event",
-					"Value": 3
+					"Value": 1
 				},
 				{
-					"Reward": "Gacha",
-					"RewardId": "rankup",
-					"Value": 1
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 2
 				},
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 12000
+					"Value": 2500
 				}
 			]
 		},
@@ -121423,12 +121419,12 @@ SCHEDULE_CYCLES = {
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 200
+					"Value": 100
 				},
 				{
 					"Reward": "Researcher",
 					"RewardId": "rare",
-					"Value": 5
+					"Value": 3
 				},
 				{
 					"Reward": "Resources",
@@ -121458,54 +121454,29 @@ SCHEDULE_CYCLES = {
 				{
 					"Reward": "Researcher",
 					"RewardId": "event",
-					"Value": 1
+					"Value": 3
 				},
 				{
 					"Reward": "Gacha",
 					"RewardId": "rankup",
 					"Value": 1
-				},
-				{
-					"Reward": "Resources",
-					"RewardId": "gold",
-					"Value": 20
-				},
-				{
-					"Reward": "Researcher",
-					"RewardId": "epic",
-					"Value": 4
-				},
-				{
-					"Reward": "Resources",
-					"RewardId": "scientist",
-					"Value": 2500
-				},
-				{
-					"Reward": "Gacha",
-					"RewardId": "epic",
-					"Value": 1
-				},
-				{
-					"Reward": "Researcher",
-					"RewardId": "event",
-					"Value": 10
 				}
 			],
 			"FeaturedRewards": [
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 2500
-				},
-				{
-					"Reward": "Gacha",
-					"RewardId": "epic",
-					"Value": 1
+					"Value": 1000
 				},
 				{
 					"Reward": "Researcher",
 					"RewardId": "event",
-					"Value": 10
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
 				}
 			]
 		},
@@ -121514,7 +121485,7 @@ SCHEDULE_CYCLES = {
 			"Rewards": [
 				{
 					"Reward": "Gacha",
-					"RewardId": "wood",
+					"RewardId": "stone",
 					"Value": 1
 				},
 				{
@@ -121524,7 +121495,7 @@ SCHEDULE_CYCLES = {
 				},
 				{
 					"Reward": "Gacha",
-					"RewardId": "wood",
+					"RewardId": "stone",
 					"Value": 1
 				},
 				{
@@ -121540,7 +121511,7 @@ SCHEDULE_CYCLES = {
 				{
 					"Reward": "Resources",
 					"RewardId": "gold",
-					"Value": 10
+					"Value": 9
 				},
 				{
 					"Reward": "Gacha",
@@ -121550,59 +121521,34 @@ SCHEDULE_CYCLES = {
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 1500
+					"Value": 1000
 				},
 				{
 					"Reward": "Researcher",
-					"RewardId": "epic",
-					"Value": 3
+					"RewardId": "event",
+					"Value": 2
 				},
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
 					"Value": 2000
-				},
-				{
-					"Reward": "Researcher",
-					"RewardId": "epic",
-					"Value": 5
-				},
-				{
-					"Reward": "Resources",
-					"RewardId": "scientist",
-					"Value": 3000
-				},
-				{
-					"Reward": "Researcher",
-					"RewardId": "event",
-					"Value": 4
-				},
-				{
-					"Reward": "Resources",
-					"RewardId": "scientist",
-					"Value": 5000
-				},
-				{
-					"Reward": "Gacha",
-					"RewardId": "epic",
-					"Value": 1
 				}
 			],
 			"FeaturedRewards": [
 				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1000
+				},
+				{
 					"Reward": "Researcher",
 					"RewardId": "event",
-					"Value": 4
+					"Value": 2
 				},
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 5000
-				},
-				{
-					"Reward": "Gacha",
-					"RewardId": "epic",
-					"Value": 1
+					"Value": 2000
 				}
 			]
 		},
@@ -121612,12 +121558,22 @@ SCHEDULE_CYCLES = {
 				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 100
+					"Value": 50
 				},
 				{
 					"Reward": "Researcher",
 					"RewardId": "common",
-					"Value": 25
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 5
 				},
 				{
 					"Reward": "Resources",
@@ -121626,8 +121582,8 @@ SCHEDULE_CYCLES = {
 				},
 				{
 					"Reward": "Researcher",
-					"RewardId": "rare",
-					"Value": 5
+					"RewardId": "event",
+					"Value": 1
 				},
 				{
 					"Reward": "Resources",
@@ -121646,60 +121602,25 @@ SCHEDULE_CYCLES = {
 				},
 				{
 					"Reward": "Researcher",
-					"RewardId": "event",
-					"Value": 1
-				},
-				{
-					"Reward": "Resources",
-					"RewardId": "gold",
-					"Value": 12
-				},
-				{
-					"Reward": "Researcher",
 					"RewardId": "epic",
-					"Value": 4
-				},
-				{
-					"Reward": "Resources",
-					"RewardId": "scientist",
-					"Value": 2400
-				},
-				{
-					"Reward": "Gacha",
-					"RewardId": "rankup",
-					"Value": 1
-				},
-				{
-					"Reward": "Resources",
-					"RewardId": "scientist",
-					"Value": 4800
-				},
-				{
-					"Reward": "Researcher",
-					"RewardId": "event",
 					"Value": 5
-				},
-				{
-					"Reward": "Gacha",
-					"RewardId": "gold",
-					"Value": 1
 				}
 			],
 			"FeaturedRewards": [
 				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
 					"Reward": "Resources",
 					"RewardId": "scientist",
-					"Value": 4800
+					"Value": 800
 				},
 				{
 					"Reward": "Researcher",
-					"RewardId": "event",
+					"RewardId": "epic",
 					"Value": 5
-				},
-				{
-					"Reward": "Gacha",
-					"RewardId": "gold",
-					"Value": 1
 				}
 			]
 		},
@@ -122487,6 +122408,663 @@ SCHEDULE_CYCLES = {
 					"Value": 18000
 				}
 			]
+		},
+		{
+			"RewardId": "rewardHexathlon",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 250
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 5
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "hexathlon",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 750
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "hexathlon",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 15
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 2
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "hexathlon",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 25
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "hexathlon",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "hexathlon",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 50
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "hexathlon",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 10
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "diamond",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 20000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "supreme",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "rewardmidweek1",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 25
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 200
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 4
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 750
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 15
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "iron",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 25
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 15000
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 15000
+				}
+			]
+		},
+		{
+			"RewardId": "rewardmidweek2",
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 15
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 5
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 600
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 15
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 2
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1800
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rare",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 3600
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 12000
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 12000
+				}
+			]
+		},
+		{
+			"RewardId": "rewardmidweek3",
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 200
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 8
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 10
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 20
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 10
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2500
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 10
+				}
+			]
+		},
+		{
+			"RewardId": "rewardmidweek4",
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 3
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "wood",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 6
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 10
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "stone",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 1500
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 3
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 3000
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 5000
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "epic",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"RewardId": "rewardmidweek5",
+			"Rewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 100
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "common",
+					"Value": 25
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 200
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "rare",
+					"Value": 5
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 400
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 800
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "gold",
+					"Value": 12
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "epic",
+					"Value": 4
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 2400
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "rankup",
+					"Value": 1
+				},
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 4800
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 5
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				}
+			],
+			"FeaturedRewards": [
+				{
+					"Reward": "Resources",
+					"RewardId": "scientist",
+					"Value": 4800
+				},
+				{
+					"Reward": "Researcher",
+					"RewardId": "event",
+					"Value": 5
+				},
+				{
+					"Reward": "Gacha",
+					"RewardId": "gold",
+					"Value": 1
+				}
+			]
 		}
 	],
 	"LteSchedule": [
@@ -122677,7 +123255,7 @@ SCHEDULE_CYCLES = {
 			"EndDayOfTheWeek": "Wednesday",
 			"StartHourUTC": 16,
 			"StartTime": "2022-08-25T00:00:00",
-			"EndTime": "2022-11-24T09:00:00",
+			"EndTime": "2200-02-22T09:00:00",
 			"LteBalanceIds": [
 				"attack-bal-20",
 				"export-bal-21",
@@ -122704,7 +123282,7 @@ SCHEDULE_CYCLES = {
 			"StartDayOfTheWeek": "Tuesday",
 			"EndDayOfTheWeek": "Thursday",
 			"StartHourUTC": 4,
-			"StartTime": "2022-11-25T00:00:00",
+			"StartTime": "2023-01-06T00:00:00",
 			"EndTime": "2200-02-22T09:00:00",
 			"LteBalanceIds": [
 				"defense-bal-21",
@@ -122717,12 +123295,11 @@ SCHEDULE_CYCLES = {
 				"fusvehicle-bal-32"
 			],
 			"LteRewardIds": [
-				"rewardmini1",
-				"rewardmini2",
-				"rewardmini3",
-				"rewardmini4",
-				"rewardmini5"
-
+				"rewardmidweek5",
+				"rewardmidweek1",
+				"rewardmidweek2",
+				"rewardmidweek3",
+				"rewardmidweek4"
 			],
 			"LteLeaderboardIds": [
 				"leaderboard4"
