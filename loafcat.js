@@ -112039,7 +112039,7 @@ DATA["defense-bal-21"] = {
 				{
 					"Reward": "Researcher",
 					"Value": 75,
-					"RewardId": "RS0046"
+					"RewardId": "RS0043"
 				},
 				{
 					"Reward": "Resources",
@@ -112066,6 +112066,7 @@ DATA["defense-bal-21"] = {
 				"Bundle"
 			],
 			"Rewards": [
+				
 				{
 					"Reward": "Gacha",
 					"Value": 1,
@@ -112073,12 +112074,87 @@ DATA["defense-bal-21"] = {
 				},
 				{
 					"Reward": "Researcher",
-					"Value": 100,
-					"RewardId": "RS0047"
+					"Value": 8,
+					"RewardId": "RS0077"
+				},
+				{
+					"Reward": "Researcher",
+					"Value": 40,
+					"RewardId": "RS0046"
 				},
 				{
 					"Reward": "Resources",
 					"Value": 1,
+					"RewardId": "timehack_4"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 12 Bundle",
+			"InternalId": "t08_minilte_rank12",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 799,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 30,
+					"RewardId": "RS0080"
+				},
+				{
+					"Reward": "Researcher",
+					"Value": 300,
+					"RewardId": "RS0047"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 3000,
+					"RewardId": "darkscience"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 2,
+					"RewardId": "timehack_1"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 15 Bundle",
+			"InternalId": "t10_minilte_rank15",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 300,
+					"RewardId": "RS0049"
+				},
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "tech"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 3000,
+					"RewardId": "darkscience"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 4,
 					"RewardId": "timehack_4"
 				}
 			],
@@ -117889,12 +117965,12 @@ DATA["attack-bal-20"] = {
 				{
 					"Reward": "Researcher",
 					"Value": 10,
-					"RewardId": "RS0053"
+					"RewardId": "RS0080"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 75,
-					"RewardId": "RS0037"
+					"RewardId": "RS0036"
 				},
 				{
 					"Reward": "Resources",
@@ -117929,11 +118005,81 @@ DATA["attack-bal-20"] = {
 				{
 					"Reward": "Researcher",
 					"Value": 100,
-					"RewardId": "RS0027"
+					"RewardId": "RS0026"
 				},
 				{
 					"Reward": "Resources",
 					"Value": 1,
+					"RewardId": "timehack_4"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 12 Bundle",
+			"InternalId": "t08_minilte_rank12",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 799,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 30,
+					"RewardId": "RS0074"
+				},
+				{
+					"Reward": "Researcher",
+					"Value": 300,
+					"RewardId": "RS0027"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 3000,
+					"RewardId": "darkscience"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 2,
+					"RewardId": "timehack_1"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 15 Bundle",
+			"InternalId": "t10_minilte_rank15",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 300,
+					"RewardId": "RS0097"
+				},
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "tech"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 3000,
+					"RewardId": "darkscience"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 4,
 					"RewardId": "timehack_4"
 				}
 			],
