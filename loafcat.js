@@ -119851,7 +119851,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0.01,
+				"ChancePercent": 1,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -119899,7 +119899,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0.01,
+				"ChancePercent": 1,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -119947,7 +119947,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0.01,
+				"ChancePercent": 1,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -119995,7 +119995,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0.01,
+				"ChancePercent": 1,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -120043,7 +120043,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0.01,
+				"ChancePercent": 1,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -120091,7 +120091,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0.01,
+				"ChancePercent": 1,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -120135,7 +120135,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0.01,
+				"ChancePercent": 1,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -120183,7 +120183,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0.01,
+				"ChancePercent": 1,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -120231,7 +120231,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0.01,
+				"ChancePercent": 1,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -120279,7 +120279,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0.01,
+				"ChancePercent": 1,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -120327,7 +120327,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0.01,
+				"ChancePercent": 1,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -120375,7 +120375,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0.01,
+				"ChancePercent": 1,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
