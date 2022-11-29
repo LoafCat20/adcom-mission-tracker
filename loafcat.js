@@ -108064,7 +108064,7 @@ DATA["defense-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "artillery",
-				"Threshold": 60000000
+				"Threshold": 75000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -108112,7 +108112,7 @@ DATA["defense-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "fortress",
-				"Threshold": 200000000
+				"Threshold": 300000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -108348,7 +108348,7 @@ DATA["defense-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "hospital",
-				"Threshold": 40000000
+				"Threshold": 50000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -108396,7 +108396,7 @@ DATA["defense-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "coastguard",
-				"Threshold": 150000000
+				"Threshold": 250000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -111231,7 +111231,7 @@ DATA["defense-bal-21"] = {
 				"bullet, bandage"
 			],
 			"ExpoMultiplier": 0,
-			"ExpoGrowth": 0
+			"ExpoGrowth": 0,
 			"UpgradePower": 0.5,
 			"CurveModifier": -0.5,
 			"BasePower": 2,
@@ -120039,7 +120039,7 @@ DATA["export-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "greenhouse",
-				"Threshold": 60000000
+				"Threshold": 75000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -120087,7 +120087,7 @@ DATA["export-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "cropduster",
-				"Threshold": 200000000
+				"Threshold": 300000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -120323,7 +120323,7 @@ DATA["export-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "harbour",
-				"Threshold": 40000000
+				"Threshold": 50000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -120371,7 +120371,7 @@ DATA["export-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "coldstorage",
-				"Threshold": 150000000
+				"Threshold": 250000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
