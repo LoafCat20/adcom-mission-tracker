@@ -108112,7 +108112,7 @@ DATA["defense-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "fortress",
-				"Threshold": 300000000
+				"Threshold": 400000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -108348,7 +108348,7 @@ DATA["defense-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "hospital",
-				"Threshold": 50000000
+				"Threshold": 60000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -108396,7 +108396,7 @@ DATA["defense-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "coastguard",
-				"Threshold": 250000000
+				"Threshold": 300000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -111230,11 +111230,11 @@ DATA["defense-bal-21"] = {
 			"TargetIds": [
 				"bullet, bandage"
 			],
-			"ExpoMultiplier": 0,
-			"ExpoGrowth": 0,
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 1,
 			"UpgradePower": 0.5,
 			"CurveModifier": -0.5,
-			"BasePower": 2,
+			"BasePower": 1,
 			"Rarity": "LteRare",
 			"PlayerRankUnlock": 12,
 			"ResearchOutputType": "Constant",
@@ -120087,7 +120087,7 @@ DATA["export-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "cropduster",
-				"Threshold": 300000000
+				"Threshold": 400000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -120323,7 +120323,7 @@ DATA["export-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "harbour",
-				"Threshold": 50000000
+				"Threshold": 60000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -120371,7 +120371,7 @@ DATA["export-bal-21"] = {
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "coldstorage",
-				"Threshold": 250000000
+				"Threshold": 300000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -123190,11 +123190,11 @@ DATA["export-bal-21"] = {
 			"TargetIds": [
 				"potato, crate"
 			],
-			"ExpoMultiplier": 0,
-			"ExpoGrowth": 0,
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 1,
 			"UpgradePower": 0.5,
 			"CurveModifier": -0.5,
-			"BasePower": 2,
+			"BasePower": 1,
 			"Rarity": "LteRare",
 			"PlayerRankUnlock": 12,
 			"ResearchOutputType": "Constant",
