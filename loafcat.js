@@ -111228,13 +111228,13 @@ DATA["defense-bal-21"] = {
 			"Name": "Earth Wyrm Jym",
 			"ModType": "TradePayoutMultiplier",
 			"TargetIds": [
-				"munitions, care"
+				"bullet, bandage"
 			],
-			"ExpoMultiplier": 1,
-			"ExpoGrowth": 2,
-			"UpgradePower": 0,
-			"CurveModifier": 0,
-			"BasePower": 0,
+			"ExpoMultiplier": 0,
+			"ExpoGrowth": 0
+			"UpgradePower": 0.5,
+			"CurveModifier": -0.5,
+			"BasePower": 2,
 			"Rarity": "LteRare",
 			"PlayerRankUnlock": 12,
 			"ResearchOutputType": "Constant",
@@ -123188,13 +123188,13 @@ DATA["export-bal-21"] = {
 			"Name": "Earth Wyrm Jym",
 			"ModType": "TradePayoutMultiplier",
 			"TargetIds": [
-				"farming, export"
+				"potato, crate"
 			],
-			"ExpoMultiplier": 1,
-			"ExpoGrowth": 2,
-			"UpgradePower": 0,
-			"CurveModifier": 0,
-			"BasePower": 0,
+			"ExpoMultiplier": 0,
+			"ExpoGrowth": 0,
+			"UpgradePower": 0.5,
+			"CurveModifier": -0.5,
+			"BasePower": 2,
 			"Rarity": "LteRare",
 			"PlayerRankUnlock": 12,
 			"ResearchOutputType": "Constant",
