@@ -109740,7 +109740,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 770000000,
+				"Threshold": 825000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -109866,7 +109866,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e70,
+				"Threshold": 1.2e69,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109880,7 +109880,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3100000000,
+				"Threshold": 2600000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -109908,7 +109908,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.5e78,
+				"Threshold": 9.5e75,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109922,7 +109922,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7500000000,
+				"Threshold": 5500000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -109936,7 +109936,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.4e74,
+				"Threshold": 1.4e70,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109950,7 +109950,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6000000000,
+				"Threshold": 3600000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -109963,13 +109963,13 @@ DATA["defense-bal-21"] = {
 			"Id": "M0108",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e82,
-				"ConditionId": "weapon"
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 300,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -109977,9 +109977,9 @@ DATA["defense-bal-21"] = {
 			"Id": "M0109",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 15000000000,
-				"ConditionId": "cyborg"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.2e77,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -109991,9 +109991,9 @@ DATA["defense-bal-21"] = {
 			"Id": "M0110",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.24e78,
-				"ConditionId": "bandage"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 7500000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110005,9 +110005,9 @@ DATA["defense-bal-21"] = {
 			"Id": "M0111",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 12500000000,
-				"ConditionId": "airrescue"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.24e70,
+				"ConditionId": "bandage"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110019,9 +110019,9 @@ DATA["defense-bal-21"] = {
 			"Id": "M0112",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.73e86,
-				"ConditionId": "weapon"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4750000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110033,13 +110033,13 @@ DATA["defense-bal-21"] = {
 			"Id": "M0113",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 36000000000,
-				"ConditionId": "cyborg"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -110048,8 +110048,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.8e82,
-				"ConditionId": "bandage"
+				"Threshold": 8.73e78,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110062,8 +110062,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 30000000000,
-				"ConditionId": "airrescue"
+				"Threshold": 9600000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110076,8 +110076,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.23e90,
-				"ConditionId": "weapon"
+				"Threshold": 5.8e72,
+				"ConditionId": "bandage"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110090,8 +110090,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 83000000000,
-				"ConditionId": "cyborg"
+				"Threshold": 6250000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110103,13 +110103,13 @@ DATA["defense-bal-21"] = {
 			"Id": "M0118",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.2e86,
-				"ConditionId": "bandage"
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 300,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -110117,9 +110117,9 @@ DATA["defense-bal-21"] = {
 			"Id": "M0119",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 64000000000,
-				"ConditionId": "airrescue"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.23e80,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110131,9 +110131,9 @@ DATA["defense-bal-21"] = {
 			"Id": "M0120",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.1e94,
-				"ConditionId": "weapon"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 13000000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110145,9 +110145,9 @@ DATA["defense-bal-21"] = {
 			"Id": "M0121",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 175000000000,
-				"ConditionId": "cyborg"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.2e73,
+				"ConditionId": "bandage"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110159,9 +110159,9 @@ DATA["defense-bal-21"] = {
 			"Id": "M0122",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e90,
-				"ConditionId": "bandage"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 8000000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110173,13 +110173,13 @@ DATA["defense-bal-21"] = {
 			"Id": "M0123",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 144000000000,
-				"ConditionId": "airrescue"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -110188,7 +110188,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.9e98,
+				"Threshold": 7.1e81,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -110202,7 +110202,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 400000000000,
+				"Threshold": 17500000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110216,7 +110216,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.5e94,
+				"Threshold": 4.2e74,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -110230,7 +110230,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 315000000000,
+				"Threshold": 10800000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110243,13 +110243,13 @@ DATA["defense-bal-21"] = {
 			"Id": "M0128",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.11e102,
-				"ConditionId": "weapon"
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 300,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -110257,9 +110257,9 @@ DATA["defense-bal-21"] = {
 			"Id": "M0129",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 1000000000000,
-				"ConditionId": "cyborg"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.9e82,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110271,9 +110271,9 @@ DATA["defense-bal-21"] = {
 			"Id": "M0130",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.3e98,
-				"ConditionId": "bandage"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 22500000000,
+				"ConditionId": "cyborg"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110285,9 +110285,9 @@ DATA["defense-bal-21"] = {
 			"Id": "M0131",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 750000000000,
-				"ConditionId": "airrescue"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.5e76,
+				"ConditionId": "bandage"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110299,9 +110299,9 @@ DATA["defense-bal-21"] = {
 			"Id": "M0132",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.2e107,
-				"ConditionId": "weapon"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 14000000000,
+				"ConditionId": "airrescue"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110313,13 +110313,13 @@ DATA["defense-bal-21"] = {
 			"Id": "M0133",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 2250000000000,
-				"ConditionId": "cyborg"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -110328,8 +110328,8 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.7e102,
-				"ConditionId": "bandage"
+				"Threshold": 4.11e84,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -110339,6 +110339,454 @@ DATA["defense-bal-21"] = {
 		},
 		{
 			"Id": "M0135",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 30000000000,
+				"ConditionId": "cyborg"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0136",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.3e77,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0137",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 17500000000,
+				"ConditionId": "airrescue"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0138",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.2e85,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0139",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 37500000000,
+				"ConditionId": "cyborg"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0140",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.7e78,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0141",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 21000000000,
+				"ConditionId": "airrescue"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0142",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0143",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.4e87,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0144",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 45000000000,
+				"ConditionId": "cyborg"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0145",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.6e79,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0146",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 24000000000,
+				"ConditionId": "airrescue"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0147",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.2e88,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0148",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 52500000000,
+				"ConditionId": "cyborg"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0149",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.45e80,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0150",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 28000000000,
+				"ConditionId": "airrescue"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0151",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0152",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.5e90,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0153",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 75000000000,
+				"ConditionId": "cyborg"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0154",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.2e82,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0155",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 60000000000,
+				"ConditionId": "airrescue"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0156",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.5e93,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0157",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 180000000000,
+				"ConditionId": "cyborg"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0158",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.2e85,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0159",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 175000000000,
+				"ConditionId": "airrescue"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0160",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.22e97,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0161",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 585000000000,
+				"ConditionId": "cyborg"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0162",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.15e89,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0163",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 567000000000,
+				"ConditionId": "airrescue"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0164",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6e100,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0165",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1900000000000,
+				"ConditionId": "cyborg"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0166",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.1e93,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0167",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -110352,11 +110800,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0136",
+			"Id": "M0168",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.4e112,
+				"Threshold": 1.75e104,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -110366,11 +110814,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0137",
+			"Id": "M0169",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5000000000000,
+				"Threshold": 6000000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110380,11 +110828,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0138",
+			"Id": "M0170",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.6e107,
+				"Threshold": 4.44e96,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -110394,11 +110842,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0139",
+			"Id": "M0171",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4500000000000,
+				"Threshold": 6000000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110408,11 +110856,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0140",
+			"Id": "M0172",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.2e117,
+				"Threshold": 2e108,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -110422,11 +110870,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0141",
+			"Id": "M0173",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 10500000000000,
+				"Threshold": 20000000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110436,11 +110884,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0142",
+			"Id": "M0174",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.45e112,
+				"Threshold": 1.25e101,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -110450,11 +110898,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0143",
+			"Id": "M0175",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 10500000000000,
+				"Threshold": 22000000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110464,11 +110912,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0144",
+			"Id": "M0176",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.5e126,
+				"Threshold": 3.5e112,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -110478,11 +110926,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0145",
+			"Id": "M0177",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 30000000000000,
+				"Threshold": 80000000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110492,11 +110940,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0146",
+			"Id": "M0178",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.2e129,
+				"Threshold": 5.1e105,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -110506,11 +110954,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0147",
+			"Id": "M0179",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 36000000000000,
+				"Threshold": 85000000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110520,11 +110968,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0148",
+			"Id": "M0180",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e151,
+				"Threshold": 6.66e116,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -110534,11 +110982,11 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0149",
+			"Id": "M0181",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 150000000000000,
+				"Threshold": 400000000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110548,12 +110996,264 @@ DATA["defense-bal-21"] = {
 			}
 		},
 		{
-			"Id": "M0150",
+			"Id": "M0182",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.2e162,
+				"Threshold": 1.99e110,
 				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0183",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 360000000000000,
+				"ConditionId": "airrescue"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0184",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.25e121,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0185",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2000000000000000,
+				"ConditionId": "cyborg"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0186",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.2e117,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0187",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 9500000000000000,
+				"ConditionId": "airrescue"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0188",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.08e134,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0189",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3.25e17,
+				"ConditionId": "cyborg"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0190",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.5e135,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0191",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 7e18,
+				"ConditionId": "airrescue"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0192",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.69e156,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0193",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1e21,
+				"ConditionId": "cyborg"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0194",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.17e163,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0195",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.33e23,
+				"ConditionId": "airrescue"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0196",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.44e189,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0197",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.28e26,
+				"ConditionId": "cyborg"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0198",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7e200,
+				"ConditionId": "bandage"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0199",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 7.5e28,
+				"ConditionId": "airrescue"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0200",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.94e231,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
