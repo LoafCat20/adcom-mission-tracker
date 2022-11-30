@@ -119846,7 +119846,7 @@ DATA["export-bal-21"] = {
 			]
 		},
 		{
-			"GachaId": "sc_m09",
+			"GachaId": "sc_m19",
 			"MimicGachaId": "plastic",
 			"Science": 84,
 			"Gold": 0,
