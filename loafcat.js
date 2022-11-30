@@ -107423,7 +107423,7 @@ DATA["defense-bal-21"] = {
 			"Trophy": 10,
 			"Card": [
 				{
-					"Id": "RS0034",
+					"Id": "RS0032",
 					"Value": 4
 				}
 			]
@@ -107436,7 +107436,7 @@ DATA["defense-bal-21"] = {
 			"Trophy": 10,
 			"Card": [
 				{
-					"Id": "RS0034",
+					"Id": "RS0032",
 					"Value": 3
 				},
 				{
@@ -109110,7 +109110,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6000000,
+				"Threshold": 4000000,
 				"ConditionId": "hospital"
 			},
 			"Reward": {
@@ -109362,7 +109362,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 80000000,
+				"Threshold": 100000000,
 				"ConditionId": "fortress"
 			},
 			"Reward": {
@@ -109432,7 +109432,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 167000000,
+				"Threshold": 222000000,
 				"ConditionId": "fortress"
 			},
 			"Reward": {
@@ -109460,7 +109460,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 44400000,
+				"Threshold": 88800000,
 				"ConditionId": "coastguard"
 			},
 			"Reward": {
@@ -109530,7 +109530,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 105000000,
+				"Threshold": 175000000,
 				"ConditionId": "coastguard"
 			},
 			"Reward": {
@@ -109642,7 +109642,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 120000000,
+				"Threshold": 400000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -109712,7 +109712,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 360000000,
+				"Threshold": 900000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -109740,7 +109740,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 220000000,
+				"Threshold": 550000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -109782,7 +109782,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 600000000,
+				"Threshold": 1800000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -109810,7 +109810,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 425000000,
+				"Threshold": 1300000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -109852,7 +109852,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1300000000,
+				"Threshold": 3800000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -109880,7 +109880,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 770000000,
+				"Threshold": 2700000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -109922,7 +109922,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2500000000,
+				"Threshold": 7500000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -109950,7 +109950,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1500000000,
+				"Threshold": 6000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -109978,7 +109978,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4500000000,
+				"Threshold": 15000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110006,7 +110006,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2500000000,
+				"Threshold": 12500000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110034,7 +110034,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9000000000,
+				"Threshold": 36000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110062,7 +110062,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5000000000,
+				"Threshold": 30000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110090,7 +110090,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 17000000000,
+				"Threshold": 83000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110118,7 +110118,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 10000000000,
+				"Threshold": 64000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110146,7 +110146,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 35000000000,
+				"Threshold": 175000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110174,7 +110174,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 20000000000,
+				"Threshold": 144000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110202,7 +110202,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 62500000000,
+				"Threshold": 400000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110230,7 +110230,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 45000000000,
+				"Threshold": 315000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110258,7 +110258,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 125000000000,
+				"Threshold": 1000000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110286,7 +110286,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 110000000000,
+				"Threshold": 750000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110314,7 +110314,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 335000000000,
+				"Threshold": 2250000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110342,7 +110342,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 225000000000,
+				"Threshold": 1800000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110370,7 +110370,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 750000000000,
+				"Threshold": 6000000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110398,7 +110398,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 750000000000,
+				"Threshold": 4500000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110426,7 +110426,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3500000000000,
+				"Threshold": 14000000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110454,7 +110454,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3500000000000,
+				"Threshold": 14000000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110482,7 +110482,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 12500000000000,
+				"Threshold": 50000000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -110510,7 +110510,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 18000000000000,
+				"Threshold": 60000000000000,
 				"ConditionId": "airrescue"
 			},
 			"Reward": {
@@ -110538,7 +110538,7 @@ DATA["defense-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 50000000000000,
+				"Threshold": 250000000000000,
 				"ConditionId": "cyborg"
 			},
 			"Reward": {
@@ -119474,6 +119474,30 @@ DATA["export-bal-21"] = {
 			"Type": "Scripted"
 		},
 		{
+			"Id": "sc_m13",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m14",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m15",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m16",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m17",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m18",
+			"Type": "Scripted"
+		},
+		{
 			"Id": "sc3",
 			"Type": "Scripted"
 		}
@@ -119531,7 +119555,7 @@ DATA["export-bal-21"] = {
 			"Card": [
 				{
 					"Id": "RS0001",
-					"Value": 4
+					"Value": 3
 				},
 				{
 					"Id": "RS0051",
@@ -119548,7 +119572,7 @@ DATA["export-bal-21"] = {
 			"Card": [
 				{
 					"Id": "RS0003",
-					"Value": 4
+					"Value": 3
 				},
 				{
 					"Id": "RS0051",
@@ -119559,13 +119583,13 @@ DATA["export-bal-21"] = {
 		{
 			"GachaId": "sc_m06",
 			"MimicGachaId": "plastic",
-			"Science": 52,
+			"Science": 46,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
 				{
 					"Id": "RS0003",
-					"Value": 6
+					"Value": 4
 				},
 				{
 					"Id": "RS0052",
@@ -119657,7 +119681,7 @@ DATA["export-bal-21"] = {
 			"Trophy": 60,
 			"Card": [
 				{
-					"Id": "RS0009",
+					"Id": "RS0006",
 					"Value": 2
 				},
 				{
@@ -119682,8 +119706,8 @@ DATA["export-bal-21"] = {
 					"Value": 3
 				},
 				{
-					"Id": "RS0009",
-					"Value": 13
+					"Id": "RS0006",
+					"Value": 12
 				},
 				{
 					"Id": "RS0062",
@@ -119692,9 +119716,156 @@ DATA["export-bal-21"] = {
 			]
 		},
 		{
+			"GachaId": "sc_m13",
+			"MimicGachaId": "plastic",
+			"Science": 133,
+			"Gold": 0,
+			"Trophy": 80,
+			"Card": [
+				{
+					"Id": "RS0007",
+					"Value": 5
+				},
+				{
+					"Id": "RS0017",
+					"Value": 12
+				},
+				{
+					"Id": "RS0077",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m14",
+			"MimicGachaId": "plastic",
+			"Science": 156,
+			"Gold": 0,
+			"Trophy": 90,
+			"Card": [
+				{
+					"Id": "RS0009",
+					"Value": 10
+				},
+				{
+					"Id": "RS0006",
+					"Value": 11
+				},
+				{
+					"Id": "RS0052",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m15",
+			"MimicGachaId": "plastic",
+			"Science": 170,
+			"Gold": 0,
+			"Trophy": 100,
+			"Card": [
+				{
+					"Id": "RS0008",
+					"Value": 14
+				},
+				{
+					"Id": "RS0009",
+					"Value": 10
+				},
+				{
+					"Id": "RS0077",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m16",
+			"MimicGachaId": "plastic",
+			"Science": 187,
+			"Gold": 0,
+			"Trophy": 120,
+			"Card": [
+				{
+					"Id": "RS0008",
+					"Value": 9
+				},
+				{
+					"Id": "RS0006",
+					"Value": 17
+				},
+				{
+					"Id": "RS0080",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m17",
+			"MimicGachaId": "plastic",
+			"Science": 200,
+			"Gold": 0,
+			"Trophy": 140,
+			"Card": [
+				{
+					"Id": "RS0010",
+					"Value": 13
+				},
+				{
+					"Id": "RS0017",
+					"Value": 16
+				},
+				{
+					"Id": "RS0056",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m18",
+			"MimicGachaId": "plastic",
+			"Science": 216,
+			"Gold": 0,
+			"Trophy": 160,
+			"Card": [
+				{
+					"Id": "RS0019",
+					"Value": 20
+				},
+				{
+					"Id": "RS0010",
+					"Value": 12
+				},
+				{
+					"Id": "RS0080",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m09",
+			"MimicGachaId": "plastic",
+			"Science": 84,
+			"Gold": 0,
+			"Trophy": 40,
+			"Card": [
+				{
+					"Id": "RS0007",
+					"Value": 5
+				},
+				{
+					"Id": "RS0016",
+					"Value": 4
+				},
+				{
+					"Id": "RS0052",
+					"Value": 1
+				}
+			]
+		},
+		{
 			"GachaId": "sc3",
 			"MimicGachaId": "plastic",
-			"Science": 50,
+			"Science": 48,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -120712,7 +120883,7 @@ DATA["export-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m19",
 				"Value": 1
 			}
 		},
@@ -120796,7 +120967,7 @@ DATA["export-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m10",
 				"Value": 1
 			}
 		},
@@ -120810,7 +120981,7 @@ DATA["export-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m10",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -120931,7 +121102,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 90,
+				"Threshold": 450,
 				"ConditionId": "greenhouse"
 			},
 			"Reward": {
@@ -121048,7 +121219,7 @@ DATA["export-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m13",
 				"Value": 1
 			}
 		},
@@ -121132,7 +121303,7 @@ DATA["export-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m14",
 				"Value": 1
 			}
 		},
@@ -121230,7 +121401,7 @@ DATA["export-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m15",
 				"Value": 1
 			}
 		},
@@ -121253,7 +121424,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 24000000,
+				"Threshold": 30000000,
 				"ConditionId": "harbour"
 			},
 			"Reward": {
@@ -121328,7 +121499,7 @@ DATA["export-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m16",
 				"Value": 1
 			}
 		},
@@ -121337,7 +121508,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 80000000,
+				"Threshold": 100000000,
 				"ConditionId": "cropduster"
 			},
 			"Reward": {
@@ -121407,7 +121578,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 167000000,
+				"Threshold": 222000000,
 				"ConditionId": "cropduster"
 			},
 			"Reward": {
@@ -121463,12 +121634,12 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 44400000,
+				"Threshold": 88800000,
 				"ConditionId": "coldstorage"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m17",
 				"Value": 1
 			}
 		},
@@ -121533,7 +121704,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 105000000,
+				"Threshold": 175000000,
 				"ConditionId": "coldstorage"
 			},
 			"Reward": {
@@ -121580,7 +121751,7 @@ DATA["export-bal-21"] = {
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m18",
 				"Value": 1
 			}
 		},
@@ -121617,7 +121788,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 120000000,
+				"Threshold": 400000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -121687,7 +121858,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 360000000,
+				"Threshold": 900000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -121743,7 +121914,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 225000000,
+				"Threshold": 750000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -121757,7 +121928,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 600000000,
+				"Threshold": 1800000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -121813,7 +121984,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 450000000,
+				"Threshold": 1500000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -121827,7 +121998,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1300000000,
+				"Threshold": 3800000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -121883,7 +122054,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 900000000,
+				"Threshold": 3300000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -121897,7 +122068,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2500000000,
+				"Threshold": 7500000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -121939,7 +122110,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1750000000,
+				"Threshold": 7000000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -121953,7 +122124,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4500000000,
+				"Threshold": 15000000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -121995,7 +122166,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3600000000,
+				"Threshold": 15000000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -122009,7 +122180,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9000000000,
+				"Threshold": 36000000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -122051,7 +122222,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7500000000,
+				"Threshold": 35000000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -122065,7 +122236,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 17000000000,
+				"Threshold": 83000000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -122107,7 +122278,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 13000000000,
+				"Threshold": 80000000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -122121,7 +122292,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 35000000000,
+				"Threshold": 175000000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -122163,7 +122334,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 25000000000,
+				"Threshold": 175000000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -122177,7 +122348,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 62500000000,
+				"Threshold": 400000000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -122219,7 +122390,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 55000000000,
+				"Threshold": 400000000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -122233,7 +122404,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 125000000000,
+				"Threshold": 1000000000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -122275,7 +122446,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 130000000000,
+				"Threshold": 1000000000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -122289,7 +122460,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 335000000000,
+				"Threshold": 2250000000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -122331,7 +122502,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 275000000000,
+				"Threshold": 2200000000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -122345,7 +122516,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 750000000000,
+				"Threshold": 6000000000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -122387,7 +122558,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1000000000000,
+				"Threshold": 5500000000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -122401,7 +122572,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3500000000000,
+				"Threshold": 14000000000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -122443,7 +122614,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4000000000000,
+				"Threshold": 17000000000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -122457,7 +122628,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 12500000000000,
+				"Threshold": 50000000000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -122499,7 +122670,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 20000000000000,
+				"Threshold": 80000000000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -122513,7 +122684,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 50000000000000,
+				"Threshold": 250000000000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -122643,7 +122814,7 @@ DATA["export-bal-21"] = {
 			"Rank": "5",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "6",
+			"Missions": "5",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 1,
@@ -122658,7 +122829,7 @@ DATA["export-bal-21"] = {
 			"Rank": "6",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "4",
+			"Missions": "5",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 1.2,
