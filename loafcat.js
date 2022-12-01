@@ -120726,7 +120726,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 1,
+				"ChancePercent": 2,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -120774,7 +120774,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 1,
+				"ChancePercent": 2,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -120822,7 +120822,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 1,
+				"ChancePercent": 2,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -120870,7 +120870,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 1,
+				"ChancePercent": 2,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -120918,7 +120918,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 1,
+				"ChancePercent": 2,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -120966,7 +120966,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 1,
+				"ChancePercent": 2,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -121010,7 +121010,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 1,
+				"ChancePercent": 2,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -121058,7 +121058,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 1,
+				"ChancePercent": 2,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -121106,7 +121106,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 1,
+				"ChancePercent": 2,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -121154,7 +121154,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 1,
+				"ChancePercent": 2,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -121202,7 +121202,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 1,
+				"ChancePercent": 2,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -121250,7 +121250,7 @@ DATA["export-bal-21"] = {
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 1,
+				"ChancePercent": 2,
 				"Multiplier": 16
 			},
 			"ObjectiveReward": {
@@ -122688,7 +122688,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1900000000,
+				"Threshold": 1800000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -122716,7 +122716,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e70,
+				"Threshold": 1.2e69,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -122730,7 +122730,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.5e78,
+				"Threshold": 9.5e75,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -122758,7 +122758,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3500000000,
+				"Threshold": 2700000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -122772,7 +122772,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7500000000,
+				"Threshold": 5500000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -122786,7 +122786,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.4e74,
+				"Threshold": 1.4e70,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -122800,7 +122800,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e82,
+				"Threshold": 5.2e77,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -122813,13 +122813,13 @@ DATA["export-bal-21"] = {
 			"Id": "M0108",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 7000000000,
-				"ConditionId": "airport"
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 300,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -122828,8 +122828,8 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 15000000000,
-				"ConditionId": "biodome"
+				"Threshold": 3700000000,
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -122841,9 +122841,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0110",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.24e78,
-				"ConditionId": "crate"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 7500000000,
+				"ConditionId": "biodome"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -122856,8 +122856,8 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.73e86,
-				"ConditionId": "potato"
+				"Threshold": 7.24e70,
+				"ConditionId": "crate"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -122869,9 +122869,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0112",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 15000000000,
-				"ConditionId": "airport"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.73e78,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -122883,13 +122883,13 @@ DATA["export-bal-21"] = {
 			"Id": "M0113",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 36000000000,
-				"ConditionId": "biodome"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -122897,9 +122897,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0114",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.8e82,
-				"ConditionId": "crate"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4800000000,
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -122911,9 +122911,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0115",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.23e90,
-				"ConditionId": "potato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 9600000000,
+				"ConditionId": "biodome"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -122925,9 +122925,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0116",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 35000000000,
-				"ConditionId": "airport"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.8e72,
+				"ConditionId": "crate"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -122939,9 +122939,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0117",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 83000000000,
-				"ConditionId": "biodome"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.23e80,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -122953,13 +122953,13 @@ DATA["export-bal-21"] = {
 			"Id": "M0118",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.2e86,
-				"ConditionId": "crate"
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 300,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -122967,9 +122967,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0119",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.1e94,
-				"ConditionId": "potato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 6400000000,
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -122982,8 +122982,8 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 80000000000,
-				"ConditionId": "airport"
+				"Threshold": 13000000000,
+				"ConditionId": "biodome"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -122995,9 +122995,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0121",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 175000000000,
-				"ConditionId": "biodome"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.2e73,
+				"ConditionId": "crate"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123010,8 +123010,8 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e90,
-				"ConditionId": "crate"
+				"Threshold": 7.1e81,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123023,13 +123023,13 @@ DATA["export-bal-21"] = {
 			"Id": "M0123",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.9e98,
-				"ConditionId": "potato"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -123038,7 +123038,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 175000000000,
+				"Threshold": 8500000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -123052,7 +123052,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 400000000000,
+				"Threshold": 17500000000,
 				"ConditionId": "biodome"
 			},
 			"Reward": {
@@ -123066,7 +123066,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.5e94,
+				"Threshold": 4.2e74,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -123080,7 +123080,7 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.11e102,
+				"Threshold": 7.9e82,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -123093,13 +123093,13 @@ DATA["export-bal-21"] = {
 			"Id": "M0128",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 400000000000,
-				"ConditionId": "airport"
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 300,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -123108,8 +123108,8 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1000000000000,
-				"ConditionId": "biodome"
+				"Threshold": 11000000000,
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123121,9 +123121,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0130",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.3e98,
-				"ConditionId": "crate"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 22500000000,
+				"ConditionId": "biodome"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123136,8 +123136,8 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.2e107,
-				"ConditionId": "potato"
+				"Threshold": 2.5e76,
+				"ConditionId": "crate"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123149,9 +123149,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0132",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 1000000000000,
-				"ConditionId": "airport"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.11e84,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123163,13 +123163,13 @@ DATA["export-bal-21"] = {
 			"Id": "M0133",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 2250000000000,
-				"ConditionId": "biodome"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -123177,9 +123177,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0134",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.7e102,
-				"ConditionId": "crate"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 14400000000,
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123191,9 +123191,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0135",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.4e112,
-				"ConditionId": "potato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 30000000000,
+				"ConditionId": "biodome"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123205,9 +123205,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0136",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 2200000000000,
-				"ConditionId": "airport"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.3e77,
+				"ConditionId": "crate"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123219,9 +123219,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0137",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 5000000000000,
-				"ConditionId": "biodome"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.2e85,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123233,9 +123233,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0138",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.6e107,
-				"ConditionId": "crate"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 18000000000,
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123247,9 +123247,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0139",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.2e117,
-				"ConditionId": "potato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 37500000000,
+				"ConditionId": "biodome"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123261,9 +123261,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0140",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 5500000000000,
-				"ConditionId": "airport"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.7e78,
+				"ConditionId": "crate"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123275,9 +123275,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0141",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 10500000000000,
-				"ConditionId": "biodome"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.4e87,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123289,13 +123289,13 @@ DATA["export-bal-21"] = {
 			"Id": "M0142",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.45e112,
-				"ConditionId": "crate"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -123303,9 +123303,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0143",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.5e126,
-				"ConditionId": "potato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 22000000000,
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123318,8 +123318,8 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 12000000000000,
-				"ConditionId": "airport"
+				"Threshold": 45000000000,
+				"ConditionId": "biodome"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123331,9 +123331,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0145",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 30000000000000,
-				"ConditionId": "biodome"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.6e79,
+				"ConditionId": "crate"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123346,8 +123346,8 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.2e129,
-				"ConditionId": "crate"
+				"Threshold": 7.2e88,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123359,9 +123359,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0147",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e151,
-				"ConditionId": "potato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 26000000000,
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123374,8 +123374,8 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 50000000000000,
-				"ConditionId": "airport"
+				"Threshold": 52500000000,
+				"ConditionId": "biodome"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123387,9 +123387,9 @@ DATA["export-bal-21"] = {
 			"Id": "M0149",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 150000000000000,
-				"ConditionId": "biodome"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.45e80,
+				"ConditionId": "crate"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -123402,8 +123402,708 @@ DATA["export-bal-21"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.2e162,
+				"Threshold": 3.5e90,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0151",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0152",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 33000000000,
+				"ConditionId": "airport"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0153",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 75000000000,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0154",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.2e82,
 				"ConditionId": "crate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0155",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.5e93,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0156",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 80000000000,
+				"ConditionId": "airport"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0157",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 180000000000,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0158",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.2e85,
+				"ConditionId": "crate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0159",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.22e97,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0160",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 200000000000,
+				"ConditionId": "airport"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0161",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 585000000000,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0162",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.15e89,
+				"ConditionId": "crate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0163",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6e100,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0164",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 666000000000,
+				"ConditionId": "airport"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0165",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1900000000000,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0166",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.1e93,
+				"ConditionId": "crate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0167",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.75e104,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0168",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2400000000000,
+				"ConditionId": "airport"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0169",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 6000000000000,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0170",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.44e96,
+				"ConditionId": "crate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0171",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e108,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0172",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 8000000000000,
+				"ConditionId": "airport"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0173",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 20000000000000,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0174",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.25e101,
+				"ConditionId": "crate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0175",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.5e112,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0176",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 30000000000000,
+				"ConditionId": "airport"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0177",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 80000000000000,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0178",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.1e105,
+				"ConditionId": "crate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0179",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.66e116,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0180",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 140000000000000,
+				"ConditionId": "airport"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0181",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 400000000000000,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0182",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.99e110,
+				"ConditionId": "crate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0183",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.25e121,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0184",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 600000000000000,
+				"ConditionId": "airport"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0185",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2000000000000000,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0186",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.2e117,
+				"ConditionId": "crate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0187",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.08e134,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0188",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 20000000000000000,
+				"ConditionId": "airport"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0189",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3.25e17,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0190",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.5e135,
+				"ConditionId": "crate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0191",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.69e156,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0192",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5e19,
+				"ConditionId": "airport"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0193",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1e21,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0194",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.17e163,
+				"ConditionId": "crate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0195",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.44e189,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0196",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.2e24,
+				"ConditionId": "airport"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0197",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.28e26,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0198",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7e200,
+				"ConditionId": "crate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0199",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.94e231,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0200",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 9.99e29,
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
