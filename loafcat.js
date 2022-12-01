@@ -116736,7 +116736,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.23e68,
+				"Threshold": 1.23e67,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -116764,7 +116764,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 10000000000,
+				"Threshold": 8000000000,
 				"ConditionId": "mech"
 			},
 			"Reward": {
@@ -116778,7 +116778,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.9e63,
+				"Threshold": 4.9e61,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -116792,7 +116792,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2100000000,
+				"Threshold": 1750000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -116806,7 +116806,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.9e71,
+				"Threshold": 4.9e68,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -116819,13 +116819,13 @@ DATA["attack-bal-20"] = {
 			"Id": "M0107",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 20000000000,
-				"ConditionId": "mech"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -116833,9 +116833,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0108",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.91e66,
-				"ConditionId": "oil"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 12000000000,
+				"ConditionId": "mech"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -116847,9 +116847,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0109",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 4000000000,
-				"ConditionId": "magmaextractor"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.91e63,
+				"ConditionId": "oil"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -116861,9 +116861,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0110",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.2e75,
-				"ConditionId": "weapon"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2640000000,
+				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -116873,6 +116873,174 @@ DATA["attack-bal-20"] = {
 		},
 		{
 			"Id": "M0111",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.2e69,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0112",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 300,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0113",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 17500000000,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0114",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.98e65,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0115",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3600000000,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0116",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.2e71,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0117",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0118",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 25000000000,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0119",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.5e67,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0120",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5250000000,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0121",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.3e73,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0122",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 300,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0123",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -116886,179 +117054,11 @@ DATA["attack-bal-20"] = {
 			}
 		},
 		{
-			"Id": "M0112",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.98e69,
-				"ConditionId": "oil"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0113",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 9000000000,
-				"ConditionId": "magmaextractor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0114",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.2e79,
-				"ConditionId": "weapon"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0115",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 80000000000,
-				"ConditionId": "mech"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0116",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.5e73,
-				"ConditionId": "oil"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0117",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 21000000000,
-				"ConditionId": "magmaextractor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0118",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e84,
-				"ConditionId": "weapon"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0119",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 200000000000,
-				"ConditionId": "mech"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0120",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.3e76,
-				"ConditionId": "oil"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0121",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 50000000000,
-				"ConditionId": "magmaextractor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0122",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.86e87,
-				"ConditionId": "weapon"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0123",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 500000000000,
-				"ConditionId": "mech"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
 			"Id": "M0124",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.2e79,
+				"Threshold": 7.3e68,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -117072,7 +117072,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 130000000000,
+				"Threshold": 7500000000,
 				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
@@ -117086,7 +117086,7 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.4e91,
+				"Threshold": 3.86e75,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -117099,13 +117099,13 @@ DATA["attack-bal-20"] = {
 			"Id": "M0127",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 1200000000000,
-				"ConditionId": "mech"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -117113,9 +117113,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0128",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.7e82,
-				"ConditionId": "oil"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 64000000000,
+				"ConditionId": "mech"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117127,9 +117127,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0129",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 300000000000,
-				"ConditionId": "magmaextractor"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.2e70,
+				"ConditionId": "oil"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117141,9 +117141,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0130",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.32e96,
-				"ConditionId": "weapon"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 13000000000,
+				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117155,9 +117155,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0131",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 3000000000000,
-				"ConditionId": "mech"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.4e76,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117169,9 +117169,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0132",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e86,
-				"ConditionId": "oil"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 96000000000,
+				"ConditionId": "mech"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117183,9 +117183,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0133",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 666000000000,
-				"ConditionId": "magmaextractor"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.7e72,
+				"ConditionId": "oil"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117197,9 +117197,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0134",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.3e101,
-				"ConditionId": "weapon"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 18750000000,
+				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117211,9 +117211,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0135",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 7500000000000,
-				"ConditionId": "mech"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.32e78,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117225,13 +117225,13 @@ DATA["attack-bal-20"] = {
 			"Id": "M0136",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.78e90,
-				"ConditionId": "oil"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -117240,8 +117240,8 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1600000000000,
-				"ConditionId": "magmaextractor"
+				"Threshold": 144000000000,
+				"ConditionId": "mech"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117254,8 +117254,8 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.3e106,
-				"ConditionId": "weapon"
+				"Threshold": 4.2e74,
+				"ConditionId": "oil"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117268,8 +117268,8 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 20000000000000,
-				"ConditionId": "mech"
+				"Threshold": 26600000000,
+				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117282,8 +117282,8 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.7e94,
-				"ConditionId": "oil"
+				"Threshold": 6.3e79,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117296,8 +117296,8 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5000000000000,
-				"ConditionId": "magmaextractor"
+				"Threshold": 225000000000,
+				"ConditionId": "mech"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117310,8 +117310,8 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.3e111,
-				"ConditionId": "weapon"
+				"Threshold": 5.78e75,
+				"ConditionId": "oil"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117324,8 +117324,8 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 60000000000000,
-				"ConditionId": "mech"
+				"Threshold": 40000000000,
+				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117338,8 +117338,8 @@ DATA["attack-bal-20"] = {
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.77e101,
-				"ConditionId": "oil"
+				"Threshold": 7.3e81,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117351,13 +117351,13 @@ DATA["attack-bal-20"] = {
 			"Id": "M0145",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 20000000000000,
-				"ConditionId": "magmaextractor"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -117365,9 +117365,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0146",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.3e130,
-				"ConditionId": "weapon"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 320000000000,
+				"ConditionId": "mech"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117379,9 +117379,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0147",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 300000000000000,
-				"ConditionId": "mech"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.7e77,
+				"ConditionId": "oil"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117393,9 +117393,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0148",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.7e123,
-				"ConditionId": "oil"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 60000000000,
+				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117407,9 +117407,9 @@ DATA["attack-bal-20"] = {
 			"Id": "M0149",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 100000000000000,
-				"ConditionId": "magmaextractor"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.3e83,
+				"ConditionId": "weapon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -117421,9 +117421,709 @@ DATA["attack-bal-20"] = {
 			"Id": "M0150",
 			"Rank": 1,
 			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 500000000000,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0151",
+			"Rank": 1,
+			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.3e167,
+				"Threshold": 7.77e79,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0152",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 150000000000,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0153",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.3e86,
 				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0154",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1330000000000,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0155",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.7e82,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0156",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 400000000000,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0157",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.3e90,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0158",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4000000000000,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0159",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.9e85,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0160",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1200000000000,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0161",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.53e94,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0162",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 13000000000000,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0163",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8e88,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0164",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3500000000000,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0165",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.15e99,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0166",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 45000000000000,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0167",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.01e92,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0168",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 12500000000000,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0169",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4e103,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0170",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 159000000000000,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0171",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.34e95,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0172",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 40000000000000,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0173",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.7e108,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0174",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 600000000000000,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0175",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.79e98,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0176",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 150000000000000,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0177",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.18e112,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0178",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2340000000000000,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0179",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.42e102,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0180",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 600000000000000,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0181",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.26e117,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0182",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 9000000000000000,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0183",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.07e105,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0184",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2500000000000000,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0185",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.7e121,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0186",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 75000000000000000,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0187",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.12e114,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0188",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 240000000000000000,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0189",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.88e138,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0190",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2.5e19,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0191",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.57e131,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0192",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4e20,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0193",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.73e167,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0194",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2.25e23,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0195",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.19e157,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0196",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.8e25,
+				"ConditionId": "magmaextractor"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0197",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.2e207,
+				"ConditionId": "weapon"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0198",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5e28,
+				"ConditionId": "mech"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0199",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.12e191,
+				"ConditionId": "oil"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0200",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2.4e31,
+				"ConditionId": "magmaextractor"
 			},
 			"Reward": {
 				"Reward": "Gacha",
