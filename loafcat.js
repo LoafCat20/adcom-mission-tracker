@@ -109728,7 +109728,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2e62,
+				"Threshold": 2e61,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109770,7 +109770,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.56e70,
+				"Threshold": 2.56e69,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109798,7 +109798,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.8e67,
+				"Threshold": 1.8e65,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109840,7 +109840,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.5e74,
+				"Threshold": 5.5e72,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109868,7 +109868,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e68,
+				"Threshold": 1.2e67,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109910,7 +109910,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.5e75,
+				"Threshold": 9.5e73,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -109938,7 +109938,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.4e69,
+				"Threshold": 1.4e68,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -109980,7 +109980,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e77,
+				"Threshold": 5.2e75,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -110008,7 +110008,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.24e70,
+				"Threshold": 7.24e69,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -110050,7 +110050,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.73e78,
+				"Threshold": 8.73e77,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -110078,7 +110078,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.8e71,
+				"Threshold": 5.8e70,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -110120,7 +110120,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.23e80,
+				"Threshold": 9.23e78,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -110148,7 +110148,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.2e72,
+				"Threshold": 6.2e71,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -110190,7 +110190,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.1e81,
+				"Threshold": 7.1e80,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -110218,7 +110218,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e74,
+				"Threshold": 4.2e73,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -110260,7 +110260,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.9e82,
+				"Threshold": 7.9e81,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -110288,7 +110288,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.5e75,
+				"Threshold": 2.5e74,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -110330,7 +110330,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.11e84,
+				"Threshold": 4.11e83,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -110358,7 +110358,7 @@ DATA["defense-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.3e76,
+				"Threshold": 6.3e75,
 				"ConditionId": "bandage"
 			},
 			"Reward": {
@@ -123280,7 +123280,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2e62,
+				"Threshold": 2e61,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -123294,7 +123294,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.56e70,
+				"Threshold": 2.56e69,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -123350,7 +123350,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.8e67,
+				"Threshold": 1.8e65,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -123364,7 +123364,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.5e74,
+				"Threshold": 5.5e72,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -123420,7 +123420,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e69,
+				"Threshold": 1.2e67,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -123434,7 +123434,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.5e75,
+				"Threshold": 9.5e73,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -123490,7 +123490,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.4e70,
+				"Threshold": 1.4e68,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -123504,7 +123504,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e77,
+				"Threshold": 5.2e75,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -123560,7 +123560,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.24e70,
+				"Threshold": 7.24e69,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -123574,7 +123574,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.73e78,
+				"Threshold": 8.73e77,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -123630,7 +123630,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.8e72,
+				"Threshold": 5.8e70,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -123644,7 +123644,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.23e80,
+				"Threshold": 9.23e78,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -123700,7 +123700,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.2e73,
+				"Threshold": 6.2e71,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -123714,7 +123714,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.1e81,
+				"Threshold": 7.1e80,
 				"ConditionId": "potato"
 			},
 			"Reward": {
@@ -123770,7 +123770,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e74,
+				"Threshold": 4.2e73,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -123840,7 +123840,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.5e76,
+				"Threshold": 2.5e74,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -123910,7 +123910,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.3e77,
+				"Threshold": 6.3e75,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -123966,7 +123966,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.7e78,
+				"Threshold": 8.7e77,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -124036,7 +124036,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.6e79,
+				"Threshold": 5.6e78,
 				"ConditionId": "crate"
 			},
 			"Reward": {
@@ -124092,7 +124092,7 @@ DATA["export-bal-21"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.45e80,
+				"Threshold": 7.45e79,
 				"ConditionId": "crate"
 			},
 			"Reward": {
