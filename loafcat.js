@@ -135547,7 +135547,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Moat",
-					"Qty": "1.0E+03"
+					"Qty": "500"
 				},
 				{
 					"Resource": "collar",
@@ -135595,7 +135595,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Lasersharks",
-					"Qty": "5000"
+					"Qty": "1000"
 				},
 				{
 					"Resource": "collar",
@@ -135643,7 +135643,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Kraken",
-					"Qty": "10000"
+					"Qty": "5000"
 				},
 				{
 					"Resource": "collar",
@@ -135739,7 +135739,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Dragon",
-					"Qty": "5.0E+04"
+					"Qty": "1.0E+05"
 				},
 				{
 					"Resource": "collar",
@@ -135787,7 +135787,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Mammoth",
-					"Qty": "200000"
+					"Qty": "500000"
 				},
 				{
 					"Resource": "collar",
@@ -135835,7 +135835,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Yeti",
-					"Qty": "1000000"
+					"Qty": "2000000"
 				},
 				{
 					"Resource": "collar",
@@ -135883,7 +135883,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Kaiju",
-					"Qty": "5.0E+6"
+					"Qty": "1.0E+7"
 				},
 				{
 					"Resource": "collar",
