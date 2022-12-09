@@ -135595,7 +135595,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Lasersharks",
-					"Qty": "10000"
+					"Qty": "5000"
 				},
 				{
 					"Resource": "collar",
@@ -135643,7 +135643,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Kraken",
-					"Qty": "100000"
+					"Qty": "10000"
 				},
 				{
 					"Resource": "collar",
@@ -135691,7 +135691,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Ptero-technic",
-					"Qty": "100000"
+					"Qty": "20000"
 				},
 				{
 					"Resource": "collar",
@@ -135739,7 +135739,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Dragon",
-					"Qty": "1.0E+04"
+					"Qty": "5.0E+04"
 				},
 				{
 					"Resource": "collar",
@@ -135787,7 +135787,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Mammoth",
-					"Qty": "50000"
+					"Qty": "200000"
 				},
 				{
 					"Resource": "collar",
@@ -135835,7 +135835,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Yeti",
-					"Qty": "500000"
+					"Qty": "1000000"
 				},
 				{
 					"Resource": "collar",
@@ -139804,8 +139804,7 @@ DATA["fuspet-bal-32"] =
 				50,
 				100,
 				200,
-				400,
-				800
+				400
 			],
 			"Science": [
 				100,
@@ -139814,8 +139813,7 @@ DATA["fuspet-bal-32"] =
 				400,
 				800,
 				2000,
-				4000,
-				8000
+				4000
 			]
 		},
 		{
@@ -139825,16 +139823,14 @@ DATA["fuspet-bal-32"] =
 				10,
 				20,
 				50,
-				100,
-				200
+				100
 			],
 			"Science": [
 				250,
 				500,
 				1000,
 				2500,
-				5000,
-				10000
+				5000
 			]
 		}
 	],
@@ -140023,7 +140019,7 @@ DATA["fuspet-bal-32"] =
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 7,
+			"PlayerRankUnlock": 6,
 			"ResearchOutputType": "Constant"
 		},
 		{
@@ -140040,7 +140036,7 @@ DATA["fuspet-bal-32"] =
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 8,
+			"PlayerRankUnlock": 7,
 			"ResearchOutputType": "Constant"
 		},
 		{
@@ -140057,7 +140053,7 @@ DATA["fuspet-bal-32"] =
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 10,
+			"PlayerRankUnlock": 9,
 			"ResearchOutputType": "Constant"
 		},
 		{
@@ -140074,7 +140070,7 @@ DATA["fuspet-bal-32"] =
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 12,
+			"PlayerRankUnlock": 11,
 			"ResearchOutputType": "Constant"
 		},
 		{
@@ -140193,7 +140189,7 @@ DATA["fuspet-bal-32"] =
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteRare",
-			"PlayerRankUnlock": 13,
+			"PlayerRankUnlock": 11,
 			"ResearchOutputType": "Constant"
 		},
 		{
