@@ -106967,6 +106967,51 @@ DATA["defense-bal-21"] =
 			"Supreme": 0,
 			"LteCommon": 40,
 			"LteRare": 5
+		},
+		{
+			"Rank": 12,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 5
+		},
+		{
+			"Rank": 13,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 14,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 15,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 16,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 6
 		}
 	],
 	"CardToScienceConversion": {
@@ -113836,6 +113881,51 @@ DATA["attack-bal-20"] =
 			"Supreme": 0,
 			"LteCommon": 30,
 			"LteRare": 4
+		},
+		{
+			"Rank": 12,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 5
+		},
+		{
+			"Rank": 13,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 14,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 15,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 16,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 6
 		}
 	],
 	"CardToScienceConversion": {
@@ -120470,6 +120560,51 @@ DATA["export-bal-21"] =
 			"Supreme": 0,
 			"LteCommon": 30,
 			"LteRare": 4
+		},
+		{
+			"Rank": 12,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 5
+		},
+		{
+			"Rank": 13,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 14,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 15,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 16,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 6
 		}
 	],
 	"CardToScienceConversion": {
@@ -126839,6 +126974,6699 @@ DATA["export-bal-21"] =
 	]
 };
 
+DATA["power-bal-20"]= 
+{
+	"Ads": [
+		{
+			"Id": "AD011",
+			"AdType": "Industry",
+			"Name": "Propaganda Boost",
+			"Description": "Applies a x2 payout to all industries",
+			"ViewLimit": 3,
+			"ResetType": "Now",
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"RewardId": "EXAD6",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"Id": "AD012",
+			"AdType": "Tool",
+			"Name": "Air Drop",
+			"ViewLimit": 1,
+			"ResetType": "Now",
+			"Rewards": [
+				{
+					"Reward": "None"
+				}
+			]
+		}
+	],
+	"AirDrops": [
+		{
+			"Id": 10001,
+			"AirDropRewardType": "CoreResource",
+			"IsAd": false,
+			"IsAdSkippable": false,
+			"Weight": 15,
+			"MaxAdsPerInterval": -1,
+			"RewardCalculation": {
+				"A": 1800,
+				"B": 5,
+				"C": 0.125,
+				"D": 25
+			}
+		},
+		{
+			"Id": 10002,
+			"AirDropRewardType": "PrimaryCurrency",
+			"IsAd": false,
+			"IsAdSkippable": false,
+			"Weight": 10,
+			"MaxAdsPerInterval": -1,
+			"RewardCalculation": {
+				"A": 450,
+				"B": 1.55,
+				"C": 0.4,
+				"D": 10
+			}
+		},
+		{
+			"Id": 10003,
+			"AirDropRewardType": "PrimaryCurrency",
+			"IsAd": true,
+			"IsAdSkippable": false,
+			"Weight": 50,
+			"MaxAdsPerInterval": 6,
+			"RewardCalculation": {
+				"A": 7500,
+				"B": 1.7,
+				"C": 0.2,
+				"D": -650
+			}
+		},
+		{
+			"Id": 10004,
+			"AirDropRewardType": "SoftCurrency",
+			"IsAd": true,
+			"IsAdSkippable": false,
+			"Weight": 25,
+			"MaxAdsPerInterval": 4,
+			"RewardCalculation": {
+				"A": 550,
+				"B": 1.01,
+				"C": 1.001,
+				"D": 65
+			}
+		}
+	],
+	"AirDropsConfig": [
+		{
+			"AirDropBaseInterval": 50,
+			"AirDropIntervalVariance": 0.1,
+			"AirDropIntervalMultiplier": 1.2,
+			"ClaimCountResetInterval": 5400,
+			"AdCountResetInterval": 43200,
+			"StartupDelay": 30,
+			"StartCondition": {
+				"ConditionType": "RankReached",
+				"Threshold": 2
+			},
+			"HasAdFreeAirDrops": true
+		}
+	],
+	"CardStoreCost": [
+		{
+			"Rarity": "Common",
+			"ScienceCost": 0,
+			"GoldCost": 0,
+			"AdWatchStackModifier": 0
+		},
+		{
+			"Rarity": "Rare",
+			"ScienceCost": 0,
+			"GoldCost": 0,
+			"AdWatchStackModifier": 0
+		},
+		{
+			"Rarity": "Epic",
+			"ScienceCost": 0,
+			"GoldCost": 0,
+			"AdWatchStackModifier": 0
+		},
+		{
+			"Rarity": "Supreme",
+			"ScienceCost": 0,
+			"GoldCost": 0,
+			"AdWatchStackModifier": 0
+		},
+		{
+			"Rarity": "LteCommon",
+			"ScienceCost": 30,
+			"GoldCost": 2,
+			"AdWatchStackModifier": 0.25
+		},
+		{
+			"Rarity": "LteRare",
+			"ScienceCost": 250,
+			"GoldCost": 15,
+			"AdWatchStackModifier": 0.1
+		}
+	],
+	"CardStoreStackSize": [
+		{
+			"Rank": 1,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 10,
+			"LteRare": 2
+		},
+		{
+			"Rank": 2,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 10,
+			"LteRare": 2
+		},
+		{
+			"Rank": 3,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 10,
+			"LteRare": 2
+		},
+		{
+			"Rank": 4,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 20,
+			"LteRare": 3
+		},
+		{
+			"Rank": 5,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 20,
+			"LteRare": 3
+		},
+		{
+			"Rank": 6,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 20,
+			"LteRare": 3
+		},
+		{
+			"Rank": 7,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 20,
+			"LteRare": 3
+		},
+		{
+			"Rank": 8,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 4
+		},
+		{
+			"Rank": 9,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 4
+		},
+		{
+			"Rank": 10,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 4
+		},
+		{
+			"Rank": 11,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 4
+		},
+		{
+			"Rank": 12,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 5
+		},
+		{
+			"Rank": 13,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 14,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 15,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 16,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 6
+		}
+	],
+	"CardToScienceConversion": {
+		"Common": 0,
+		"Rare": 0,
+		"Epic": 0,
+		"Supreme": 0,
+		"LteCommon": 15,
+		"LteRare": 125
+	},
+	"DailyDealSlotChance": [
+		{
+			"Slot": 1,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 0.5,
+			"LteRare": 0.5,
+			"GoldCostChance": 0,
+			"AdWatchChance": 1
+		},
+		{
+			"Slot": 2,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 0.5,
+			"LteRare": 0.5,
+			"GoldCostChance": 0,
+			"AdWatchChance": 0
+		},
+		{
+			"Slot": 3,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 0,
+			"LteRare": 1,
+			"GoldCostChance": 1,
+			"AdWatchChance": 0
+		}
+	],
+	"Experiments": [
+		{
+			"Id": "EX164",
+			"Name": "Basic Time Hack",
+			"IconKey": "timehack_4",
+			"Lifespan": "OneTime",
+			"Lifetime": 1,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "ResourceSurge",
+					"AllResources": true,
+					"Value": 14400,
+					"Description": "Resource Surge! Get 4 hours' worth instantly!"
+				}
+			],
+			"Description": "Resource Surge! Get 4 hours' worth instantly!"
+		},
+		{
+			"Id": "EX165",
+			"Name": "Mega Time Hack",
+			"IconKey": "timehack_24",
+			"Lifespan": "OneTime",
+			"Lifetime": 1,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "ResourceSurge",
+					"AllResources": true,
+					"Value": 86400,
+					"Description": "Resource Surge! Get 24 hours' worth instantly!"
+				}
+			],
+			"Description": "Resource Surge! Get 24 hours' worth instantly!"
+		},
+		{
+			"Id": "EX167",
+			"Name": "Simple Time Hack",
+			"IconKey": "timehack_1",
+			"Lifespan": "OneTime",
+			"Lifetime": 1,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "ResourceSurge",
+					"AllResources": true,
+					"Value": 3600,
+					"Description": "Resource Surge! Get 1 hours' worth instantly!"
+				}
+			],
+			"Description": "Resource Surge! Get 1 hours' worth instantly!"
+		},
+		{
+			"Id": "EX210",
+			"Name": "Double Time",
+			"IconKey": "propaganda",
+			"Lifespan": "Permanent",
+			"Lifetime": 0,
+			"Type": "Ad",
+			"Rewards": [
+				{
+					"Type": "PayoutMultiplier",
+					"AllResources": true,
+					"Value": 2,
+					"Description": "Receive a permanent x2 speed boost to all industries!"
+				}
+			],
+			"Description": "Receive a permanent x2 speed boost to all industries!"
+		},
+		{
+			"Id": "EX211",
+			"Name": "Quintuple Time",
+			"IconKey": "propaganda",
+			"Lifespan": "Permanent",
+			"Lifetime": 0,
+			"Type": "Ad",
+			"Rewards": [
+				{
+					"Type": "PayoutMultiplier",
+					"AllResources": true,
+					"Value": 5,
+					"Description": "Receive a permanent x5 speed boost to all industries!"
+				}
+			],
+			"Description": "Receive a permanent x5 speed boost to all industries!"
+		},
+		{
+			"Id": "EX215",
+			"Name": "Long Term Propaganda",
+			"IconKey": "propaganda",
+			"Lifespan": "Timed",
+			"Lifetime": 5184000,
+			"Type": "Ad",
+			"Rewards": [
+				{
+					"Type": "PayoutMultiplier",
+					"AllResources": true,
+					"Value": 5,
+					"Description": "Receive a x5 speed boost to all industries for 60D!"
+				}
+			],
+			"Description": "Receive a x5 speed boost to all industries for 60D!"
+		},
+		{
+			"Id": "EXAD6",
+			"Name": "Propaganda Boost",
+			"IconKey": "propaganda",
+			"Lifespan": "Timed",
+			"Lifetime": 14400,
+			"Type": "Ad",
+			"Rewards": [
+				{
+					"Type": "PayoutMultiplier",
+					"AllResources": true,
+					"Value": 2,
+					"Description": "x2 boost to all industries!"
+				}
+			],
+			"Description": "x2 boost for 3 more hours!"
+		},
+		{
+			"Id": "SCH2",
+			"Name": "Free Gacha Capsule",
+			"Lifespan": "Timed",
+			"Lifetime": 7200,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "None",
+					"AllResources": false
+				}
+			]
+		},
+		{
+			"Id": "SCH3",
+			"Name": "Science Air Drop Availability",
+			"IconKey": "darkscience",
+			"Lifespan": "Timed",
+			"Lifetime": 14400,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "None"
+				}
+			]
+		},
+		{
+			"Id": "SCH4",
+			"Name": "Air Drop Session Reset",
+			"IconKey": "none",
+			"Lifespan": "Timed",
+			"Lifetime": 14400,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "None"
+				}
+			]
+		}
+	],
+	"FreeGachaData": {
+		"TimeBetweenGachas": 7200,
+		"MaxStackCount": 2
+	},
+	"GachaFreeCycle": [
+		{
+			"Cycle": [
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic"
+			],
+			"ScriptId": "sc3"
+		}
+	],
+	"GachaGoldCycle": [
+		{
+			"Cycle": {
+				"plastic": [
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				],
+				"armored": [
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				]
+			}
+		}
+	],
+	"GachaLootTable": [
+		{
+			"Id": "plastic",
+			"CardWeight": 10,
+			"RareWeight": -1,
+			"EpicWeight": -1,
+			"SupremeWeight": -1,
+			"LteRareWeight": 17,
+			"ScienceMin": 45,
+			"ScienceMax": 55,
+			"TrophyMin": 10,
+			"TrophyMax": 10,
+			"ChanceMultiplier": 10,
+			"WeightDivider": 10,
+			"Type": "Normal"
+		},
+		{
+			"Id": "armored",
+			"CardWeight": 30,
+			"RareWeight": -1,
+			"EpicWeight": -1,
+			"SupremeWeight": -1,
+			"LteRareWeight": 15,
+			"ScienceMin": 90,
+			"ScienceMax": 110,
+			"TrophyMin": 50,
+			"TrophyMax": 50,
+			"ChanceMultiplier": 10,
+			"WeightDivider": 10,
+			"Type": "Normal"
+		},
+		{
+			"Id": "titanium",
+			"CardWeight": 200,
+			"RareWeight": -1,
+			"EpicWeight": -1,
+			"SupremeWeight": -1,
+			"LteRareWeight": 5,
+			"ScienceMin": 1400,
+			"ScienceMax": 1600,
+			"TrophyMin": 0,
+			"TrophyMax": 0,
+			"ChanceMultiplier": 10,
+			"WeightDivider": 10,
+			"Type": "Premium"
+		},
+		{
+			"Id": "tech",
+			"CardWeight": 100,
+			"RareWeight": -1,
+			"EpicWeight": -1,
+			"SupremeWeight": -1,
+			"LteRareWeight": 1,
+			"ScienceMin": 0,
+			"ScienceMax": 0,
+			"TrophyMin": 0,
+			"TrophyMax": 0,
+			"ChanceMultiplier": 10,
+			"WeightDivider": 10,
+			"Type": "Fixed"
+		},
+		{
+			"Id": "sc_m01",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m02",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m03",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m04",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m05",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m06",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m07",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m08",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m09",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m10",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m11",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m12",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m13",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m14",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m15",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m16",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m17",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m18",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc3",
+			"Type": "Scripted"
+		}
+	],
+	"GachaScripts": [
+		{
+			"GachaId": "sc_m01",
+			"MimicGachaId": "plastic",
+			"Science": 49,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0021",
+					"Value": 3
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m02",
+			"MimicGachaId": "plastic",
+			"Science": 50,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0023",
+					"Value": 2
+				},
+				{
+					"Id": "RS0053",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m03",
+			"MimicGachaId": "plastic",
+			"Science": 49,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0023",
+					"Value": 3
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m04",
+			"MimicGachaId": "plastic",
+			"Science": 48,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0021",
+					"Value": 2
+				},
+				{
+					"Id": "RS0062",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m05",
+			"MimicGachaId": "plastic",
+			"Science": 53,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0023",
+					"Value": 4
+				},
+				{
+					"Id": "RS0062",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m06",
+			"MimicGachaId": "plastic",
+			"Science": 51,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0021",
+					"Value": 4
+				},
+				{
+					"Id": "RS0053",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m07",
+			"MimicGachaId": "plastic",
+			"Science": 55,
+			"Gold": 0,
+			"Trophy": 20,
+			"Card": [
+				{
+					"Id": "RS0024",
+					"Value": 3
+				},
+				{
+					"Id": "RS0023",
+					"Value": 3
+				},
+				{
+					"Id": "RS0062",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m08",
+			"MimicGachaId": "plastic",
+			"Science": 63,
+			"Gold": 0,
+			"Trophy": 30,
+			"Card": [
+				{
+					"Id": "RS0011",
+					"Value": 3
+				},
+				{
+					"Id": "RS0024",
+					"Value": 5
+				},
+				{
+					"Id": "RS0057",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m09",
+			"MimicGachaId": "plastic",
+			"Science": 78,
+			"Gold": 0,
+			"Trophy": 40,
+			"Card": [
+				{
+					"Id": "RS0025",
+					"Value": 3
+				},
+				{
+					"Id": "RS0011",
+					"Value": 7
+				},
+				{
+					"Id": "RS0057",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m10",
+			"MimicGachaId": "plastic",
+			"Science": 96,
+			"Gold": 0,
+			"Trophy": 60,
+			"Card": [
+				{
+					"Id": "RS0014",
+					"Value": 4
+				},
+				{
+					"Id": "RS0025",
+					"Value": 9
+				},
+				{
+					"Id": "RS0080",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m11",
+			"MimicGachaId": "plastic",
+			"Science": 107,
+			"Gold": 0,
+			"Trophy": 70,
+			"Card": [
+				{
+					"Id": "RS0028",
+					"Value": 2
+				},
+				{
+					"Id": "RS0014",
+					"Value": 13
+				},
+				{
+					"Id": "RS0080",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m12",
+			"MimicGachaId": "plastic",
+			"Science": 113,
+			"Gold": 0,
+			"Trophy": 80,
+			"Card": [
+				{
+					"Id": "RS0015",
+					"Value": 4
+				},
+				{
+					"Id": "RS0028",
+					"Value": 14
+				},
+				{
+					"Id": "RS0057",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m13",
+			"MimicGachaId": "plastic",
+			"Science": 120,
+			"Gold": 0,
+			"Trophy": 90,
+			"Card": [
+				{
+					"Id": "RS0029",
+					"Value": 13
+				},
+				{
+					"Id": "RS0015",
+					"Value": 7
+				},
+				{
+					"Id": "RS0052",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m14",
+			"MimicGachaId": "plastic",
+			"Science": 133,
+			"Gold": 0,
+			"Trophy": 100,
+			"Card": [
+				{
+					"Id": "RS0018",
+					"Value": 9
+				},
+				{
+					"Id": "RS0029",
+					"Value": 15
+				},
+				{
+					"Id": "RS0052",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m15",
+			"MimicGachaId": "plastic",
+			"Science": 140,
+			"Gold": 0,
+			"Trophy": 120,
+			"Card": [
+				{
+					"Id": "RS0018",
+					"Value": 5
+				},
+				{
+					"Id": "RS0025",
+					"Value": 21
+				},
+				{
+					"Id": "RS0073",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m16",
+			"MimicGachaId": "plastic",
+			"Science": 146,
+			"Gold": 0,
+			"Trophy": 140,
+			"Card": [
+				{
+					"Id": "RS0030",
+					"Value": 20
+				},
+				{
+					"Id": "RS0018",
+					"Value": 8
+				},
+				{
+					"Id": "RS0057",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m17",
+			"MimicGachaId": "plastic",
+			"Science": 154,
+			"Gold": 0,
+			"Trophy": 160,
+			"Card": [
+				{
+					"Id": "RS0096",
+					"Value": 16
+				},
+				{
+					"Id": "RS0030",
+					"Value": 16
+				},
+				{
+					"Id": "RS0073",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m18",
+			"MimicGachaId": "plastic",
+			"Science": 84,
+			"Gold": 0,
+			"Trophy": 50,
+			"Card": [
+				{
+					"Id": "RS0025",
+					"Value": 3
+				},
+				{
+					"Id": "RS0024",
+					"Value": 8
+				},
+				{
+					"Id": "RS0080",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc3",
+			"MimicGachaId": "plastic",
+			"Science": 50,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "RS0021",
+					"Value": 3
+				}
+			]
+		}
+	],
+	"GachaStackSplit": [
+		{
+			"Split": 2,
+			"LteCommon": 8,
+			"LteRare": 4
+		},
+		{
+			"Split": 3,
+			"LteCommon": 25,
+			"LteRare": 25
+		},
+		{
+			"Split": 4,
+			"LteRare": 75
+		}
+	],
+	"GeneratorObjectiveLimits": [
+		{
+			"GeneratorId": "miner",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "blastingsite",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "mine",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "deepbore",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "uraniummine",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "ozonecollector",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "laserdrill",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "worker",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "sewer",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "coalplant",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "nuclearplant",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "fusionplant",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		}
+	],
+	"Generators": [
+		{
+			"Id": "comradegenerator",
+			"Name": "Comrade",
+			"ResourceType": "comradegenerator",
+			"GeneratorType": "Automatic",
+			"Generate": {
+				"Resource": "comrade",
+				"Qty": 1
+			},
+			"BaseCompletionTime": 1,
+			"IncludeInAll": false,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 1
+			}
+		},
+		{
+			"Id": "miner",
+			"Name": "Miner",
+			"ResourceType": "miner",
+			"GeneratorType": "Manual",
+			"IndustryId": "mining",
+			"Cost": [
+				{
+					"Resource": "Ore",
+					"Qty": "1.0E+01"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "ore",
+				"Qty": 4
+			},
+			"BaseCompletionTime": 3,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "ore",
+					"Threshold": 0
+				}
+			],
+			"Unlock": {
+				"ConditionType": "IndustryUnlocked",
+				"ConditionId": "mining",
+				"Threshold": 0
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 8
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "blastingsite",
+			"Name": "Blasting Site",
+			"ResourceType": "blastingsite",
+			"GeneratorType": "Manual",
+			"IndustryId": "mining",
+			"Cost": [
+				{
+					"Resource": "Miner",
+					"Qty": "1.0E+01"
+				},
+				{
+					"Resource": "Ore",
+					"Qty": "1.0E+05"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "miner",
+				"Qty": 5
+			},
+			"BaseCompletionTime": 6,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "miner",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "miner",
+				"Threshold": 100
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 8
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "mine",
+			"Name": "Mine",
+			"ResourceType": "mine",
+			"GeneratorType": "Manual",
+			"IndustryId": "mining",
+			"Cost": [
+				{
+					"Resource": "BlastingSite",
+					"Qty": "1.0E+02"
+				},
+				{
+					"Resource": "Ore",
+					"Qty": "1.0E+11"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "blastingsite",
+				"Qty": 6
+			},
+			"BaseCompletionTime": 12,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "blastingsite",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "blastingsite",
+				"Threshold": 10000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 8
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 3
+			}
+		},
+		{
+			"Id": "deepbore",
+			"Name": "Deep Bore",
+			"ResourceType": "deepbore",
+			"GeneratorType": "Manual",
+			"IndustryId": "mining",
+			"Cost": [
+				{
+					"Resource": "Mine",
+					"Qty": "1.0E+03"
+				},
+				{
+					"Resource": "Ore",
+					"Qty": 1e21
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "mine",
+				"Qty": 7
+			},
+			"BaseCompletionTime": 24,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "mine",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "mine",
+				"Threshold": 500000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 8
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 4
+			}
+		},
+		{
+			"Id": "uraniummine",
+			"Name": "Uranium Mine",
+			"ResourceType": "uraniummine",
+			"GeneratorType": "Manual",
+			"IndustryId": "mining",
+			"Cost": [
+				{
+					"Resource": "DeepBore",
+					"Qty": "1.0E+04"
+				},
+				{
+					"Resource": "Ore",
+					"Qty": "1.0E+29"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "deepbore",
+				"Qty": 8
+			},
+			"BaseCompletionTime": 48,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "deepbore",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "deepbore",
+				"Threshold": 10000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 8
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 5
+			}
+		},
+		{
+			"Id": "ozonecollector",
+			"Name": "Ozone Collector",
+			"ResourceType": "ozonecollector",
+			"GeneratorType": "Manual",
+			"IndustryId": "mining",
+			"Cost": [
+				{
+					"Resource": "uraniummine",
+					"Qty": "1.0E+05"
+				},
+				{
+					"Resource": "Ore",
+					"Qty": "1.0E+38"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "uraniummine",
+				"Qty": 9
+			},
+			"BaseCompletionTime": 96,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "uraniummine",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "uraniummine",
+				"Threshold": 100000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 8
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 6
+			}
+		},
+		{
+			"Id": "laserdrill",
+			"Name": "Laser Drill",
+			"ResourceType": "laserdrill",
+			"GeneratorType": "Manual",
+			"IndustryId": "mining",
+			"Cost": [
+				{
+					"Resource": "ozonecollector",
+					"Qty": "1.0E+06"
+				},
+				{
+					"Resource": "Ore",
+					"Qty": "1.0E+50"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "ozonecollector",
+				"Qty": 10
+			},
+			"BaseCompletionTime": 192,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "ozonecollector",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "ozonecollector",
+				"Threshold": 1000000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 8
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 7
+			}
+		},
+		{
+			"Id": "worker",
+			"Name": "worker",
+			"ResourceType": "worker",
+			"GeneratorType": "Manual",
+			"IndustryId": "powerplant",
+			"Cost": [
+				{
+					"Resource": "Power",
+					"Qty": "1.0E+03"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "3"
+				}
+			],
+			"Generate": {
+				"Resource": "power",
+				"Qty": 7
+			},
+			"BaseCompletionTime": 6,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "ore",
+					"Threshold": 100000000000000000.0
+				}
+			],
+			"Unlock": {
+				"ConditionType": "IndustryUnlocked",
+				"ConditionId": "powerplant",
+				"Threshold": 100000000000000000.0
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 8
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 4
+			}
+		},
+		{
+			"Id": "sewer",
+			"Name": "Sewer",
+			"ResourceType": "sewer",
+			"GeneratorType": "Manual",
+			"IndustryId": "powerplant",
+			"Cost": [
+				{
+					"Resource": "worker",
+					"Qty": "1.0E+04"
+				},
+				{
+					"Resource": "Power",
+					"Qty": "1.0E+13"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "4"
+				}
+			],
+			"Generate": {
+				"Resource": "worker",
+				"Qty": 9
+			},
+			"BaseCompletionTime": 18,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "worker",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "worker",
+				"Threshold": 2000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 8
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 8
+			}
+		},
+		{
+			"Id": "coalplant",
+			"Name": "Coal Plant",
+			"ResourceType": "coalplant",
+			"GeneratorType": "Manual",
+			"IndustryId": "powerplant",
+			"Cost": [
+				{
+					"Resource": "sewer",
+					"Qty": 100000
+				},
+				{
+					"Resource": "Power",
+					"Qty": "1.0E+22"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "5"
+				}
+			],
+			"Generate": {
+				"Resource": "sewer",
+				"Qty": 11
+			},
+			"BaseCompletionTime": 54,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "sewer",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "sewer",
+				"Threshold": 15000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 8
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 12
+			}
+		},
+		{
+			"Id": "nuclearplant",
+			"Name": "Nuclear Plant",
+			"ResourceType": "nuclearplant",
+			"GeneratorType": "Manual",
+			"IndustryId": "powerplant",
+			"Cost": [
+				{
+					"Resource": "coalplant",
+					"Qty": 1000000
+				},
+				{
+					"Resource": "Power",
+					"Qty": "1.0E+34"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "6"
+				}
+			],
+			"Generate": {
+				"Resource": "coalplant",
+				"Qty": 13
+			},
+			"BaseCompletionTime": 162,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "coalplant",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "coalplant",
+				"Threshold": 80000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 8
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 16
+			}
+		},
+		{
+			"Id": "fusionplant",
+			"Name": "Fusion Plant",
+			"ResourceType": "fusionplant",
+			"GeneratorType": "Manual",
+			"IndustryId": "powerplant",
+			"Cost": [
+				{
+					"Resource": "nuclearplant",
+					"Qty": 10000000
+				},
+				{
+					"Resource": "Power",
+					"Qty": "1.0E+47"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "7"
+				}
+			],
+			"Generate": {
+				"Resource": "nuclearplant",
+				"Qty": 15
+			},
+			"BaseCompletionTime": 486,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "nuclearplant",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "nuclearplant",
+				"Threshold": 400000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 8
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 20
+			}
+		}
+	],
+	"Industries": [
+		{
+			"Id": "mining",
+			"SortingOrder": 1,
+			"VisibleConditions": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "miner"
+				}
+			],
+			"InteractableConditions": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "miner",
+					"Threshold": 0
+				}
+			]
+		},
+		{
+			"Id": "powerplant",
+			"SortingOrder": 2,
+			"UnlockCostResourceId": "ore",
+			"UnlockCostResourceQty": 100000000000000000.0,
+			"VisibleConditions": [
+				{
+					"ConditionType": "IndustryUnlocked",
+					"ConditionId": "mining"
+				}
+			],
+			"InteractableConditions": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "miner",
+					"Threshold": 0
+				}
+			]
+		}
+	],
+	"MiscBalance": {
+		"SoftCurrencyId": "darkscience",
+		"PrimaryGeneratorId": "comradegenerator",
+		"PrimaryResourceId": "comrade",
+		"HardToSoftCurrencyConversionRatio": 20,
+		"OfferwallPlatforms": "android",
+		"TotalSpendIncludesLte": false,
+		"DaysForRecentSpend": 26,
+		"RanksToTriggerOffers": "3,6,9",
+		"ComradeSpendWarningEnableRank": 3,
+		"ReferralReward": 110
+	},
+	"Missions": [
+		{
+			"Id": "M0001",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "TradesSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m02",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0002",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m04",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0003",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 100,
+				"ConditionId": "miner"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m01",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0004",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 10,
+				"ConditionId": "blastingsite"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m03",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0005",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 13000000,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0006",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 15,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0007",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 8787,
+				"ConditionId": "blastingsite"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m05",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0008",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 64000000000,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m06",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0009",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 250,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0010",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 333,
+				"ConditionId": "mine"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0011",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "IndustryUnlocked",
+				"Threshold": 1,
+				"ConditionId": "powerplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0012",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 232000000000000,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m07",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0013",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 20,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0014",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 100000,
+				"ConditionId": "mine"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0015",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 400,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0016",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0017",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.8e21,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m08",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0018",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 75000,
+				"ConditionId": "worker"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0019",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 50,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0020",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4,
+				"ConditionId": "deepbore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0021",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 423000000000,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m09",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0022",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 600,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0023",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.75e23,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0024",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 564897,
+				"ConditionId": "worker"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0025",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 256,
+				"ConditionId": "deepbore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0026",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 75,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0027",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 38000000000000,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m18",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0028",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.5e24,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0029",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1700000,
+				"ConditionId": "worker"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0030",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0031",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.5e25,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0032",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 20,
+				"ConditionId": "sewer"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m10",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0033",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3400000000000000.0,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0034",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 100,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0035",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4600000,
+				"ConditionId": "deepbore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0036",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 567678,
+				"ConditionId": "sewer"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0037",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.48e29,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0038",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.7e21,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0039",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 800,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0040",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 700,
+				"ConditionId": "uraniummine"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m11",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0041",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 6000000,
+				"ConditionId": "sewer"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0042",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.5e31,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0043",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 125,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0044",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.36e23,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0045",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 35000000,
+				"ConditionId": "uraniummine"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0046",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.6e24,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m12",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0047",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 350,
+				"ConditionId": "coalplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0048",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0049",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.2e37,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0050",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3000000,
+				"ConditionId": "coalplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0051",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.75e29,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m13",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0052",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 150,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0053",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 100,
+				"ConditionId": "ozonecollector"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0054",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.44e31,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0055",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 40000000,
+				"ConditionId": "coalplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0056",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.2e41,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0057",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0058",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.2e33,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0059",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 20000,
+				"ConditionId": "ozonecollector"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m14",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0060",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 8,
+				"ConditionId": "nuclearplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0061",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.65e43,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0062",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 175,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0063",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.8e36,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0064",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 42000000,
+				"ConditionId": "ozonecollector"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0065",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 13500,
+				"ConditionId": "nuclearplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m15",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0066",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.6e45,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0067",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0068",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.2e38,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0069",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 315000000,
+				"ConditionId": "ozonecollector"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0070",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 20000000,
+				"ConditionId": "nuclearplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0071",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.35e48,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0072",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 200,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0073",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.87e40,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m16",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0074",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 658000000,
+				"ConditionId": "ozonecollector"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0075",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 140000000,
+				"ConditionId": "nuclearplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0076",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.3e50,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0077",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0078",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.7e42,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0079",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 20,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0080",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 335000000,
+				"ConditionId": "nuclearplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0081",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.5e52,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0082",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 225,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0083",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.9e46,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0084",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 35000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m17",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0085",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 12,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0086",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.33e56,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0087",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0088",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.56e50,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0089",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 600000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0090",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 190000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0091",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.2e59,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0092",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 250,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0093",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.6e54,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0094",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2500000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0095",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 360000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0096",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e62,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0097",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0098",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.7e58,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0099",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0100",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0101",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.23e64,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0102",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 275,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0103",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.9e60,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0104",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 8000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0105",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1750000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0106",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.9e65,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0107",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0108",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.91e62,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0109",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 12000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0110",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2640000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0111",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.2e67,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0112",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 300,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0113",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.98e63,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0114",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 18000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0115",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3600000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0116",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.2e69,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0117",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0118",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.5e65,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0119",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 28000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0120",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5250000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0121",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.3e71,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0122",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 300,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0123",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.3e67,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0124",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 42000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0125",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 7500000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0126",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.86e73,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0127",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0128",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.2e69,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0129",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 65000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0130",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 13000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0131",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.4e74,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0132",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.7e70,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0133",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 100000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0134",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 18750000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0135",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.32e76,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0136",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0137",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.2e72,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0138",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 154000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0139",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 26600000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0140",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.3e78,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0141",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.78e74,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0142",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 234000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0143",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 40000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0144",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.3e79,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0145",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0146",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.7e75,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0147",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 360000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0148",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 60000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0149",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.3e82,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0150",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.77e77,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0151",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 550000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0152",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 100000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0153",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.3e84,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0154",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.7e80,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0155",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1800000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0156",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 360000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0157",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.3e88,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0158",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.9e83,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0159",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5800000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0160",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1200000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0161",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.53e92,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0162",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8e86,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0163",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 20000000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0164",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3500000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0165",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.15e97,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0166",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.01e90,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0167",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 60000000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0168",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 12000000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0169",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4e101,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0170",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.34e93,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0171",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 200000000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0172",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 40000000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0173",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.7e105,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0174",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.79e95,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0175",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 678000000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0176",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 125000000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0177",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.18e109,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0178",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.42e99,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0179",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2220000000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0180",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 450000000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0181",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.26e113,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0182",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.07e102,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0183",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 7300000000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0184",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1500000000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0185",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.7e118,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0186",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.12e108,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0187",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 260000000000000000,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0188",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 240000000000000000,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0189",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.88e142,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0190",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.57e130,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0191",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4.2e21,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0192",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.6e22,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0193",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.73e185,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0194",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.19e166,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0195",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.7e28,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0196",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2.5e29,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0197",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.2e248,
+				"ConditionId": "ore"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0198",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.12e216,
+				"ConditionId": "power"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0199",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.61e37,
+				"ConditionId": "laserdrill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0200",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 9.6e38,
+				"ConditionId": "fusionplant"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		}
+	],
+	"OfferPools": [
+		{
+			"SegmentId": "LteSegment",
+			"OfferType": "Permanent",
+			"ShowTakeover": false,
+			"OfferDataList": [
+				{
+					"ItemId": "t07_lte_starter",
+					"Duration": 0
+				}
+			]
+		},
+		{
+			"SegmentId": "LteSegment",
+			"OfferType": "RankUp",
+			"ShowTakeover": true,
+			"OfferDataList": [
+				{
+					"ItemId": "t03_minilte_rank3",
+					"Duration": 0
+				},
+				{
+					"ItemId": "t04_minilte_rank6",
+					"Duration": 0
+				},
+				{
+					"ItemId": "t06_minilte_rank9",
+					"Duration": 0
+				}
+			]
+		}
+	],
+	"Promotions": [],
+	"Ranks": [
+		{
+			"Rank": "1",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "0",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 0.3,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 0.9,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 1,
+			"AirDropScience": 25,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "2",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "4",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 0.5,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 1,
+			"AirDropScience": 50,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "3",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "5",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 0.7,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.2,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 2,
+			"AirDropScience": 70,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "4",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "4",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 0.9,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.3,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 3,
+			"AirDropScience": 85,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "5",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "5",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1.1,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.5,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 4,
+			"AirDropScience": 100,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "6",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1.2,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.7,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 5,
+			"AirDropScience": 110,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "7",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "5",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1.4,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.85,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 6,
+			"AirDropScience": 120,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "8",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1.6,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 7,
+			"AirDropScience": 130,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "9",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "7",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1.9,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2.15,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 8,
+			"AirDropScience": 135,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "10",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 2.2,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2.3,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 9,
+			"AirDropScience": 140,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "11",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "7",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 2.5,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2.45,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 10,
+			"AirDropScience": 145,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "12",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "7",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 2.8,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2.6,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 12,
+			"AirDropScience": 150,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "13",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "8",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 3.1,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2.75,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 14,
+			"AirDropScience": 150,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "14",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "9",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 3.4,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2.9,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 16,
+			"AirDropScience": 155,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "15",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "9",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 3.7,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 3.05,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 18,
+			"AirDropScience": 160,
+			"AirDropRankUpCoolDown": 60
+		},
+		{
+			"Rank": "16",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "10",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 4,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 3.2,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 20,
+			"AirDropScience": 165,
+			"AirDropRankUpCoolDown": 60
+		}
+	],
+	"ResearcherRankCosts": [
+		{
+			"Rarity": "Common",
+			"Quantity": [
+				9999
+			],
+			"Science": [
+				999999
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Quantity": [
+				9999
+			],
+			"Science": [
+				999999
+			]
+		},
+		{
+			"Rarity": "Epic",
+			"Quantity": [
+				9999
+			],
+			"Science": [
+				999999
+			]
+		},
+		{
+			"Rarity": "Supreme",
+			"Quantity": [
+				9999
+			],
+			"Science": [
+				999999
+			]
+		},
+		{
+			"Rarity": "LteCommon",
+			"Quantity": [
+				5,
+				10,
+				20,
+				50,
+				100,
+				200
+			],
+			"Science": [
+				100,
+				200,
+				300,
+				400,
+				800,
+				2000
+			]
+		},
+		{
+			"Rarity": "LteRare",
+			"Quantity": [
+				5,
+				10,
+				20,
+				50
+			],
+			"Science": [
+				250,
+				500,
+				1000,
+				2500
+			]
+		}
+	],
+	"Researchers": [
+		{
+			"Id": "RS0021",
+			"Name": "Derek Keeblander",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"miner"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 1,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0023",
+			"Name": "Blast Off Buds",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"blastingsite"
+			],
+			"ExpoMultiplier": 1.5,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 1,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0024",
+			"Name": "Speluffy",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"mine"
+			],
+			"ExpoMultiplier": 2,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 3,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0025",
+			"Name": "Pumbob",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"deepbore"
+			],
+			"ExpoMultiplier": 2.5,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 5,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0028",
+			"Name": "Dragoactive Man",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"uraniummine"
+			],
+			"ExpoMultiplier": 3,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 8,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0029",
+			"Name": "Landy Calrussian",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"ozonecollector"
+			],
+			"ExpoMultiplier": 3.5,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 10,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0030",
+			"Name": "Comrade Broski",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"laserdrill"
+			],
+			"ExpoMultiplier": 4,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 13,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0011",
+			"Name": "Milly the Mighty",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"worker"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 4,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0014",
+			"Name": "Johnny T",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"sewer"
+			],
+			"ExpoMultiplier": 1.5,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 7,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0015",
+			"Name": "Jovi Cannonball",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"coalplant"
+			],
+			"ExpoMultiplier": 2,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 9,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0018",
+			"Name": "Geri Springer Bouvier",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"nuclearplant"
+			],
+			"ExpoMultiplier": 2.5,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 11,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0096",
+			"Name": "Albert Mutanstein",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"fusionplant"
+			],
+			"ExpoMultiplier": 3,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 14,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0053",
+			"Name": "Salvadorville",
+			"ModType": "TradePayoutMultiplier",
+			"TargetIds": [
+				"ore"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 1,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0057",
+			"Name": "Jason Van Driessen",
+			"ModType": "GeneratorPayoutMultiplier",
+			"TargetIds": [
+				"powerplant"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 4,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0062",
+			"Name": "The Groovers",
+			"ModType": "GeneratorCritChance",
+			"TargetIds": [
+				"mining, powerplant"
+			],
+			"ExpoMultiplier": 0,
+			"ExpoGrowth": 0,
+			"UpgradePower": 0.01,
+			"CurveModifier": 0.1,
+			"BasePower": 0.02,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 1,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "RS0080",
+			"Name": "Earth Wyrm Jym",
+			"ModType": "TradePayoutMultiplier",
+			"TargetIds": [
+				"ore, power"
+			],
+			"ExpoMultiplier": 2,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 6,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "RS0052",
+			"Name": "Wacko Joker",
+			"ModType": "TradePayoutMultiplier",
+			"TargetIds": [
+				"power"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 10,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		},
+		{
+			"Id": "RS0073",
+			"Name": "Big Blender",
+			"ModType": "GeneratorCritPowerMult",
+			"TargetIds": [
+				"mining"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 12,
+			"ResearchOutputType": "Constant",
+			"ResearchOutputRate": 1
+		}
+	],
+	"Resources": [
+		{
+			"Id": "ore",
+			"Singular": "Ore",
+			"Plural": "Ore",
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "power",
+			"Singular": "Power",
+			"Plural": "Power",
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "miner",
+			"Singular": "Miner",
+			"Plural": "Miners",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "blastingsite",
+			"Singular": "Blasting Site",
+			"Plural": "Blasting Sites",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "mine",
+			"Singular": "Mine",
+			"Plural": "Mines",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "deepbore",
+			"Singular": "Deep Bore",
+			"Plural": "Deep Bores",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "uraniummine",
+			"Singular": "Uranium Mine",
+			"Plural": "Uranium Mines",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "ozonecollector",
+			"Singular": "Ozone Collector",
+			"Plural": "Ozone Collectors",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "laserdrill",
+			"Singular": "Laser Drill",
+			"Plural": "Laser Drills",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "worker",
+			"Singular": "Worker",
+			"Plural": "Workers",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "sewer",
+			"Singular": "Sewer",
+			"Plural": "Sewers",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "coalplant",
+			"Singular": "Coal Plant",
+			"Plural": "Coal Plants",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "nuclearplant",
+			"Singular": "Nuclear Plant",
+			"Plural": "Nuclear Plants",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "fusionplant",
+			"Singular": "Fusion Plant",
+			"Plural": "Fusion Plants",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "darkscience",
+			"Singular": "Dark Science",
+			"Plural": "Dark Science",
+			"CurrencyCode": "SC",
+			"Resettable": false,
+			"SharedData": false
+		},
+		{
+			"Id": "comrade",
+			"Singular": "Comrade",
+			"Plural": "Comrades",
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "comradegenerator",
+			"Singular": "Comrade",
+			"Plural": "Comrades",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "gold",
+			"Singular": "Gold",
+			"Plural": "Gold",
+			"CurrencyCode": "GO",
+			"Resettable": false,
+			"SharedData": true
+		},
+		{
+			"Id": "trophy",
+			"Singular": "Trophy",
+			"Plural": "Trophies",
+			"Resettable": false,
+			"SharedData": false
+		},
+		{
+			"Id": "timehack_1",
+			"Singular": "Basic Warp",
+			"Plural": "Basic Warps",
+			"CurrencyCode": "TH",
+			"Resettable": false,
+			"SharedData": true
+		},
+		{
+			"Id": "timehack_4",
+			"Singular": "Super Warp",
+			"Plural": "Super Warps",
+			"CurrencyCode": "TH",
+			"Resettable": false,
+			"SharedData": true
+		},
+		{
+			"Id": "timehack_24",
+			"Singular": "Elite Warp",
+			"Plural": "Elite Warps",
+			"CurrencyCode": "TH",
+			"Resettable": false,
+			"SharedData": true
+		},
+		{
+			"Id": "specops_point",
+			"Singular": "SpecialOps Point",
+			"Plural": "SpecialOps Points",
+			"StartingQty": 0,
+			"Resettable": false,
+			"SharedData": false
+		}
+	],
+	"Segments": [
+		{
+			"Id": "LteSegment",
+			"Priority": 1,
+			"Triggers": [
+				{
+					"Type": "Rank",
+					"Operator": ">=",
+					"Value": 1
+				}
+			]
+		}
+	],
+	"Store": [
+		{
+			"Name": "Bit O'Gold",
+			"InternalId": "t02_gold",
+			"AbTestConfig": "GoldTest|A",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 199,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 160,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold1\"}"
+		},
+		{
+			"Name": "Lot O'Gold",
+			"InternalId": "t05_gold",
+			"AbTestConfig": "GoldTest|A",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold2\"}"
+		},
+		{
+			"Name": "Tonne O'Gold",
+			"InternalId": "t10_gold",
+			"AbTestConfig": "GoldTest|A",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1200,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold3\",\"popular\":\"true\"}"
+		},
+		{
+			"Name": "Bucket O'Gold",
+			"InternalId": "t20_gold",
+			"AbTestConfig": "GoldTest|A",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 2500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold4\"}"
+		},
+		{
+			"Name": "Bit O'Gold",
+			"InternalId": "t05_gold_c",
+			"AbTestConfig": "GoldTest|B",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold1\"}"
+		},
+		{
+			"Name": "Lot O'Gold",
+			"InternalId": "t10_gold_c",
+			"AbTestConfig": "GoldTest|B",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1200,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold2\",\"popular\":\"true\"}"
+		},
+		{
+			"Name": "Tonne O'Gold",
+			"InternalId": "t20_gold_c",
+			"AbTestConfig": "GoldTest|B",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 2500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold3\"}"
+		},
+		{
+			"Name": "Bucket O'Gold",
+			"InternalId": "t30_gold",
+			"AbTestConfig": "GoldTest|B",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 3800,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold4\"}"
+		},
+		{
+			"Name": "Barrel O'Gold",
+			"InternalId": "t50_gold",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 4999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 6500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold5\"}"
+		},
+		{
+			"Name": "Wheels O'Gold",
+			"InternalId": "t60_gold",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 9999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 14000,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold6\",\"bestValue\":\"true\"}"
+		},
+		{
+			"Name": "Discovery Pack",
+			"InternalId": "darkscience_1000",
+			"ItemClass": "VirtualCurrencyScience",
+			"Price": 50,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1000,
+					"RewardId": "SC"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-science1\",\"topUp\":\"true\"}"
+		},
+		{
+			"Name": "Wise Pack",
+			"InternalId": "darkscience_5000",
+			"ItemClass": "VirtualCurrencyScience",
+			"Price": 200,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 5000,
+					"RewardId": "SC"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-science2\"}"
+		},
+		{
+			"Name": "Brilliant Pack",
+			"InternalId": "darkscience_25000",
+			"ItemClass": "VirtualCurrencyScience",
+			"Price": 800,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 25000,
+					"RewardId": "SC"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-science3\",\"bestValue\":\"true\"}"
+		},
+		{
+			"Name": "Titanium Capsule",
+			"InternalId": "gacha_titanium",
+			"ItemClass": "Gacha",
+			"Price": 750,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "titanium"
+				}
+			],
+			"CustomData": "{\"icon\":\"ga-titanium\"}"
+		},
+		{
+			"Name": "Skip 1 Hour!",
+			"InternalId": "timehack_1",
+			"ItemClass": "Experiment",
+			"Price": 50,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"Value": 1,
+					"RewardId": "EX167"
+				}
+			],
+			"CustomData": "{\"rarity\":\"Rare\"}"
+		},
+		{
+			"Name": "Skip 4 Hours!",
+			"InternalId": "timehack_4",
+			"ItemClass": "Experiment",
+			"Price": 150,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"Value": 1,
+					"RewardId": "EX164"
+				}
+			],
+			"CustomData": "{\"rarity\":\"Epic\"}"
+		},
+		{
+			"Name": "Skip 1 Day!",
+			"InternalId": "timehack_24",
+			"ItemClass": "Experiment",
+			"Price": 750,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"Value": 1,
+					"RewardId": "EX165"
+				}
+			],
+			"CustomData": "{\"rarity\":\"Supreme\"}"
+		},
+		{
+			"Name": "Event Starter Pack",
+			"InternalId": "t07_lte_starter",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 699,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "titanium"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 3,
+					"RewardId": "timehack_1"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 2000,
+					"RewardId": "darkscience"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 3 Bundle",
+			"InternalId": "t03_minilte_rank3",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 299,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 5,
+					"RewardId": "RS0062"
+				},
+				{
+					"Reward": "Researcher",
+					"Value": 50,
+					"RewardId": "RS0024"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 500,
+					"RewardId": "darkscience"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 6 Bundle",
+			"InternalId": "t04_minilte_rank6",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 399,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 10,
+					"RewardId": "RS0080"
+				},
+				{
+					"Reward": "Researcher",
+					"Value": 75,
+					"RewardId": "RS0025"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 1000,
+					"RewardId": "darkscience"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 1,
+					"RewardId": "timehack_1"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 9 Bundle",
+			"InternalId": "t06_minilte_rank9",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 599,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "titanium"
+				},
+				{
+					"Reward": "Researcher",
+					"Value": 100,
+					"RewardId": "RS0015"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 1,
+					"RewardId": "timehack_4"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 12 Bundle",
+			"InternalId": "t08_minilte_rank12",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 799,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 30,
+					"RewardId": "RS0073"
+				},
+				{
+					"Reward": "Researcher",
+					"Value": 300,
+					"RewardId": "RS0018"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 3000,
+					"RewardId": "darkscience"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 2,
+					"RewardId": "timehack_1"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 15 Bundle",
+			"InternalId": "t10_minilte_rank15",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 300,
+					"RewardId": "RS0096"
+				},
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "tech"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 3000,
+					"RewardId": "darkscience"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 4,
+					"RewardId": "timehack_4"
+				}
+			],
+			"BundleTheme": "RankUp",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Ad Free Airdrops",
+			"InternalId": "g200_adfreeairdrop",
+			"ItemClass": "AdFreeAirdrop",
+			"Price": 200,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			]
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t01_.wap_ori_44e3",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 99,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t02_.wap_ori_700d",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 199,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t03_.wap_ori_f9b9",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 299,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t04_.wap_ori_48a3",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 399,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t05_.wap_ori_1c23",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t06_.wap_ori_afe0",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 599,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t07_.wap_ori_fa69",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 699,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t08_.wap_ori_5abc",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 799,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t09_.wap_ori_18f4",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 899,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t10_.wap_ori_77c5",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t11_.wap_ori_fe3f",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1099,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t12_.wap_ori_c5d5",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1199,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t13_.wap_ori_9e4b",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1299,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t14_.wap_ori_e0f7",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1399,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t15_.wap_ori_07ef",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t16_.wap_ori_5396",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1599,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t17_.wap_ori_f6ab",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1699,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t18_.wap_ori_9afb",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1799,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t20_.wap_ori_5fa5",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t22_.wap_ori_fc51",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2199,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t23_.wap_ori_8790",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2299,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t25_.wap_ori_00a1",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t27_.wap_ori_925d",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2699,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t28_.wap_ori_da68",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2799,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t30_.wap_ori_85a7",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 2999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t32_.wap_ori_870d",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 3199,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t35_.wap_ori_9f9a",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 3499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t37_.wap_ori_bbcf",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 3699,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t40_.wap_ori_07fd",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 3999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t45_.wap_ori_c2f5",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 4499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t50_.wap_ori_c507",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 4999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t51_.wap_ori_3dad",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 5499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t52_.wap_ori_e1d6",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 5999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t53_.wap_ori_1afc",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 6499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t54_.wap_ori_ccbc",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 6999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t55_.wap_ori_86c5",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 7499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t56_.wap_ori_5c95",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 7999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		},
+		{
+			"Name": "Special Offer",
+			"InternalId": "t60_.wap_ori_4c46",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 9999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"hidden\":\"true\"}"
+		}
+	],
+	"SupremePassConfig": {
+		"NumExtraFreeGachaCapsule": 2,
+		"PropagandaAdsRemoved": true,
+		"SpecOpsTimeReduction": 4,
+		"NumExtraSpecOpsSlots": 1,
+		"NumPerks": 6,
+		"SupremePassStoreItemId": "t10_supremepass",
+		"PurchaseTierCost": 250
+	},
+	"Trades": [
+		{
+			"Resource": "ore",
+			"CostExponent": 100,
+			"CostMultiplier": 500,
+			"ComradeMultiplier": 0,
+			"ComradeAdd": 1,
+			"MaxLevel": 149
+		},
+		{
+			"Resource": "power",
+			"CostExponent": 100,
+			"CostMultiplier": 500,
+			"ComradeMultiplier": 0,
+			"ComradeAdd": 5,
+			"MaxLevel": 149
+		}
+	]
+};
+ 
 DATA["fuspet-bal-32"] = 
 {
 	"Ads": [
@@ -134114,7 +140942,6 @@ DATA["fuspet-bal-32"] =
 		}
 	]
 };
-
 
 SCHEDULE_CYCLES = 
 {
