@@ -136110,7 +136110,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -136208,7 +136208,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -136250,7 +136250,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -136292,7 +136292,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -136516,7 +136516,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -136544,7 +136544,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -136600,7 +136600,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -136768,7 +136768,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -136866,7 +136866,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -136950,7 +136950,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -136978,7 +136978,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -137034,7 +137034,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -137154,20 +137154,6 @@ DATA["fuspet-bal-32"] =
 			"Id": "M0085",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 3,
-				"ConditionId": "any"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0086",
-			"Rank": 1,
-			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 55599,
 				"ConditionId": "raptor"
@@ -137179,7 +137165,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0087",
+			"Id": "M0086",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137193,21 +137179,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0088",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 3,
-				"ConditionId": "any"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0089",
+			"Id": "M0087",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137221,7 +137193,21 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0090",
+			"Id": "M0088",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0089",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137235,11 +137221,11 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0091",
+			"Id": "M0090",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1e100,
+				"Threshold": 1e99,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -137249,7 +137235,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0092",
+			"Id": "M0091",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137258,12 +137244,12 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0093",
+			"Id": "M0092",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137277,21 +137263,21 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0094",
+			"Id": "M0093",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 4,
+				"Threshold": 3,
 				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0095",
+			"Id": "M0094",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137305,7 +137291,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0096",
+			"Id": "M0095",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137319,7 +137305,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0097",
+			"Id": "M0096",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137333,7 +137319,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0098",
+			"Id": "M0097",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137343,6 +137329,20 @@ DATA["fuspet-bal-32"] =
 			"Reward": {
 				"Reward": "Gacha",
 				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0098",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 4,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -137384,7 +137384,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -137406,6 +137406,20 @@ DATA["fuspet-bal-32"] =
 			"Id": "M0103",
 			"Rank": 1,
 			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0104",
+			"Rank": 1,
+			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 1e114,
 				"ConditionId": "collar"
@@ -137417,7 +137431,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0104",
+			"Id": "M0105",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137431,7 +137445,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0105",
+			"Id": "M0106",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137445,7 +137459,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0106",
+			"Id": "M0107",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137459,7 +137473,21 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0107",
+			"Id": "M0108",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0109",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137473,7 +137501,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0108",
+			"Id": "M0110",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137487,21 +137515,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0109",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0110",
+			"Id": "M0111",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137515,7 +137529,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0111",
+			"Id": "M0112",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137524,12 +137538,26 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0113",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
 				"RewardId": "armored",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0112",
+			"Id": "M0114",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137543,7 +137571,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0113",
+			"Id": "M0115",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137557,7 +137585,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0114",
+			"Id": "M0116",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137571,40 +137599,12 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0115",
+			"Id": "M0117",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 700000000,
 				"ConditionId": "raptor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0116",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1e123,
-				"ConditionId": "collar"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0117",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 50000000,
-				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137622,12 +137622,40 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
 		{
 			"Id": "M0119",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1e123,
+				"ConditionId": "collar"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0120",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 50000000,
+				"ConditionId": "kaiju"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0121",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137641,7 +137669,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0120",
+			"Id": "M0122",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137655,7 +137683,21 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0121",
+			"Id": "M0123",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0124",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137664,12 +137706,12 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0122",
+			"Id": "M0125",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137678,12 +137720,12 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0123",
+			"Id": "M0126",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137697,7 +137739,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0124",
+			"Id": "M0127",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137711,7 +137753,21 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0125",
+			"Id": "M0128",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0129",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137725,7 +137781,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0126",
+			"Id": "M0130",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137739,21 +137795,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0127",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0128",
+			"Id": "M0131",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137767,7 +137809,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0129",
+			"Id": "M0132",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137781,7 +137823,21 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0130",
+			"Id": "M0133",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0134",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137795,7 +137851,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0131",
+			"Id": "M0135",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137809,7 +137865,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0132",
+			"Id": "M0136",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137818,12 +137874,12 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0133",
+			"Id": "M0137",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137837,7 +137893,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0134",
+			"Id": "M0138",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137851,7 +137907,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0135",
+			"Id": "M0139",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137865,21 +137921,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0136",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0137",
+			"Id": "M0140",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137888,12 +137930,12 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0138",
+			"Id": "M0141",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137907,7 +137949,21 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0139",
+			"Id": "M0142",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0143",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137921,7 +137977,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0140",
+			"Id": "M0144",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137935,7 +137991,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0141",
+			"Id": "M0145",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137949,7 +138005,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0142",
+			"Id": "M0146",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137958,12 +138014,12 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0143",
+			"Id": "M0147",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -137977,7 +138033,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0144",
+			"Id": "M0148",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -137991,21 +138047,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0145",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0146",
+			"Id": "M0149",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138019,7 +138061,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0147",
+			"Id": "M0150",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138028,12 +138070,26 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0151",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
 				"RewardId": "armored",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0148",
+			"Id": "M0152",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138047,7 +138103,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0149",
+			"Id": "M0153",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138061,7 +138117,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0150",
+			"Id": "M0154",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138075,7 +138131,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0151",
+			"Id": "M0155",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138089,7 +138145,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0152",
+			"Id": "M0156",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138098,12 +138154,12 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0153",
+			"Id": "M0157",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138117,21 +138173,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0154",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0155",
+			"Id": "M0158",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138145,7 +138187,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0156",
+			"Id": "M0159",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138159,7 +138201,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0157",
+			"Id": "M0160",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138168,12 +138210,12 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0158",
+			"Id": "M0161",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138187,7 +138229,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0159",
+			"Id": "M0162",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138201,7 +138243,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0160",
+			"Id": "M0163",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138215,7 +138257,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0161",
+			"Id": "M0164",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138229,7 +138271,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0162",
+			"Id": "M0165",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138238,26 +138280,12 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0163",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
 				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0164",
+			"Id": "M0166",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138271,7 +138299,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0165",
+			"Id": "M0167",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138285,7 +138313,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0166",
+			"Id": "M0168",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138299,7 +138327,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0167",
+			"Id": "M0169",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138308,12 +138336,12 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0168",
+			"Id": "M0170",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138327,7 +138355,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0169",
+			"Id": "M0171",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138341,7 +138369,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0170",
+			"Id": "M0172",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138355,7 +138383,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0171",
+			"Id": "M0173",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138369,21 +138397,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0172",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0173",
+			"Id": "M0174",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138397,7 +138411,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0174",
+			"Id": "M0175",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138411,7 +138425,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0175",
+			"Id": "M0176",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138425,7 +138439,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0176",
+			"Id": "M0177",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138439,7 +138453,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0177",
+			"Id": "M0178",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138448,12 +138462,12 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0178",
+			"Id": "M0179",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138467,7 +138481,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0179",
+			"Id": "M0180",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138481,26 +138495,12 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0180",
+			"Id": "M0181",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1000000000000,
 				"ConditionId": "kaiju"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0181",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138518,7 +138518,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -138588,7 +138588,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -138624,20 +138624,6 @@ DATA["fuspet-bal-32"] =
 			"Id": "M0190",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0191",
-			"Rank": 1,
-			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 6e154,
 				"ConditionId": "tag"
@@ -138649,7 +138635,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0192",
+			"Id": "M0191",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138658,12 +138644,12 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0193",
+			"Id": "M0192",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138677,7 +138663,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0194",
+			"Id": "M0193",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138691,7 +138677,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0195",
+			"Id": "M0194",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138705,7 +138691,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0196",
+			"Id": "M0195",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138719,7 +138705,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0197",
+			"Id": "M0196",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138728,12 +138714,12 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0198",
+			"Id": "M0197",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138747,21 +138733,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0199",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0200",
+			"Id": "M0198",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -138775,7 +138747,7 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0201",
+			"Id": "M0199",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -138789,684 +138761,12 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0202",
+			"Id": "M0200",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 4e179,
 				"ConditionId": "collar"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0203",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 90000000000000,
-				"ConditionId": "kaiju"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0204",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6e175,
-				"ConditionId": "tag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0205",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 9000000000000000.0,
-				"ConditionId": "raptor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0206",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9e198,
-				"ConditionId": "collar"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0207",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 100000000000000,
-				"ConditionId": "kaiju"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0208",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0209",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8e180,
-				"ConditionId": "tag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0210",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 20000000000000000.0,
-				"ConditionId": "raptor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0211",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1e200,
-				"ConditionId": "collar"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0212",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 500000000000000,
-				"ConditionId": "kaiju"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0213",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2e185,
-				"ConditionId": "tag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0214",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 50000000000000000.0,
-				"ConditionId": "raptor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0215",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4e205,
-				"ConditionId": "collar"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0216",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 900000000000000,
-				"ConditionId": "kaiju"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0217",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0218",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8e190,
-				"ConditionId": "tag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0219",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 90000000000000000.0,
-				"ConditionId": "raptor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0220",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9e210,
-				"ConditionId": "collar"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0221",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 1000000000000000.0,
-				"ConditionId": "kaiju"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0222",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2e195,
-				"ConditionId": "tag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0223",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 200000000000000000.0,
-				"ConditionId": "raptor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0224",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1e215,
-				"ConditionId": "collar"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0225",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 5000000000000000.0,
-				"ConditionId": "kaiju"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0226",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0227",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8e200,
-				"ConditionId": "tag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0228",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 800000000000000000.0,
-				"ConditionId": "raptor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0229",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4e220,
-				"ConditionId": "collar"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0230",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 9000000000000000.0,
-				"ConditionId": "kaiju"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0231",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4e205,
-				"ConditionId": "tag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0232",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 2000000000000000000.0,
-				"ConditionId": "raptor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0233",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9e225,
-				"ConditionId": "collar"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0234",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 10000000000000000.0,
-				"ConditionId": "kaiju"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0235",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0236",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6e210,
-				"ConditionId": "tag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0237",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 8000000000000000000.0,
-				"ConditionId": "raptor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0238",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1e230,
-				"ConditionId": "collar"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0239",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 100000000000000000.0,
-				"ConditionId": "kaiju"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0240",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4e215,
-				"ConditionId": "tag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0241",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 20000000000000000000.0,
-				"ConditionId": "raptor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0242",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1e240,
-				"ConditionId": "collar"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0243",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 1000000000000000000.0,
-				"ConditionId": "kaiju"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0244",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0245",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6e220,
-				"ConditionId": "tag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0246",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 800000000000000000000.0,
-				"ConditionId": "raptor"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0247",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1e250,
-				"ConditionId": "collar"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "armored",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0248",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 10000000000000000000.0,
-				"ConditionId": "kaiju"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0249",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8e230,
-				"ConditionId": "tag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0250",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 8e21,
-				"ConditionId": "raptor"
 			},
 			"Reward": {
 				"Reward": "Gacha",
