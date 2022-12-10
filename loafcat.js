@@ -137141,7 +137141,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e88,
+				"Threshold": 1.2e85,
 				"ConditionId": "tag"
 			},
 			"Reward": {
@@ -137239,7 +137239,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.2e101,
+				"Threshold": 1e100,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -137253,7 +137253,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9900000,
+				"Threshold": 39900000,
 				"ConditionId": "raptor"
 			},
 			"Reward": {
@@ -137267,7 +137267,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1570,
+				"Threshold": 15700,
 				"ConditionId": "kaiju"
 			},
 			"Reward": {
@@ -137351,7 +137351,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 120000000,
+				"Threshold": 80000000,
 				"ConditionId": "kaiju"
 			},
 			"Reward": {
