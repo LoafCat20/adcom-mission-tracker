@@ -135179,7 +135179,7 @@ DATA["fuspet-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "stable",
+				"Resource": "bat",
 				"Qty": 5
 			},
 			"BaseCompletionTime": 6,
@@ -135607,20 +135607,20 @@ DATA["fuspet-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "walkers",
+				"Resource": "walker",
 				"Qty": 16
 			},
 			"BaseCompletionTime": 16,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "walkers",
+					"ConditionId": "walker",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "walkers",
+				"ConditionId": "walker",
 				"Threshold": 100000
 			},
 			"IncludeInAll": true,
