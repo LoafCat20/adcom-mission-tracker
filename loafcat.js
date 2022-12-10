@@ -135055,7 +135055,7 @@ DATA["fuspet-bal-32"] =
 			]
 		},
 		{
-			"GeneratorId": "lasershark",
+			"GeneratorId": "lasersharks",
 			"MaximumObjectivesForRank": [
 				999
 			]
@@ -135587,9 +135587,9 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "lasershark",
+			"Id": "lasersharks",
 			"Name": "Laser Shark",
-			"ResourceType": "lasershark",
+			"ResourceType": "lasersharks",
 			"GeneratorType": "Manual",
 			"IndustryId": "guardanimals",
 			"Cost": [
@@ -135642,7 +135642,7 @@ DATA["fuspet-bal-32"] =
 			"IndustryId": "guardanimals",
 			"Cost": [
 				{
-					"Resource": "lasershark",
+					"Resource": "lasersharks",
 					"Qty": "5000"
 				},
 				{
@@ -135655,20 +135655,20 @@ DATA["fuspet-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "lasershark",
+				"Resource": "lasersharks",
 				"Qty": 22
 			},
 			"BaseCompletionTime": 32,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "lasershark",
+					"ConditionId": "lasersharks",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "lasershark",
+				"ConditionId": "lasersharks",
 				"Threshold": 1000000
 			},
 			"IncludeInAll": true,
@@ -136400,7 +136400,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 42,
-				"ConditionId": "lasershark"
+				"ConditionId": "lasersharks"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136442,7 +136442,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 28288,
-				"ConditionId": "lasershark"
+				"ConditionId": "lasersharks"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136498,7 +136498,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 777777,
-				"ConditionId": "lasershark"
+				"ConditionId": "lasersharks"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -140011,7 +140011,7 @@ DATA["fuspet-bal-32"] =
 			"Description": "researcher.FUS080.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"lasershark"
+				"lasersharks"
 			],
 			"ExpoMultiplier": 3,
 			"ExpoGrowth": 3,
@@ -140323,7 +140323,7 @@ DATA["fuspet-bal-32"] =
 			"SharedData": false
 		},
 		{
-			"Id": "lasershark",
+			"Id": "lasersharks",
 			"Singular": "Laser Shark",
 			"Plural": "Laser Sharks",
 			"StartingQty": 1,
