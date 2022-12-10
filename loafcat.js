@@ -134995,13 +134995,7 @@ DATA["fuspet-bal-32"] =
 	],
 	"GeneratorObjectiveLimits": [
 		{
-			"GeneratorId": "stable",
-			"MaximumObjectivesForRank": [
-				999
-			]
-		},
-		{
-			"GeneratorId": "blackcat",
+			"GeneratorId": "bat",
 			"MaximumObjectivesForRank": [
 				999
 			]
@@ -135019,13 +135013,19 @@ DATA["fuspet-bal-32"] =
 			]
 		},
 		{
-			"GeneratorId": "bat",
+			"GeneratorId": "blackcat",
 			"MaximumObjectivesForRank": [
 				999
 			]
 		},
 		{
 			"GeneratorId": "horse",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "stable",
 			"MaximumObjectivesForRank": [
 				999
 			]
@@ -135049,13 +135049,31 @@ DATA["fuspet-bal-32"] =
 			]
 		},
 		{
-			"GeneratorId": "lasersharks",
+			"GeneratorId": "walker",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "lasershark",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "mammoth",
 			"MaximumObjectivesForRank": [
 				999
 			]
 		},
 		{
 			"GeneratorId": "kraken",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "yeti",
 			"MaximumObjectivesForRank": [
 				999
 			]
@@ -135073,25 +135091,7 @@ DATA["fuspet-bal-32"] =
 			]
 		},
 		{
-			"GeneratorId": "mammoth",
-			"MaximumObjectivesForRank": [
-				999
-			]
-		},
-		{
-			"GeneratorId": "yeti",
-			"MaximumObjectivesForRank": [
-				999
-			]
-		},
-		{
 			"GeneratorId": "kaiju",
-			"MaximumObjectivesForRank": [
-				999
-			]
-		},
-		{
-			"GeneratorId": "walker",
 			"MaximumObjectivesForRank": [
 				999
 			]
@@ -135115,9 +135115,9 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "stable",
-			"Name": "Stable",
-			"ResourceType": "stable",
+			"Id": "bat",
+			"Name": "Bat",
+			"ResourceType": "bat",
 			"GeneratorType": "Manual",
 			"IndustryId": "pets",
 			"Cost": [
@@ -135159,14 +135159,14 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "blackcat",
-			"Name": "Blackcat",
-			"ResourceType": "blackcat",
+			"Id": "spider",
+			"Name": "Spider",
+			"ResourceType": "spider",
 			"GeneratorType": "Manual",
 			"IndustryId": "pets",
 			"Cost": [
 				{
-					"Resource": "Stable",
+					"Resource": "bat",
 					"Qty": "1.0E+01"
 				},
 				{
@@ -135186,13 +135186,13 @@ DATA["fuspet-bal-32"] =
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "stable",
+					"ConditionId": "bat",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "stable",
+				"ConditionId": "bat",
 				"Threshold": 3000
 			},
 			"IncludeInAll": true,
@@ -135207,14 +135207,14 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "spider",
-			"Name": "Spider",
-			"ResourceType": "spider",
+			"Id": "owl",
+			"Name": "owl",
+			"ResourceType": "owl",
 			"GeneratorType": "Manual",
 			"IndustryId": "pets",
 			"Cost": [
 				{
-					"Resource": "Blackcat",
+					"Resource": "spider",
 					"Qty": "1.0E+02"
 				},
 				{
@@ -135227,20 +135227,20 @@ DATA["fuspet-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "blackcat",
+				"Resource": "spider",
 				"Qty": 8
 			},
 			"BaseCompletionTime": 18,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "blackcat",
+					"ConditionId": "spider",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "blackcat",
+				"ConditionId": "spider",
 				"Threshold": 50000
 			},
 			"IncludeInAll": true,
@@ -135255,14 +135255,14 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "owl",
-			"Name": "Owl",
-			"ResourceType": "owl",
+			"Id": "blackcat",
+			"Name": "Black Cat",
+			"ResourceType": "blackcat",
 			"GeneratorType": "Manual",
 			"IndustryId": "pets",
 			"Cost": [
 				{
-					"Resource": "Spider",
+					"Resource": "owl",
 					"Qty": "1.0E+03"
 				},
 				{
@@ -135275,20 +135275,20 @@ DATA["fuspet-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "spider",
+				"Resource": "owl",
 				"Qty": 11
 			},
 			"BaseCompletionTime": 54,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "spider",
+					"ConditionId": "owl",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "spider",
+				"ConditionId": "owl",
 				"Threshold": 1000000
 			},
 			"IncludeInAll": true,
@@ -135303,14 +135303,14 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "bat",
-			"Name": "Bat",
-			"ResourceType": "bat",
+			"Id": "horse",
+			"Name": "horse",
+			"ResourceType": "horse",
 			"GeneratorType": "Manual",
 			"IndustryId": "pets",
 			"Cost": [
 				{
-					"Resource": "Owl",
+					"Resource": "blackcat",
 					"Qty": "1.0E+04"
 				},
 				{
@@ -135323,20 +135323,20 @@ DATA["fuspet-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "owl",
+				"Resource": "blackcat",
 				"Qty": 14
 			},
 			"BaseCompletionTime": 162,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "owl",
+					"ConditionId": "blackcat",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "owl",
+				"ConditionId": "blackcat",
 				"Threshold": 2000000
 			},
 			"IncludeInAll": true,
@@ -135351,14 +135351,14 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "horse",
-			"Name": "Horse",
-			"ResourceType": "horse",
+			"Id": "stable",
+			"Name": "stable",
+			"ResourceType": "stable",
 			"GeneratorType": "Manual",
 			"IndustryId": "pets",
 			"Cost": [
 				{
-					"Resource": "Bat",
+					"Resource": "horse",
 					"Qty": "1.0E+05"
 				},
 				{
@@ -135371,20 +135371,20 @@ DATA["fuspet-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "bat",
+				"Resource": "horse",
 				"Qty": 17
 			},
 			"BaseCompletionTime": 486,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "bat",
+					"ConditionId": "horse",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "bat",
+				"ConditionId": "horse",
 				"Threshold": 10000000
 			},
 			"IncludeInAll": true,
@@ -135406,7 +135406,7 @@ DATA["fuspet-bal-32"] =
 			"IndustryId": "pets",
 			"Cost": [
 				{
-					"Resource": "Horse",
+					"Resource": "stable",
 					"Qty": "1.0E+06"
 				},
 				{
@@ -135419,20 +135419,20 @@ DATA["fuspet-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "horse",
+				"Resource": "stable",
 				"Qty": 20
 			},
 			"BaseCompletionTime": 1458,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "horse",
+					"ConditionId": "stable",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "horse",
+				"ConditionId": "stable",
 				"Threshold": 50000000
 			},
 			"IncludeInAll": true,
@@ -135539,9 +135539,9 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "lasersharks",
-			"Name": "Laser Shark",
-			"ResourceType": "lasersharks",
+			"Id": "walker",
+			"Name": "Walker",
+			"ResourceType": "walker",
 			"GeneratorType": "Manual",
 			"IndustryId": "guardanimals",
 			"Cost": [
@@ -135587,14 +135587,14 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "kraken",
-			"Name": "Kraken",
-			"ResourceType": "kraken",
+			"Id": "lasershark",
+			"Name": "Laser Shark",
+			"ResourceType": "lasershark",
 			"GeneratorType": "Manual",
 			"IndustryId": "guardanimals",
 			"Cost": [
 				{
-					"Resource": "Lasersharks",
+					"Resource": "walker",
 					"Qty": "1000"
 				},
 				{
@@ -135607,117 +135607,21 @@ DATA["fuspet-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "lasersharks",
+				"Resource": "walkers",
 				"Qty": 16
 			},
 			"BaseCompletionTime": 16,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "lasersharks",
+					"ConditionId": "walkers",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "lasersharks",
+				"ConditionId": "walkers",
 				"Threshold": 500000
-			},
-			"IncludeInAll": true,
-			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
-			},
-			"ObjectiveReward": {
-				"Reward": "Resources",
-				"RewardId": "darkscience",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "ptero-technic",
-			"Name": "Ptero-technic",
-			"ResourceType": "ptero-technic",
-			"GeneratorType": "Manual",
-			"IndustryId": "guardanimals",
-			"Cost": [
-				{
-					"Resource": "Kraken",
-					"Qty": "5000"
-				},
-				{
-					"Resource": "collar",
-					"Qty": "1.0E+20"
-				},
-				{
-					"Resource": "Comrade",
-					"Qty": "2"
-				}
-			],
-			"Generate": {
-				"Resource": "kraken",
-				"Qty": 22
-			},
-			"BaseCompletionTime": 32,
-			"Visible": [
-				{
-					"ConditionType": "ResourceQuantity",
-					"ConditionId": "kraken",
-					"Threshold": 2
-				}
-			],
-			"Unlock": {
-				"ConditionType": "ResourceQuantity",
-				"ConditionId": "kraken",
-				"Threshold": 1000000
-			},
-			"IncludeInAll": true,
-			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
-			},
-			"ObjectiveReward": {
-				"Reward": "Resources",
-				"RewardId": "darkscience",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "dragon",
-			"Name": "Dragon",
-			"ResourceType": "dragon",
-			"GeneratorType": "Manual",
-			"IndustryId": "guardanimals",
-			"Cost": [
-				{
-					"Resource": "Ptero-technic",
-					"Qty": "20000"
-				},
-				{
-					"Resource": "collar",
-					"Qty": "1.0E+30"
-				},
-				{
-					"Resource": "Comrade",
-					"Qty": "2"
-				}
-			],
-			"Generate": {
-				"Resource": "ptero-technic",
-				"Qty": 28
-			},
-			"BaseCompletionTime": 64,
-			"Visible": [
-				{
-					"ConditionType": "ResourceQuantity",
-					"ConditionId": "ptero-technic",
-					"Threshold": 2
-				}
-			],
-			"Unlock": {
-				"ConditionType": "ResourceQuantity",
-				"ConditionId": "ptero-technic",
-				"Threshold": 1500000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -135738,7 +135642,103 @@ DATA["fuspet-bal-32"] =
 			"IndustryId": "guardanimals",
 			"Cost": [
 				{
-					"Resource": "Dragon",
+					"Resource": "lasershark",
+					"Qty": "5000"
+				},
+				{
+					"Resource": "collar",
+					"Qty": "1.0E+20"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "lasershark",
+				"Qty": 22
+			},
+			"BaseCompletionTime": 32,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "lasershark",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "lasershark",
+				"Threshold": 1000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "kraken",
+			"Name": "Kraken",
+			"ResourceType": "kraken",
+			"GeneratorType": "Manual",
+			"IndustryId": "guardanimals",
+			"Cost": [
+				{
+					"Resource": "mammoth",
+					"Qty": "20000"
+				},
+				{
+					"Resource": "collar",
+					"Qty": "1.0E+30"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "mammoth",
+				"Qty": 28
+			},
+			"BaseCompletionTime": 64,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "mammoth",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "mammoth",
+				"Threshold": 1500000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "yeti",
+			"Name": "Yeti",
+			"ResourceType": "yeti",
+			"GeneratorType": "Manual",
+			"IndustryId": "guardanimals",
+			"Cost": [
+				{
+					"Resource": "kraken",
 					"Qty": "1.0E+05"
 				},
 				{
@@ -135751,20 +135751,20 @@ DATA["fuspet-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "dragon",
+				"Resource": "kraken",
 				"Qty": 34
 			},
 			"BaseCompletionTime": 128,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "dragon",
+					"ConditionId": "kraken",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "dragon",
+				"ConditionId": "kraken",
 				"Threshold": 5000000
 			},
 			"IncludeInAll": true,
@@ -135779,14 +135779,14 @@ DATA["fuspet-bal-32"] =
 			}
 		},
 		{
-			"Id": "yeti",
-			"Name": "Yeti",
-			"ResourceType": "yeti",
+			"Id": "ptero-technic",
+			"Name": "Ptero-technic",
+			"ResourceType": "ptero-technic",
 			"GeneratorType": "Manual",
 			"IndustryId": "guardanimals",
 			"Cost": [
 				{
-					"Resource": "Mammoth",
+					"Resource": "yeti",
 					"Qty": "500000"
 				},
 				{
@@ -135799,21 +135799,69 @@ DATA["fuspet-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "mammoth",
+				"Resource": "yeti",
 				"Qty": 40
 			},
 			"BaseCompletionTime": 256,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "mammoth",
+					"ConditionId": "yeti",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "mammoth",
+				"ConditionId": "yeti",
 				"Threshold": 10000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "dragon",
+			"Name": "Dragon",
+			"ResourceType": "dragon",
+			"GeneratorType": "Manual",
+			"IndustryId": "guardanimals",
+			"Cost": [
+				{
+					"Resource": "ptero-technic",
+					"Qty": "2000000"
+				},
+				{
+					"Resource": "collar",
+					"Qty": "1.0E+72"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "ptero-technic",
+				"Qty": 46
+			},
+			"BaseCompletionTime": 512,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "ptero-technic",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "ptero-technic",
+				"Threshold": 40000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -135834,55 +135882,7 @@ DATA["fuspet-bal-32"] =
 			"IndustryId": "guardanimals",
 			"Cost": [
 				{
-					"Resource": "Yeti",
-					"Qty": "2000000"
-				},
-				{
-					"Resource": "collar",
-					"Qty": "1.0E+72"
-				},
-				{
-					"Resource": "Comrade",
-					"Qty": "2"
-				}
-			],
-			"Generate": {
-				"Resource": "yeti",
-				"Qty": 46
-			},
-			"BaseCompletionTime": 512,
-			"Visible": [
-				{
-					"ConditionType": "ResourceQuantity",
-					"ConditionId": "yeti",
-					"Threshold": 2
-				}
-			],
-			"Unlock": {
-				"ConditionType": "ResourceQuantity",
-				"ConditionId": "yeti",
-				"Threshold": 40000000
-			},
-			"IncludeInAll": true,
-			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
-			},
-			"ObjectiveReward": {
-				"Reward": "Resources",
-				"RewardId": "darkscience",
-				"Value": 2
-			}
-		},
-		{
-			"Id": "walker",
-			"Name": "Walker",
-			"ResourceType": "walker",
-			"GeneratorType": "Manual",
-			"IndustryId": "guardanimals",
-			"Cost": [
-				{
-					"Resource": "Kaiju",
+					"Resource": "dragon",
 					"Qty": "1.0E+7"
 				},
 				{
@@ -135895,20 +135895,20 @@ DATA["fuspet-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "kaiju",
+				"Resource": "dragon",
 				"Qty": 52
 			},
 			"BaseCompletionTime": 1024,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "kaiju",
+					"ConditionId": "dragon",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "kaiju",
+				"ConditionId": "dragon",
 				"Threshold": 70000000
 			},
 			"IncludeInAll": true,
@@ -135994,7 +135994,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 15,
-				"ConditionId": "stable"
+				"ConditionId": "bat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136036,7 +136036,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 777,
-				"ConditionId": "stable"
+				"ConditionId": "bat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136064,7 +136064,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2882,
-				"ConditionId": "stable"
+				"ConditionId": "bat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136106,7 +136106,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 500,
-				"ConditionId": "blackcat"
+				"ConditionId": "spider"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136148,7 +136148,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 152500,
-				"ConditionId": "blackcat"
+				"ConditionId": "spider"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136232,7 +136232,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 565,
-				"ConditionId": "spider"
+				"ConditionId": "owl"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136274,7 +136274,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 6,
-				"ConditionId": "lasersharks"
+				"ConditionId": "walker"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136302,7 +136302,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 720000,
-				"ConditionId": "spider"
+				"ConditionId": "owl"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136316,7 +136316,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 344300,
-				"ConditionId": "lasersharks"
+				"ConditionId": "walker"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136344,7 +136344,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1200000,
-				"ConditionId": "spider"
+				"ConditionId": "owl"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136358,7 +136358,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 456000,
-				"ConditionId": "lasersharks"
+				"ConditionId": "walker"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136386,7 +136386,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 44,
-				"ConditionId": "owl"
+				"ConditionId": "blackcat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136400,7 +136400,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 42,
-				"ConditionId": "kraken"
+				"ConditionId": "lasershark"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136428,7 +136428,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 62626,
-				"ConditionId": "owl"
+				"ConditionId": "blackcat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136442,7 +136442,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 28288,
-				"ConditionId": "kraken"
+				"ConditionId": "lasershark"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136470,7 +136470,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1299999,
-				"ConditionId": "owl"
+				"ConditionId": "blackcat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136498,7 +136498,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 777777,
-				"ConditionId": "kraken"
+				"ConditionId": "lasershark"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136526,7 +136526,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1888888,
-				"ConditionId": "owl"
+				"ConditionId": "blackcat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136540,7 +136540,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 22,
-				"ConditionId": "ptero-technic"
+				"ConditionId": "mammoth"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136568,7 +136568,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 321,
-				"ConditionId": "bat"
+				"ConditionId": "horse"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136582,7 +136582,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2020,
-				"ConditionId": "ptero-technic"
+				"ConditionId": "mammoth"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136610,7 +136610,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 78900,
-				"ConditionId": "bat"
+				"ConditionId": "horse"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136624,7 +136624,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1444555,
-				"ConditionId": "ptero-technic"
+				"ConditionId": "mammoth"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136666,7 +136666,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 3,
-				"ConditionId": "dragon"
+				"ConditionId": "kraken"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136694,7 +136694,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1099666600,
-				"ConditionId": "bat"
+				"ConditionId": "horse"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136708,7 +136708,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 15891,
-				"ConditionId": "dragon"
+				"ConditionId": "kraken"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136736,7 +136736,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 44,
-				"ConditionId": "horse"
+				"ConditionId": "stable"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136750,7 +136750,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 878787,
-				"ConditionId": "dragon"
+				"ConditionId": "kraken"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136778,7 +136778,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 66322,
-				"ConditionId": "horse"
+				"ConditionId": "stable"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136806,7 +136806,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 4,
-				"ConditionId": "mammoth"
+				"ConditionId": "yeti"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136834,7 +136834,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 555444,
-				"ConditionId": "horse"
+				"ConditionId": "stable"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136848,7 +136848,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 6699,
-				"ConditionId": "mammoth"
+				"ConditionId": "yeti"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136890,7 +136890,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 600000000,
-				"ConditionId": "mammoth"
+				"ConditionId": "yeti"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136918,7 +136918,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 49999999,
-				"ConditionId": "horse"
+				"ConditionId": "stable"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136932,7 +136932,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 7,
-				"ConditionId": "yeti"
+				"ConditionId": "ptero-technic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136974,7 +136974,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 36363,
-				"ConditionId": "yeti"
+				"ConditionId": "ptero-technic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137016,7 +137016,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 4443222,
-				"ConditionId": "yeti"
+				"ConditionId": "ptero-technic"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137058,7 +137058,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2121,
-				"ConditionId": "kaiju"
+				"ConditionId": "dragon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137100,7 +137100,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 70707,
-				"ConditionId": "kaiju"
+				"ConditionId": "dragon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137184,7 +137184,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 69000000,
-				"ConditionId": "kaiju"
+				"ConditionId": "dragon"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137226,7 +137226,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 4,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137268,7 +137268,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 157,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137310,7 +137310,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 55533,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137352,7 +137352,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 4000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137422,7 +137422,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 4000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137478,7 +137478,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 8000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137548,7 +137548,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137604,7 +137604,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137674,7 +137674,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 90000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137730,7 +137730,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 100000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137800,7 +137800,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 500000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137856,7 +137856,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 900000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137926,7 +137926,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137982,7 +137982,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 5000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138052,7 +138052,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 9000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138108,7 +138108,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138178,7 +138178,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138234,7 +138234,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 90000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138304,7 +138304,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 100000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138360,7 +138360,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 500000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138430,7 +138430,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 900000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138486,7 +138486,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1000000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138556,7 +138556,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 5000000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138612,7 +138612,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 9000000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138682,7 +138682,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10000000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138738,7 +138738,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50000000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138808,7 +138808,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 90000000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138864,7 +138864,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 100000000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138934,7 +138934,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 500000000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -138990,7 +138990,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 900000000000000,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -139060,7 +139060,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1000000000000000.0,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -139116,7 +139116,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 5000000000000000.0,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -139186,7 +139186,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 9000000000000000.0,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -139242,7 +139242,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10000000000000000.0,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -139312,7 +139312,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 100000000000000000.0,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -139368,7 +139368,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1000000000000000000.0,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -139438,7 +139438,7 @@ DATA["fuspet-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10000000000000000000.0,
-				"ConditionId": "walker"
+				"ConditionId": "kaiju"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -139836,12 +139836,12 @@ DATA["fuspet-bal-32"] =
 	],
 	"Researchers": [
 		{
-			"Id": "FUS029",
+			"Id": "FUS062",
 			"Name": "Peeta Pie",
-			"Description": "researcher.FUS029.desc",
+			"Description": "researcher.FUS062.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"stable"
+				"bat"
 			],
 			"ExpoMultiplier": 1,
 			"ExpoGrowth": 3,
@@ -139853,12 +139853,12 @@ DATA["fuspet-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS064",
+			"Id": "FUS063",
 			"Name": "Tiny Cakes",
-			"Description": "researcher.FUS064.desc",
+			"Description": "researcher.FUS063.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"blackcat"
+				"spider"
 			],
 			"ExpoMultiplier": 2,
 			"ExpoGrowth": 3,
@@ -139870,12 +139870,12 @@ DATA["fuspet-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS063",
+			"Id": "FUS065",
 			"Name": "Sir Gizmolot",
-			"Description": "researcher.FUS063.desc",
+			"Description": "researcher.FUS065.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"spider"
+				"owl"
 			],
 			"ExpoMultiplier": 3,
 			"ExpoGrowth": 3,
@@ -139887,12 +139887,12 @@ DATA["fuspet-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS065",
+			"Id": "FUS064",
 			"Name": "Keebler Monster",
-			"Description": "researcher.FUS065.desc",
+			"Description": "researcher.FUS064.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"owl"
+				"blackcat"
 			],
 			"ExpoMultiplier": 4,
 			"ExpoGrowth": 3,
@@ -139904,12 +139904,12 @@ DATA["fuspet-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS062",
+			"Id": "FUS033",
 			"Name": "Harace & Grumar",
-			"Description": "researcher.FUS062.desc",
+			"Description": "researcher.FUS033.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"bat"
+				"horse"
 			],
 			"ExpoMultiplier": 5,
 			"ExpoGrowth": 3,
@@ -139921,12 +139921,12 @@ DATA["fuspet-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS033",
+			"Id": "FUS029",
 			"Name": "Wonky Landing",
-			"Description": "researcher.FUS033.desc",
+			"Description": "researcher.FUS029.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"horse"
+				"stable"
 			],
 			"ExpoMultiplier": 6,
 			"ExpoGrowth": 3,
@@ -139989,12 +139989,12 @@ DATA["fuspet-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS080",
+			"Id": "FUS066",
 			"Name": "Bazooka Snow",
-			"Description": "researcher.FUS080.desc",
+			"Description": "researcher.FUS066.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"lasersharks"
+				"walkers"
 			],
 			"ExpoMultiplier": 2,
 			"ExpoGrowth": 3,
@@ -140006,12 +140006,12 @@ DATA["fuspet-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS028",
+			"Id": "FUS080",
 			"Name": "Crispy Und Panzer",
-			"Description": "researcher.FUS028.desc",
+			"Description": "researcher.FUS080.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"kraken"
+				"lasershark"
 			],
 			"ExpoMultiplier": 3,
 			"ExpoGrowth": 3,
@@ -140023,12 +140023,12 @@ DATA["fuspet-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS047",
+			"Id": "FUS051",
 			"Name": "Harry Soldier",
-			"Description": "researcher.FUS047.desc",
+			"Description": "researcher.FUS051.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"ptero-technic"
+				"mammoth"
 			],
 			"ExpoMultiplier": 4,
 			"ExpoGrowth": 3,
@@ -140040,12 +140040,12 @@ DATA["fuspet-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS031",
+			"Id": "FUS028",
 			"Name": "King Of Solitude",
-			"Description": "researcher.FUS031.desc",
+			"Description": "researcher.FUS028.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"dragon"
+				"kraken"
 			],
 			"ExpoMultiplier": 5,
 			"ExpoGrowth": 3,
@@ -140057,12 +140057,12 @@ DATA["fuspet-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS051",
+			"Id": "FUS059",
 			"Name": "Bad Arthur",
-			"Description": "researcher.FUS051.desc",
+			"Description": "researcher.FUS059.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"mammoth"
+				"yeti"
 			],
 			"ExpoMultiplier": 6,
 			"ExpoGrowth": 3,
@@ -140074,12 +140074,12 @@ DATA["fuspet-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS059",
+			"Id": "FUS047",
 			"Name": "Doolie Boolie",
-			"Description": "researcher.FUS059.desc",
+			"Description": "researcher.FUS047.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"yeti"
+				"ptero-technic"
 			],
 			"ExpoMultiplier": 7,
 			"ExpoGrowth": 3,
@@ -140091,12 +140091,12 @@ DATA["fuspet-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS039",
+			"Id": "FUS031",
 			"Name": "Bubloph",
-			"Description": "researcher.FUS039.desc",
+			"Description": "researcher.FUS031.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"kaiju"
+				"dragon"
 			],
 			"ExpoMultiplier": 8,
 			"ExpoGrowth": 3,
@@ -140108,12 +140108,12 @@ DATA["fuspet-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS066",
+			"Id": "FUS039",
 			"Name": "Sleigher",
-			"Description": "researcher.FUS066.desc",
+			"Description": "researcher.FUS039.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"walker"
+				"kaiju"
 			],
 			"ExpoMultiplier": 9,
 			"ExpoGrowth": 3,
@@ -140243,17 +140243,9 @@ DATA["fuspet-bal-32"] =
 			"SharedData": false
 		},
 		{
-			"Id": "stable",
-			"Singular": "Stable",
-			"Plural": "Stables",
-			"StartingQty": 1,
-			"Resettable": true,
-			"SharedData": false
-		},
-		{
-			"Id": "blackcat",
-			"Singular": "Blackcat",
-			"Plural": "Blackcats",
+			"Id": "bat",
+			"Singular": "Bat",
+			"Plural": "Bats",
 			"StartingQty": 1,
 			"Resettable": true,
 			"SharedData": false
@@ -140275,9 +140267,9 @@ DATA["fuspet-bal-32"] =
 			"SharedData": false
 		},
 		{
-			"Id": "bat",
-			"Singular": "Bat",
-			"Plural": "Bats",
+			"Id": "blackcat",
+			"Singular": "Black Cat",
+			"Plural": "Black Cats",
 			"StartingQty": 1,
 			"Resettable": true,
 			"SharedData": false
@@ -140286,6 +140278,14 @@ DATA["fuspet-bal-32"] =
 			"Id": "horse",
 			"Singular": "Horse",
 			"Plural": "Horses",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "stable",
+			"Singular": "Stable",
+			"Plural": "Stables",
 			"StartingQty": 1,
 			"Resettable": true,
 			"SharedData": false
@@ -140315,9 +140315,25 @@ DATA["fuspet-bal-32"] =
 			"SharedData": false
 		},
 		{
-			"Id": "lasersharks",
-			"Singular": "Lasershark",
-			"Plural": "Lasersharks",
+			"Id": "walkers",
+			"Singular": "Walker",
+			"Plural": "Walkers",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "lasershark",
+			"Singular": "Laser Shark",
+			"Plural": "Laser Sharks",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "mammoth",
+			"Singular": "Mammoth",
+			"Plural": "Mammoths",
 			"StartingQty": 1,
 			"Resettable": true,
 			"SharedData": false
@@ -140326,6 +140342,14 @@ DATA["fuspet-bal-32"] =
 			"Id": "kraken",
 			"Singular": "Kraken",
 			"Plural": "Krakens",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "yeti",
+			"Singular": "Yeti",
+			"Plural": "Yetis",
 			"StartingQty": 1,
 			"Resettable": true,
 			"SharedData": false
@@ -140347,33 +140371,9 @@ DATA["fuspet-bal-32"] =
 			"SharedData": false
 		},
 		{
-			"Id": "mammoth",
-			"Singular": "Mammoth",
-			"Plural": "Mammoths",
-			"StartingQty": 1,
-			"Resettable": true,
-			"SharedData": false
-		},
-		{
-			"Id": "yeti",
-			"Singular": "Yeti",
-			"Plural": "Yetis",
-			"StartingQty": 1,
-			"Resettable": true,
-			"SharedData": false
-		},
-		{
 			"Id": "kaiju",
-			"Singular": "Kaiju",
-			"Plural": "Kaijus",
-			"StartingQty": 1,
-			"Resettable": true,
-			"SharedData": false
-		},
-		{
-			"Id": "walker",
-			"Singular": "Walker",
-			"Plural": "Walkers",
+			"Singular": "kaiju",
+			"Plural": "kaijus",
 			"StartingQty": 1,
 			"Resettable": true,
 			"SharedData": false
