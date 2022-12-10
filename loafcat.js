@@ -139994,7 +139994,7 @@ DATA["fuspet-bal-32"] =
 			"Description": "researcher.FUS066.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"walkers"
+				"walker"
 			],
 			"ExpoMultiplier": 2,
 			"ExpoGrowth": 3,
