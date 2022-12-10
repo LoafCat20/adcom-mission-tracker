@@ -135289,7 +135289,7 @@ DATA["fuspet-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "owl",
-				"Threshold": 1000000
+				"Threshold": 1500000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -135337,7 +135337,7 @@ DATA["fuspet-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "blackcat",
-				"Threshold": 2000000
+				"Threshold": 5000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -135385,7 +135385,7 @@ DATA["fuspet-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "horse",
-				"Threshold": 10000000
+				"Threshold": 15000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -135433,7 +135433,7 @@ DATA["fuspet-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "stable",
-				"Threshold": 50000000
+				"Threshold": 40000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -135621,7 +135621,7 @@ DATA["fuspet-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "walkers",
-				"Threshold": 500000
+				"Threshold": 100000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -135717,7 +135717,7 @@ DATA["fuspet-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "mammoth",
-				"Threshold": 1500000
+				"Threshold": 3000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -135765,7 +135765,7 @@ DATA["fuspet-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "kraken",
-				"Threshold": 5000000
+				"Threshold": 8000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -135813,7 +135813,7 @@ DATA["fuspet-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "yeti",
-				"Threshold": 10000000
+				"Threshold": 25000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -135909,7 +135909,7 @@ DATA["fuspet-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "dragon",
-				"Threshold": 70000000
+				"Threshold": 75000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
