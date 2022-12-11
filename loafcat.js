@@ -107733,7 +107733,11 @@ DATA["defense-bal-21"] =
 			"Card": [
 				{
 					"Id": "RS0047",
-					"Value": 9
+					"Value": 7
+				},
+				{
+					"Id": "RS0038",
+					"Value": 2
 				},
 				{
 					"Id": "RS0036",
@@ -107754,11 +107758,15 @@ DATA["defense-bal-21"] =
 			"Card": [
 				{
 					"Id": "RS0040",
-					"Value": 13
+					"Value": 12
+				},
+				{
+					"Id": "RS0036",
+					"Value": 2
 				},
 				{
 					"Id": "RS0046",
-					"Value": 16
+					"Value": 15
 				},
 				{
 					"Id": "RS0059",
@@ -107779,7 +107787,11 @@ DATA["defense-bal-21"] =
 				},
 				{
 					"Id": "RS0040",
-					"Value": 12
+					"Value": 8
+				},
+				{
+					"Id": "RS0046",
+					"Value": 4
 				},
 				{
 					"Id": "RS0080",
@@ -114632,8 +114644,12 @@ DATA["attack-bal-20"] =
 					"Value": 5
 				},
 				{
+					"Id": "RS0039",
+					"Value": 3
+				},
+				{
 					"Id": "RS0036",
-					"Value": 21
+					"Value": 18
 				},
 				{
 					"Id": "RS0074",
@@ -114654,7 +114670,11 @@ DATA["attack-bal-20"] =
 				},
 				{
 					"Id": "RS0027",
-					"Value": 8
+					"Value": 6
+				},
+				{
+					"Id": "RS0036",
+					"Value": 2
 				},
 				{
 					"Id": "RS0058",
@@ -114671,11 +114691,15 @@ DATA["attack-bal-20"] =
 			"Card": [
 				{
 					"Id": "RS0097",
-					"Value": 16
+					"Value": 14
 				},
 				{
 					"Id": "RS0098",
-					"Value": 16
+					"Value": 14
+				},
+				{
+					"Id": "RS0027",
+					"Value": 4
 				},
 				{
 					"Id": "RS0074",
@@ -121330,7 +121354,11 @@ DATA["export-bal-21"] =
 			"Card": [
 				{
 					"Id": "RS0008",
-					"Value": 9
+					"Value": 7
+				},
+				{
+					"Id": "RS0009",
+					"Value": 2
 				},
 				{
 					"Id": "RS0006",
@@ -121351,11 +121379,15 @@ DATA["export-bal-21"] =
 			"Card": [
 				{
 					"Id": "RS0010",
-					"Value": 13
+					"Value": 12
+				},
+				{
+					"Id": "RS0006",
+					"Value": 2
 				},
 				{
 					"Id": "RS0017",
-					"Value": 16
+					"Value": 15
 				},
 				{
 					"Id": "RS0056",
@@ -121376,7 +121408,11 @@ DATA["export-bal-21"] =
 				},
 				{
 					"Id": "RS0010",
-					"Value": 12
+					"Value": 8
+				},
+				{
+					"Id": "RS0017",
+					"Value": 4
 				},
 				{
 					"Id": "RS0080",
@@ -127970,8 +128006,12 @@ DATA["power-bal-20"]=
 					"Value": 5
 				},
 				{
+					"Id": "RS0029",
+					"Value": 3
+				},
+				{
 					"Id": "RS0025",
-					"Value": 21
+					"Value": 18
 				},
 				{
 					"Id": "RS0073",
@@ -127992,7 +128032,11 @@ DATA["power-bal-20"]=
 				},
 				{
 					"Id": "RS0018",
-					"Value": 8
+					"Value": 6
+				},
+				{
+					"Id": "RS0025",
+					"Value": 2
 				},
 				{
 					"Id": "RS0057",
@@ -128009,11 +128053,15 @@ DATA["power-bal-20"]=
 			"Card": [
 				{
 					"Id": "RS0096",
-					"Value": 16
+					"Value": 14
 				},
 				{
 					"Id": "RS0030",
-					"Value": 16
+					"Value": 14
+				},
+				{
+					"Id": "RS0018",
+					"Value": 4
 				},
 				{
 					"Id": "RS0073",
@@ -134387,58 +134435,6 @@ DATA["fusfarm-bal-30"] =
 			"Type": "Scripted"
 		},
 		{
-			"Id": "sc_m15",
-			"Type": "Scripted"
-		},
-		{
-			"Id": "sc_m16",
-			"Type": "Scripted"
-		},
-		{
-			"Id": "sc_m17",
-			"Type": "Scripted"
-		},
-		{
-			"Id": "sc_m18",
-			"Type": "Scripted"
-		},
-		{
-			"Id": "sc_m19",
-			"Type": "Scripted"
-		},
-		{
-			"Id": "sc_m20",
-			"Type": "Scripted"
-		},
-		{
-			"Id": "sc_m21",
-			"Type": "Scripted"
-		},
-		{
-			"Id": "sc_m22",
-			"Type": "Scripted"
-		},
-		{
-			"Id": "sc_m23",
-			"Type": "Scripted"
-		},
-		{
-			"Id": "sc_m24",
-			"Type": "Scripted"
-		},
-		{
-			"Id": "sc_m25",
-			"Type": "Scripted"
-		},
-		{
-			"Id": "sc_m26",
-			"Type": "Scripted"
-		},
-		{
-			"Id": "sc_m27",
-			"Type": "Scripted"
-		},
-		{
 			"Id": "sc3",
 			"Type": "Scripted"
 		}
@@ -134453,270 +134449,7 @@ DATA["fusfarm-bal-30"] =
 			"Card": [
 				{
 					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m02",
-			"MimicGachaId": "plastic",
-			"Science": 47,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m03",
-			"MimicGachaId": "plastic",
-			"Science": 62,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m04",
-			"MimicGachaId": "plastic",
-			"Science": 53,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m05",
-			"MimicGachaId": "plastic",
-			"Science": 59,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m06",
-			"MimicGachaId": "plastic",
-			"Science": 64,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m07",
-			"MimicGachaId": "plastic",
-			"Science": 79,
-			"Gold": 0,
-			"Trophy": 20,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m08",
-			"MimicGachaId": "plastic",
-			"Science": 222,
-			"Gold": 0,
-			"Trophy": 20,
-			"Card": [
-				{
-					"Id": "FUS020",
 					"Value": 4
-				},
-				{
-					"Id": "FUS037",
-					"Value": 8
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m09",
-			"MimicGachaId": "plastic",
-			"Science": 88,
-			"Gold": 0,
-			"Trophy": 30,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m10",
-			"MimicGachaId": "plastic",
-			"Science": 97,
-			"Gold": 0,
-			"Trophy": 40,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m11",
-			"MimicGachaId": "plastic",
-			"Science": 115,
-			"Gold": 0,
-			"Trophy": 50,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m12",
-			"MimicGachaId": "plastic",
-			"Science": 130,
-			"Gold": 0,
-			"Trophy": 60,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m13",
-			"MimicGachaId": "plastic",
-			"Science": 144,
-			"Gold": 0,
-			"Trophy": 70,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m14",
-			"MimicGachaId": "plastic",
-			"Science": 167,
-			"Gold": 0,
-			"Trophy": 80,
-			"Card": [
-				{
-					"Id": "FUS037",
-					"Value": 2
-				},
-				{
-					"Id": "FUS038",
-					"Value": 3
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m15",
-			"MimicGachaId": "plastic",
-			"Science": 175,
-			"Gold": 0,
-			"Trophy": 90,
-			"Card": [
-				{
-					"Id": "FUS056",
-					"Value": 4
-				},
-				{
-					"Id": "FUS001",
-					"Value": 3
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m16",
-			"MimicGachaId": "plastic",
-			"Science": 202,
-			"Gold": 0,
-			"Trophy": 110,
-			"Card": [
-				{
-					"Id": "FUS057",
-					"Value": 2
-				},
-				{
-					"Id": "FUS049",
-					"Value": 2
 				},
 				{
 					"Id": "FUS016",
@@ -134725,36 +134458,95 @@ DATA["fusfarm-bal-30"] =
 			]
 		},
 		{
-			"GachaId": "sc_m17",
+			"GachaId": "sc_m02",
 			"MimicGachaId": "plastic",
-			"Science": 225,
+			"Science": 57,
 			"Gold": 0,
-			"Trophy": 120,
+			"Trophy": 20,
 			"Card": [
 				{
-					"Id": "FUS070",
-					"Value": 2
+					"Id": "FUS038",
+					"Value": 6
 				},
 				{
-					"Id": "FUS037",
-					"Value": 3
+					"Id": "FUS001",
+					"Value": 2
 				}
 			]
 		},
 		{
-			"GachaId": "sc_m18",
+			"GachaId": "sc_m03",
 			"MimicGachaId": "plastic",
-			"Science": 250,
+			"Science": 72,
 			"Gold": 0,
-			"Trophy": 140,
+			"Trophy": 30,
 			"Card": [
 				{
-					"Id": "FUS061",
-					"Value": 3
+					"Id": "FUS049",
+					"Value": 4
 				},
 				{
-					"Id": "FUS003",
-					"Value": 3
+					"Id": "FUS037",
+					"Value": 5
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m04",
+			"MimicGachaId": "plastic",
+			"Science": 73,
+			"Gold": 0,
+			"Trophy": 40,
+			"Card": [
+				{
+					"Id": "FUS056",
+					"Value": 6
+				},
+				{
+					"Id": "FUS049",
+					"Value": 4
+				},
+				{
+					"Id": "FUS015",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m05",
+			"MimicGachaId": "plastic",
+			"Science": 79,
+			"Gold": 0,
+			"Trophy": 50,
+			"Card": [
+				{
+					"Id": "FUS054",
+					"Value": 6
+				},
+				{
+					"Id": "FUS057",
+					"Value": 6
+				},
+				{
+					"Id": "FUS016",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m06",
+			"MimicGachaId": "plastic",
+			"Science": 94,
+			"Gold": 0,
+			"Trophy": 60,
+			"Card": [
+				{
+					"Id": "FUS054",
+					"Value": 5
+				},
+				{
+					"Id": "FUS070",
+					"Value": 10
 				},
 				{
 					"Id": "FUS018",
@@ -134763,216 +134555,199 @@ DATA["fusfarm-bal-30"] =
 			]
 		},
 		{
-			"GachaId": "sc_m19",
+			"GachaId": "sc_m07",
 			"MimicGachaId": "plastic",
-			"Science": 270,
+			"Science": 99,
 			"Gold": 0,
-			"Trophy": 150,
+			"Trophy": 70,
+			"Card": [
+				{
+					"Id": "FUS003",
+					"Value": 9
+				},
+				{
+					"Id": "FUS070",
+					"Value": 7
+				},
+				{
+					"Id": "FUS074",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m08",
+			"MimicGachaId": "plastic",
+			"Science": 112,
+			"Gold": 0,
+			"Trophy": 80,
 			"Card": [
 				{
 					"Id": "FUS071",
-					"Value": 3
+					"Value": 11
 				},
 				{
-					"Id": "FUS057",
+					"Id": "FUS003",
+					"Value": 8
+				},
+				{
+					"Id": "FUS018",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m09",
+			"MimicGachaId": "plastic",
+			"Science": 118,
+			"Gold": 0,
+			"Trophy": 90,
+			"Card": [
+				{
+					"Id": "FUS025",
+					"Value": 13
+				},
+				{
+					"Id": "FUS071",
+					"Value": 9
+				},
+				{
+					"Id": "FUS019",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m10",
+			"MimicGachaId": "plastic",
+			"Science": 117,
+			"Gold": 0,
+			"Trophy": 100,
+			"Card": [
+				{
+					"Id": "FUS061",
+					"Value": 15
+				},
+				{
+					"Id": "FUS025",
+					"Value": 10
+				},
+				{
+					"Id": "FUS075",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m11",
+			"MimicGachaId": "plastic",
+			"Science": 125,
+			"Gold": 0,
+			"Trophy": 120,
+			"Card": [
+				{
+					"Id": "FUS005",
+					"Value": 12
+				},
+				{
+					"Id": "FUS061",
+					"Value": 16
+				},
+				{
+					"Id": "FUS019",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m12",
+			"MimicGachaId": "plastic",
+			"Science": 140,
+			"Gold": 0,
+			"Trophy": 140,
+			"Card": [
+				{
+					"Id": "FUS072",
+					"Value": 10
+				},
+				{
+					"Id": "FUS005",
+					"Value": 10
+				},
+				{
+					"Id": "FUS061",
+					"Value": 10
+				},
+				{
+					"Id": "FUS015",
 					"Value": 3
 				}
 			]
 		},
 		{
-			"GachaId": "sc_m20",
+			"GachaId": "sc_m13",
 			"MimicGachaId": "plastic",
-			"Science": 292,
+			"Science": 164,
 			"Gold": 0,
 			"Trophy": 160,
 			"Card": [
 				{
-					"Id": "FUS072",
-					"Value": 3
-				},
-				{
-					"Id": "FUS001",
-					"Value": 3
-				},
-				{
-					"Id": "FUS019",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m21",
-			"MimicGachaId": "plastic",
-			"Science": 303,
-			"Gold": 0,
-			"Trophy": 170,
-			"Card": [
-				{
-					"Id": "FUS046",
-					"Value": 3
-				},
-				{
 					"Id": "FUS005",
-					"Value": 3
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m22",
-			"MimicGachaId": "plastic",
-			"Science": 333,
-			"Gold": 0,
-			"Trophy": 190,
-			"Card": [
-				{
-					"Id": "FUS073",
-					"Value": 3
+					"Value": 7
 				},
 				{
 					"Id": "FUS020",
-					"Value": 2
+					"Value": 12
+				},
+				{
+					"Id": "FUS046",
+					"Value": 13
 				},
 				{
 					"Id": "FUS075",
-					"Value": 1
+					"Value": 3
 				}
 			]
 		},
 		{
-			"GachaId": "sc_m23",
+			"GachaId": "sc_m14",
 			"MimicGachaId": "plastic",
-			"Science": 360,
+			"Science": 177,
 			"Gold": 0,
-			"Trophy": 220,
+			"Trophy": 180,
 			"Card": [
 				{
-					"Id": "FUS001",
-					"Value": 1
+					"Id": "FUS073",
+					"Value": 20
 				},
 				{
-					"Id": "FUS001",
-					"Value": 1
+					"Id": "FUS020",
+					"Value": 8
 				},
 				{
-					"Id": "FUS001",
-					"Value": 1
+					"Id": "FUS046",
+					"Value": 7
 				},
 				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m24",
-			"MimicGachaId": "plastic",
-			"Science": 384,
-			"Gold": 0,
-			"Trophy": 240,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m25",
-			"MimicGachaId": "plastic",
-			"Science": 404,
-			"Gold": 0,
-			"Trophy": 260,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m26",
-			"MimicGachaId": "plastic",
-			"Science": 445,
-			"Gold": 0,
-			"Trophy": 300,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m27",
-			"MimicGachaId": "plastic",
-			"Science": 480,
-			"Gold": 0,
-			"Trophy": 400,
-			"Card": [
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
-				},
-				{
-					"Id": "FUS001",
-					"Value": 1
+					"Id": "FUS074",
+					"Value": 3
 				}
 			]
 		},
 		{
 			"GachaId": "sc3",
 			"MimicGachaId": "plastic",
-			"Science": 50,
+			"Science": 45,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
 				{
 					"Id": "FUS015",
 					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 4
 				}
 			]
 		}
@@ -136124,7 +135899,7 @@ DATA["fusfarm-bal-30"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m02",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -136194,7 +135969,7 @@ DATA["fusfarm-bal-30"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m03",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -136208,7 +135983,7 @@ DATA["fusfarm-bal-30"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m03",
 				"Value": 1
 			}
 		},
@@ -136292,7 +136067,7 @@ DATA["fusfarm-bal-30"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m04",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -136376,7 +136151,7 @@ DATA["fusfarm-bal-30"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m05",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -136642,7 +136417,7 @@ DATA["fusfarm-bal-30"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m08",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -136698,7 +136473,7 @@ DATA["fusfarm-bal-30"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m09",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -136712,7 +136487,7 @@ DATA["fusfarm-bal-30"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m09",
 				"Value": 1
 			}
 		},
@@ -136782,7 +136557,7 @@ DATA["fusfarm-bal-30"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m10",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -136796,7 +136571,7 @@ DATA["fusfarm-bal-30"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m10",
 				"Value": 1
 			}
 		},
@@ -136978,7 +136753,7 @@ DATA["fusfarm-bal-30"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m12",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -141253,7 +141028,7 @@ DATA["fuspet-bal-32"] =
 					"Value": 7
 				},
 				{
-					"Id": "FUS018",
+					"Id": "FUS076",
 					"Value": 3
 				}
 			]
