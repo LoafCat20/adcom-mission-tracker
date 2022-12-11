@@ -136165,7 +136165,7 @@ DATA["fusfarm-bal-30"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -142464,7 +142464,7 @@ DATA["fuspet-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
