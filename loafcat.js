@@ -136609,7 +136609,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 78900,
+				"Threshold": 789000,
 				"ConditionId": "horse"
 			},
 			"Reward": {
@@ -136623,7 +136623,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1444555,
+				"Threshold": 2888000,
 				"ConditionId": "mammoth"
 			},
 			"Reward": {
@@ -136637,7 +136637,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.77e42,
+				"Threshold": 6.77e45,
 				"ConditionId": "tag"
 			},
 			"Reward": {
@@ -136651,7 +136651,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.6e36,
+				"Threshold": 3.6e30,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -136679,7 +136679,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3,
+				"Threshold": 300,
 				"ConditionId": "kraken"
 			},
 			"Reward": {
@@ -136693,7 +136693,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1099666600,
+				"Threshold": 10996666,
 				"ConditionId": "horse"
 			},
 			"Reward": {
@@ -136707,7 +136707,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 15891,
+				"Threshold": 158910,
 				"ConditionId": "kraken"
 			},
 			"Reward": {
@@ -136721,7 +136721,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6e41,
+				"Threshold": 6e49,
 				"ConditionId": "tag"
 			},
 			"Reward": {
@@ -136763,7 +136763,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 878787,
+				"Threshold": 4343434,
 				"ConditionId": "kraken"
 			},
 			"Reward": {
@@ -136777,7 +136777,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 66322,
+				"Threshold": 663322,
 				"ConditionId": "stable"
 			},
 			"Reward": {
@@ -136791,7 +136791,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.5e59,
+				"Threshold": 5e42,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -136847,7 +136847,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 555444,
+				"Threshold": 22110000,
 				"ConditionId": "stable"
 			},
 			"Reward": {
@@ -136861,7 +136861,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6699,
+				"Threshold": 666999,
 				"ConditionId": "yeti"
 			},
 			"Reward": {
@@ -136875,7 +136875,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.5e66,
+				"Threshold": 5e57,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -136889,7 +136889,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 600000000,
+				"Threshold": 12000000,
 				"ConditionId": "yeti"
 			},
 			"Reward": {
@@ -136903,7 +136903,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e71,
+				"Threshold": 1.2e65,
 				"ConditionId": "tag"
 			},
 			"Reward": {
@@ -136931,8 +136931,8 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 49999999,
-				"ConditionId": "stable"
+				"Threshold": 500,
+				"ConditionId": "reindeer"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136959,7 +136959,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 22222,
+				"Threshold": 2222222,
 				"ConditionId": "reindeer"
 			},
 			"Reward": {
@@ -136987,7 +136987,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.25e79,
+				"Threshold": 4e69,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -137015,7 +137015,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3332222,
+				"Threshold": 33332222,
 				"ConditionId": "reindeer"
 			},
 			"Reward": {
@@ -137029,7 +137029,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4443222,
+				"Threshold": 22222222,
 				"ConditionId": "ptero-technic"
 			},
 			"Reward": {
@@ -137057,7 +137057,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2121,
+				"Threshold": 21,
 				"ConditionId": "dragon"
 			},
 			"Reward": {
@@ -137071,7 +137071,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5e84,
+				"Threshold": 5e81,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -137113,7 +137113,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 70707,
+				"Threshold": 7070707,
 				"ConditionId": "dragon"
 			},
 			"Reward": {
@@ -137155,7 +137155,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 55599,
+				"Threshold": 55999,
 				"ConditionId": "raptor"
 			},
 			"Reward": {
@@ -137197,7 +137197,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2555222,
+				"Threshold": 12777333,
 				"ConditionId": "raptor"
 			},
 			"Reward": {
@@ -137239,7 +137239,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 39900000,
+				"Threshold": 49900000,
 				"ConditionId": "raptor"
 			},
 			"Reward": {
