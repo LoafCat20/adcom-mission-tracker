@@ -139865,7 +139865,7 @@ DATA["fusfarm-bal-30"] =
 				{
 					"Reward": "Researcher",
 					"Value": 200,
-					"RewardId": "FUS057"
+					"RewardId": "FUS070"
 				},
 				{
 					"Reward": "Resources",
@@ -139895,7 +139895,7 @@ DATA["fusfarm-bal-30"] =
 				{
 					"Reward": "Researcher",
 					"Value": 300,
-					"RewardId": "FUS061"
+					"RewardId": "FUS025"
 				},
 				{
 					"Reward": "Resources",
