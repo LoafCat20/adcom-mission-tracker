@@ -133667,6 +133667,6578 @@ DATA["power-bal-20"]=
 	]
 };
  
+DATA["fusfarm-bal-30"] = 
+{
+	"Ads": [
+		{
+			"Id": "AD011",
+			"AdType": "Industry",
+			"Name": "Propaganda Boost",
+			"Description": "Applies a x2 payout to all industries",
+			"ViewLimit": 3,
+			"ResetType": "Now",
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"RewardId": "EXAD6",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"Id": "AD012",
+			"AdType": "Tool",
+			"Name": "Air Drop",
+			"ViewLimit": 1,
+			"ResetType": "Now",
+			"Rewards": [
+				{
+					"Reward": "None"
+				}
+			]
+		}
+	],
+	"AirDrops": [
+		{
+			"Id": 10001,
+			"AirDropRewardType": "CoreResource",
+			"IsAd": false,
+			"IsAdSkippable": false,
+			"Weight": 15,
+			"MaxAdsPerInterval": -1,
+			"RewardCalculation": {
+				"A": 2800,
+				"B": 1.3,
+				"C": 0.25,
+				"D": 250
+			}
+		},
+		{
+			"Id": 10002,
+			"AirDropRewardType": "PrimaryCurrency",
+			"IsAd": false,
+			"IsAdSkippable": false,
+			"Weight": 10,
+			"MaxAdsPerInterval": -1,
+			"RewardCalculation": {
+				"A": 550,
+				"B": 1.3,
+				"C": 0.4,
+				"D": 25
+			}
+		},
+		{
+			"Id": 10003,
+			"AirDropRewardType": "PrimaryCurrency",
+			"IsAd": true,
+			"IsAdSkippable": false,
+			"Weight": 50,
+			"MaxAdsPerInterval": 6,
+			"RewardCalculation": {
+				"A": 7400,
+				"B": 1.7,
+				"C": 0.22,
+				"D": -725
+			}
+		},
+		{
+			"Id": 10004,
+			"AirDropRewardType": "SoftCurrency",
+			"IsAd": true,
+			"IsAdSkippable": false,
+			"Weight": 25,
+			"MaxAdsPerInterval": 4,
+			"RewardCalculation": {
+				"A": 550,
+				"B": 1.01,
+				"C": 1.001,
+				"D": 65
+			}
+		}
+	],
+	"AirDropsConfig": [
+		{
+			"AirDropBaseInterval": 40,
+			"AirDropIntervalVariance": 0.1,
+			"AirDropIntervalMultiplier": 1.2,
+			"ClaimCountResetInterval": 5400,
+			"AdCountResetInterval": 43200,
+			"StartupDelay": 15,
+			"StartCondition": {
+				"ConditionType": "RankReached",
+				"Threshold": 2
+			},
+			"HasAdFreeAirDrops": true
+		}
+	],
+	"CardStoreCost": [
+		{
+			"Rarity": "Common",
+			"ScienceCost": 0,
+			"GoldCost": 0,
+			"AdWatchStackModifier": 0
+		},
+		{
+			"Rarity": "Rare",
+			"ScienceCost": 0,
+			"GoldCost": 0,
+			"AdWatchStackModifier": 0
+		},
+		{
+			"Rarity": "Epic",
+			"ScienceCost": 0,
+			"GoldCost": 0,
+			"AdWatchStackModifier": 0
+		},
+		{
+			"Rarity": "Supreme",
+			"ScienceCost": 0,
+			"GoldCost": 0,
+			"AdWatchStackModifier": 0
+		},
+		{
+			"Rarity": "LteCommon",
+			"ScienceCost": 30,
+			"GoldCost": 2,
+			"AdWatchStackModifier": 0.3
+		},
+		{
+			"Rarity": "LteRare",
+			"ScienceCost": 250,
+			"GoldCost": 15,
+			"AdWatchStackModifier": 0.35
+		}
+	],
+	"CardStoreStackSize": [
+		{
+			"Rank": 1,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 10,
+			"LteRare": 2
+		},
+		{
+			"Rank": 2,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 10,
+			"LteRare": 2
+		},
+		{
+			"Rank": 3,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 10,
+			"LteRare": 2
+		},
+		{
+			"Rank": 4,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 20,
+			"LteRare": 3
+		},
+		{
+			"Rank": 5,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 20,
+			"LteRare": 3
+		},
+		{
+			"Rank": 6,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 20,
+			"LteRare": 3
+		},
+		{
+			"Rank": 7,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 20,
+			"LteRare": 3
+		},
+		{
+			"Rank": 8,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 4
+		},
+		{
+			"Rank": 9,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 4
+		},
+		{
+			"Rank": 10,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 4
+		},
+		{
+			"Rank": 11,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 4
+		},
+		{
+			"Rank": 12,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 30,
+			"LteRare": 5
+		},
+		{
+			"Rank": 13,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 14,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 15,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 5
+		},
+		{
+			"Rank": 16,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 40,
+			"LteRare": 6
+		}
+	],
+	"CardToScienceConversion": {
+		"Common": 0,
+		"Rare": 0,
+		"Epic": 0,
+		"Supreme": 0,
+		"LteCommon": 15,
+		"LteRare": 125
+	},
+	"CrossPromoTitles": [
+		{
+			"Id": "adcap",
+			"IconId": "icon-adcap",
+			"TitleSpriteId": "art-adcap-header",
+			"BackgroundSpriteId": "art-adcap-header",
+			"LinkedAppId_IOS": "927006017",
+			"LinkedAppId_Android": "com.kongregate.mobile.adventurecapitalist.google"
+		},
+		{
+			"Id": "adcom",
+			"IconId": "icon-adcomm",
+			"TitleSpriteId": "art-adcom-header",
+			"BackgroundSpriteId": "art-adcom-background",
+			"LinkedAppId_IOS": "1225683141",
+			"LinkedAppId_Android": "com.kongregate.mobile.adventurecommunist.google"
+		}
+	],
+	"DailyDealSlotChance": [
+		{
+			"Slot": 1,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 0.5,
+			"LteRare": 0.5,
+			"GoldCostChance": 0,
+			"AdWatchChance": 1
+		},
+		{
+			"Slot": 2,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 0.5,
+			"LteRare": 0.5,
+			"GoldCostChance": 0,
+			"AdWatchChance": 0
+		},
+		{
+			"Slot": 3,
+			"Common": 0,
+			"Rare": 0,
+			"Epic": 0,
+			"Supreme": 0,
+			"LteCommon": 0,
+			"LteRare": 1,
+			"GoldCostChance": 1,
+			"AdWatchChance": 0
+		}
+	],
+	"Experiments": [
+		{
+			"Id": "EX164",
+			"Name": "Basic Time Hack",
+			"IconKey": "timehack_4",
+			"Lifespan": "OneTime",
+			"Lifetime": 1,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "ResourceSurge",
+					"AllResources": true,
+					"Value": 14400,
+					"Description": "Resource Surge! Get 4 hours' worth instantly!"
+				}
+			],
+			"Description": "Resource Surge! Get 4 hours' worth instantly!"
+		},
+		{
+			"Id": "EX165",
+			"Name": "Mega Time Hack",
+			"IconKey": "timehack_24",
+			"Lifespan": "OneTime",
+			"Lifetime": 1,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "ResourceSurge",
+					"AllResources": true,
+					"Value": 86400,
+					"Description": "Resource Surge! Get 24 hours' worth instantly!"
+				}
+			],
+			"Description": "Resource Surge! Get 24 hours' worth instantly!"
+		},
+		{
+			"Id": "EX167",
+			"Name": "Simple Time Hack",
+			"IconKey": "timehack_1",
+			"Lifespan": "OneTime",
+			"Lifetime": 1,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "ResourceSurge",
+					"AllResources": true,
+					"Value": 3600,
+					"Description": "Resource Surge! Get 1 hours' worth instantly!"
+				}
+			],
+			"Description": "Resource Surge! Get 1 hours' worth instantly!"
+		},
+		{
+			"Id": "EX210",
+			"Name": "Double Time",
+			"IconKey": "propaganda",
+			"Lifespan": "Permanent",
+			"Lifetime": 0,
+			"Type": "Ad",
+			"Rewards": [
+				{
+					"Type": "PayoutMultiplier",
+					"AllResources": true,
+					"Value": 2,
+					"Description": "Receive a permanent x2 speed boost to all industries!"
+				}
+			],
+			"Description": "Receive a permanent x2 speed boost to all industries!"
+		},
+		{
+			"Id": "EX211",
+			"Name": "Quintuple Time",
+			"IconKey": "propaganda",
+			"Lifespan": "Permanent",
+			"Lifetime": 0,
+			"Type": "Ad",
+			"Rewards": [
+				{
+					"Type": "PayoutMultiplier",
+					"AllResources": true,
+					"Value": 5,
+					"Description": "Receive a permanent x5 speed boost to all industries!"
+				}
+			],
+			"Description": "Receive a permanent x5 speed boost to all industries!"
+		},
+		{
+			"Id": "EX215",
+			"Name": "Long Term Propaganda",
+			"IconKey": "propaganda",
+			"Lifespan": "Timed",
+			"Lifetime": 5184000,
+			"Type": "Ad",
+			"Rewards": [
+				{
+					"Type": "PayoutMultiplier",
+					"AllResources": true,
+					"Value": 5,
+					"Description": "Receive a x5 speed boost to all industries for 60D!"
+				}
+			],
+			"Description": "Receive a x5 speed boost to all industries for 60D!"
+		},
+		{
+			"Id": "EXAD6",
+			"Name": "Propaganda Boost",
+			"IconKey": "propaganda",
+			"Lifespan": "Timed",
+			"Lifetime": 14400,
+			"Type": "Ad",
+			"Rewards": [
+				{
+					"Type": "PayoutMultiplier",
+					"AllResources": true,
+					"Value": 2,
+					"Description": "x2 boost to all industries!"
+				}
+			],
+			"Description": "x2 boost for 3 more hours!"
+		},
+		{
+			"Id": "SCH2",
+			"Name": "Free Gacha Capsule",
+			"Lifespan": "Timed",
+			"Lifetime": 7200,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "None",
+					"AllResources": false
+				}
+			]
+		},
+		{
+			"Id": "SCH3",
+			"Name": "Science Air Drop Availability",
+			"IconKey": "darkscience",
+			"Lifespan": "Timed",
+			"Lifetime": 14400,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "None"
+				}
+			]
+		},
+		{
+			"Id": "SCH4",
+			"Name": "Air Drop Session Reset",
+			"IconKey": "none",
+			"Lifespan": "Timed",
+			"Lifetime": 14400,
+			"Type": "None",
+			"Rewards": [
+				{
+					"Type": "None"
+				}
+			]
+		}
+	],
+	"FreeGachaData": {
+		"TimeBetweenGachas": 7200,
+		"MaxStackCount": 2
+	},
+	"GachaFreeCycle": [
+		{
+			"Cycle": [
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic",
+				"plastic",
+				"plastic",
+				"armored",
+				"plastic"
+			],
+			"ScriptId": "sc3"
+		}
+	],
+	"GachaGoldCycle": [
+		{
+			"Cycle": {
+				"plastic": [
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				],
+				"armored": [
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				]
+			}
+		}
+	],
+	"GachaLootTable": [
+		{
+			"Id": "plastic",
+			"CardWeight": 10,
+			"RareWeight": -1,
+			"EpicWeight": -1,
+			"SupremeWeight": -1,
+			"LteRareWeight": 13,
+			"ScienceMin": 70,
+			"ScienceMax": 80,
+			"TrophyMin": 10,
+			"TrophyMax": 10,
+			"ChanceMultiplier": 10,
+			"WeightDivider": 10,
+			"Type": "Normal"
+		},
+		{
+			"Id": "armored",
+			"CardWeight": 30,
+			"RareWeight": -1,
+			"EpicWeight": -1,
+			"SupremeWeight": -1,
+			"LteRareWeight": 14,
+			"ScienceMin": 140,
+			"ScienceMax": 160,
+			"TrophyMin": 50,
+			"TrophyMax": 50,
+			"ChanceMultiplier": 10,
+			"WeightDivider": 10,
+			"Type": "Normal"
+		},
+		{
+			"Id": "titanium",
+			"CardWeight": 200,
+			"RareWeight": -1,
+			"EpicWeight": -1,
+			"SupremeWeight": -1,
+			"LteRareWeight": 5,
+			"ScienceMin": 1400,
+			"ScienceMax": 1600,
+			"TrophyMin": 0,
+			"TrophyMax": 0,
+			"ChanceMultiplier": 10,
+			"WeightDivider": 10,
+			"Type": "Premium"
+		},
+		{
+			"Id": "tech",
+			"CardWeight": 100,
+			"RareWeight": -1,
+			"EpicWeight": -1,
+			"SupremeWeight": -1,
+			"LteRareWeight": 1,
+			"ScienceMin": 0,
+			"ScienceMax": 0,
+			"TrophyMin": 0,
+			"TrophyMax": 0,
+			"ChanceMultiplier": 10,
+			"WeightDivider": 10,
+			"Type": "Fixed"
+		},
+		{
+			"Id": "sc_m01",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m02",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m03",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m04",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m05",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m06",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m07",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m08",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m09",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m10",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m11",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m12",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m13",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m14",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m15",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m16",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m17",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m18",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m19",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m20",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m21",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m22",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m23",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m24",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m25",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m26",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc_m27",
+			"Type": "Scripted"
+		},
+		{
+			"Id": "sc3",
+			"Type": "Scripted"
+		}
+	],
+	"GachaScripts": [
+		{
+			"GachaId": "sc_m01",
+			"MimicGachaId": "plastic",
+			"Science": 48,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m02",
+			"MimicGachaId": "plastic",
+			"Science": 47,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m03",
+			"MimicGachaId": "plastic",
+			"Science": 62,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m04",
+			"MimicGachaId": "plastic",
+			"Science": 53,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m05",
+			"MimicGachaId": "plastic",
+			"Science": 59,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m06",
+			"MimicGachaId": "plastic",
+			"Science": 64,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m07",
+			"MimicGachaId": "plastic",
+			"Science": 79,
+			"Gold": 0,
+			"Trophy": 20,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m08",
+			"MimicGachaId": "plastic",
+			"Science": 222,
+			"Gold": 0,
+			"Trophy": 20,
+			"Card": [
+				{
+					"Id": "FUS020",
+					"Value": 4
+				},
+				{
+					"Id": "FUS037",
+					"Value": 8
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m09",
+			"MimicGachaId": "plastic",
+			"Science": 88,
+			"Gold": 0,
+			"Trophy": 30,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m10",
+			"MimicGachaId": "plastic",
+			"Science": 97,
+			"Gold": 0,
+			"Trophy": 40,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m11",
+			"MimicGachaId": "plastic",
+			"Science": 115,
+			"Gold": 0,
+			"Trophy": 50,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m12",
+			"MimicGachaId": "plastic",
+			"Science": 130,
+			"Gold": 0,
+			"Trophy": 60,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m13",
+			"MimicGachaId": "plastic",
+			"Science": 144,
+			"Gold": 0,
+			"Trophy": 70,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m14",
+			"MimicGachaId": "plastic",
+			"Science": 167,
+			"Gold": 0,
+			"Trophy": 80,
+			"Card": [
+				{
+					"Id": "FUS037",
+					"Value": 2
+				},
+				{
+					"Id": "FUS038",
+					"Value": 3
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m15",
+			"MimicGachaId": "plastic",
+			"Science": 175,
+			"Gold": 0,
+			"Trophy": 90,
+			"Card": [
+				{
+					"Id": "FUS056",
+					"Value": 4
+				},
+				{
+					"Id": "FUS001",
+					"Value": 3
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m16",
+			"MimicGachaId": "plastic",
+			"Science": 202,
+			"Gold": 0,
+			"Trophy": 110,
+			"Card": [
+				{
+					"Id": "FUS057",
+					"Value": 2
+				},
+				{
+					"Id": "FUS049",
+					"Value": 2
+				},
+				{
+					"Id": "FUS016",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m17",
+			"MimicGachaId": "plastic",
+			"Science": 225,
+			"Gold": 0,
+			"Trophy": 120,
+			"Card": [
+				{
+					"Id": "FUS070",
+					"Value": 2
+				},
+				{
+					"Id": "FUS037",
+					"Value": 3
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m18",
+			"MimicGachaId": "plastic",
+			"Science": 250,
+			"Gold": 0,
+			"Trophy": 140,
+			"Card": [
+				{
+					"Id": "FUS061",
+					"Value": 3
+				},
+				{
+					"Id": "FUS003",
+					"Value": 3
+				},
+				{
+					"Id": "FUS018",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m19",
+			"MimicGachaId": "plastic",
+			"Science": 270,
+			"Gold": 0,
+			"Trophy": 150,
+			"Card": [
+				{
+					"Id": "FUS071",
+					"Value": 3
+				},
+				{
+					"Id": "FUS057",
+					"Value": 3
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m20",
+			"MimicGachaId": "plastic",
+			"Science": 292,
+			"Gold": 0,
+			"Trophy": 160,
+			"Card": [
+				{
+					"Id": "FUS072",
+					"Value": 3
+				},
+				{
+					"Id": "FUS001",
+					"Value": 3
+				},
+				{
+					"Id": "FUS019",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m21",
+			"MimicGachaId": "plastic",
+			"Science": 303,
+			"Gold": 0,
+			"Trophy": 170,
+			"Card": [
+				{
+					"Id": "FUS046",
+					"Value": 3
+				},
+				{
+					"Id": "FUS005",
+					"Value": 3
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m22",
+			"MimicGachaId": "plastic",
+			"Science": 333,
+			"Gold": 0,
+			"Trophy": 190,
+			"Card": [
+				{
+					"Id": "FUS073",
+					"Value": 3
+				},
+				{
+					"Id": "FUS020",
+					"Value": 2
+				},
+				{
+					"Id": "FUS075",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m23",
+			"MimicGachaId": "plastic",
+			"Science": 360,
+			"Gold": 0,
+			"Trophy": 220,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m24",
+			"MimicGachaId": "plastic",
+			"Science": 384,
+			"Gold": 0,
+			"Trophy": 240,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m25",
+			"MimicGachaId": "plastic",
+			"Science": 404,
+			"Gold": 0,
+			"Trophy": 260,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m26",
+			"MimicGachaId": "plastic",
+			"Science": 445,
+			"Gold": 0,
+			"Trophy": 300,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m27",
+			"MimicGachaId": "plastic",
+			"Science": 480,
+			"Gold": 0,
+			"Trophy": 400,
+			"Card": [
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				},
+				{
+					"Id": "FUS001",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc3",
+			"MimicGachaId": "plastic",
+			"Science": 50,
+			"Gold": 0,
+			"Trophy": 10,
+			"Card": [
+				{
+					"Id": "FUS015",
+					"Value": 1
+				}
+			]
+		}
+	],
+	"GachaStackSplit": [
+		{
+			"Split": 2,
+			"LteCommon": 8,
+			"LteRare": 4
+		},
+		{
+			"Split": 3,
+			"LteCommon": 25,
+			"LteRare": 25
+		},
+		{
+			"Split": 4,
+			"LteRare": 75
+		}
+	],
+	"GeneratorObjectiveLimits": [
+		{
+			"GeneratorId": "farmer",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "garden",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "mill",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "farm",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "plantation",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "oceanfarm",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "biodome",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "skyfarm",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "chef",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "recipe",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "oven",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "chocolate",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "fries",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "pumpkinbucket",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "pizza",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "roast",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		},
+		{
+			"GeneratorId": "potatovolcano",
+			"MaximumObjectivesForRank": [
+				999
+			]
+		}
+	],
+	"Generators": [
+		{
+			"Id": "comradegenerator",
+			"Name": "Comrade",
+			"ResourceType": "comradegenerator",
+			"GeneratorType": "Automatic",
+			"Generate": {
+				"Resource": "comrade",
+				"Qty": 1
+			},
+			"BaseCompletionTime": 1,
+			"IncludeInAll": false,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 1
+			}
+		},
+		{
+			"Id": "farmer",
+			"Name": "Farmer",
+			"ResourceType": "farmer",
+			"GeneratorType": "Manual",
+			"IndustryId": "potatofarm",
+			"Cost": [
+				{
+					"Resource": "Potato",
+					"Qty": "1.0E+01"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "potato",
+				"Qty": 2
+			},
+			"BaseCompletionTime": 2,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "potato",
+					"Threshold": 0
+				}
+			],
+			"Unlock": {
+				"ConditionType": "IndustryUnlocked",
+				"ConditionId": "potatofarm",
+				"Threshold": 0
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "garden",
+			"Name": "Garden",
+			"ResourceType": "garden",
+			"GeneratorType": "Manual",
+			"IndustryId": "potatofarm",
+			"Cost": [
+				{
+					"Resource": "Farmer",
+					"Qty": "1.0E+01"
+				},
+				{
+					"Resource": "Potato",
+					"Qty": "1.0E+04"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "farmer",
+				"Qty": 5
+			},
+			"BaseCompletionTime": 6,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "farmer",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "farmer",
+				"Threshold": 3000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "mill",
+			"Name": "Mill",
+			"ResourceType": "mill",
+			"GeneratorType": "Manual",
+			"IndustryId": "potatofarm",
+			"Cost": [
+				{
+					"Resource": "Garden",
+					"Qty": "1.0E+02"
+				},
+				{
+					"Resource": "Potato",
+					"Qty": "1.0E+12"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "garden",
+				"Qty": 8
+			},
+			"BaseCompletionTime": 18,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "garden",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "garden",
+				"Threshold": 50000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "farm",
+			"Name": "Farm",
+			"ResourceType": "farm",
+			"GeneratorType": "Manual",
+			"IndustryId": "potatofarm",
+			"Cost": [
+				{
+					"Resource": "mill",
+					"Qty": "1.0E+03"
+				},
+				{
+					"Resource": "Potato",
+					"Qty": 1e23
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "mill",
+				"Qty": 11
+			},
+			"BaseCompletionTime": 54,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "mill",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "mill",
+				"Threshold": 1500000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "plantation",
+			"Name": "Plantation",
+			"ResourceType": "plantation",
+			"GeneratorType": "Manual",
+			"IndustryId": "potatofarm",
+			"Cost": [
+				{
+					"Resource": "farm",
+					"Qty": "1.0E+04"
+				},
+				{
+					"Resource": "Potato",
+					"Qty": "1.0E+37"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "farm",
+				"Qty": 14
+			},
+			"BaseCompletionTime": 162,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "farm",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "farm",
+				"Threshold": 5000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "oceanfarm",
+			"Name": "Ocean Farm",
+			"ResourceType": "oceanfarm",
+			"GeneratorType": "Manual",
+			"IndustryId": "potatofarm",
+			"Cost": [
+				{
+					"Resource": "Plantation",
+					"Qty": "1.0E+05"
+				},
+				{
+					"Resource": "Potato",
+					"Qty": "1.0E+50"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "plantation",
+				"Qty": 17
+			},
+			"BaseCompletionTime": 486,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "plantation",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "plantation",
+				"Threshold": 15000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "biodome",
+			"Name": "Biodome",
+			"ResourceType": "biodome",
+			"GeneratorType": "Manual",
+			"IndustryId": "potatofarm",
+			"Cost": [
+				{
+					"Resource": "OceanFarm",
+					"Qty": "1.0E+06"
+				},
+				{
+					"Resource": "Potato",
+					"Qty": "1.0E+65"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "oceanfarm",
+				"Qty": 20
+			},
+			"BaseCompletionTime": 1458,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "oceanfarm",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "oceanfarm",
+				"Threshold": 40000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "skyfarm",
+			"Name": "Air Rescue",
+			"ResourceType": "skyfarm",
+			"GeneratorType": "Manual",
+			"IndustryId": "potatofarm",
+			"Cost": [
+				{
+					"Resource": "Biodome",
+					"Qty": "5.0E+06"
+				},
+				{
+					"Resource": "Potato",
+					"Qty": "1.0E+82"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "biodome",
+				"Qty": 23
+			},
+			"BaseCompletionTime": 4374,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "biodome",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "biodome",
+				"Threshold": 100000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "chef",
+			"Name": "Chef",
+			"ResourceType": "chef",
+			"GeneratorType": "Manual",
+			"IndustryId": "table",
+			"Cost": [
+				{
+					"Resource": "Takeout",
+					"Qty": "5.0E+01"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "takeout",
+				"Qty": 4
+			},
+			"BaseCompletionTime": 4,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "takeout",
+					"Threshold": 0
+				}
+			],
+			"Unlock": {
+				"ConditionType": "IndustryUnlocked",
+				"ConditionId": "table",
+				"Threshold": 0
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "recipe",
+			"Name": "Recipe",
+			"ResourceType": "recipe",
+			"GeneratorType": "Manual",
+			"IndustryId": "table",
+			"Cost": [
+				{
+					"Resource": "Chef",
+					"Qty": "500"
+				},
+				{
+					"Resource": "Takeout",
+					"Qty": "10000000"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "chef",
+				"Qty": 10
+			},
+			"BaseCompletionTime": 8,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "chef",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "chef",
+				"Threshold": 5000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "oven",
+			"Name": "Oven",
+			"ResourceType": "oven",
+			"GeneratorType": "Manual",
+			"IndustryId": "table",
+			"Cost": [
+				{
+					"Resource": "Recipe",
+					"Qty": "1000"
+				},
+				{
+					"Resource": "Takeout",
+					"Qty": "1.0E+14"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "recipe",
+				"Qty": 16
+			},
+			"BaseCompletionTime": 16,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "recipe",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "recipe",
+				"Threshold": 100000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "chocolate",
+			"Name": "Chocolate",
+			"ResourceType": "chocolate",
+			"GeneratorType": "Manual",
+			"IndustryId": "table",
+			"Cost": [
+				{
+					"Resource": "Oven",
+					"Qty": "5000"
+				},
+				{
+					"Resource": "Takeout",
+					"Qty": "1.0E+21"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "oven",
+				"Qty": 22
+			},
+			"BaseCompletionTime": 32,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "oven",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "oven",
+				"Threshold": 1000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "fries",
+			"Name": "Fries",
+			"ResourceType": "fries",
+			"GeneratorType": "Manual",
+			"IndustryId": "table",
+			"Cost": [
+				{
+					"Resource": "Chocolate",
+					"Qty": "20000"
+				},
+				{
+					"Resource": "Takeout",
+					"Qty": "1.0E+31"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "chocolate",
+				"Qty": 28
+			},
+			"BaseCompletionTime": 64,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "chocolate",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "chocolate",
+				"Threshold": 3000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "pumpkinbucket",
+			"Name": "Pumpkin Bucket",
+			"ResourceType": "pumpkinbucket",
+			"GeneratorType": "Manual",
+			"IndustryId": "table",
+			"Cost": [
+				{
+					"Resource": "fries",
+					"Qty": "1.0E+05"
+				},
+				{
+					"Resource": "Takeout",
+					"Qty": "1.0E+44"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "fries",
+				"Qty": 34
+			},
+			"BaseCompletionTime": 128,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "fries",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "fries",
+				"Threshold": 8000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "pizza",
+			"Name": "Pizza",
+			"ResourceType": "pizza",
+			"GeneratorType": "Manual",
+			"IndustryId": "table",
+			"Cost": [
+				{
+					"Resource": "pumpkinbucket",
+					"Qty": "500000"
+				},
+				{
+					"Resource": "Takeout",
+					"Qty": "1.0E+61"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "pumpkinbucket",
+				"Qty": 40
+			},
+			"BaseCompletionTime": 256,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "pumpkinbucket",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "pumpkinbucket",
+				"Threshold": 25000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "roast",
+			"Name": "Roast",
+			"ResourceType": "roast",
+			"GeneratorType": "Manual",
+			"IndustryId": "table",
+			"Cost": [
+				{
+					"Resource": "Pizza",
+					"Qty": "2000000"
+				},
+				{
+					"Resource": "Takeout",
+					"Qty": "1.0E+78"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "pizza",
+				"Qty": 46
+			},
+			"BaseCompletionTime": 512,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "pizza",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "pizza",
+				"Threshold": 40000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "potatovolcano",
+			"Name": "Potato Volcano",
+			"ResourceType": "potatovolcano",
+			"GeneratorType": "Manual",
+			"IndustryId": "table",
+			"Cost": [
+				{
+					"Resource": "Roast",
+					"Qty": "1.0E+7"
+				},
+				{
+					"Resource": "Takeout",
+					"Qty": "1.0E+97"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "2"
+				}
+			],
+			"Generate": {
+				"Resource": "roast",
+				"Qty": 52
+			},
+			"BaseCompletionTime": 1024,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "roast",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "roast",
+				"Threshold": 75000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		}
+	],
+	"Industries": [
+		{
+			"Id": "potatofarm",
+			"SortingOrder": 1,
+			"VisibleConditions": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "potato"
+				}
+			],
+			"InteractableConditions": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "potato",
+					"Threshold": 0
+				}
+			]
+		},
+		{
+			"Id": "table",
+			"SortingOrder": 2,
+			"UnlockCostResourceId": "Potato",
+			"UnlockCostResourceQty": 1000000000000,
+			"VisibleConditions": [
+				{
+					"ConditionType": "IndustryUnlocked",
+					"ConditionId": "potatofarm"
+				}
+			],
+			"InteractableConditions": [
+				{
+					"ConditionType": "IndustryUnlocked",
+					"ConditionId": "potatofarm",
+					"Threshold": 0
+				}
+			]
+		}
+	],
+	"MiscBalance": {
+		"SoftCurrencyId": "darkscience",
+		"PrimaryGeneratorId": "comradegenerator",
+		"PrimaryResourceId": "comrade",
+		"HardToSoftCurrencyConversionRatio": 20,
+		"OfferwallPlatforms": "android",
+		"TotalSpendIncludesLte": false,
+		"DaysForRecentSpend": 26,
+		"RanksToTriggerOffers": "4,7,10,13,15",
+		"ComradeSpendWarningEnableRank": 3,
+		"ReferralReward": 110
+	},
+	"Missions": [
+		{
+			"Id": "M0001",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "TradesSinceSubscription",
+				"Threshold": 1,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m01",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0002",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 15,
+				"ConditionId": "farmer"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0003",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 40000,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0004",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 777,
+				"ConditionId": "farmer"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0005",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 1,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0006",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2120000,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0007",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2882,
+				"ConditionId": "farmer"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0008",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 800000000,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0009",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5000,
+				"ConditionId": "garden"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0010",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0011",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 222000000000,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m02",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0012",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 30500,
+				"ConditionId": "garden"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0013",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "IndustryUnlocked",
+				"Threshold": 1,
+				"ConditionId": "table"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0014",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "TradesSinceSubscription",
+				"Threshold": 1,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0015",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0016",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 101,
+				"ConditionId": "chef"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m03",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0017",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 10000,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0018",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 565,
+				"ConditionId": "mill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0019",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4994,
+				"ConditionId": "chef"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0020",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0021",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2000000,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0022",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 6,
+				"ConditionId": "recipe"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0023",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 360000,
+				"ConditionId": "mill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m04",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0024",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3443,
+				"ConditionId": "recipe"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0025",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3e22,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0026",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0027",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 900000,
+				"ConditionId": "mill"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0028",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 91200,
+				"ConditionId": "recipe"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0029",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 250000000000000,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m05",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0030",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 44,
+				"ConditionId": "farm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0031",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 42,
+				"ConditionId": "oven"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0032",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0033",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 62626,
+				"ConditionId": "farm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0034",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 576576,
+				"ConditionId": "oven"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0035",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7e19,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0036",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1299999,
+				"ConditionId": "farm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m06",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0037",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.5e32,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0038",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0039",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 7,
+				"ConditionId": "chocolate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0040",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3777777,
+				"ConditionId": "farm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0041",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2200,
+				"ConditionId": "chocolate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m07",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0042",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.2e26,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0043",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 321,
+				"ConditionId": "plantation"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0044",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0045",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1010000,
+				"ConditionId": "chocolate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0046",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 789000,
+				"ConditionId": "plantation"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0047",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2888000,
+				"ConditionId": "chocolate"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0048",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.77e45,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m08",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0049",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.6e30,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0050",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0051",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 300,
+				"ConditionId": "fries"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0052",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 10996666,
+				"ConditionId": "plantation"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m09",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0053",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 158910,
+				"ConditionId": "fries"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0054",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6e49,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0055",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 44,
+				"ConditionId": "oceanfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0056",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0057",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4343434,
+				"ConditionId": "fries"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0058",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 663322,
+				"ConditionId": "oceanfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m10",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0059",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5e42,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0060",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4,
+				"ConditionId": "pumpkinbucket"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0061",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.3e57,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0062",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0063",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 22110000,
+				"ConditionId": "oceanfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0064",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 666999,
+				"ConditionId": "pumpkinbucket"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0065",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5e57,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0066",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 12000000,
+				"ConditionId": "pumpkinbucket"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m11",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0067",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.2e65,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0068",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0069",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 500,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0070",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 7,
+				"ConditionId": "pizza"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0071",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2222222,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0072",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 36363,
+				"ConditionId": "pizza"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m12",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0073",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4e69,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0074",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0075",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 33332222,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0076",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 22222222,
+				"ConditionId": "pizza"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0077",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.2e76,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0078",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 21,
+				"ConditionId": "roast"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0079",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5e81,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0080",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0081",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 79999999,
+				"ConditionId": "biodome"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m13",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0082",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 7070707,
+				"ConditionId": "roast"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0083",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 9,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0084",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.2e85,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0085",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 55999,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0086",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0087",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 69000000,
+				"ConditionId": "roast"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0088",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 12777333,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0089",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0090",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1e99,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0091",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 49900000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m14",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0092",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0093",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 15700,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0094",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 99900000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0095",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5330000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0096",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e98,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0097",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 199000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0098",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 4,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0099",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 80000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0100",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1e114,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0101",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8e101,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0102",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 299000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0103",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1500,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0104",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1e120,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0105",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 160000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0106",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e106,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0107",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 400000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0108",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1750,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0109",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4e124,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0110",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 240000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0111",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6e109,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0112",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 500000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0113",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 2000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0114",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9e129,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0115",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 320000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0116",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8e113,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0117",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 700000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0118",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 2250,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0119",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1e135,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0120",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 400000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0121",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e118,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0122",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 900000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0123",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 2500,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0124",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4e139,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0125",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 540000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0126",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6e121,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0127",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1200000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0128",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 2750,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0129",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9e144,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0130",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 700000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0131",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8e125,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0132",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1500000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0133",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 3000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0134",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1e150,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0135",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 900000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0136",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e130,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0137",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2000000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0138",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4e154,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0139",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1200000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0140",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6e133,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0141",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2700000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0142",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 4000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0143",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9e159,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0144",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1500000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0145",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8e137,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0146",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3500000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0147",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1e165,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0148",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2000000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0149",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e142,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0150",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4500000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0151",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 5000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0152",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4e169,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0153",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4050000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0154",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6e146,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0155",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 15000000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0156",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9e174,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0157",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 12500000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0158",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8e151,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0159",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 50000000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0160",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1e180,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0161",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 40000000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0162",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e156,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0163",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 150000000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0164",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4e185,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0165",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 135000000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0166",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6e160,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0167",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 540000000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0168",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9e189,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0169",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 500000000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0170",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8e164,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0171",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1600000000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0172",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1e196,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0173",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1500000000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0174",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e170,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0175",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5500000000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0176",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4e200,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0177",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4500000000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0178",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6e174,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0179",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 18000000000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0180",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9e205,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0181",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 15000000000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0182",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8e178,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0183",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 60000000000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0184",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1e211,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0185",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 60000000000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0186",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e185,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0187",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 350000000000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0188",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4e220,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0189",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 900000000000000,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0190",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6e197,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0191",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 18000000000000000,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0192",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9e239,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0193",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.5e17,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0194",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8e219,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0195",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 8e18,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0196",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1e269,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0197",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2e20,
+				"ConditionId": "potatovolcano"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0198",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e250,
+				"ConditionId": "potato"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0199",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3e22,
+				"ConditionId": "skyfarm"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0200",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4e307,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		}
+	],
+	"OfferPools": [
+		{
+			"SegmentId": "LteSegment",
+			"OfferType": "Permanent",
+			"ShowTakeover": false,
+			"OfferDataList": [
+				{
+					"ItemId": "t07_lte_starter",
+					"Duration": 0
+				}
+			]
+		},
+		{
+			"SegmentId": "LteSegment",
+			"OfferType": "RankUp",
+			"ShowTakeover": true,
+			"OfferDataList": [
+				{
+					"ItemId": "t04_lte_rank4",
+					"Duration": 0
+				},
+				{
+					"ItemId": "t05_lte_rank7",
+					"Duration": 0
+				},
+				{
+					"ItemId": "t08_lte_rank10",
+					"Duration": 0
+				},
+				{
+					"ItemId": "t09_lte_rank13",
+					"Duration": 0
+				},
+				{
+					"ItemId": "t10_lte_rank15",
+					"Duration": 0
+				}
+			]
+		}
+	],
+	"Promotions": [],
+	"Ranks": [
+		{
+			"Rank": "1",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "0",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 0.5,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 0.6,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 1,
+			"AirDropScience": 10,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "2",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "4",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 0.6,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 0.7,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 1,
+			"AirDropScience": 10,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "3",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "4",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 0.75,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 0.8,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 2,
+			"AirDropScience": 10,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "4",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 0.9,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 0.9,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 3,
+			"AirDropScience": 10,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "5",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1.1,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 4,
+			"AirDropScience": 10,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "6",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1.3,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.1,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 5,
+			"AirDropScience": 10,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "7",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1.55,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.2,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 6,
+			"AirDropScience": 10,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "8",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 1.8,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.3,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 7,
+			"AirDropScience": 10,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "9",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 2.1,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.4,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 8,
+			"AirDropScience": 10,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "10",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 2.4,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.5,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 9,
+			"AirDropScience": 20,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "11",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 2.7,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.6,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 10,
+			"AirDropScience": 20,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "12",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "6",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 3,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.7,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 12,
+			"AirDropScience": 20,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "13",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "8",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 3.25,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 1.9,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 14,
+			"AirDropScience": 20,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "14",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "8",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 3.5,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2.1,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 16,
+			"AirDropScience": 20,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "15",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "10",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 3.75,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2.3,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 18,
+			"AirDropScience": 30,
+			"AirDropRankUpCoolDown": 30
+		},
+		{
+			"Rank": "16",
+			"Name": "UNUSED",
+			"SpriteName": "art-avatar",
+			"Missions": "12",
+			"ActiveMissionCount": 3,
+			"RewardType": "None",
+			"NormalGachaMultiplier": 4,
+			"PremiumGachaMultiplier": 1,
+			"NormalGachaMultiplierScience": 2.4,
+			"PremiumGachaMultiplierScience": 1,
+			"GachaMultiplierTrophy": 20,
+			"AirDropScience": 30,
+			"AirDropRankUpCoolDown": 30
+		}
+	],
+	"ResearcherRankCosts": [
+		{
+			"Rarity": "Common",
+			"Quantity": [
+				9999
+			],
+			"Science": [
+				999999
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Quantity": [
+				9999
+			],
+			"Science": [
+				999999
+			]
+		},
+		{
+			"Rarity": "Epic",
+			"Quantity": [
+				9999
+			],
+			"Science": [
+				999999
+			]
+		},
+		{
+			"Rarity": "Supreme",
+			"Quantity": [
+				9999
+			],
+			"Science": [
+				999999
+			]
+		},
+		{
+			"Rarity": "LteCommon",
+			"Quantity": [
+				5,
+				10,
+				20,
+				50,
+				100,
+				200,
+				400
+			],
+			"Science": [
+				100,
+				200,
+				300,
+				400,
+				800,
+				2000,
+				4000
+			]
+		},
+		{
+			"Rarity": "LteRare",
+			"Quantity": [
+				5,
+				10,
+				20,
+				50,
+				100
+			],
+			"Science": [
+				250,
+				500,
+				1000,
+				2500,
+				5000
+			]
+		}
+	],
+	"Researchers": [
+		{
+			"Id": "FUS001",
+			"Name": "Ringo Ringlet",
+			"Description": "researcher.FUS001.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"farmer"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 1,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS038",
+			"Name": "SLIPPY LENNOX",
+			"Description": "researcher.FUS038.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"garden"
+			],
+			"ExpoMultiplier": 2,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 3,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS049",
+			"Name": "Dorothy Quixote",
+			"Description": "researcher.FUS049.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"mill"
+			],
+			"ExpoMultiplier": 3,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 4,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS054",
+			"Name": "Wayne Brayne",
+			"Description": "researcher.FUS054.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"farm"
+			],
+			"ExpoMultiplier": 4,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 6,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS003",
+			"Name": "Ricky Jay",
+			"Description": "researcher.FUS003.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"plantation"
+			],
+			"ExpoMultiplier": 5,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 8,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS025",
+			"Name": "Sandy Ramius",
+			"Description": "researcher.FUS025.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"oceanfarm"
+			],
+			"ExpoMultiplier": 6,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 10,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS005",
+			"Name": "Spudly Do Right",
+			"Description": "researcher.FUS005.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"biodome"
+			],
+			"ExpoMultiplier": 7,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 12,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS020",
+			"Name": "Uncle Smurf",
+			"Description": "researcher.FUS020.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"skyfarm"
+			],
+			"ExpoMultiplier": 8,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 14,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS037",
+			"Name": "I DREAM OF BILL",
+			"Description": "researcher.FUS037.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"chef"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 4,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS056",
+			"Name": "Tiny Cakes",
+			"Description": "researcher.FUS056.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"recipe"
+			],
+			"ExpoMultiplier": 2,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 5,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS057",
+			"Name": "Keebler Monster",
+			"Description": "researcher.FUS057.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"oven"
+			],
+			"ExpoMultiplier": 3,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 6,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS070",
+			"Name": "Iggy Glooper",
+			"Description": "researcher.FUS070.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"chocolate"
+			],
+			"ExpoMultiplier": 4,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 7,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS071",
+			"Name": "Fry 9000",
+			"Description": "researcher.FUS071.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"fries"
+			],
+			"ExpoMultiplier": 5,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 9,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS061",
+			"Name": "Jack O’Berry",
+			"Description": "researcher.FUS061.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"pumpkinbucket"
+			],
+			"ExpoMultiplier": 6,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 11,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS072",
+			"Name": "Crusty Cowabunga",
+			"Description": "researcher.FUS072.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"pizza"
+			],
+			"ExpoMultiplier": 7,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 13,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS046",
+			"Name": "Tomby Pig",
+			"Description": "researcher.FUS046.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"roast"
+			],
+			"ExpoMultiplier": 8,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 14,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS073",
+			"Name": "Ms. Simmer",
+			"Description": "researcher.FUS073.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"potatovolcano"
+			],
+			"ExpoMultiplier": 9,
+			"ExpoGrowth": 3,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 15,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS015",
+			"Name": "Assistant to the Major",
+			"Description": "researcher.FUS015.desc",
+			"ModType": "TradePayoutMultiplier",
+			"TargetIds": [
+				"potato"
+			],
+			"ExpoMultiplier": 1.5,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 1,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS074",
+			"Name": "Grimace Bleuette",
+			"Description": "researcher.FUS074.desc",
+			"ModType": "TradePayoutMultiplier",
+			"TargetIds": [
+				"takeout"
+			],
+			"ExpoMultiplier": 3.5,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 8,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS016",
+			"Name": "Mac Tuber",
+			"Description": "researcher.FUS016.desc",
+			"ModType": "GeneratorPayoutMultiplier",
+			"TargetIds": [
+				"potatofarm"
+			],
+			"ExpoMultiplier": 0.5,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 1,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS075",
+			"Name": "Rapido Fryhamburg",
+			"Description": "researcher.FUS075.desc",
+			"ModType": "GeneratorPayoutMultiplier",
+			"TargetIds": [
+				"table"
+			],
+			"ExpoMultiplier": 1.5,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 11,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS018",
+			"Name": "Dr. Shortstack",
+			"Description": "researcher.FUS018.desc",
+			"ModType": "GeneratorCritChance",
+			"TargetIds": [
+				"potatofarm, table"
+			],
+			"ExpoMultiplier": 0,
+			"ExpoGrowth": 0,
+			"UpgradePower": 0,
+			"CurveModifier": 0.12,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 7,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS019",
+			"Name": "Alf Stark",
+			"Description": "researcher.FUS019.desc",
+			"ModType": "GeneratorPayoutMultiplier",
+			"TargetIds": [
+				"potatofarm, table"
+			],
+			"ExpoMultiplier": 1.25,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteRare",
+			"PlayerRankUnlock": 10,
+			"ResearchOutputType": "Constant"
+		}
+	],
+	"Resources": [
+		{
+			"Id": "potato",
+			"Singular": "Potato",
+			"Plural": "Potatoes",
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "takeout",
+			"Singular": "Takeout",
+			"Plural": "Takeouts",
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "farmer",
+			"Singular": "Farmer",
+			"Plural": "Farmers",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "garden",
+			"Singular": "Garden",
+			"Plural": "Gardens",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "mill",
+			"Singular": "Mill",
+			"Plural": "Mills",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "farm",
+			"Singular": "Farm",
+			"Plural": "Farms",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "plantation",
+			"Singular": "Plantation",
+			"Plural": "Plantations",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "oceanfarm",
+			"Singular": "Ocean Farm",
+			"Plural": "Ocean Farms",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "biodome",
+			"Singular": "Biodome",
+			"Plural": "Biodome",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "skyfarm",
+			"Singular": "Sky Farm",
+			"Plural": "Sky Farms",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "chef",
+			"Singular": "Chef",
+			"Plural": "Chefs",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "recipe",
+			"Singular": "Recipe",
+			"Plural": "Recipe",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "oven",
+			"Singular": "Oven",
+			"Plural": "Ovens",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "chocolate",
+			"Singular": "Chocolate",
+			"Plural": "Chocolates",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "fries",
+			"Singular": "Fries",
+			"Plural": "Fries",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "pumpkinbucket",
+			"Singular": "Pumpkin Bucket",
+			"Plural": "Pumpkin Buckets",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "pizza",
+			"Singular": "Pizza",
+			"Plural": "Pizzas",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "roast",
+			"Singular": "Roast",
+			"Plural": "Roasts",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "potatovolcano",
+			"Singular": "Potato Volcano",
+			"Plural": "Potato Volcanoes",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "darkscience",
+			"Singular": "Dark Science",
+			"Plural": "Dark Science",
+			"CurrencyCode": "SC",
+			"Resettable": false,
+			"SharedData": false
+		},
+		{
+			"Id": "comrade",
+			"Singular": "Comrade",
+			"Plural": "Comrades",
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "comradegenerator",
+			"Singular": "Comrade",
+			"Plural": "Comrades",
+			"StartingQty": 1,
+			"Resettable": true,
+			"SharedData": false
+		},
+		{
+			"Id": "gold",
+			"Singular": "Gold",
+			"Plural": "Gold",
+			"CurrencyCode": "GO",
+			"Resettable": false,
+			"SharedData": true
+		},
+		{
+			"Id": "trophy",
+			"Singular": "Trophy",
+			"Plural": "Trophies",
+			"StartingQty": 0,
+			"Resettable": false,
+			"SharedData": false
+		},
+		{
+			"Id": "timehack_1",
+			"Singular": "Basic Warp",
+			"Plural": "Basic Warps",
+			"CurrencyCode": "TH",
+			"Resettable": false,
+			"SharedData": true
+		},
+		{
+			"Id": "timehack_4",
+			"Singular": "Super Warp",
+			"Plural": "Super Warps",
+			"CurrencyCode": "TH",
+			"Resettable": false,
+			"SharedData": true
+		},
+		{
+			"Id": "timehack_24",
+			"Singular": "Elite Warp",
+			"Plural": "Elite Warps",
+			"CurrencyCode": "TH",
+			"Resettable": false,
+			"SharedData": true
+		},
+		{
+			"Id": "specops_point",
+			"Singular": "SpecialOps Point",
+			"Plural": "SpecialOps Points",
+			"StartingQty": 0,
+			"Resettable": false,
+			"SharedData": false
+		},
+		{
+			"Id": "scientist",
+			"Singular": "Science",
+			"Plural": "Science",
+			"Resettable": false,
+			"SharedData": false
+		}
+	],
+	"Segments": [
+		{
+			"Id": "LteSegment",
+			"Priority": 1,
+			"Triggers": [
+				{
+					"Type": "Rank",
+					"Operator": ">=",
+					"Value": 1
+				}
+			]
+		}
+	],
+	"Store": [
+		{
+			"Name": "Bit O'Gold",
+			"InternalId": "t02_gold",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 199,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 160,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold1\"}"
+		},
+		{
+			"Name": "Lot O'Gold",
+			"InternalId": "t05_gold",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold2\"}"
+		},
+		{
+			"Name": "Tonne O'Gold",
+			"InternalId": "t10_gold",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1200,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold3\",\"popular\":\"true\"}"
+		},
+		{
+			"Name": "Bucket O'Gold",
+			"InternalId": "t20_gold",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 1999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 2500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold4\"}"
+		},
+		{
+			"Name": "Barrel O'Gold",
+			"InternalId": "t50_gold",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 4999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 6500,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold5\"}"
+		},
+		{
+			"Name": "Wheels O'Gold",
+			"InternalId": "t60_gold",
+			"ItemClass": "VirtualCurrencyGold",
+			"Price": 9999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 14000,
+					"RewardId": "GO"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-gold6\",\"bestValue\":\"true\"}"
+		},
+		{
+			"Name": "Discovery Pack",
+			"InternalId": "darkscience_1000",
+			"ItemClass": "VirtualCurrencyScience",
+			"Price": 50,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 1000,
+					"RewardId": "SC"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-science1\",\"topUp\":\"true\"}"
+		},
+		{
+			"Name": "Wise Pack",
+			"InternalId": "darkscience_5000",
+			"ItemClass": "VirtualCurrencyScience",
+			"Price": 200,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 5000,
+					"RewardId": "SC"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-science2\"}"
+		},
+		{
+			"Name": "Brilliant Pack",
+			"InternalId": "darkscience_25000",
+			"ItemClass": "VirtualCurrencyScience",
+			"Price": 800,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "VirtualCurrency",
+					"Value": 25000,
+					"RewardId": "SC"
+				}
+			],
+			"CustomData": "{\"icon\":\"vc-science3\",\"bestValue\":\"true\"}"
+		},
+		{
+			"Name": "Titanium Capsule",
+			"InternalId": "gacha_titanium",
+			"ItemClass": "Gacha",
+			"Price": 750,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "titanium"
+				}
+			],
+			"CustomData": "{\"icon\":\"ga-titanium\"}"
+		},
+		{
+			"Name": "Skip 1 Hour!",
+			"InternalId": "timehack_1",
+			"ItemClass": "Experiment",
+			"Price": 50,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"Value": 1,
+					"RewardId": "EX167"
+				}
+			],
+			"CustomData": "{\"rarity\":\"Rare\"}"
+		},
+		{
+			"Name": "Skip 4 Hours!",
+			"InternalId": "timehack_4",
+			"ItemClass": "Experiment",
+			"Price": 150,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"Value": 1,
+					"RewardId": "EX164"
+				}
+			],
+			"CustomData": "{\"rarity\":\"Epic\"}"
+		},
+		{
+			"Name": "Skip 1 Day!",
+			"InternalId": "timehack_24",
+			"ItemClass": "Experiment",
+			"Price": 750,
+			"Currency": "GO",
+			"Tags": [
+				"GoldPurchase"
+			],
+			"Rewards": [
+				{
+					"Reward": "Experiment",
+					"Value": 1,
+					"RewardId": "EX165"
+				}
+			],
+			"CustomData": "{\"rarity\":\"Supreme\"}"
+		},
+		{
+			"Name": "Event Starter Pack",
+			"InternalId": "t07_lte_starter",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 699,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "titanium"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 100,
+					"RewardId": "gold"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 2500,
+					"RewardId": "darkscience"
+				}
+			],
+			"BundleTheme": "fusfarm",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 4 Bundle",
+			"InternalId": "t04_lte_rank4",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 399,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 15,
+					"RewardId": "FUS016"
+				},
+				{
+					"Reward": "Researcher",
+					"Value": 50,
+					"RewardId": "FUS037"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 1,
+					"RewardId": "timehack_1"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 1000,
+					"RewardId": "darkscience"
+				}
+			],
+			"BundleTheme": "fusfarm",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 7 Bundle",
+			"InternalId": "t05_lte_rank7",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 499,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 15,
+					"RewardId": "FUS018"
+				},
+				{
+					"Reward": "Researcher",
+					"Value": 200,
+					"RewardId": "FUS057"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 2000,
+					"RewardId": "darkscience"
+				}
+			],
+			"BundleTheme": "fusfarm",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 10 Bundle",
+			"InternalId": "t08_lte_rank10",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 799,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 30,
+					"RewardId": "FUS019"
+				},
+				{
+					"Reward": "Researcher",
+					"Value": 300,
+					"RewardId": "FUS061"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 3000,
+					"RewardId": "darkscience"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 2,
+					"RewardId": "timehack_1"
+				}
+			],
+			"BundleTheme": "fusfarm",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 13 Bundle",
+			"InternalId": "t09_lte_rank13",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 899,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "tech"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 5000,
+					"RewardId": "darkscience"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 5,
+					"RewardId": "timehack_1"
+				}
+			],
+			"BundleTheme": "fusfarm",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Event Rank 15 Bundle",
+			"InternalId": "t10_lte_rank15",
+			"ItemClass": "VirtualCurrencyBundle",
+			"Price": 999,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase",
+				"Bundle"
+			],
+			"Rewards": [
+				{
+					"Reward": "Researcher",
+					"Value": 300,
+					"RewardId": "FUS073"
+				},
+				{
+					"Reward": "Gacha",
+					"Value": 1,
+					"RewardId": "tech"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 3000,
+					"RewardId": "darkscience"
+				},
+				{
+					"Reward": "Resources",
+					"Value": 4,
+					"RewardId": "timehack_4"
+				}
+			],
+			"BundleTheme": "fusfarm",
+			"CustomData": "{\"icon\":\"vc-ftb\"}"
+		},
+		{
+			"Name": "Ad Free Airdrops",
+			"InternalId": "t03_adfreeairdrop03",
+			"ItemClass": "AdFreeAirdrop",
+			"Price": 299,
+			"Currency": "RM",
+			"Tags": [
+				"RealMoneyPurchase"
+			]
+		}
+	],
+	"SupremePassConfig": {
+		"NumExtraFreeGachaCapsule": 2,
+		"PropagandaAdsRemoved": true,
+		"SpecOpsTimeReduction": 4,
+		"NumExtraSpecOpsSlots": 1,
+		"NumPerks": 6,
+		"SupremePassStoreItemId": "t10_supremepass",
+		"PurchaseTierCost": 250
+	},
+	"Trades": [
+		{
+			"Resource": "potato",
+			"CostExponent": 10,
+			"CostMultiplier": 500,
+			"ComradeAdd": 1,
+			"MaxLevel": 249
+		},
+		{
+			"Resource": "takeout",
+			"CostExponent": 10,
+			"CostMultiplier": 500,
+			"ComradeAdd": 1,
+			"MaxLevel": 249
+		}
+	]
+};
+
 DATA["fuspet-bal-32"] = 
 {
 	"Ads": [
