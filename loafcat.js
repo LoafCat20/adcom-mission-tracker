@@ -137785,7 +137785,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7000000000,
+				"Threshold": 700000000,
 				"ConditionId": "kaiju"
 			},
 			"Reward": {
