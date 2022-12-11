@@ -137421,7 +137421,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1e118,
+				"Threshold": 1e120,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -137491,7 +137491,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4e122,
+				"Threshold": 4e124,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -137561,7 +137561,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9e127,
+				"Threshold": 9e129,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -137631,7 +137631,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1e133,
+				"Threshold": 1e135,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -137701,7 +137701,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4e138,
+				"Threshold": 4e139,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -137771,7 +137771,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9e143,
+				"Threshold": 9e144,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -137841,7 +137841,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1e149,
+				"Threshold": 1e150,
 				"ConditionId": "collar"
 			},
 			"Reward": {
@@ -137967,7 +137967,7 @@ DATA["fuspet-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9e158,
+				"Threshold": 9e159,
 				"ConditionId": "collar"
 			},
 			"Reward": {
