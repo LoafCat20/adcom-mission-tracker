@@ -139777,7 +139777,7 @@ DATA["fuspet-bal-32"] =
 				{
 					"Reward": "Researcher",
 					"Value": 50,
-					"RewardId": "FUS063"
+					"RewardId": "FUS065"
 				},
 				{
 					"Reward": "Researcher",
@@ -139812,7 +139812,7 @@ DATA["fuspet-bal-32"] =
 				{
 					"Reward": "Researcher",
 					"Value": 200,
-					"RewardId": "FUS028"
+					"RewardId": "FUS051"
 				},
 				{
 					"Reward": "Researcher",
@@ -139842,12 +139842,12 @@ DATA["fuspet-bal-32"] =
 				{
 					"Reward": "Researcher",
 					"Value": 30,
-					"RewardId": "FUS031"
+					"RewardId": "FUS019"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 300,
-					"RewardId": "FUS019"
+					"RewardId": "FUS029"
 				},
 				{
 					"Reward": "Resources",
@@ -139907,7 +139907,7 @@ DATA["fuspet-bal-32"] =
 				{
 					"Reward": "Researcher",
 					"Value": 300,
-					"RewardId": "FUS066"
+					"RewardId": "FUS039"
 				},
 				{
 					"Reward": "Gacha",
