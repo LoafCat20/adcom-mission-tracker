@@ -135757,13 +135757,13 @@ DATA["fusfarm-bal-30"] =
 			"Id": "M0001",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 1,
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 500,
 				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m01",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -135772,7 +135772,7 @@ DATA["fusfarm-bal-30"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 15,
+				"Threshold": 20,
 				"ConditionId": "farmer"
 			},
 			"Reward": {
@@ -135785,13 +135785,13 @@ DATA["fusfarm-bal-30"] =
 			"Id": "M0003",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 40000,
+				"ConditionType": "TradesSinceSubscription",
+				"Threshold": 2,
 				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m01",
 				"Value": 1
 			}
 		},
@@ -136079,9 +136079,9 @@ DATA["fusfarm-bal-30"] =
 			"Id": "M0024",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 3443,
-				"ConditionId": "recipe"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3e22,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136093,9 +136093,9 @@ DATA["fusfarm-bal-30"] =
 			"Id": "M0025",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3e22,
-				"ConditionId": "potato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3443,
+				"ConditionId": "recipe"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136149,9 +136149,9 @@ DATA["fusfarm-bal-30"] =
 			"Id": "M0029",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 250000000000000,
-				"ConditionId": "takeout"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4,
+				"ConditionId": "farm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136163,9 +136163,9 @@ DATA["fusfarm-bal-30"] =
 			"Id": "M0030",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 44,
-				"ConditionId": "farm"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2500000000000000,
+				"ConditionId": "takeout"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136626,8 +136626,8 @@ DATA["fusfarm-bal-30"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 22110000,
-				"ConditionId": "oceanfarm"
+				"Threshold": 66999,
+				"ConditionId": "pumpkinbucket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136640,8 +136640,8 @@ DATA["fusfarm-bal-30"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 666999,
-				"ConditionId": "pumpkinbucket"
+				"Threshold": 33220000,
+				"ConditionId": "oceanfarm"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136681,9 +136681,9 @@ DATA["fusfarm-bal-30"] =
 			"Id": "M0067",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e65,
-				"ConditionId": "potato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 5,
+				"ConditionId": "biodome"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -136709,9 +136709,9 @@ DATA["fusfarm-bal-30"] =
 			"Id": "M0069",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 500,
-				"ConditionId": "biodome"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.2e68,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137073,9 +137073,9 @@ DATA["fusfarm-bal-30"] =
 			"Id": "M0095",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 5330000,
-				"ConditionId": "potatovolcano"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e97,
+				"ConditionId": "potato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -137087,9 +137087,9 @@ DATA["fusfarm-bal-30"] =
 			"Id": "M0096",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2e98,
-				"ConditionId": "potato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 26600000,
+				"ConditionId": "potatovolcano"
 			},
 			"Reward": {
 				"Reward": "Gacha",
