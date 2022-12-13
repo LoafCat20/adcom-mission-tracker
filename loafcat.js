@@ -111987,7 +111987,7 @@ DATA["defense-bal-21"] =
 			"Name": "Earth Wyrm Jym",
 			"ModType": "TradePayoutMultiplier",
 			"TargetIds": [
-				"bullet, bandage"
+				"weapon, bandage"
 			],
 			"ExpoMultiplier": 1,
 			"ExpoGrowth": 1,
