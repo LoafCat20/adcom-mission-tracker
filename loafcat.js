@@ -148644,7 +148644,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 12,
-				"ConditionId": "station"
+				"ConditionId": "footmobile"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148686,7 +148686,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 800,
-				"ConditionId": "station"
+				"ConditionId": "footmobile"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148714,7 +148714,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 3200,
-				"ConditionId": "station"
+				"ConditionId": "footmobile"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148756,7 +148756,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 260,
-				"ConditionId": "trolley"
+				"ConditionId": "road"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148798,7 +148798,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 24000,
-				"ConditionId": "trolley"
+				"ConditionId": "road"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148868,7 +148868,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 4000,
-				"ConditionId": "airport"
+				"ConditionId": "dinghy"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148882,7 +148882,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 600,
-				"ConditionId": "train"
+				"ConditionId": "buggy"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148910,7 +148910,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10000,
-				"ConditionId": "airport"
+				"ConditionId": "dinghy"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148924,7 +148924,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 5000,
-				"ConditionId": "bomber"
+				"ConditionId": "boat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148952,7 +148952,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 300000,
-				"ConditionId": "train"
+				"ConditionId": "buggy"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148980,7 +148980,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 3000000,
-				"ConditionId": "train"
+				"ConditionId": "buggy"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148994,7 +148994,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 4000000,
-				"ConditionId": "bomber"
+				"ConditionId": "boat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149022,7 +149022,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 42,
-				"ConditionId": "express"
+				"ConditionId": "trolley"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149050,7 +149050,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 32000,
-				"ConditionId": "escapevehicle"
+				"ConditionId": "harbour"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149078,7 +149078,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 100000,
-				"ConditionId": "express"
+				"ConditionId": "trolley"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149092,7 +149092,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2000000,
-				"ConditionId": "escapevehicle"
+				"ConditionId": "harbour"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149120,7 +149120,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 30000000,
-				"ConditionId": "express"
+				"ConditionId": "trolley"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149148,7 +149148,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 15000000,
-				"ConditionId": "escapevehicle"
+				"ConditionId": "harbour"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149190,7 +149190,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 700,
-				"ConditionId": "rocket"
+				"ConditionId": "barge"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149218,7 +149218,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 20000,
-				"ConditionId": "road"
+				"ConditionId": "freight"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149232,7 +149232,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 800000,
-				"ConditionId": "rocket"
+				"ConditionId": "barge"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149260,7 +149260,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 6320000,
-				"ConditionId": "road"
+				"ConditionId": "freight"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149274,7 +149274,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 15000000,
-				"ConditionId": "rocket"
+				"ConditionId": "barge"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149316,7 +149316,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 30,
-				"ConditionId": "harbour"
+				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149344,7 +149344,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 500,
-				"ConditionId": "footmobile"
+				"ConditionId": "train"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149358,7 +149358,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 111222,
-				"ConditionId": "harbour"
+				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149386,7 +149386,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 67000,
-				"ConditionId": "footmobile"
+				"ConditionId": "train"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149400,7 +149400,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50000000,
-				"ConditionId": "harbour"
+				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149428,7 +149428,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 555444,
-				"ConditionId": "footmobile"
+				"ConditionId": "train"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149456,7 +149456,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 4,
-				"ConditionId": "dinghy"
+				"ConditionId": "leviathan"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149484,7 +149484,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 25000000,
-				"ConditionId": "footmobile"
+				"ConditionId": "train"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149498,7 +149498,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 5555,
-				"ConditionId": "dinghy"
+				"ConditionId": "leviathan"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149526,7 +149526,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 200000000,
-				"ConditionId": "footmobile"
+				"ConditionId": "train"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149540,7 +149540,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2000000,
-				"ConditionId": "dinghy"
+				"ConditionId": "leviathan"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149554,7 +149554,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50,
-				"ConditionId": "boat"
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149610,7 +149610,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 25000,
-				"ConditionId": "buggy"
+				"ConditionId": "station"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149624,7 +149624,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 60000000,
-				"ConditionId": "boat"
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149666,7 +149666,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 21212,
-				"ConditionId": "barge"
+				"ConditionId": "bomber"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149694,7 +149694,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149708,7 +149708,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 20000000,
-				"ConditionId": "barge"
+				"ConditionId": "bomber"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149736,7 +149736,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149749,8 +149749,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 400000000,
-				"ConditionId": "barge"
+				"Threshold": 160000000,
+				"ConditionId": "bomber"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149778,7 +149778,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 150000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149791,8 +149791,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 100,
-				"ConditionId": "leviathan"
+				"Threshold": 250000000,
+				"ConditionId": "bomber"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149833,8 +149833,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4000,
-				"ConditionId": "leviathan"
+				"Threshold": 4,
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149862,7 +149862,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2500000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149890,7 +149890,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149904,7 +149904,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 500000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149946,7 +149946,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2500000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149960,7 +149960,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 600000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149988,7 +149988,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 3500000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150002,7 +150002,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150029,7 +150029,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8e105,
+				"Threshold": 8e106,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -150044,7 +150044,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 5000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150072,7 +150072,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150100,7 +150100,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 8000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150128,7 +150128,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2900000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150170,7 +150170,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 13000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150198,7 +150198,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 3900000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150226,7 +150226,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 18000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150254,7 +150254,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 4200000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150296,7 +150296,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 24000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150324,7 +150324,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 5000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150352,7 +150352,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 30000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150380,7 +150380,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 6000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150422,7 +150422,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150450,7 +150450,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 7000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150478,7 +150478,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 90000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150506,7 +150506,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 8200000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150548,7 +150548,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 150000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150576,7 +150576,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 9100000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150604,7 +150604,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 300000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150632,7 +150632,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150674,7 +150674,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 700000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150702,7 +150702,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 15000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150730,7 +150730,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1000000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150758,7 +150758,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 30000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150800,7 +150800,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2000000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150828,7 +150828,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150856,7 +150856,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 5000000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150884,7 +150884,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 90000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150926,7 +150926,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 9000000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150954,7 +150954,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 100000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -150982,7 +150982,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 20000000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151010,7 +151010,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 500000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151052,7 +151052,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50000000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151080,7 +151080,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 900000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151108,7 +151108,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 90000000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151136,7 +151136,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1000000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151178,7 +151178,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 200000000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151206,7 +151206,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 5000000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151234,7 +151234,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 500000000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151262,7 +151262,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 9000000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151304,7 +151304,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 900000000000000,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151332,7 +151332,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10000000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151360,7 +151360,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2000000000000000.0,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151388,7 +151388,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50000000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151430,7 +151430,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 5000000000000000.0,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151458,7 +151458,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 90000000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151486,7 +151486,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 9000000000000000.0,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151514,7 +151514,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 100000000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151556,7 +151556,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 20000000000000000.0,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151584,7 +151584,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 500000000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151612,7 +151612,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50000000000000000.0,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151640,7 +151640,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 900000000000000,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151682,7 +151682,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 90000000000000000.0,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151710,7 +151710,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1000000000000000.0,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151738,7 +151738,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 200000000000000000.0,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151766,7 +151766,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 5000000000000000.0,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151808,7 +151808,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 800000000000000000.0,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151836,7 +151836,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 9000000000000000.0,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151864,7 +151864,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2000000000000000000.0,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151892,7 +151892,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10000000000000000.0,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151934,7 +151934,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 8000000000000000000.0,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151962,7 +151962,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 100000000000000000.0,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -151990,7 +151990,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 20000000000000000000.0,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -152018,7 +152018,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1000000000000000000.0,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -152060,7 +152060,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 800000000000000000000.0,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -152088,7 +152088,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 10000000000000000000.0,
-				"ConditionId": "leviathan"
+				"ConditionId": "rocket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -152116,7 +152116,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 8e21,
-				"ConditionId": "freight"
+				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
