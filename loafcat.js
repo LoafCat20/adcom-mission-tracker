@@ -147765,9 +147765,9 @@ DATA["fusvehicle-bal-32"] =
 			}
 		},
 		{
-			"Id": "station",
-			"Name": "Station",
-			"ResourceType": "station",
+			"Id": "footmobile",
+			"Name": "Footmobile",
+			"ResourceType": "footmobile",
 			"GeneratorType": "Manual",
 			"IndustryId": "onland",
 			"Cost": [
@@ -147809,14 +147809,14 @@ DATA["fusvehicle-bal-32"] =
 			}
 		},
 		{
-			"Id": "trolley",
-			"Name": "Trolley",
-			"ResourceType": "trolley",
+			"Id": "road",
+			"Name": "Road",
+			"ResourceType": "road",
 			"GeneratorType": "Manual",
 			"IndustryId": "onland",
 			"Cost": [
 				{
-					"Resource": "Station",
+					"Resource": "footmobile",
 					"Qty": "1.0E+01"
 				},
 				{
@@ -147829,250 +147829,10 @@ DATA["fusvehicle-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "station",
+				"Resource": "footmobile",
 				"Qty": 5
 			},
 			"BaseCompletionTime": 6,
-			"Visible": [
-				{
-					"ConditionType": "ResourceQuantity",
-					"ConditionId": "station",
-					"Threshold": 2
-				}
-			],
-			"Unlock": {
-				"ConditionType": "ResourceQuantity",
-				"ConditionId": "station",
-				"Threshold": 3000
-			},
-			"IncludeInAll": true,
-			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
-			},
-			"ObjectiveReward": {
-				"Reward": "Resources",
-				"RewardId": "darkscience",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "train",
-			"Name": "Train",
-			"ResourceType": "train",
-			"GeneratorType": "Manual",
-			"IndustryId": "onland",
-			"Cost": [
-				{
-					"Resource": "Trolley",
-					"Qty": "1.0E+02"
-				},
-				{
-					"Resource": "Wheel",
-					"Qty": "1.0E+13"
-				},
-				{
-					"Resource": "Comrade",
-					"Qty": "1"
-				}
-			],
-			"Generate": {
-				"Resource": "trolley",
-				"Qty": 7
-			},
-			"BaseCompletionTime": 12,
-			"Visible": [
-				{
-					"ConditionType": "ResourceQuantity",
-					"ConditionId": "trolley",
-					"Threshold": 2
-				}
-			],
-			"Unlock": {
-				"ConditionType": "ResourceQuantity",
-				"ConditionId": "trolley",
-				"Threshold": 50000
-			},
-			"IncludeInAll": true,
-			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
-			},
-			"ObjectiveReward": {
-				"Reward": "Resources",
-				"RewardId": "darkscience",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "express",
-			"Name": "Express",
-			"ResourceType": "express",
-			"GeneratorType": "Manual",
-			"IndustryId": "onland",
-			"Cost": [
-				{
-					"Resource": "Train",
-					"Qty": "1.0E+03"
-				},
-				{
-					"Resource": "Wheel",
-					"Qty": 1e22
-				},
-				{
-					"Resource": "Comrade",
-					"Qty": "1"
-				}
-			],
-			"Generate": {
-				"Resource": "train",
-				"Qty": 9
-			},
-			"BaseCompletionTime": 24,
-			"Visible": [
-				{
-					"ConditionType": "ResourceQuantity",
-					"ConditionId": "train",
-					"Threshold": 2
-				}
-			],
-			"Unlock": {
-				"ConditionType": "ResourceQuantity",
-				"ConditionId": "train",
-				"Threshold": 1000000
-			},
-			"IncludeInAll": true,
-			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
-			},
-			"ObjectiveReward": {
-				"Reward": "Resources",
-				"RewardId": "darkscience",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "road",
-			"Name": "Road",
-			"ResourceType": "road",
-			"GeneratorType": "Manual",
-			"IndustryId": "onland",
-			"Cost": [
-				{
-					"Resource": "Express",
-					"Qty": "1.0E+04"
-				},
-				{
-					"Resource": "Wheel",
-					"Qty": "1.0E+35"
-				},
-				{
-					"Resource": "Comrade",
-					"Qty": "1"
-				}
-			],
-			"Generate": {
-				"Resource": "express",
-				"Qty": 11
-			},
-			"BaseCompletionTime": 48,
-			"Visible": [
-				{
-					"ConditionType": "ResourceQuantity",
-					"ConditionId": "express",
-					"Threshold": 2
-				}
-			],
-			"Unlock": {
-				"ConditionType": "ResourceQuantity",
-				"ConditionId": "express",
-				"Threshold": 10000000
-			},
-			"IncludeInAll": true,
-			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
-			},
-			"ObjectiveReward": {
-				"Reward": "Resources",
-				"RewardId": "darkscience",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "footmobile",
-			"Name": "Footmobile",
-			"ResourceType": "footmobile",
-			"GeneratorType": "Manual",
-			"IndustryId": "onland",
-			"Cost": [
-				{
-					"Resource": "Road",
-					"Qty": "1.0E+05"
-				},
-				{
-					"Resource": "Wheel",
-					"Qty": "1.0E+46"
-				},
-				{
-					"Resource": "Comrade",
-					"Qty": "1"
-				}
-			],
-			"Generate": {
-				"Resource": "road",
-				"Qty": 13
-			},
-			"BaseCompletionTime": 96,
-			"Visible": [
-				{
-					"ConditionType": "ResourceQuantity",
-					"ConditionId": "road",
-					"Threshold": 2
-				}
-			],
-			"Unlock": {
-				"ConditionType": "ResourceQuantity",
-				"ConditionId": "road",
-				"Threshold": 50000000
-			},
-			"IncludeInAll": true,
-			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
-			},
-			"ObjectiveReward": {
-				"Reward": "Resources",
-				"RewardId": "darkscience",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "buggy",
-			"Name": "Buggies",
-			"ResourceType": "buggy",
-			"GeneratorType": "Manual",
-			"IndustryId": "onland",
-			"Cost": [
-				{
-					"Resource": "Footmobile",
-					"Qty": "1.0E+06"
-				},
-				{
-					"Resource": "Wheel",
-					"Qty": "1.0E+66"
-				},
-				{
-					"Resource": "Comrade",
-					"Qty": "1"
-				}
-			],
-			"Generate": {
-				"Resource": "footmobile",
-				"Qty": 15
-			},
-			"BaseCompletionTime": 192,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -148083,7 +147843,7 @@ DATA["fusvehicle-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "footmobile",
-				"Threshold": 200000000
+				"Threshold": 500
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -148093,23 +147853,71 @@ DATA["fusvehicle-bal-32"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 1
+				"Value": 2
 			}
 		},
 		{
-			"Id": "freight",
-			"Name": "Air Rescue",
-			"ResourceType": "freight",
+			"Id": "buggy",
+			"Name": "Buggy",
+			"ResourceType": "buggy",
 			"GeneratorType": "Manual",
 			"IndustryId": "onland",
 			"Cost": [
 				{
-					"Resource": "Buggy",
-					"Qty": "5.0E+06"
+					"Resource": "road",
+					"Qty": "1.0E+02"
 				},
 				{
 					"Resource": "Wheel",
-					"Qty": "1.0E+75"
+					"Qty": "1.0E+14"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "road",
+				"Qty": 7
+			},
+			"BaseCompletionTime": 12,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "road",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "road",
+				"Threshold": 25000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 2
+			}
+		},
+		{
+			"Id": "trolley",
+			"Name": "Trolley",
+			"ResourceType": "trolley",
+			"GeneratorType": "Manual",
+			"IndustryId": "onland",
+			"Cost": [
+				{
+					"Resource": "buggy",
+					"Qty": "1.0E+03"
+				},
+				{
+					"Resource": "Wheel",
+					"Qty": 1e26
 				},
 				{
 					"Resource": "Comrade",
@@ -148118,9 +147926,9 @@ DATA["fusvehicle-bal-32"] =
 			],
 			"Generate": {
 				"Resource": "buggy",
-				"Qty": 17
+				"Qty": 9
 			},
-			"BaseCompletionTime": 384,
+			"BaseCompletionTime": 24,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -148131,6 +147939,198 @@ DATA["fusvehicle-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "buggy",
+				"Threshold": 1000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 3
+			}
+		},
+		{
+			"Id": "freight",
+			"Name": "Freight",
+			"ResourceType": "freight",
+			"GeneratorType": "Manual",
+			"IndustryId": "onland",
+			"Cost": [
+				{
+					"Resource": "trolley",
+					"Qty": "1.0E+04"
+				},
+				{
+					"Resource": "Wheel",
+					"Qty": "1.0E+39"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "trolley",
+				"Qty": 11
+			},
+			"BaseCompletionTime": 48,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "trolley",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "trolley",
+				"Threshold": 10000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 3
+			}
+		},
+		{
+			"Id": "train",
+			"Name": "Train",
+			"ResourceType": "train",
+			"GeneratorType": "Manual",
+			"IndustryId": "onland",
+			"Cost": [
+				{
+					"Resource": "freight",
+					"Qty": "1.0E+05"
+				},
+				{
+					"Resource": "Wheel",
+					"Qty": "1.0E+53"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "freight",
+				"Qty": 13
+			},
+			"BaseCompletionTime": 96,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "freight",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "freight",
+				"Threshold": 50000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 4
+			}
+		},
+		{
+			"Id": "station",
+			"Name": "Station",
+			"ResourceType": "station",
+			"GeneratorType": "Manual",
+			"IndustryId": "onland",
+			"Cost": [
+				{
+					"Resource": "train",
+					"Qty": "1.0E+06"
+				},
+				{
+					"Resource": "Wheel",
+					"Qty": "1.0E+69"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "train",
+				"Qty": 15
+			},
+			"BaseCompletionTime": 192,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "train",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "train",
+				"Threshold": 200000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 32
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 4
+			}
+		},
+		{
+			"Id": "express",
+			"Name": "Express",
+			"ResourceType": "express",
+			"GeneratorType": "Manual",
+			"IndustryId": "onland",
+			"Cost": [
+				{
+					"Resource": "station",
+					"Qty": "1.0E+07"
+				},
+				{
+					"Resource": "Wheel",
+					"Qty": "1.0E+87"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "1"
+				}
+			],
+			"Generate": {
+				"Resource": "station",
+				"Qty": 17
+			},
+			"BaseCompletionTime": 384,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "station",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "station",
 				"Threshold": 600000000
 			},
 			"IncludeInAll": true,
@@ -148141,13 +148141,13 @@ DATA["fusvehicle-bal-32"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 1
+				"Value": 5
 			}
 		},
 		{
-			"Id": "airport",
-			"Name": "Airport",
-			"ResourceType": "airport",
+			"Id": "dinghy",
+			"Name": "Dinghy",
+			"ResourceType": "dinghy",
 			"GeneratorType": "Manual",
 			"IndustryId": "airwater",
 			"Cost": [
@@ -148189,15 +148189,15 @@ DATA["fusvehicle-bal-32"] =
 			}
 		},
 		{
-			"Id": "bomber",
-			"Name": "Bombers",
-			"ResourceType": "bomber",
+			"Id": "boat",
+			"Name": "Boat",
+			"ResourceType": "boat",
 			"GeneratorType": "Manual",
 			"IndustryId": "airwater",
 			"Cost": [
 				{
-					"Resource": "Airport",
-					"Qty": "1.0E+03"
+					"Resource": "dinghy",
+					"Qty": "1.0E+01"
 				},
 				{
 					"Resource": "Fuel",
@@ -148209,20 +148209,20 @@ DATA["fusvehicle-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "airport",
+				"Resource": "dinghy",
 				"Qty": 10
 			},
 			"BaseCompletionTime": 8,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
-					"ConditionId": "airport",
+					"ConditionId": "dinghy",
 					"Threshold": 2
 				}
 			],
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
-				"ConditionId": "airport",
+				"ConditionId": "dinghy",
 				"Threshold": 5000
 			},
 			"IncludeInAll": true,
@@ -148233,19 +148233,19 @@ DATA["fusvehicle-bal-32"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 2
+				"Value": 3
 			}
 		},
 		{
-			"Id": "escapevehicle",
-			"Name": "Escape Vehicle",
-			"ResourceType": "escapevehicle",
+			"Id": "harbour",
+			"Name": "Harbour",
+			"ResourceType": "harbour",
 			"GeneratorType": "Manual",
 			"IndustryId": "airwater",
 			"Cost": [
 				{
-					"Resource": "Bomber",
-					"Qty": 10000
+					"Resource": "boat",
+					"Qty": 100
 				},
 				{
 					"Resource": "Fuel",
@@ -148257,250 +148257,10 @@ DATA["fusvehicle-bal-32"] =
 				}
 			],
 			"Generate": {
-				"Resource": "bomber",
+				"Resource": "boat",
 				"Qty": 16
 			},
 			"BaseCompletionTime": 16,
-			"Visible": [
-				{
-					"ConditionType": "ResourceQuantity",
-					"ConditionId": "bomber",
-					"Threshold": 2
-				}
-			],
-			"Unlock": {
-				"ConditionType": "ResourceQuantity",
-				"ConditionId": "bomber",
-				"Threshold": 250000
-			},
-			"IncludeInAll": true,
-			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 64
-			},
-			"ObjectiveReward": {
-				"Reward": "Resources",
-				"RewardId": "darkscience",
-				"Value": 2
-			}
-		},
-		{
-			"Id": "rocket",
-			"Name": "Rocket",
-			"ResourceType": "rocket",
-			"GeneratorType": "Manual",
-			"IndustryId": "airwater",
-			"Cost": [
-				{
-					"Resource": "EscapeVehicle",
-					"Qty": 100000
-				},
-				{
-					"Resource": "Fuel",
-					"Qty": "1.0E+21"
-				},
-				{
-					"Resource": "Comrade",
-					"Qty": "3"
-				}
-			],
-			"Generate": {
-				"Resource": "escapevehicle",
-				"Qty": 22
-			},
-			"BaseCompletionTime": 32,
-			"Visible": [
-				{
-					"ConditionType": "ResourceQuantity",
-					"ConditionId": "escapevehicle",
-					"Threshold": 2
-				}
-			],
-			"Unlock": {
-				"ConditionType": "ResourceQuantity",
-				"ConditionId": "escapevehicle",
-				"Threshold": 2500000
-			},
-			"IncludeInAll": true,
-			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 64
-			},
-			"ObjectiveReward": {
-				"Reward": "Resources",
-				"RewardId": "darkscience",
-				"Value": 2
-			}
-		},
-		{
-			"Id": "harbour",
-			"Name": "Harbour",
-			"ResourceType": "harbour",
-			"GeneratorType": "Manual",
-			"IndustryId": "airwater",
-			"Cost": [
-				{
-					"Resource": "Rocket",
-					"Qty": 100000
-				},
-				{
-					"Resource": "Fuel",
-					"Qty": "1.0E+32"
-				},
-				{
-					"Resource": "Comrade",
-					"Qty": "3"
-				}
-			],
-			"Generate": {
-				"Resource": "rocket",
-				"Qty": 28
-			},
-			"BaseCompletionTime": 64,
-			"Visible": [
-				{
-					"ConditionType": "ResourceQuantity",
-					"ConditionId": "rocket",
-					"Threshold": 2
-				}
-			],
-			"Unlock": {
-				"ConditionType": "ResourceQuantity",
-				"ConditionId": "rocket",
-				"Threshold": 8000000
-			},
-			"IncludeInAll": true,
-			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 64
-			},
-			"ObjectiveReward": {
-				"Reward": "Resources",
-				"RewardId": "darkscience",
-				"Value": 2
-			}
-		},
-		{
-			"Id": "dinghy",
-			"Name": "Dinghy",
-			"ResourceType": "dinghy",
-			"GeneratorType": "Manual",
-			"IndustryId": "airwater",
-			"Cost": [
-				{
-					"Resource": "Harbour",
-					"Qty": "1.0E+05"
-				},
-				{
-					"Resource": "Fuel",
-					"Qty": "1.0E+43"
-				},
-				{
-					"Resource": "Comrade",
-					"Qty": "3"
-				}
-			],
-			"Generate": {
-				"Resource": "harbour",
-				"Qty": 34
-			},
-			"BaseCompletionTime": 128,
-			"Visible": [
-				{
-					"ConditionType": "ResourceQuantity",
-					"ConditionId": "harbour",
-					"Threshold": 2
-				}
-			],
-			"Unlock": {
-				"ConditionType": "ResourceQuantity",
-				"ConditionId": "harbour",
-				"Threshold": 20000000
-			},
-			"IncludeInAll": true,
-			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 64
-			},
-			"ObjectiveReward": {
-				"Reward": "Resources",
-				"RewardId": "darkscience",
-				"Value": 2
-			}
-		},
-		{
-			"Id": "boat",
-			"Name": "Boat",
-			"ResourceType": "boat",
-			"GeneratorType": "Manual",
-			"IndustryId": "airwater",
-			"Cost": [
-				{
-					"Resource": "Dinghy",
-					"Qty": 500000
-				},
-				{
-					"Resource": "Fuel",
-					"Qty": "1.0E+54"
-				},
-				{
-					"Resource": "Comrade",
-					"Qty": "3"
-				}
-			],
-			"Generate": {
-				"Resource": "dinghy",
-				"Qty": 40
-			},
-			"BaseCompletionTime": 256,
-			"Visible": [
-				{
-					"ConditionType": "ResourceQuantity",
-					"ConditionId": "dinghy",
-					"Threshold": 2
-				}
-			],
-			"Unlock": {
-				"ConditionType": "ResourceQuantity",
-				"ConditionId": "dinghy",
-				"Threshold": 50000000
-			},
-			"IncludeInAll": true,
-			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 64
-			},
-			"ObjectiveReward": {
-				"Reward": "Resources",
-				"RewardId": "darkscience",
-				"Value": 2
-			}
-		},
-		{
-			"Id": "barge",
-			"Name": "Barge",
-			"ResourceType": "barge",
-			"GeneratorType": "Manual",
-			"IndustryId": "airwater",
-			"Cost": [
-				{
-					"Resource": "Boat",
-					"Qty": 500000
-				},
-				{
-					"Resource": "Fuel",
-					"Qty": "1.0E+72"
-				},
-				{
-					"Resource": "Comrade",
-					"Qty": "3"
-				}
-			],
-			"Generate": {
-				"Resource": "boat",
-				"Qty": 46
-			},
-			"BaseCompletionTime": 512,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -148511,7 +148271,7 @@ DATA["fusvehicle-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "boat",
-				"Threshold": 120000000
+				"Threshold": 250000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -148521,23 +148281,71 @@ DATA["fusvehicle-bal-32"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 2
+				"Value": 4
 			}
 		},
 		{
-			"Id": "leviathan",
-			"Name": "Leviathan",
-			"ResourceType": "leviathan",
+			"Id": "barge",
+			"Name": "Barge",
+			"ResourceType": "barge",
 			"GeneratorType": "Manual",
 			"IndustryId": "airwater",
 			"Cost": [
 				{
-					"Resource": "Barge",
-					"Qty": "5.0E+6"
+					"Resource": "harbour",
+					"Qty": 1000
 				},
 				{
 					"Resource": "Fuel",
-					"Qty": "1.0E+84"
+					"Qty": "1.0E+24"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "3"
+				}
+			],
+			"Generate": {
+				"Resource": "harbour",
+				"Qty": 22
+			},
+			"BaseCompletionTime": 32,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "harbour",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "harbour",
+				"Threshold": 2500000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 64
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 5
+			}
+		},
+		{
+			"Id": "escapevehicle",
+			"Name": "Escape Vehicle",
+			"ResourceType": "escapevehicle",
+			"GeneratorType": "Manual",
+			"IndustryId": "airwater",
+			"Cost": [
+				{
+					"Resource": "barge",
+					"Qty": 10000
+				},
+				{
+					"Resource": "Fuel",
+					"Qty": "1.0E+36"
 				},
 				{
 					"Resource": "Comrade",
@@ -148546,9 +148354,9 @@ DATA["fusvehicle-bal-32"] =
 			],
 			"Generate": {
 				"Resource": "barge",
-				"Qty": 52
+				"Qty": 28
 			},
-			"BaseCompletionTime": 1024,
+			"BaseCompletionTime": 64,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -148559,6 +148367,198 @@ DATA["fusvehicle-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "barge",
+				"Threshold": 8000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 64
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 6
+			}
+		},
+		{
+			"Id": "leviathan",
+			"Name": "Leviathan",
+			"ResourceType": "leviathan",
+			"GeneratorType": "Manual",
+			"IndustryId": "airwater",
+			"Cost": [
+				{
+					"Resource": "escapevehicle",
+					"Qty": "1.0E+05"
+				},
+				{
+					"Resource": "Fuel",
+					"Qty": "1.0E+49"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "3"
+				}
+			],
+			"Generate": {
+				"Resource": "escapevehicle",
+				"Qty": 34
+			},
+			"BaseCompletionTime": 128,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "escapevehicle",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "escapevehicle",
+				"Threshold": 20000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 64
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 7
+			}
+		},
+		{
+			"Id": "airport",
+			"Name": "Airport",
+			"ResourceType": "airport",
+			"GeneratorType": "Manual",
+			"IndustryId": "airwater",
+			"Cost": [
+				{
+					"Resource": "leviathan",
+					"Qty": 1000000
+				},
+				{
+					"Resource": "Fuel",
+					"Qty": "1.0E+64"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "3"
+				}
+			],
+			"Generate": {
+				"Resource": "leviathan",
+				"Qty": 40
+			},
+			"BaseCompletionTime": 256,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "leviathan",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "leviathan",
+				"Threshold": 50000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 64
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 8
+			}
+		},
+		{
+			"Id": "bomber",
+			"Name": "Bomber",
+			"ResourceType": "bomber",
+			"GeneratorType": "Manual",
+			"IndustryId": "airwater",
+			"Cost": [
+				{
+					"Resource": "airport",
+					"Qty": 10000000
+				},
+				{
+					"Resource": "Fuel",
+					"Qty": "1.0E+81"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "3"
+				}
+			],
+			"Generate": {
+				"Resource": "airport",
+				"Qty": 46
+			},
+			"BaseCompletionTime": 512,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "airport",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "airport",
+				"Threshold": 120000000
+			},
+			"IncludeInAll": true,
+			"Crit": {
+				"ChancePercent": 0,
+				"Multiplier": 64
+			},
+			"ObjectiveReward": {
+				"Reward": "Resources",
+				"RewardId": "darkscience",
+				"Value": 9
+			}
+		},
+		{
+			"Id": "rocket",
+			"Name": "Rocket",
+			"ResourceType": "rocket",
+			"GeneratorType": "Manual",
+			"IndustryId": "airwater",
+			"Cost": [
+				{
+					"Resource": "bomber",
+					"Qty": "1.0E+8"
+				},
+				{
+					"Resource": "Fuel",
+					"Qty": "1.0E+100"
+				},
+				{
+					"Resource": "Comrade",
+					"Qty": "3"
+				}
+			],
+			"Generate": {
+				"Resource": "bomber",
+				"Qty": 52
+			},
+			"BaseCompletionTime": 1024,
+			"Visible": [
+				{
+					"ConditionType": "ResourceQuantity",
+					"ConditionId": "bomber",
+					"Threshold": 2
+				}
+			],
+			"Unlock": {
+				"ConditionType": "ResourceQuantity",
+				"ConditionId": "bomber",
 				"Threshold": 300000000
 			},
 			"IncludeInAll": true,
@@ -148569,7 +148569,7 @@ DATA["fusvehicle-bal-32"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 2
+				"Value": 10
 			}
 		}
 	],
@@ -152486,12 +152486,12 @@ DATA["fusvehicle-bal-32"] =
 	],
 	"Researchers": [
 		{
-			"Id": "FUS036",
-			"Name": "Francis Snow",
-			"Description": "researcher.FUS036.desc",
+			"Id": "FUS048",
+			"Name": "Chaos Insurance",
+			"Description": "researcher.FUS048.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"station"
+				"footmobile"
 			],
 			"ExpoMultiplier": 1,
 			"ExpoGrowth": 4,
@@ -152500,57 +152500,6 @@ DATA["fusvehicle-bal-32"] =
 			"BasePower": 0,
 			"Rarity": "LteCommon",
 			"PlayerRankUnlock": 1,
-			"ResearchOutputType": "Constant"
-		},
-		{
-			"Id": "FUS035",
-			"Name": "Morgan Read",
-			"Description": "researcher.FUS035.desc",
-			"ModType": "GenManagerAndSpeedMult",
-			"TargetIds": [
-				"trolley"
-			],
-			"ExpoMultiplier": 1,
-			"ExpoGrowth": 4,
-			"UpgradePower": 0,
-			"CurveModifier": 0,
-			"BasePower": 0,
-			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 3,
-			"ResearchOutputType": "Constant"
-		},
-		{
-			"Id": "FUS007",
-			"Name": "Chuck Clampall",
-			"Description": "researcher.FUS007.desc",
-			"ModType": "GenManagerAndSpeedMult",
-			"TargetIds": [
-				"train"
-			],
-			"ExpoMultiplier": 1,
-			"ExpoGrowth": 4,
-			"UpgradePower": 0,
-			"CurveModifier": 0,
-			"BasePower": 0,
-			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 4,
-			"ResearchOutputType": "Constant"
-		},
-		{
-			"Id": "FUS058",
-			"Name": "Smokey Materials",
-			"Description": "researcher.FUS058.desc",
-			"ModType": "GenManagerAndSpeedMult",
-			"TargetIds": [
-				"express"
-			],
-			"ExpoMultiplier": 1,
-			"ExpoGrowth": 4,
-			"UpgradePower": 0,
-			"CurveModifier": 0,
-			"BasePower": 0,
-			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 6,
 			"ResearchOutputType": "Constant"
 		},
 		{
@@ -152567,24 +152516,7 @@ DATA["fusvehicle-bal-32"] =
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 8,
-			"ResearchOutputType": "Constant"
-		},
-		{
-			"Id": "FUS048",
-			"Name": "Chaos Insurance",
-			"Description": "researcher.FUS048.desc",
-			"ModType": "GenManagerAndSpeedMult",
-			"TargetIds": [
-				"footmobile"
-			],
-			"ExpoMultiplier": 1,
-			"ExpoGrowth": 4,
-			"UpgradePower": 0,
-			"CurveModifier": 0,
-			"BasePower": 0,
-			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 10,
+			"PlayerRankUnlock": 2,
 			"ResearchOutputType": "Constant"
 		},
 		{
@@ -152601,7 +152533,24 @@ DATA["fusvehicle-bal-32"] =
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 12,
+			"PlayerRankUnlock": 4,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS035",
+			"Name": "Morgan Read",
+			"Description": "researcher.FUS035.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"trolley"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 6,
 			"ResearchOutputType": "Constant"
 		},
 		{
@@ -152618,16 +152567,84 @@ DATA["fusvehicle-bal-32"] =
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 8,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS007",
+			"Name": "Chuck Clampall",
+			"Description": "researcher.FUS007.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"train"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 10,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS036",
+			"Name": "Francis Snow",
+			"Description": "researcher.FUS036.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"station"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 12,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS058",
+			"Name": "Smokey Materials",
+			"Description": "researcher.FUS058.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"express"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
 			"PlayerRankUnlock": 14,
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS009",
-			"Name": "Maverick Ryback",
-			"Description": "researcher.FUS009.desc",
+			"Id": "FUS023",
+			"Name": "Crunchy Boy",
+			"Description": "researcher.FUS023.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"airport"
+				"dinghy"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 3,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS024",
+			"Name": "Morgan Shepard",
+			"Description": "researcher.FUS024.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"boat"
 			],
 			"ExpoMultiplier": 1,
 			"ExpoGrowth": 4,
@@ -152639,12 +152656,12 @@ DATA["fusvehicle-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS012",
-			"Name": "Manny Osbomb",
-			"Description": "researcher.FUS012.desc",
+			"Id": "FUS008",
+			"Name": "Sailor Bonny",
+			"Description": "researcher.FUS008.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"bomber"
+				"harbour"
 			],
 			"ExpoMultiplier": 1,
 			"ExpoGrowth": 4,
@@ -152653,6 +152670,23 @@ DATA["fusvehicle-bal-32"] =
 			"BasePower": 0,
 			"Rarity": "LteCommon",
 			"PlayerRankUnlock": 5,
+			"ResearchOutputType": "Constant"
+		},
+		{
+			"Id": "FUS004",
+			"Name": "Ernie Abe Normal",
+			"Description": "researcher.FUS004.desc",
+			"ModType": "GenManagerAndSpeedMult",
+			"TargetIds": [
+				"barge"
+			],
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 4,
+			"UpgradePower": 0,
+			"CurveModifier": 0,
+			"BasePower": 0,
+			"Rarity": "LteCommon",
+			"PlayerRankUnlock": 6,
 			"ResearchOutputType": "Constant"
 		},
 		{
@@ -152673,12 +152707,12 @@ DATA["fusvehicle-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS040",
-			"Name": "Racoonteer",
-			"Description": "researcher.FUS040.desc",
+			"Id": "FUS027",
+			"Name": "Nauty Crew",
+			"Description": "researcher.FUS027.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"rocket"
+				"leviathan"
 			],
 			"ExpoMultiplier": 1,
 			"ExpoGrowth": 4,
@@ -152686,16 +152720,16 @@ DATA["fusvehicle-bal-32"] =
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 8,
+			"PlayerRankUnlock": 9,
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS008",
-			"Name": "Sailor Bonny",
-			"Description": "researcher.FUS008.desc",
+			"Id": "FUS009",
+			"Name": "Maverick Ryback",
+			"Description": "researcher.FUS009.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"harbour"
+				"airport"
 			],
 			"ExpoMultiplier": 1,
 			"ExpoGrowth": 4,
@@ -152703,33 +152737,16 @@ DATA["fusvehicle-bal-32"] =
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 10,
+			"PlayerRankUnlock": 11,
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS023",
-			"Name": "Crunchy Boy",
-			"Description": "researcher.FUS023.desc",
+			"Id": "FUS012",
+			"Name": "Manny Osbomb",
+			"Description": "researcher.FUS012.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"dinghy"
-			],
-			"ExpoMultiplier": 1,
-			"ExpoGrowth": 4,
-			"UpgradePower": 0,
-			"CurveModifier": 0,
-			"BasePower": 0,
-			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 12,
-			"ResearchOutputType": "Constant"
-		},
-		{
-			"Id": "FUS024",
-			"Name": "Morgan Shepard",
-			"Description": "researcher.FUS024.desc",
-			"ModType": "GenManagerAndSpeedMult",
-			"TargetIds": [
-				"boat"
+				"bomber"
 			],
 			"ExpoMultiplier": 1,
 			"ExpoGrowth": 4,
@@ -152741,29 +152758,12 @@ DATA["fusvehicle-bal-32"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "FUS004",
-			"Name": "Ernie Abe Normal",
-			"Description": "researcher.FUS004.desc",
+			"Id": "FUS040",
+			"Name": "Racoonteer",
+			"Description": "researcher.FUS040.desc",
 			"ModType": "GenManagerAndSpeedMult",
 			"TargetIds": [
-				"barge"
-			],
-			"ExpoMultiplier": 1,
-			"ExpoGrowth": 4,
-			"UpgradePower": 0,
-			"CurveModifier": 0,
-			"BasePower": 0,
-			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 14,
-			"ResearchOutputType": "Constant"
-		},
-		{
-			"Id": "FUS027",
-			"Name": "Nauty Crew",
-			"Description": "researcher.FUS027.desc",
-			"ModType": "GenManagerAndSpeedMult",
-			"TargetIds": [
-				"leviathan"
+				"rocket"
 			],
 			"ExpoMultiplier": 1,
 			"ExpoGrowth": 4,
@@ -152853,8 +152853,8 @@ DATA["fusvehicle-bal-32"] =
 			"ExpoMultiplier": 0,
 			"ExpoGrowth": 0,
 			"UpgradePower": 0.02,
-			"CurveModifier": 0.03,
-			"BasePower": 0.1,
+			"CurveModifier": 0.04,
+			"BasePower": 0.04,
 			"Rarity": "LteRare",
 			"PlayerRankUnlock": 3,
 			"ResearchOutputType": "Constant"
