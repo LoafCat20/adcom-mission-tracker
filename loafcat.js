@@ -116643,7 +116643,7 @@ DATA["attack-bal-20"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.33e57,
+				"Threshold": 3.33e56,
 				"ConditionId": "weapon"
 			},
 			"Reward": {
@@ -130026,7 +130026,7 @@ DATA["power-bal-20"]=
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.33e56,
+				"Threshold": 3.33e55,
 				"ConditionId": "ore"
 			},
 			"Reward": {
