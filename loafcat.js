@@ -147869,7 +147869,7 @@ DATA["fusvehicle-bal-32"] =
 				},
 				{
 					"Resource": "Wheel",
-					"Qty": "1.0E+14"
+					"Qty": "1.0E+13"
 				},
 				{
 					"Resource": "Comrade",
@@ -147917,7 +147917,7 @@ DATA["fusvehicle-bal-32"] =
 				},
 				{
 					"Resource": "Wheel",
-					"Qty": 1e26
+					"Qty": 1e25
 				},
 				{
 					"Resource": "Comrade",
@@ -147965,7 +147965,7 @@ DATA["fusvehicle-bal-32"] =
 				},
 				{
 					"Resource": "Wheel",
-					"Qty": "1.0E+39"
+					"Qty": "1.0E+38"
 				},
 				{
 					"Resource": "Comrade",
@@ -148013,7 +148013,7 @@ DATA["fusvehicle-bal-32"] =
 				},
 				{
 					"Resource": "Wheel",
-					"Qty": "1.0E+53"
+					"Qty": "1.0E+52"
 				},
 				{
 					"Resource": "Comrade",
@@ -148061,7 +148061,7 @@ DATA["fusvehicle-bal-32"] =
 				},
 				{
 					"Resource": "Wheel",
-					"Qty": "1.0E+69"
+					"Qty": "1.0E+68"
 				},
 				{
 					"Resource": "Comrade",
@@ -148109,7 +148109,7 @@ DATA["fusvehicle-bal-32"] =
 				},
 				{
 					"Resource": "Wheel",
-					"Qty": "1.0E+87"
+					"Qty": "1.0E+86"
 				},
 				{
 					"Resource": "Comrade",
