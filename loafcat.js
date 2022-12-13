@@ -152863,7 +152863,7 @@ DATA["fusvehicle-bal-32"] =
 			"Id": "FUS019",
 			"Name": "Alf Stark",
 			"Description": "researcher.FUS019.desc",
-			"ModType": "GeneratorCritChance",
+			"ModType": "GeneratorCritPowerMult",
 			"TargetIds": [
 				"onland, airwater"
 			],
