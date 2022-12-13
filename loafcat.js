@@ -116755,7 +116755,7 @@ DATA["attack-bal-20"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.6e55,
+				"Threshold": 6.6e54,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -116825,7 +116825,7 @@ DATA["attack-bal-20"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.7e58,
+				"Threshold": 8.7e57,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -116895,7 +116895,7 @@ DATA["attack-bal-20"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.9e60,
+				"Threshold": 4.9e59,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -116965,7 +116965,7 @@ DATA["attack-bal-20"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.91e62,
+				"Threshold": 3.91e61,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -117175,7 +117175,7 @@ DATA["attack-bal-20"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.3e67,
+				"Threshold": 7.3e66,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -117371,7 +117371,7 @@ DATA["attack-bal-20"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e73,
+				"Threshold": 4.2e72,
 				"ConditionId": "oil"
 			},
 			"Reward": {
@@ -130124,7 +130124,7 @@ DATA["power-bal-20"]=
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.6e54,
+				"Threshold": 6.6e53,
 				"ConditionId": "power"
 			},
 			"Reward": {
@@ -130194,7 +130194,7 @@ DATA["power-bal-20"]=
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.7e57,
+				"Threshold": 8.7e56,
 				"ConditionId": "power"
 			},
 			"Reward": {
@@ -130264,7 +130264,7 @@ DATA["power-bal-20"]=
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.9e59,
+				"Threshold": 4.9e58,
 				"ConditionId": "power"
 			},
 			"Reward": {
@@ -130334,7 +130334,7 @@ DATA["power-bal-20"]=
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.91e61,
+				"Threshold": 3.91e60,
 				"ConditionId": "power"
 			},
 			"Reward": {
@@ -130404,7 +130404,7 @@ DATA["power-bal-20"]=
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.98e63,
+				"Threshold": 6.98e62,
 				"ConditionId": "power"
 			},
 			"Reward": {
@@ -130474,7 +130474,7 @@ DATA["power-bal-20"]=
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.5e65,
+				"Threshold": 3.5e64,
 				"ConditionId": "power"
 			},
 			"Reward": {
@@ -130670,7 +130670,7 @@ DATA["power-bal-20"]=
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.7e70,
+				"Threshold": 8.7e69,
 				"ConditionId": "power"
 			},
 			"Reward": {
@@ -130796,7 +130796,7 @@ DATA["power-bal-20"]=
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.78e74,
+				"Threshold": 5.78e73,
 				"ConditionId": "power"
 			},
 			"Reward": {
@@ -148629,7 +148629,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 3,
+				"Threshold": 2,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -148685,7 +148685,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 800,
+				"Threshold": 400,
 				"ConditionId": "footmobile"
 			},
 			"Reward": {
@@ -148699,7 +148699,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2000000,
+				"Threshold": 200000,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -148713,8 +148713,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3200,
-				"ConditionId": "footmobile"
+				"Threshold": 320,
+				"ConditionId": "road"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148727,12 +148727,12 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 1,
+				"Threshold": 2,
 				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -148755,59 +148755,17 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 260,
+				"Threshold": 3900,
 				"ConditionId": "road"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
 		{
 			"Id": "M0011",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 1,
-				"ConditionId": "any"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0012",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 200000000000,
-				"ConditionId": "wheel"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0013",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 24000,
-				"ConditionId": "road"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0014",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "IndustryUnlocked",
@@ -148821,7 +148779,7 @@ DATA["fusvehicle-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0015",
+			"Id": "M0012",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
@@ -148835,12 +148793,54 @@ DATA["fusvehicle-bal-32"] =
 			}
 		},
 		{
-			"Id": "M0016",
+			"Id": "M0013",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0014",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 100,
-				"ConditionId": "fuel"
+				"Threshold": 200000000000,
+				"ConditionId": "wheel"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0015",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 18000,
+				"ConditionId": "road"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0016",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4000,
+				"ConditionId": "dinghy"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148858,7 +148858,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -148866,9 +148866,9 @@ DATA["fusvehicle-bal-32"] =
 			"Id": "M0018",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 4000,
-				"ConditionId": "dinghy"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1000000,
+				"ConditionId": "fuel"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148894,13 +148894,13 @@ DATA["fusvehicle-bal-32"] =
 			"Id": "M0020",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3000000,
-				"ConditionId": "fuel"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 10,
+				"ConditionId": "boat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -148908,9 +148908,9 @@ DATA["fusvehicle-bal-32"] =
 			"Id": "M0021",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 10000,
-				"ConditionId": "dinghy"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 300000000000,
+				"ConditionId": "fuel"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148923,8 +148923,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5000,
-				"ConditionId": "boat"
+				"Threshold": 300000,
+				"ConditionId": "buggy"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148942,7 +148942,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -148951,8 +148951,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 300000,
-				"ConditionId": "buggy"
+				"Threshold": 250000,
+				"ConditionId": "boat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -148965,7 +148965,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1e24,
+				"Threshold": 1e22,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -148979,7 +148979,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3000000,
+				"Threshold": 900000,
 				"ConditionId": "buggy"
 			},
 			"Reward": {
@@ -148993,8 +148993,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4000000,
-				"ConditionId": "boat"
+				"Threshold": 400000,
+				"ConditionId": "harbour"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149007,7 +149007,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 25000000000000000.0,
+				"Threshold": 2.5e23,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
@@ -149040,7 +149040,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -149049,8 +149049,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 32000,
-				"ConditionId": "harbour"
+				"Threshold": 3200,
+				"ConditionId": "barge"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149068,7 +149068,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m16",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -149082,7 +149082,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m16",
 				"Value": 1
 			}
 		},
@@ -149166,7 +149166,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -149194,7 +149194,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -149250,7 +149250,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -149418,7 +149418,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -149516,7 +149516,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -149600,7 +149600,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -149628,7 +149628,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -149679,12 +149679,12 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 4,
+				"Threshold": 3,
 				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -149693,7 +149693,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 50,
+				"Threshold": 5,
 				"ConditionId": "express"
 			},
 			"Reward": {
@@ -149763,7 +149763,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 4,
+				"Threshold": 3,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -149777,7 +149777,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 150000,
+				"Threshold": 15000000,
 				"ConditionId": "express"
 			},
 			"Reward": {
@@ -149805,7 +149805,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e86,
+				"Threshold": 7.5e96,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -149819,7 +149819,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.5e100,
+				"Threshold": 2.5e98,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
@@ -149852,7 +149852,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -149861,7 +149861,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2500000,
+				"Threshold": 750000000,
 				"ConditionId": "express"
 			},
 			"Reward": {
@@ -149875,7 +149875,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.75e94,
+				"Threshold": 1.75e100,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -149903,12 +149903,12 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 500000000,
+				"Threshold": 1500000000,
 				"ConditionId": "express"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -149917,7 +149917,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.79e112,
+				"Threshold": 3.79e109,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
@@ -149936,7 +149936,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -149959,7 +149959,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 600000000,
+				"Threshold": 400000000,
 				"ConditionId": "rocket"
 			},
 			"Reward": {
@@ -149973,7 +149973,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.1e102,
+				"Threshold": 1.1e104,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -150034,7 +150034,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -150062,7 +150062,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -150132,7 +150132,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -150188,7 +150188,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -150202,7 +150202,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -150272,7 +150272,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -150342,7 +150342,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -150356,7 +150356,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -150384,7 +150384,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -150482,7 +150482,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -150510,7 +150510,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -150566,7 +150566,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -150608,7 +150608,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -150664,7 +150664,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -150720,7 +150720,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -150734,7 +150734,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -150804,7 +150804,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -150860,7 +150860,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -150944,7 +150944,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -151000,7 +151000,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -151098,7 +151098,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -151154,7 +151154,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -151238,7 +151238,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -151294,7 +151294,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -151364,7 +151364,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -151420,7 +151420,7 @@ DATA["fusvehicle-bal-32"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		}
