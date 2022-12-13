@@ -115125,7 +115125,7 @@ DATA["attack-bal-20"] =
 				},
 				{
 					"Resource": "Weapon",
-					"Qty": "1.0E+50"
+					"Qty": "1.0E+49"
 				},
 				{
 					"Resource": "Comrade",
@@ -128508,7 +128508,7 @@ DATA["power-bal-20"]=
 				},
 				{
 					"Resource": "Ore",
-					"Qty": "1.0E+50"
+					"Qty": "1.0E+49"
 				},
 				{
 					"Resource": "Comrade",
