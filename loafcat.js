@@ -146926,7 +146926,7 @@ DATA["fusvehicle-bal-32"] =
 			"RareWeight": -1,
 			"EpicWeight": -1,
 			"SupremeWeight": -1,
-			"LteRareWeight": 13,
+			"LteRareWeight": 15,
 			"ScienceMin": 50,
 			"ScienceMax": 70,
 			"TrophyMin": 10,
@@ -149035,7 +149035,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5e28,
+				"Threshold": 5e27,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -149091,8 +149091,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2000000,
-				"ConditionId": "harbour"
+				"Threshold": 4000000,
+				"ConditionId": "barge"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149105,7 +149105,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7e33,
+				"Threshold": 7e32,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -149119,7 +149119,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 30000000,
+				"Threshold": 9000000,
 				"ConditionId": "trolley"
 			},
 			"Reward": {
@@ -149133,7 +149133,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e25,
+				"Threshold": 1.2e32,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
@@ -149147,8 +149147,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 15000000,
-				"ConditionId": "harbour"
+				"Threshold": 150,
+				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149175,7 +149175,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.8e39,
+				"Threshold": 6.8e36,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -149189,8 +149189,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 700,
-				"ConditionId": "barge"
+				"Threshold": 700000,
+				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149203,7 +149203,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e34,
+				"Threshold": 1.2e44,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
@@ -149217,7 +149217,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 20000,
+				"Threshold": 2000,
 				"ConditionId": "freight"
 			},
 			"Reward": {
@@ -149231,8 +149231,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 800000,
-				"ConditionId": "barge"
+				"Threshold": 16000000,
+				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149259,7 +149259,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6320000,
+				"Threshold": 18960000,
 				"ConditionId": "freight"
 			},
 			"Reward": {
@@ -149273,8 +149273,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 15000000,
-				"ConditionId": "barge"
+				"Threshold": 15,
+				"ConditionId": "leviathan"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149287,7 +149287,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.8e45,
+				"Threshold": 6.8e48,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -149301,7 +149301,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5e36,
+				"Threshold": 5e51,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
@@ -149315,8 +149315,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 30,
-				"ConditionId": "escapevehicle"
+				"Threshold": 30000,
+				"ConditionId": "leviathan"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149343,7 +149343,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 500,
+				"Threshold": 50,
 				"ConditionId": "train"
 			},
 			"Reward": {
@@ -149357,8 +149357,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 111222,
-				"ConditionId": "escapevehicle"
+				"Threshold": 11112222,
+				"ConditionId": "leviathan"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149371,7 +149371,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.4e44,
+				"Threshold": 2.4e59,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
@@ -149385,7 +149385,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 67000,
+				"Threshold": 670000,
 				"ConditionId": "train"
 			},
 			"Reward": {
@@ -149400,7 +149400,7 @@ DATA["fusvehicle-bal-32"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 50000000,
-				"ConditionId": "escapevehicle"
+				"ConditionId": "leviathan"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149427,7 +149427,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 555444,
+				"Threshold": 55554444,
 				"ConditionId": "train"
 			},
 			"Reward": {
@@ -149441,7 +149441,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.68e54,
+				"Threshold": 2.68e60,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -149455,8 +149455,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4,
-				"ConditionId": "leviathan"
+				"Threshold": 400,
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149469,7 +149469,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4e54,
+				"Threshold": 4e69,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
@@ -149483,7 +149483,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 25000000,
+				"Threshold": 125000000,
 				"ConditionId": "train"
 			},
 			"Reward": {
@@ -149497,8 +149497,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5555,
-				"ConditionId": "leviathan"
+				"Threshold": 5555555,
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149525,8 +149525,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 200000000,
-				"ConditionId": "train"
+				"Threshold": 20,
+				"ConditionId": "station"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149539,8 +149539,8 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2000000,
-				"ConditionId": "leviathan"
+				"Threshold": 20000000,
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149552,9 +149552,9 @@ DATA["fusvehicle-bal-32"] =
 			"Id": "M0067",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 50,
-				"ConditionId": "airport"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4e72,
+				"ConditionId": "wheel"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149566,9 +149566,9 @@ DATA["fusvehicle-bal-32"] =
 			"Id": "M0068",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4e66,
-				"ConditionId": "wheel"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 50000000,
+				"ConditionId": "airport"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -149581,7 +149581,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2e65,
+				"Threshold": 2e77,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
@@ -149609,7 +149609,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 25000,
+				"Threshold": 250000000,
 				"ConditionId": "station"
 			},
 			"Reward": {
@@ -149623,7 +149623,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 60000000,
+				"Threshold": 90000000,
 				"ConditionId": "airport"
 			},
 			"Reward": {
@@ -149637,7 +149637,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4e77,
+				"Threshold": 4e82,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -149721,7 +149721,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.6e89,
+				"Threshold": 8.6e92,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
@@ -149749,7 +149749,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 160000000,
+				"Threshold": 120000000,
 				"ConditionId": "bomber"
 			},
 			"Reward": {
@@ -149805,7 +149805,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e96,
+				"Threshold": 7.5e95,
 				"ConditionId": "wheel"
 			},
 			"Reward": {
@@ -151564,7 +151564,7 @@ DATA["fusvehicle-bal-32"] =
 			"Missions": "6",
 			"ActiveMissionCount": 2,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 1.2,
+			"NormalGachaMultiplier": 1.3,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.3,
 			"PremiumGachaMultiplierScience": 1,
@@ -151579,7 +151579,7 @@ DATA["fusvehicle-bal-32"] =
 			"Missions": "6",
 			"ActiveMissionCount": 2,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 1.4,
+			"NormalGachaMultiplier": 1.6,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.4,
 			"PremiumGachaMultiplierScience": 1,
@@ -151594,7 +151594,7 @@ DATA["fusvehicle-bal-32"] =
 			"Missions": "6",
 			"ActiveMissionCount": 2,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 1.6,
+			"NormalGachaMultiplier": 1.9,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.5,
 			"PremiumGachaMultiplierScience": 1,
@@ -151609,7 +151609,7 @@ DATA["fusvehicle-bal-32"] =
 			"Missions": "6",
 			"ActiveMissionCount": 2,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 1.8,
+			"NormalGachaMultiplier": 2.2,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.6,
 			"PremiumGachaMultiplierScience": 1,
@@ -151624,7 +151624,7 @@ DATA["fusvehicle-bal-32"] =
 			"Missions": "6",
 			"ActiveMissionCount": 2,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2,
+			"NormalGachaMultiplier": 2.5,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.7,
 			"PremiumGachaMultiplierScience": 1,
@@ -151639,7 +151639,7 @@ DATA["fusvehicle-bal-32"] =
 			"Missions": "6",
 			"ActiveMissionCount": 2,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2.2,
+			"NormalGachaMultiplier": 2.8,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.8,
 			"PremiumGachaMultiplierScience": 1,
@@ -151654,7 +151654,7 @@ DATA["fusvehicle-bal-32"] =
 			"Missions": "8",
 			"ActiveMissionCount": 2,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2.4,
+			"NormalGachaMultiplier": 3.1,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2,
 			"PremiumGachaMultiplierScience": 1,
@@ -151669,7 +151669,7 @@ DATA["fusvehicle-bal-32"] =
 			"Missions": "8",
 			"ActiveMissionCount": 2,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2.6,
+			"NormalGachaMultiplier": 3.4,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.2,
 			"PremiumGachaMultiplierScience": 1,
@@ -151684,7 +151684,7 @@ DATA["fusvehicle-bal-32"] =
 			"Missions": "10",
 			"ActiveMissionCount": 2,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2.8,
+			"NormalGachaMultiplier": 3.7,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.4,
 			"PremiumGachaMultiplierScience": 1,
@@ -151699,7 +151699,7 @@ DATA["fusvehicle-bal-32"] =
 			"Missions": "12",
 			"ActiveMissionCount": 2,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 3,
+			"NormalGachaMultiplier": 4,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.5,
 			"PremiumGachaMultiplierScience": 1,
