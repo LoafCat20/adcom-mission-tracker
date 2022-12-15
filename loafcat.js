@@ -148352,7 +148352,7 @@ DATA["fusvehicle-bal-32"] =
 			"Id": "airwater",
 			"SortingOrder": 2,
 			"UnlockCostResourceId": "wheel",
-			"UnlockCostResourceQty": 1000000000000,
+			"UnlockCostResourceQty": 1000000000,
 			"VisibleConditions": [
 				{
 					"ConditionType": "IndustryUnlocked",
@@ -149156,7 +149156,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 50000000,
+				"Threshold": 30000000,
 				"ConditionId": "leviathan"
 			},
 			"Reward": {
