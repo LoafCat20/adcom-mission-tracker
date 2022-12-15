@@ -147958,7 +147958,7 @@ DATA["fusvehicle-bal-32"] =
 				},
 				{
 					"Resource": "Fuel",
-					"Qty": 100000000
+					"Qty": 1000000
 				},
 				{
 					"Resource": "Comrade",
@@ -148006,7 +148006,7 @@ DATA["fusvehicle-bal-32"] =
 				},
 				{
 					"Resource": "Fuel",
-					"Qty": "1.0E+14"
+					"Qty": "1.0E+12"
 				},
 				{
 					"Resource": "Comrade",
@@ -148028,7 +148028,7 @@ DATA["fusvehicle-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "boat",
-				"Threshold": 250000
+				"Threshold": 200000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -148054,7 +148054,7 @@ DATA["fusvehicle-bal-32"] =
 				},
 				{
 					"Resource": "Fuel",
-					"Qty": "1.0E+24"
+					"Qty": "1.0E+21"
 				},
 				{
 					"Resource": "Comrade",
@@ -148076,7 +148076,7 @@ DATA["fusvehicle-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "harbour",
-				"Threshold": 2500000
+				"Threshold": 1000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -148102,7 +148102,7 @@ DATA["fusvehicle-bal-32"] =
 				},
 				{
 					"Resource": "Fuel",
-					"Qty": "1.0E+36"
+					"Qty": "1.0E+33"
 				},
 				{
 					"Resource": "Comrade",
@@ -148124,7 +148124,7 @@ DATA["fusvehicle-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "barge",
-				"Threshold": 8000000
+				"Threshold": 4000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -148150,7 +148150,7 @@ DATA["fusvehicle-bal-32"] =
 				},
 				{
 					"Resource": "Fuel",
-					"Qty": "1.0E+49"
+					"Qty": "1.0E+48"
 				},
 				{
 					"Resource": "Comrade",
@@ -148172,7 +148172,7 @@ DATA["fusvehicle-bal-32"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "escapevehicle",
-				"Threshold": 20000000
+				"Threshold": 15000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -148652,7 +148652,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 10,
+				"Threshold": 100,
 				"ConditionId": "boat"
 			},
 			"Reward": {
@@ -148666,7 +148666,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 300000000000,
+				"Threshold": 30000000000,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
@@ -148708,7 +148708,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 250000,
+				"Threshold": 200000,
 				"ConditionId": "boat"
 			},
 			"Reward": {
@@ -148764,7 +148764,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.5e23,
+				"Threshold": 2.5e21,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
@@ -148806,7 +148806,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3200,
+				"Threshold": 32000,
 				"ConditionId": "barge"
 			},
 			"Reward": {
@@ -148848,7 +148848,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4000000,
+				"Threshold": 2000000,
 				"ConditionId": "barge"
 			},
 			"Reward": {
@@ -148890,7 +148890,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e32,
+				"Threshold": 1.2e31,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
@@ -148988,7 +148988,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 16000000,
+				"Threshold": 12000000,
 				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
@@ -149058,7 +149058,7 @@ DATA["fusvehicle-bal-32"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5e51,
+				"Threshold": 5e50,
 				"ConditionId": "fuel"
 			},
 			"Reward": {
