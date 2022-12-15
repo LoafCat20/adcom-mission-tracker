@@ -152462,7 +152462,7 @@ DATA["fusvehicle-bal-32"] =
 				{
 					"Reward": "Researcher",
 					"Value": 50,
-					"RewardId": "FUS012"
+					"RewardId": "FUS008"
 				},
 				{
 					"Reward": "Resources",
@@ -152497,7 +152497,7 @@ DATA["fusvehicle-bal-32"] =
 				{
 					"Reward": "Researcher",
 					"Value": 200,
-					"RewardId": "FUS040"
+					"RewardId": "FUS002"
 				},
 				{
 					"Reward": "Resources",
@@ -152527,7 +152527,7 @@ DATA["fusvehicle-bal-32"] =
 				{
 					"Reward": "Researcher",
 					"Value": 300,
-					"RewardId": "FUS008"
+					"RewardId": "FUS007"
 				},
 				{
 					"Reward": "Resources",
@@ -152587,7 +152587,7 @@ DATA["fusvehicle-bal-32"] =
 				{
 					"Reward": "Researcher",
 					"Value": 300,
-					"RewardId": "FUS027"
+					"RewardId": "FUS040"
 				},
 				{
 					"Reward": "Gacha",
