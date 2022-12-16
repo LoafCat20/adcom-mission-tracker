@@ -136241,20 +136241,6 @@ DATA["fusfarm-bal-30"] =
 			"Id": "M0035",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7e19,
-				"ConditionId": "takeout"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0036",
-			"Rank": 1,
-			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1299999,
 				"ConditionId": "farm"
@@ -136262,6 +136248,20 @@ DATA["fusfarm-bal-30"] =
 			"Reward": {
 				"Reward": "Gacha",
 				"RewardId": "sc_m06",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0036",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7e19,
+				"ConditionId": "takeout"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -142489,8 +142489,8 @@ DATA["fusscience-bal-31"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 900000,
-				"ConditionId": "ozonecollector"
+				"Threshold": 400000,
+				"ConditionId": "evillab"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -142503,8 +142503,8 @@ DATA["fusscience-bal-31"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 400000,
-				"ConditionId": "evillab"
+				"Threshold": 900000,
+				"ConditionId": "ozonecollector"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -142628,20 +142628,6 @@ DATA["fusscience-bal-31"] =
 			"Id": "M0036",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 9000000,
-				"ConditionId": "tubetravel"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "sc_m08",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0037",
-			"Rank": 1,
-			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 1.2e31,
 				"ConditionId": "power"
@@ -142649,6 +142635,20 @@ DATA["fusscience-bal-31"] =
 			"Reward": {
 				"Reward": "Gacha",
 				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0037",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 9000000,
+				"ConditionId": "tubetravel"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m08",
 				"Value": 1
 			}
 		},
