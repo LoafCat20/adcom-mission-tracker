@@ -142872,7 +142872,7 @@ DATA["fusscience-bal-31"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m11",
 				"Value": 1
 			}
 		},
@@ -142914,7 +142914,7 @@ DATA["fusscience-bal-31"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m11",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
