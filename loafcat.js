@@ -168314,7 +168314,7 @@ DATA["potatofactory-bal-13"] =
 			],
 			"ExpoMultiplier": 1,
 			"ExpoGrowth": 4,
-			"UpgradePower": 2,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
@@ -168382,7 +168382,7 @@ DATA["potatofactory-bal-13"] =
 			],
 			"ExpoMultiplier": 1,
 			"ExpoGrowth": 3,
-			"UpgradePower": 0,
+			"UpgradePower": 2,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteRare",
@@ -170758,6 +170758,17 @@ SCHEDULE_CYCLES =
 		}
 	],
 	"LteOneOff": [
+		{
+			"BalanceId": "potatofactory-bal-13",
+			"BalanceType": "Lte",
+			"StartTime": "2023-03-02T16:00:00",
+			"EndTime": "2023-03-13T20:00:00",
+			"ThemeId": "potatofactory",
+			"RewardId": "rewardPotato",
+			"LeaderboardId": "leaderboard1",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
 		{
 			"BalanceId": "santa-bal-10",
 			"BalanceType": "Lte",
