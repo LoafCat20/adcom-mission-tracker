@@ -135334,7 +135334,7 @@ DATA["fusfarm-bal-30"] =
 			"Cost": [
 				{
 					"Resource": "Chef",
-					"Qty": "500"
+					"Qty": "200"
 				},
 				{
 					"Resource": "Takeout",
@@ -148006,7 +148006,7 @@ DATA["fuspet-bal-32"] =
 			"Cost": [
 				{
 					"Resource": "Moat",
-					"Qty": "500"
+					"Qty": "200"
 				},
 				{
 					"Resource": "collar",
