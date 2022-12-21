@@ -134578,7 +134578,7 @@ DATA["fusfarm-bal-30"] =
 					"Value": 9
 				},
 				{
-					"Id": "FUS070",
+					"Id": "FUS057",
 					"Value": 7
 				},
 				{
@@ -134641,7 +134641,7 @@ DATA["fusfarm-bal-30"] =
 					"Value": 15
 				},
 				{
-					"Id": "FUS025",
+					"Id": "FUS038",
 					"Value": 10
 				},
 				{
@@ -134662,7 +134662,7 @@ DATA["fusfarm-bal-30"] =
 					"Value": 12
 				},
 				{
-					"Id": "FUS061",
+					"Id": "FUS056",
 					"Value": 16
 				},
 				{
@@ -134704,7 +134704,7 @@ DATA["fusfarm-bal-30"] =
 			"Trophy": 160,
 			"Card": [
 				{
-					"Id": "FUS005",
+					"Id": "FUS072",
 					"Value": 7
 				},
 				{
@@ -147250,7 +147250,7 @@ DATA["fuspet-bal-32"] =
 					"Value": 9
 				},
 				{
-					"Id": "FUS051",
+					"Id": "FUS080",
 					"Value": 7
 				},
 				{
@@ -147313,7 +147313,7 @@ DATA["fuspet-bal-32"] =
 					"Value": 15
 				},
 				{
-					"Id": "FUS029",
+					"Id": "FUS063",
 					"Value": 10
 				},
 				{
@@ -147334,7 +147334,7 @@ DATA["fuspet-bal-32"] =
 					"Value": 12
 				},
 				{
-					"Id": "FUS059",
+					"Id": "FUS066",
 					"Value": 16
 				},
 				{
@@ -147376,7 +147376,7 @@ DATA["fuspet-bal-32"] =
 			"Trophy": 160,
 			"Card": [
 				{
-					"Id": "FUS060",
+					"Id": "FUS031",
 					"Value": 7
 				},
 				{
