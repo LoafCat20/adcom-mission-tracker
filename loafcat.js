@@ -175128,8 +175128,8 @@ SCHEDULE_CYCLES =
 				"attack-bal-20",
 				"fuspet-bal-32",
 				"export-bal-21",
-				"fusvehicle-bal-32"
-				"power-bal-20",
+				"fusvehicle-bal-32",
+				"power-bal-20"
 			],
 			"LteRewardIds": [
 				"rewardmidweek5",
