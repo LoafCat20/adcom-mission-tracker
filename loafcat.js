@@ -175119,7 +175119,7 @@ SCHEDULE_CYCLES =
 			"StartDayOfTheWeek": "Tuesday",
 			"EndDayOfTheWeek": "Thursday",
 			"StartHourUTC": 4,
-			"StartTime": "2023-01-06T00:00:00",
+			"StartTime": "2023-02-17T00:00:00",
 			"EndTime": "2200-02-22T09:00:00",
 			"LteBalanceIds": [
 				"fusfarm-bal-30",
