@@ -170761,13 +170761,101 @@ SCHEDULE_CYCLES =
 		{
 			"BalanceId": "potatofactory-bal-13",
 			"BalanceType": "Lte",
-			"StartTime": "2023-03-02T16:00:00",
-			"EndTime": "2023-03-13T20:00:00",
+			"StartTime": "2023-03-16T16:00:00",
+			"EndTime": "2023-03-27T20:00:00",
 			"ThemeId": "potatofactory",
 			"RewardId": "rewardPotato",
 			"LeaderboardId": "leaderboard1",
 			"LteShortLeaderboardId": "bucket1",
 			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "ninja-bal-1",
+			"BalanceType": "Lte",
+			"StartTime": "2023-02-16T16:00:00",
+			"EndTime": "2023-02-20T20:00:00",
+			"ThemeId": "ninja",
+			"RewardId": "reward5",
+			"LeaderboardId": "leaderboard3",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "hexathlon-bal-13",
+			"BalanceType": "Lte",
+			"StartTime": "2023-02-02T16:00:00",
+			"EndTime": "2023-02-13T20:00:00",
+			"ThemeId": "hexathlon",
+			"RewardId": "rewardHexathlon",
+			"LeaderboardId": "leaderboard3",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "178,179,180,181,182,183"
+		},
+		{
+			"BalanceId": "stone-bal-4",
+			"BalanceType": "Lte",
+			"StartTime": "2023-01-28T16:00:00",
+			"EndTime": "2023-02-01T20:00:00",
+			"ThemeId": "stone",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard3",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "winter-bal-3",
+			"BalanceType": "Lte",
+			"StartTime": "2023-01-23T16:00:00",
+			"EndTime": "2023-01-27T20:00:00",
+			"ThemeId": "winter",
+			"RewardId": "reward3",
+			"LeaderboardId": "leaderboard3",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "space-bal-2",
+			"BalanceType": "Lte",
+			"StartTime": "2023-01-18T16:00:00",
+			"EndTime": "2023-01-22T20:00:00",
+			"ThemeId": "space",
+			"RewardId": "reward2",
+			"LeaderboardId": "leaderboard3",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "cowboy-bal-2",
+			"BalanceType": "Lte",
+			"StartTime": "2023-01-13T16:00:00",
+			"EndTime": "2023-01-17T20:00:00",
+			"ThemeId": "cowboy",
+			"RewardId": "reward1",
+			"LeaderboardId": "leaderboard3",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "atlantis-bal-3",
+			"BalanceType": "Lte",
+			"StartTime": "2023-01-08T16:00:00",
+			"EndTime": "2023-01-12T20:00:00",
+			"ThemeId": "atlantis",
+			"RewardId": "reward5",
+			"LeaderboardId": "leaderboard3",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
+		},
+		{
+			"BalanceId": "zombie-bal-5",
+			"BalanceType": "Lte",
+			"StartTime": "2023-01-03T16:00:00",
+			"EndTime": "2023-01-07T20:00:00",
+			"ThemeId": "zombie",
+			"RewardId": "reward4",
+			"LeaderboardId": "leaderboard3",
+			"LteShortLeaderboardId": "bucket1",
+			"SpecOpsIds": "173,174,175,176,177"
 		},
 		{
 			"BalanceId": "santa-bal-10",
@@ -174940,7 +175028,7 @@ SCHEDULE_CYCLES =
 			"EndDayOfTheWeek": "Monday",
 			"StartHourUTC": 16,
 			"StartTime": "2021-11-01T09:00:00",
-			"EndTime": "2221-10-29T09:00:00",
+			"EndTime": "2023-01-03T09:00:00",
 			"LteBalanceIds": [
 				"zombie-bal-5",
 				"winter-bal-3",
@@ -174972,7 +175060,7 @@ SCHEDULE_CYCLES =
 			"EndDayOfTheWeek": "Wednesday",
 			"StartHourUTC": 16,
 			"StartTime": "2022-08-25T00:00:00",
-			"EndTime": "2023-01-05T09:00:00",
+			"EndTime": "2023-02-16T09:00:00",
 			"LteBalanceIds": [
 				"attack-bal-20",
 				"export-bal-21",
@@ -174994,6 +175082,38 @@ SCHEDULE_CYCLES =
 			]
 		},
 		{
+			"Id": "Regular",
+			"BalanceType": "Lte",
+			"StartDayOfTheWeek": "Thursday",
+			"EndDayOfTheWeek": "Monday",
+			"StartHourUTC": 16,
+			"StartTime": "2023-02-20T09:00:00",
+			"EndTime": "2221-10-29T09:00:00",
+			"LteBalanceIds": [
+				"crusade-bal-1",
+				"space-bal-2",
+				"atlantis-bal-3",
+				"cowboy-bal-2",
+				"zombie-bal-5",
+				"winter-bal-3",
+				"stone-bal-4",
+				"ninja-bal-1"
+			],
+			"LteRewardIds": [
+				"reward1",
+				"reward2",
+				"reward3",
+				"reward4",
+				"reward5"
+			],
+			"LteLeaderboardIds": [
+				"leaderboard3"
+			],
+			"LteShortLeaderboardIds": [
+				"bucket1"
+			]
+		},
+		{
 			"Id": "Mini",
 			"BalanceType": "LteMidWeek",
 			"StartDayOfTheWeek": "Tuesday",
@@ -175002,14 +175122,14 @@ SCHEDULE_CYCLES =
 			"StartTime": "2023-01-06T00:00:00",
 			"EndTime": "2200-02-22T09:00:00",
 			"LteBalanceIds": [
-				"defense-bal-21",
 				"fusfarm-bal-30",
-				"attack-bal-20",
+				"defense-bal-21",
 				"fusscience-bal-31",
-				"export-bal-21",
+				"attack-bal-20",
 				"fuspet-bal-32",
-				"power-bal-20",
+				"export-bal-21",
 				"fusvehicle-bal-32"
+				"power-bal-20",
 			],
 			"LteRewardIds": [
 				"rewardmidweek5",
