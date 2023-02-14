@@ -160640,7 +160640,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 2
+				"Value": 1
 			}
 		},
 		{
@@ -160688,7 +160688,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 2
 			}
 		},
 		{
@@ -160736,7 +160736,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 3
 			}
 		},
 		{
@@ -160784,7 +160784,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 8
+				"Value": 4
 			}
 		},
 		{
@@ -160832,7 +160832,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 10
+				"Value": 5
 			}
 		},
 		{
@@ -160880,7 +160880,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 12
+				"Value": 6
 			}
 		},
 		{
@@ -160928,7 +160928,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 14
+				"Value": 7
 			}
 		},
 		{
@@ -160972,7 +160972,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 2
 			}
 		},
 		{
@@ -161020,7 +161020,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 8
+				"Value": 4
 			}
 		},
 		{
@@ -161036,7 +161036,7 @@ DATA["potatofactory-bal-13"] =
 				},
 				{
 					"Resource": "takeout",
-					"Qty": "1.0E+25"
+					"Qty": "1.0E+24"
 				},
 				{
 					"Resource": "Comrade",
@@ -161068,7 +161068,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 12
+				"Value": 6
 			}
 		},
 		{
@@ -161084,7 +161084,7 @@ DATA["potatofactory-bal-13"] =
 				},
 				{
 					"Resource": "takeout",
-					"Qty": "1.0E+44"
+					"Qty": "1.0E+42"
 				},
 				{
 					"Resource": "Comrade",
@@ -161116,7 +161116,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 16
+				"Value": 8
 			}
 		},
 		{
@@ -161132,7 +161132,7 @@ DATA["potatofactory-bal-13"] =
 				},
 				{
 					"Resource": "takeout",
-					"Qty": "1.0E+65"
+					"Qty": "1.0E+64"
 				},
 				{
 					"Resource": "Comrade",
@@ -161164,7 +161164,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 20
+				"Value": 10
 			}
 		},
 		{
@@ -161212,7 +161212,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 24
+				"Value": 12
 			}
 		},
 		{
@@ -161256,7 +161256,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 3
 			}
 		},
 		{
@@ -161304,7 +161304,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 13
+				"Value": 6
 			}
 		},
 		{
@@ -161352,7 +161352,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 20
+				"Value": 9
 			}
 		},
 		{
@@ -161368,7 +161368,7 @@ DATA["potatofactory-bal-13"] =
 				},
 				{
 					"Resource": "potatocrate",
-					"Qty": 1e55
+					"Qty": 1e56
 				},
 				{
 					"Resource": "Comrade",
@@ -161400,7 +161400,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 27
+				"Value": 12
 			}
 		},
 		{
@@ -161448,7 +161448,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 34
+				"Value": 15
 			}
 		},
 		{
@@ -161492,7 +161492,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 8
+				"Value": 4
 			}
 		},
 		{
@@ -161540,7 +161540,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 20
+				"Value": 8
 			}
 		},
 		{
@@ -161588,7 +161588,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 32
+				"Value": 12
 			}
 		},
 		{
@@ -161636,7 +161636,7 @@ DATA["potatofactory-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 44
+				"Value": 16
 			}
 		}
 	],
@@ -175060,7 +175060,7 @@ SCHEDULE_CYCLES =
 			"EndDayOfTheWeek": "Wednesday",
 			"StartHourUTC": 16,
 			"StartTime": "2022-08-25T00:00:00",
-			"EndTime": "2023-02-16T09:00:00",
+			"EndTime": "2023-02-09T09:00:00",
 			"LteBalanceIds": [
 				"attack-bal-20",
 				"export-bal-21",
