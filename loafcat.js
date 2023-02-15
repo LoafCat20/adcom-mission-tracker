@@ -164478,7 +164478,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 44000000000,
+				"Threshold": 49500000000,
 				"ConditionId": "foodfactory"
 			},
 			"Reward": {
@@ -164548,7 +164548,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 59500000000,
+				"Threshold": 76500000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -164576,7 +164576,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 630000000000,
+				"Threshold": 840000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -164618,7 +164618,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 64000000000,
+				"Threshold": 80000000000,
 				"ConditionId": "foodfactory"
 			},
 			"Reward": {
@@ -164688,7 +164688,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 88200000000,
+				"Threshold": 105000000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -164716,7 +164716,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 928000000000,
+				"Threshold": 1190000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -164758,7 +164758,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 94000000000,
+				"Threshold": 117500000000,
 				"ConditionId": "foodfactory"
 			},
 			"Reward": {
@@ -164786,7 +164786,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 246000000000,
+				"Threshold": 266500000000,
 				"ConditionId": "pizza"
 			},
 			"Reward": {
@@ -164828,7 +164828,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 118500000000,
+				"Threshold": 158000000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -164856,7 +164856,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1350000000000,
+				"Threshold": 1680000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -164898,7 +164898,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 152000000000,
+				"Threshold": 171000000000,
 				"ConditionId": "foodfactory"
 			},
 			"Reward": {
@@ -164968,7 +164968,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 200000000000,
+				"Threshold": 220000000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -164996,7 +164996,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2100000000000,
+				"Threshold": 2400000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -165108,7 +165108,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 270000000000,
+				"Threshold": 330000000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -165136,7 +165136,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3000000000000,
+				"Threshold": 3500000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -165178,7 +165178,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 350000000000,
+				"Threshold": 400000000000,
 				"ConditionId": "foodfactory"
 			},
 			"Reward": {
@@ -165248,7 +165248,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 400000000000,
+				"Threshold": 450000000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -165276,7 +165276,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4400000000000,
+				"Threshold": 4800000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -165318,7 +165318,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 555000000000,
+				"Threshold": 592000000000,
 				"ConditionId": "foodfactory"
 			},
 			"Reward": {
@@ -165374,7 +165374,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 600000000000,
+				"Threshold": 660000000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -165402,7 +165402,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6400000000000,
+				"Threshold": 7200000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -165444,7 +165444,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 855000000000,
+				"Threshold": 900000000000,
 				"ConditionId": "foodfactory"
 			},
 			"Reward": {
@@ -165500,7 +165500,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 840000000000,
+				"Threshold": 920000000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -165528,7 +165528,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9350000000000,
+				"Threshold": 9900000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -165626,7 +165626,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1250000000000,
+				"Threshold": 1300000000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -165654,7 +165654,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 14000000000000,
+				"Threshold": 14700000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -165780,7 +165780,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 19500000000000,
+				"Threshold": 20800000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
