@@ -159772,8 +159772,8 @@ DATA["potatofactory-bal-13"] =
 			"EpicWeight": -1,
 			"SupremeWeight": -1,
 			"LteRareWeight": 9,
-			"ScienceMin": 70,
-			"ScienceMax": 80,
+			"ScienceMin": 90,
+			"ScienceMax": 110,
 			"TrophyMin": 10,
 			"TrophyMax": 10,
 			"ChanceMultiplier": 10,
@@ -159787,8 +159787,8 @@ DATA["potatofactory-bal-13"] =
 			"EpicWeight": -1,
 			"SupremeWeight": -1,
 			"LteRareWeight": 10,
-			"ScienceMin": 140,
-			"ScienceMax": 160,
+			"ScienceMin": 180,
+			"ScienceMax": 220,
 			"TrophyMin": 50,
 			"TrophyMax": 50,
 			"ChanceMultiplier": 10,
@@ -163288,8 +163288,8 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 88800000,
-				"ConditionId": "burger"
+				"Threshold": 888,
+				"ConditionId": "friedchicken"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -163344,7 +163344,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.4e73,
+				"Threshold": 5.4e65,
 				"ConditionId": "takeout"
 			},
 			"Reward": {
@@ -163386,8 +163386,8 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 477000000,
-				"ConditionId": "burger"
+				"Threshold": 47700000,
+				"ConditionId": "friedchicken"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -163442,8 +163442,8 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2700000000,
-				"ConditionId": "conveyorbelt"
+				"Threshold": 27000,
+				"ConditionId": "distribution"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -163456,7 +163456,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 88,
+				"Threshold": 4400000000,
 				"ConditionId": "friedchicken"
 			},
 			"Reward": {
@@ -163512,7 +163512,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5,
+				"Threshold": 500000000,
 				"ConditionId": "distribution"
 			},
 			"Reward": {
@@ -163568,7 +163568,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.55e80,
+				"Threshold": 5.55e72,
 				"ConditionId": "takeout"
 			},
 			"Reward": {
@@ -163582,7 +163582,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 22200,
+				"Threshold": 4440000000,
 				"ConditionId": "distribution"
 			},
 			"Reward": {
@@ -163596,7 +163596,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 221000,
+				"Threshold": 11050000000,
 				"ConditionId": "friedchicken"
 			},
 			"Reward": {
@@ -163624,7 +163624,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.34e61,
+				"Threshold": 2.34e64,
 				"ConditionId": "potatocrate"
 			},
 			"Reward": {
@@ -163666,7 +163666,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 44400000,
+				"Threshold": 22200000000,
 				"ConditionId": "friedchicken"
 			},
 			"Reward": {
@@ -163708,7 +163708,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.03e88,
+				"Threshold": 3.03e78,
 				"ConditionId": "takeout"
 			},
 			"Reward": {
@@ -163736,7 +163736,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 8640000,
+				"Threshold": 17280000000,
 				"ConditionId": "distribution"
 			},
 			"Reward": {
@@ -163778,7 +163778,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 9960000000,
+				"Threshold": 33200000000,
 				"ConditionId": "friedchicken"
 			},
 			"Reward": {
@@ -163834,7 +163834,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.88e68,
+				"Threshold": 8.88e69,
 				"ConditionId": "potatocrate"
 			},
 			"Reward": {
@@ -163848,7 +163848,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e95,
+				"Threshold": 2.22e83,
 				"ConditionId": "takeout"
 			},
 			"Reward": {
@@ -163876,7 +163876,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 34800000000,
+				"Threshold": 43500000000,
 				"ConditionId": "friedchicken"
 			},
 			"Reward": {
@@ -163946,7 +163946,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 22200000000,
+				"Threshold": 33300000000,
 				"ConditionId": "distribution"
 			},
 			"Reward": {
@@ -163974,7 +163974,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e88,
+				"Threshold": 1.3e87,
 				"ConditionId": "takeout"
 			},
 			"Reward": {
@@ -164016,7 +164016,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 25000000000,
+				"Threshold": 50000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -164072,7 +164072,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 235000,
+				"Threshold": 2350,
 				"ConditionId": "pizza"
 			},
 			"Reward": {
@@ -164142,7 +164142,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 82900000000,
+				"Threshold": 149000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -167467,7 +167467,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "5",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 1.2,
+			"NormalGachaMultiplier": 1.3,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.2,
 			"PremiumGachaMultiplierScience": 1,
@@ -167482,7 +167482,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "5",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 1.5,
+			"NormalGachaMultiplier": 1.6,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.3,
 			"PremiumGachaMultiplierScience": 1,
@@ -167527,7 +167527,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "5",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2.4,
+			"NormalGachaMultiplier": 2.5,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.6,
 			"PremiumGachaMultiplierScience": 1,
@@ -167542,7 +167542,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "5",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2.7,
+			"NormalGachaMultiplier": 2.8,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.7,
 			"PremiumGachaMultiplierScience": 1,
@@ -167707,7 +167707,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": "4.9",
+			"NormalGachaMultiplier": "5",
 			"PremiumGachaMultiplier": "1",
 			"NormalGachaMultiplierScience": "3.9",
 			"PremiumGachaMultiplierScience": "1",
@@ -167722,7 +167722,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5,
+			"NormalGachaMultiplier": 5.1,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 4.1,
 			"PremiumGachaMultiplierScience": 1,
@@ -167737,7 +167737,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "9",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.1,
+			"NormalGachaMultiplier": 5.2,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 4.3,
 			"PremiumGachaMultiplierScience": 1,
@@ -167752,7 +167752,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.2,
+			"NormalGachaMultiplier": 5.3,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 4.5,
 			"PremiumGachaMultiplierScience": 1,
@@ -167767,7 +167767,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "9",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.3,
+			"NormalGachaMultiplier": 5.4,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 4.7,
 			"PremiumGachaMultiplierScience": 1,
@@ -167782,7 +167782,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.4,
+			"NormalGachaMultiplier": 5.5,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 4.9,
 			"PremiumGachaMultiplierScience": 1,
@@ -167797,7 +167797,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "10",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.5,
+			"NormalGachaMultiplier": 5.6,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 5.1,
 			"PremiumGachaMultiplierScience": 1,
@@ -167812,7 +167812,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.6,
+			"NormalGachaMultiplier": 5.7,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 5.3,
 			"PremiumGachaMultiplierScience": 1,
@@ -167827,7 +167827,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "10",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.7,
+			"NormalGachaMultiplier": 5.8,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 5.5,
 			"PremiumGachaMultiplierScience": 1,
@@ -167842,7 +167842,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "8",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.8,
+			"NormalGachaMultiplier": 5.9,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 5.7,
 			"PremiumGachaMultiplierScience": 1,
@@ -167857,7 +167857,7 @@ DATA["potatofactory-bal-13"] =
 			"Missions": "11",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.9,
+			"NormalGachaMultiplier": 6,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 5.9,
 			"PremiumGachaMultiplierScience": 1,
