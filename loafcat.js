@@ -162489,13 +162489,13 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0055",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 3,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 750,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -162630,12 +162630,12 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
+				"Threshold": 3,
 				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -162705,7 +162705,7 @@ DATA["potatofactory-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -162769,13 +162769,13 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0075",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -162845,7 +162845,7 @@ DATA["potatofactory-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -162910,12 +162910,12 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
+				"Threshold": 3,
 				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -162985,7 +162985,7 @@ DATA["potatofactory-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -163049,13 +163049,13 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0095",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 3,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1500,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -163195,7 +163195,7 @@ DATA["potatofactory-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -163329,13 +163329,13 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0115",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 3,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 2000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -163475,7 +163475,7 @@ DATA["potatofactory-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -163609,13 +163609,13 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0135",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 3,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 2500,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -163750,12 +163750,12 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
+				"Threshold": 3,
 				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -163889,13 +163889,13 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0155",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 3000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -164030,12 +164030,12 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
+				"Threshold": 3,
 				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -164169,13 +164169,13 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0175",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 4,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 3500,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -164310,12 +164310,12 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
+				"Threshold": 3,
 				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -164449,13 +164449,13 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0195",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 4000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -164729,9 +164729,9 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0215",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 4500,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -165009,9 +165009,9 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0235",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 5000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -165289,9 +165289,9 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0255",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 6000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -165541,9 +165541,9 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0273",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 7000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -165793,9 +165793,9 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0291",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 8000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
