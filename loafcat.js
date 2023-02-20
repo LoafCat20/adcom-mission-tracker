@@ -163217,9 +163217,9 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0107",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 800,
-				"ConditionId": "darkscience"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 585000000,
+				"ConditionId": "potatoelevator"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -163231,9 +163231,9 @@ DATA["potatofactory-bal-13"] =
 			"Id": "M0108",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 585000000,
-				"ConditionId": "potatoelevator"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8e81,
+				"ConditionId": "hardcandy"
 			},
 			"Reward": {
 				"Reward": "Gacha",
