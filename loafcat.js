@@ -160870,7 +160870,7 @@ DATA["potatofactory-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "cottoncandy",
-				"Threshold": 15000000000
+				"Threshold": 10000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -160918,7 +160918,7 @@ DATA["potatofactory-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "caramelcorn",
-				"Threshold": 100000000000
+				"Threshold": 150000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
