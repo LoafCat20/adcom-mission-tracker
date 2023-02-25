@@ -159955,7 +159955,7 @@ DATA["potatofactory-bal-13"] =
 		{
 			"GachaId": "sc_m02",
 			"MimicGachaId": "plastic",
-			"Science": 45,
+			"Science": 75,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -159968,29 +159968,33 @@ DATA["potatofactory-bal-13"] =
 		{
 			"GachaId": "sc_m03",
 			"MimicGachaId": "plastic",
-			"Science": 47,
+			"Science": 77,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
 				{
 					"Id": "WIL002",
 					"Value": 3
+				},
+				{
+					"Id": "WIL024",
+					"Value": 1
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m04",
 			"MimicGachaId": "plastic",
-			"Science": 46,
+			"Science": 92,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 20,
 			"Card": [
 				{
-					"Id": "WIL001",
-					"Value": 3
+					"Id": "WIL008",
+					"Value": 7
 				},
 				{
-					"Id": "WIL023",
+					"Id": "WIL026",
 					"Value": 1
 				}
 			]
@@ -159998,56 +160002,84 @@ DATA["potatofactory-bal-13"] =
 		{
 			"GachaId": "sc_m05",
 			"MimicGachaId": "plastic",
-			"Science": 54,
+			"Science": 108,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 30,
 			"Card": [
 				{
-					"Id": "WIL001",
+					"Id": "WIL003",
 					"Value": 6
+				},
+				{
+					"Id": "WIL008",
+					"Value": 3
+				},
+				{
+					"Id": "WIL027",
+					"Value": 1
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m06",
 			"MimicGachaId": "plastic",
-			"Science": 55,
+			"Science": 110,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 40,
 			"Card": [
+				{
+					"Id": "WIL009",
+					"Value": 5
+				},
 				{
 					"Id": "WIL002",
 					"Value": 6
+				},
+				{
+					"Id": "WIL023",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m07",
 			"MimicGachaId": "plastic",
-			"Science": 53,
+			"Science": 123,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 50,
 			"Card": [
 				{
-					"Id": "WIL007",
-					"Value": 5
+					"Id": "WIL014",
+					"Value": 6
 				},
 				{
-					"Id": "WIL016",
-					"Value": 1
+					"Id": "WIL003",
+					"Value": 8
+				},
+				{
+					"Id": "WIL026",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m08",
 			"MimicGachaId": "plastic",
-			"Science": 62,
+			"Science": 132,
 			"Gold": 0,
-			"Trophy": 20,
+			"Trophy": 60,
 			"Card": [
 				{
-					"Id": "WIL003",
-					"Value": 8
+					"Id": "WIL008",
+					"Value": 6
+				},
+				{
+					"Id": "WIL004",
+					"Value": 10
+				},
+				{
+					"Id": "WIL028",
+					"Value": 2
 				}
 			]
 		},
@@ -160396,16 +160428,16 @@ DATA["potatofactory-bal-13"] =
 		{
 			"GachaId": "sc3",
 			"MimicGachaId": "plastic",
-			"Science": 50,
+			"Science": 80,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
 				{
-					"Id": "WIL023",
-					"Value": 1
+					"Id": "WIL001",
+					"Value": 3
 				},
 				{
-					"Id": "WIL024",
+					"Id": "WIL023",
 					"Value": 1
 				}
 			]
@@ -161809,7 +161841,7 @@ DATA["potatofactory-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m03",
 				"Value": 1
 			}
 		},
@@ -161907,7 +161939,7 @@ DATA["potatofactory-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m04",
 				"Value": 1
 			}
 		},
@@ -161949,7 +161981,7 @@ DATA["potatofactory-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m05",
 				"Value": 1
 			}
 		},
@@ -162019,7 +162051,7 @@ DATA["potatofactory-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m06",
 				"Value": 1
 			}
 		},
@@ -162089,7 +162121,7 @@ DATA["potatofactory-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m07",
 				"Value": 1
 			}
 		},
@@ -162173,7 +162205,7 @@ DATA["potatofactory-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m08",
 				"Value": 1
 			}
 		},
@@ -167978,7 +168010,7 @@ DATA["potatofactory-bal-13"] =
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteCommon",
-			"PlayerRankUnlock": 2,
+			"PlayerRankUnlock": 1,
 			"ResearchOutputType": "Constant"
 		},
 		{
