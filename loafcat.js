@@ -159772,8 +159772,8 @@ DATA["potatofactory-bal-13"] =
 			"EpicWeight": -1,
 			"SupremeWeight": -1,
 			"LteRareWeight": 9,
-			"ScienceMin": 90,
-			"ScienceMax": 110,
+			"ScienceMin": 80,
+			"ScienceMax": 100,
 			"TrophyMin": 10,
 			"TrophyMax": 10,
 			"ChanceMultiplier": 10,
@@ -159787,8 +159787,8 @@ DATA["potatofactory-bal-13"] =
 			"EpicWeight": -1,
 			"SupremeWeight": -1,
 			"LteRareWeight": 10,
-			"ScienceMin": 180,
-			"ScienceMax": 220,
+			"ScienceMin": 160,
+			"ScienceMax": 200,
 			"TrophyMin": 50,
 			"TrophyMax": 50,
 			"ChanceMultiplier": 10,
@@ -161893,7 +161893,7 @@ DATA["potatofactory-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -162061,7 +162061,7 @@ DATA["potatofactory-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
