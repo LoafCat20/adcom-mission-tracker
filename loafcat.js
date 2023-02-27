@@ -169309,12 +169309,12 @@ DATA["potatofactory-bal-13"] =
 				{
 					"Reward": "Researcher",
 					"Value": 30,
-					"RewardId": "WIL025"
+					"RewardId": "WIL028"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 200,
-					"RewardId": "WIL009"
+					"RewardId": "WIL004"
 				},
 				{
 					"Reward": "Resources",
@@ -169339,12 +169339,12 @@ DATA["potatofactory-bal-13"] =
 				{
 					"Reward": "Researcher",
 					"Value": 50,
-					"RewardId": "WIL028"
+					"RewardId": "WIL029"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 300,
-					"RewardId": "WIL005"
+					"RewardId": "WIL019"
 				},
 				{
 					"Reward": "Resources",
@@ -169369,12 +169369,12 @@ DATA["potatofactory-bal-13"] =
 				{
 					"Reward": "Researcher",
 					"Value": 75,
-					"RewardId": "WIL030"
+					"RewardId": "WIL031"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 400,
-					"RewardId": "WIL015"
+					"RewardId": "WIL020"
 				},
 				{
 					"Reward": "Resources",
@@ -169399,12 +169399,12 @@ DATA["potatofactory-bal-13"] =
 				{
 					"Reward": "Researcher",
 					"Value": 100,
-					"RewardId": "WIL034"
+					"RewardId": "WIL025"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 500,
-					"RewardId": "WIL019"
+					"RewardId": "WIL016"
 				},
 				{
 					"Reward": "Resources",
@@ -169444,7 +169444,7 @@ DATA["potatofactory-bal-13"] =
 				{
 					"Reward": "Researcher",
 					"Value": 500,
-					"RewardId": "WIL020"
+					"RewardId": "WIL021"
 				},
 				{
 					"Reward": "Resources",
@@ -169469,12 +169469,12 @@ DATA["potatofactory-bal-13"] =
 				{
 					"Reward": "Researcher",
 					"Value": 125,
-					"RewardId": "WIL033"
+					"RewardId": "WIL034"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 600,
-					"RewardId": "WIL007"
+					"RewardId": "WIL017"
 				},
 				{
 					"Reward": "Resources",
@@ -169504,12 +169504,12 @@ DATA["potatofactory-bal-13"] =
 				{
 					"Reward": "Researcher",
 					"Value": 150,
-					"RewardId": "WIL031"
+					"RewardId": "WIL028"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 700,
-					"RewardId": "WIL021"
+					"RewardId": "WIL022"
 				},
 				{
 					"Reward": "Resources",
@@ -169544,7 +169544,7 @@ DATA["potatofactory-bal-13"] =
 				{
 					"Reward": "Researcher",
 					"Value": 800,
-					"RewardId": "WIL018"
+					"RewardId": "WIL007"
 				},
 				{
 					"Reward": "Resources",
@@ -169574,7 +169574,7 @@ DATA["potatofactory-bal-13"] =
 				{
 					"Reward": "Researcher",
 					"Value": 900,
-					"RewardId": "WIL022"
+					"RewardId": "WIL018"
 				},
 				{
 					"Reward": "Resources",
