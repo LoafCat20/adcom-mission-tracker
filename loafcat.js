@@ -175166,7 +175166,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.88e123,
+				"Threshold": 8.88e111,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -175194,7 +175194,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.5e83,
+				"Threshold": 4.5e75,
 				"ConditionId": "cage"
 			},
 			"Reward": {
@@ -175250,7 +175250,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.98e56,
+				"Threshold": 3.98e50,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -175292,7 +175292,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.43e105,
+				"Threshold": 5.43e95,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -175418,7 +175418,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9e64,
+				"Threshold": 9e58,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -175432,7 +175432,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.91e87,
+				"Threshold": 1.91e78,
 				"ConditionId": "cage"
 			},
 			"Reward": {
@@ -175460,7 +175460,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.11e130,
+				"Threshold": 1.11e117,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -175502,7 +175502,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.99e66,
+				"Threshold": 9.99e59,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -175544,7 +175544,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.55e100,
+				"Threshold": 5.55e90,
 				"ConditionId": "cage"
 			},
 			"Reward": {
@@ -175572,7 +175572,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.88e68,
+				"Threshold": 8.88e61,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -175656,7 +175656,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e118,
+				"Threshold": 2.22e106,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -175684,7 +175684,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e131,
+				"Threshold": 2.22e118,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -175726,7 +175726,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.11e74,
+				"Threshold": 6.11e67,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -175768,7 +175768,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e106,
+				"Threshold": 2.22e95,
 				"ConditionId": "cage"
 			},
 			"Reward": {
@@ -175796,7 +175796,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.11e84,
+				"Threshold": 1.11e76,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -178667,7 +178667,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": "2",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "4",
+			"Missions": "3",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 0.6,
@@ -178757,7 +178757,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": "8",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "5",
+			"Missions": "4",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 2.2,
@@ -178847,7 +178847,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": "14",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "6",
+			"Missions": "5",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 3.6,
@@ -178937,7 +178937,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": "20",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "7",
+			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": "4.8",
@@ -179027,7 +179027,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 26,
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "8",
+			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 5.4,
