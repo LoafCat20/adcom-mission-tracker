@@ -171952,7 +171952,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "hideout",
-					"Qty": "1.0E+14"
+					"Qty": "1.0E+12"
 				},
 				{
 					"Resource": "Comrade",
@@ -172000,7 +172000,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "hideout",
-					"Qty": 1e27
+					"Qty": 1e24
 				},
 				{
 					"Resource": "Comrade",
@@ -172048,7 +172048,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "hideout",
-					"Qty": "1.0E+43"
+					"Qty": "1.0E+39"
 				},
 				{
 					"Resource": "Comrade",
@@ -172096,7 +172096,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "hideout",
-					"Qty": "1.0E+62"
+					"Qty": "1.0E+57"
 				},
 				{
 					"Resource": "Comrade",
@@ -172144,7 +172144,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "hideout",
-					"Qty": "1.0E+84"
+					"Qty": "1.0E+78"
 				},
 				{
 					"Resource": "Comrade",
@@ -172284,7 +172284,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "floorplan",
-					"Qty": "1.0E+20"
+					"Qty": "1.0E+19"
 				},
 				{
 					"Resource": "Comrade",
@@ -172332,7 +172332,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "floorplan",
-					"Qty": "1.0E+35"
+					"Qty": "1.0E+33"
 				},
 				{
 					"Resource": "Comrade",
@@ -172380,7 +172380,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "floorplan",
-					"Qty": "1.0E+53"
+					"Qty": "1.0E+50"
 				},
 				{
 					"Resource": "Comrade",
@@ -172428,7 +172428,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "floorplan",
-					"Qty": "1.0E+75"
+					"Qty": "1.0E+71"
 				},
 				{
 					"Resource": "Comrade",
@@ -172616,7 +172616,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "cage",
-					"Qty": 1e44
+					"Qty": 1e43
 				},
 				{
 					"Resource": "Comrade",
@@ -172664,7 +172664,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "cage",
-					"Qty": 1e65
+					"Qty": 1e63
 				},
 				{
 					"Resource": "Comrade",
