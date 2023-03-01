@@ -175573,7 +175573,7 @@ DATA["supervillain-bal-17"] =
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 2.22e109,
-				"ConditionId": "hideout"
+				"ConditionId": "exitsign"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175587,7 +175587,7 @@ DATA["supervillain-bal-17"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 30000000000,
-				"ConditionId": "selfdestruct"
+				"ConditionId": "lasershark"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175615,7 +175615,7 @@ DATA["supervillain-bal-17"] =
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 6.11e67,
-				"ConditionId": "exitsign"
+				"ConditionId": "hideout"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175629,7 +175629,7 @@ DATA["supervillain-bal-17"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2,
-				"ConditionId": "escapevehicle"
+				"ConditionId": "controlroom"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175657,7 +175657,7 @@ DATA["supervillain-bal-17"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 6000000000000,
-				"ConditionId": "selfdestruct"
+				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175684,8 +175684,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.11e72,
-				"ConditionId": "exitsign"
+				"Threshold": 1.11e99,
+				"ConditionId": "floorplan"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175698,8 +175698,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 35300,
-				"ConditionId": "escapevehicle"
+				"Threshold": 70600000000,
+				"ConditionId": "spacebase"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175712,8 +175712,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.21e139,
-				"ConditionId": "hideout"
+				"Threshold": 5.21e71,
+				"ConditionId": "exitsign"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175726,7 +175726,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 300000000000,
+				"Threshold": 12000000000,
 				"ConditionId": "lasersharks"
 			},
 			"Reward": {
@@ -175754,8 +175754,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e124,
-				"ConditionId": "floorplan"
+				"Threshold": 2.22e109,
+				"ConditionId": "hideout"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175768,7 +175768,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 150000000000,
+				"Threshold": 27000000000,
 				"ConditionId": "controlroom"
 			},
 			"Reward": {
@@ -175782,8 +175782,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.77e88,
-				"ConditionId": "exitsign"
+				"Threshold": 7.77e86,
+				"ConditionId": "cage"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175824,8 +175824,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e108,
-				"ConditionId": "cage"
+				"Threshold": 2.22e100,
+				"ConditionId": "floorplan"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175838,7 +175838,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 555000000000,
+				"Threshold": 88800000000,
 				"ConditionId": "spacebase"
 			},
 			"Reward": {
@@ -175852,7 +175852,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.33e90,
+				"Threshold": 1.33e73,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -175866,7 +175866,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 500000000000,
+				"Threshold": 15000000000,
 				"ConditionId": "lasersharks"
 			},
 			"Reward": {
@@ -175894,7 +175894,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.24e143,
+				"Threshold": 2.24e111,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -175908,8 +175908,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 150000000000,
-				"ConditionId": "escapevehicle"
+				"Threshold": 27000000000,
+				"ConditionId": "controlroom"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175922,8 +175922,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.33e93,
-				"ConditionId": "exitsign"
+				"Threshold": 1.33e89,
+				"ConditionId": "cage"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175936,8 +175936,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 280000000000,
-				"ConditionId": "controlroom"
+				"Threshold": 7700000000,
+				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175964,8 +175964,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.13e111,
-				"ConditionId": "cage"
+				"Threshold": 1.13e103,
+				"ConditionId": "floorplan"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175978,7 +175978,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 993000000000,
+				"Threshold": 109230000000,
 				"ConditionId": "spacebase"
 			},
 			"Reward": {
@@ -175992,8 +175992,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.21e145,
-				"ConditionId": "hideout"
+				"Threshold": 3.21e74,
+				"ConditionId": "exitsign"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -176006,7 +176006,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 700000000000,
+				"Threshold": 20300000000,
 				"ConditionId": "lasersharks"
 			},
 			"Reward": {
@@ -176034,8 +176034,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.78e94,
-				"ConditionId": "exitsign"
+				"Threshold": 6.78e112,
+				"ConditionId": "hideout"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -176048,8 +176048,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 220000000000,
-				"ConditionId": "escapevehicle"
+				"Threshold": 44000000000,
+				"ConditionId": "controlroom"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -176062,8 +176062,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.4e129,
-				"ConditionId": "floorplan"
+				"Threshold": 4.4e90,
+				"ConditionId": "cage"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -176076,8 +176076,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 432000000000,
-				"ConditionId": "controlroom"
+				"Threshold": 10800000000,
+				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -176104,7 +176104,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.1e131,
+				"Threshold": 1.1e104,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -176118,7 +176118,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1500000000000,
+				"Threshold": 135000000000,
 				"ConditionId": "spacebase"
 			},
 			"Reward": {
@@ -176132,7 +176132,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.1e98,
+				"Threshold": 1.1e76,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -176146,7 +176146,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 900000000000,
+				"Threshold": 26100000000,
 				"ConditionId": "lasersharks"
 			},
 			"Reward": {
@@ -176174,7 +176174,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e150,
+				"Threshold": 5.2e114,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -176188,7 +176188,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 650000000000,
+				"Threshold": 52000000000,
 				"ConditionId": "controlroom"
 			},
 			"Reward": {
@@ -176202,7 +176202,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.25e113,
+				"Threshold": 1.25e92,
 				"ConditionId": "cage"
 			},
 			"Reward": {
@@ -176216,7 +176216,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 250000000000,
+				"Threshold": 13750000000,
 				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
@@ -176244,7 +176244,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e134,
+				"Threshold": 2.22e106,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -176258,7 +176258,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2000000000000,
+				"Threshold": 160000000000,
 				"ConditionId": "spacebase"
 			},
 			"Reward": {
@@ -176272,7 +176272,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8e100,
+				"Threshold": 8e77,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -176286,7 +176286,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1200000000000,
+				"Threshold": 33600000000,
 				"ConditionId": "lasersharks"
 			},
 			"Reward": {
@@ -176314,7 +176314,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.4e153,
+				"Threshold": 7.4e116,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -176328,7 +176328,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 949000000000,
+				"Threshold": 66430000000,
 				"ConditionId": "controlroom"
 			},
 			"Reward": {
@@ -176342,7 +176342,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.26e115,
+				"Threshold": 5.26e93,
 				"ConditionId": "cage"
 			},
 			"Reward": {
@@ -176356,7 +176356,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 300000000000,
+				"Threshold": 18000000000,
 				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
@@ -176384,7 +176384,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e136,
+				"Threshold": 7.5e107,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -176398,7 +176398,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2500000000000,
+				"Threshold": 187500000000,
 				"ConditionId": "spacebase"
 			},
 			"Reward": {
@@ -176412,7 +176412,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.34e102,
+				"Threshold": 8.34e79,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -176426,7 +176426,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1500000000000,
+				"Threshold": 43500000000,
 				"ConditionId": "lasersharks"
 			},
 			"Reward": {
@@ -176454,7 +176454,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e156,
+				"Threshold": 2.22e118,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -176468,7 +176468,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1100000000000,
+				"Threshold": 82500000000,
 				"ConditionId": "controlroom"
 			},
 			"Reward": {
@@ -176482,7 +176482,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.35e117,
+				"Threshold": 2.35e95,
 				"ConditionId": "cage"
 			},
 			"Reward": {
@@ -176496,7 +176496,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 400000000000,
+				"Threshold": 25600000000,
 				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
@@ -176524,7 +176524,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.3e138,
+				"Threshold": 3.3e109,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -176538,7 +176538,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3200000000000,
+				"Threshold": 224000000000,
 				"ConditionId": "spacebase"
 			},
 			"Reward": {
@@ -176552,7 +176552,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.2e104,
+				"Threshold": 9.2e80,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -176566,7 +176566,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1800000000000,
+				"Threshold": 55800000000,
 				"ConditionId": "lasersharks"
 			},
 			"Reward": {
@@ -176580,7 +176580,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.9e158,
+				"Threshold": 3.9e119,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -176594,7 +176594,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1300000000000,
+				"Threshold": 104000000000,
 				"ConditionId": "controlroom"
 			},
 			"Reward": {
@@ -176608,7 +176608,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.8e119,
+				"Threshold": 2.8e97,
 				"ConditionId": "cage"
 			},
 			"Reward": {
@@ -176622,7 +176622,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 600000000000,
+				"Threshold": 36000000000,
 				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
@@ -176650,7 +176650,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e140,
+				"Threshold": 1.3e111,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -176664,7 +176664,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4000000000000,
+				"Threshold": 280000000000,
 				"ConditionId": "spacebase"
 			},
 			"Reward": {
@@ -176678,7 +176678,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e106,
+				"Threshold": 7.5e82,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -176692,7 +176692,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2100000000000,
+				"Threshold": 73500000000,
 				"ConditionId": "lasersharks"
 			},
 			"Reward": {
@@ -176706,7 +176706,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6e160,
+				"Threshold": 6e121,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -176720,7 +176720,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1700000000000,
+				"Threshold": 136000000000,
 				"ConditionId": "controlroom"
 			},
 			"Reward": {
@@ -176734,7 +176734,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.34e122,
+				"Threshold": 2.34e99,
 				"ConditionId": "cage"
 			},
 			"Reward": {
@@ -176748,7 +176748,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 800000000000,
+				"Threshold": 50000000000,
 				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
@@ -176776,7 +176776,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e142,
+				"Threshold": 4.2e113,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -176790,7 +176790,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5500000000000,
+				"Threshold": 330000000000,
 				"ConditionId": "spacebase"
 			},
 			"Reward": {
@@ -176804,7 +176804,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.6e108,
+				"Threshold": 6.6e83,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -176818,7 +176818,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2300000000000,
+				"Threshold": 92000000000,
 				"ConditionId": "lasersharks"
 			},
 			"Reward": {
@@ -176832,7 +176832,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.5e163,
+				"Threshold": 9.5e123,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -176846,7 +176846,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2400000000000,
+				"Threshold": 160000000000,
 				"ConditionId": "controlroom"
 			},
 			"Reward": {
@@ -176860,7 +176860,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.7e124,
+				"Threshold": 3.7e100,
 				"ConditionId": "cage"
 			},
 			"Reward": {
@@ -176874,7 +176874,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1000000000000,
+				"Threshold": 70000000000,
 				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
@@ -176902,7 +176902,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.56e144,
+				"Threshold": 6.56e114,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -176916,7 +176916,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7000000000000,
+				"Threshold": 392000000000,
 				"ConditionId": "spacebase"
 			},
 			"Reward": {
@@ -176930,7 +176930,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.3e110,
+				"Threshold": 5.3e85,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -176944,7 +176944,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2800000000000,
+				"Threshold": 119000000000,
 				"ConditionId": "lasersharks"
 			},
 			"Reward": {
@@ -176958,7 +176958,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.8e165,
+				"Threshold": 2.8e125,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -176972,7 +176972,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3600000000000,
+				"Threshold": 210000000000,
 				"ConditionId": "controlroom"
 			},
 			"Reward": {
@@ -176986,7 +176986,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.9e126,
+				"Threshold": 5.9e102,
 				"ConditionId": "cage"
 			},
 			"Reward": {
@@ -177000,7 +177000,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1700000000000,
+				"Threshold": 93500000000,
 				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
@@ -177028,7 +177028,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.2e147,
+				"Threshold": 2.2e116,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -177042,7 +177042,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 13000000000000,
+				"Threshold": 481000000000,
 				"ConditionId": "spacebase"
 			},
 			"Reward": {
@@ -177056,7 +177056,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.9e112,
+				"Threshold": 9.9e86,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -177070,7 +177070,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3200000000000,
+				"Threshold": 160000000000,
 				"ConditionId": "lasersharks"
 			},
 			"Reward": {
@@ -177084,7 +177084,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.4e167,
+				"Threshold": 8.4e126,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -177098,7 +177098,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6000000000000,
+				"Threshold": 255000000000,
 				"ConditionId": "controlroom"
 			},
 			"Reward": {
@@ -177112,7 +177112,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.6e129,
+				"Threshold": 2.6e104,
 				"ConditionId": "cage"
 			},
 			"Reward": {
@@ -177126,7 +177126,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5000000000000,
+				"Threshold": 125000000000,
 				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
@@ -177154,7 +177154,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e150,
+				"Threshold": 1.3e118,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -177168,7 +177168,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 27000000000000,
+				"Threshold": 585000000000,
 				"ConditionId": "spacebase"
 			},
 			"Reward": {
