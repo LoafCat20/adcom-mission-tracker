@@ -172664,7 +172664,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "cage",
-					"Qty": 1e70
+					"Qty": 1e69
 				},
 				{
 					"Resource": "Comrade",
@@ -172804,7 +172804,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "exitsign",
-					"Qty": 1e36
+					"Qty": 1e35
 				},
 				{
 					"Resource": "Comrade",
@@ -172852,7 +172852,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "exitsign",
-					"Qty": 1e60
+					"Qty": 1e57
 				},
 				{
 					"Resource": "Comrade",
@@ -175587,7 +175587,7 @@ DATA["supervillain-bal-17"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 30000000000,
-				"ConditionId": "lasershark"
+				"ConditionId": "lasersharks"
 			},
 			"Reward": {
 				"Reward": "Gacha",
