@@ -171904,7 +171904,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "hideout",
-					"Qty": "1.0E+03"
+					"Qty": "1.0E+04"
 				},
 				{
 					"Resource": "Comrade",
@@ -171952,7 +171952,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "hideout",
-					"Qty": "1.0E+15"
+					"Qty": "1.0E+14"
 				},
 				{
 					"Resource": "Comrade",
@@ -172000,7 +172000,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "hideout",
-					"Qty": 1e29
+					"Qty": 1e27
 				},
 				{
 					"Resource": "Comrade",
@@ -172048,7 +172048,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "hideout",
-					"Qty": "1.0E+46"
+					"Qty": "1.0E+43"
 				},
 				{
 					"Resource": "Comrade",
@@ -172096,7 +172096,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "hideout",
-					"Qty": "1.0E+66"
+					"Qty": "1.0E+62"
 				},
 				{
 					"Resource": "Comrade",
@@ -172144,7 +172144,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "hideout",
-					"Qty": "1.0E+90"
+					"Qty": "1.0E+84"
 				},
 				{
 					"Resource": "Comrade",
@@ -172332,7 +172332,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "floorplan",
-					"Qty": "1.0E+36"
+					"Qty": "1.0E+35"
 				},
 				{
 					"Resource": "Comrade",
@@ -172380,7 +172380,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "floorplan",
-					"Qty": "1.0E+56"
+					"Qty": "1.0E+53"
 				},
 				{
 					"Resource": "Comrade",
@@ -172428,7 +172428,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "floorplan",
-					"Qty": "1.0E+80"
+					"Qty": "1.0E+75"
 				},
 				{
 					"Resource": "Comrade",
@@ -172568,7 +172568,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "cage",
-					"Qty": 1e28
+					"Qty": 1e26
 				},
 				{
 					"Resource": "Comrade",
@@ -172616,7 +172616,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "cage",
-					"Qty": 1e47
+					"Qty": 1e44
 				},
 				{
 					"Resource": "Comrade",
@@ -172664,7 +172664,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "cage",
-					"Qty": 1e69
+					"Qty": 1e65
 				},
 				{
 					"Resource": "Comrade",
@@ -172804,7 +172804,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "exitsign",
-					"Qty": 1e35
+					"Qty": 1e33
 				},
 				{
 					"Resource": "Comrade",
@@ -172852,7 +172852,7 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Resource": "exitsign",
-					"Qty": 1e57
+					"Qty": 1e54
 				},
 				{
 					"Resource": "Comrade",
