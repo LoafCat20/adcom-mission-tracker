@@ -175796,7 +175796,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 53000000000,
+				"Threshold": 5300000000,
 				"ConditionId": "escapevehicle"
 			},
 			"Reward": {
