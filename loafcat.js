@@ -174550,20 +174550,6 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2500000000,
-				"ConditionId": "monologue"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0114",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
 				"Threshold": 4,
 				"ConditionId": "distraction"
 			},
@@ -174574,7 +174560,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0115",
+			"Id": "M0114",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearchersUpgradedSinceSubscription",
@@ -174588,7 +174574,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0116",
+			"Id": "M0115",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174602,7 +174588,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0117",
+			"Id": "M0116",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -174616,7 +174602,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0118",
+			"Id": "M0117",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -174630,7 +174616,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0119",
+			"Id": "M0118",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174644,7 +174630,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0120",
+			"Id": "M0119",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174658,7 +174644,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0121",
+			"Id": "M0120",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -174672,7 +174658,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0122",
+			"Id": "M0121",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174686,7 +174672,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0123",
+			"Id": "M0122",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174700,21 +174686,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0124",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1500,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0125",
+			"Id": "M0123",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174728,7 +174700,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0126",
+			"Id": "M0124",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174742,7 +174714,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0127",
+			"Id": "M0125",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -174756,7 +174728,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0128",
+			"Id": "M0126",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174770,7 +174742,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0129",
+			"Id": "M0127",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174784,7 +174756,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0130",
+			"Id": "M0128",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -174798,7 +174770,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0131",
+			"Id": "M0129",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174812,7 +174784,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0132",
+			"Id": "M0130",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174826,7 +174798,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0133",
+			"Id": "M0131",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -174840,7 +174812,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0134",
+			"Id": "M0132",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174854,12 +174826,40 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
+			"Id": "M0133",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 2500,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0134",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.6e68,
+				"ConditionId": "floorplan"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
 			"Id": "M0135",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 360000000000,
-				"ConditionId": "distraction"
+				"Threshold": 6000000000,
+				"ConditionId": "spacebase"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -174871,9 +174871,9 @@ DATA["supervillain-bal-17"] =
 			"Id": "M0136",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 3,
-				"ConditionId": "acidpool"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2e38,
+				"ConditionId": "exitsign"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -174886,8 +174886,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 20000000000000,
-				"ConditionId": "freezeray"
+				"Threshold": 4000000000,
+				"ConditionId": "acidpool"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -174899,13 +174899,13 @@ DATA["supervillain-bal-17"] =
 			"Id": "M0138",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 2,
-				"ConditionId": "selfdestruct"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2500,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -174913,9 +174913,9 @@ DATA["supervillain-bal-17"] =
 			"Id": "M0139",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 52000000000,
-				"ConditionId": "underwater"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.2e81,
+				"ConditionId": "hideout"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -174928,8 +174928,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 12000000000000,
-				"ConditionId": "distraction"
+				"Threshold": 120,
+				"ConditionId": "controlroom"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -174941,9 +174941,9 @@ DATA["supervillain-bal-17"] =
 			"Id": "M0141",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 549000000,
-				"ConditionId": "doomsday"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.49e57,
+				"ConditionId": "cage"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -174957,7 +174957,7 @@ DATA["supervillain-bal-17"] =
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 2220000000,
-				"ConditionId": "spacebase"
+				"ConditionId": "selfdestruct"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -175054,7 +175054,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.3e83,
+				"Threshold": 6.3e86,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -175194,7 +175194,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.88e88,
+				"Threshold": 8.88e90,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -175334,7 +175334,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9e93,
+				"Threshold": 9e94,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -175474,7 +175474,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.55e98,
+				"Threshold": 5.55e99,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
