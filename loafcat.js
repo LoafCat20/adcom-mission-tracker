@@ -174984,7 +174984,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e73,
+				"Threshold": 2.22e75,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
