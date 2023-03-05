@@ -171140,8 +171140,8 @@ DATA["supervillain-bal-17"] =
 			"EpicWeight": -1,
 			"SupremeWeight": -1,
 			"LteRareWeight": 9,
-			"ScienceMin": 70,
-			"ScienceMax": 80,
+			"ScienceMin": 100,
+			"ScienceMax": 120,
 			"TrophyMin": 10,
 			"TrophyMax": 10,
 			"ChanceMultiplier": 10,
@@ -171155,8 +171155,8 @@ DATA["supervillain-bal-17"] =
 			"EpicWeight": -1,
 			"SupremeWeight": -1,
 			"LteRareWeight": 10,
-			"ScienceMin": 140,
-			"ScienceMax": 160,
+			"ScienceMin": 200,
+			"ScienceMax": 240,
 			"TrophyMin": 50,
 			"TrophyMax": 50,
 			"ChanceMultiplier": 10,
@@ -174311,20 +174311,6 @@ DATA["supervillain-bal-17"] =
 			"Id": "M0096",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0097",
-			"Rank": 1,
-			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 32100000,
 				"ConditionId": "monologue"
@@ -174336,7 +174322,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0098",
+			"Id": "M0097",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -174350,7 +174336,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0099",
+			"Id": "M0098",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174364,7 +174350,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0100",
+			"Id": "M0099",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174378,21 +174364,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0101",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0102",
+			"Id": "M0100",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174406,7 +174378,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0103",
+			"Id": "M0101",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -174420,7 +174392,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0104",
+			"Id": "M0102",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -174434,11 +174406,39 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
+			"Id": "M0103",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1750,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0104",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.99e56,
+				"ConditionId": "floorplan"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
 			"Id": "M0105",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 999000000,
+				"Threshold": 3210000000,
 				"ConditionId": "underwater"
 			},
 			"Reward": {
@@ -174452,8 +174452,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.2e62,
-				"ConditionId": "floorplan"
+				"Threshold": 6.2e32,
+				"ConditionId": "exitsign"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -174466,8 +174466,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 321000000,
-				"ConditionId": "monologue"
+				"Threshold": 222,
+				"ConditionId": "acidpool"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -174479,13 +174479,13 @@ DATA["supervillain-bal-17"] =
 			"Id": "M0108",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7650000000000000000,
-				"ConditionId": "exitsign"
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 500,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -174493,9 +174493,9 @@ DATA["supervillain-bal-17"] =
 			"Id": "M0109",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 222000000,
-				"ConditionId": "evillab"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.65e73,
+				"ConditionId": "hideout"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -174507,9 +174507,9 @@ DATA["supervillain-bal-17"] =
 			"Id": "M0110",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.27e48,
-				"ConditionId": "cage"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1600000000,
+				"ConditionId": "doomsday"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -174521,9 +174521,9 @@ DATA["supervillain-bal-17"] =
 			"Id": "M0111",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 4,
-				"ConditionId": "distraction"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.27e45,
+				"ConditionId": "cage"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -174536,8 +174536,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4200000000,
-				"ConditionId": "monologue"
+				"Threshold": 840000000,
+				"ConditionId": "distraction"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -178670,7 +178670,7 @@ DATA["supervillain-bal-17"] =
 			"Missions": "3",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 0.6,
+			"NormalGachaMultiplier": 0.7,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 0.9,
 			"PremiumGachaMultiplierScience": 1,
@@ -178685,7 +178685,7 @@ DATA["supervillain-bal-17"] =
 			"Missions": "4",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 0.8,
+			"NormalGachaMultiplier": 1,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1,
 			"PremiumGachaMultiplierScience": 1,
@@ -178700,7 +178700,7 @@ DATA["supervillain-bal-17"] =
 			"Missions": "5",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 1,
+			"NormalGachaMultiplier": 1.3,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.1,
 			"PremiumGachaMultiplierScience": 1,
@@ -178715,7 +178715,7 @@ DATA["supervillain-bal-17"] =
 			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 1.2,
+			"NormalGachaMultiplier": 1.6,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.2,
 			"PremiumGachaMultiplierScience": 1,
@@ -178730,7 +178730,7 @@ DATA["supervillain-bal-17"] =
 			"Missions": "4",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 1.5,
+			"NormalGachaMultiplier": 1.9,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.3,
 			"PremiumGachaMultiplierScience": 1,
@@ -178745,7 +178745,7 @@ DATA["supervillain-bal-17"] =
 			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 1.9,
+			"NormalGachaMultiplier": 2.2,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.4,
 			"PremiumGachaMultiplierScience": 1,
@@ -178760,7 +178760,7 @@ DATA["supervillain-bal-17"] =
 			"Missions": "4",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2.2,
+			"NormalGachaMultiplier": 2.5,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.5,
 			"PremiumGachaMultiplierScience": 1,
@@ -178775,7 +178775,7 @@ DATA["supervillain-bal-17"] =
 			"Missions": "5",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2.4,
+			"NormalGachaMultiplier": 2.8,
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.6,
 			"PremiumGachaMultiplierScience": 1,
@@ -178790,9 +178790,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 2.7,
+			"NormalGachaMultiplier": 3,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 1.7,
+			"NormalGachaMultiplierScience": 1.8,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 9,
 			"AirDropScience": 20,
@@ -178805,9 +178805,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 3,
+			"NormalGachaMultiplier": 3.2,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 1.9,
+			"NormalGachaMultiplierScience": 2,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 10,
 			"AirDropScience": 20,
@@ -178820,9 +178820,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "5",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 3.2,
+			"NormalGachaMultiplier": 3.4,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 2.1,
+			"NormalGachaMultiplierScience": 2.2,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 11,
 			"AirDropScience": 20,
@@ -178835,9 +178835,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 3.4,
+			"NormalGachaMultiplier": 3.6,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 2.3,
+			"NormalGachaMultiplierScience": 2.4,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 12,
 			"AirDropScience": 20,
@@ -178850,9 +178850,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "5",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 3.6,
+			"NormalGachaMultiplier": 3.8,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 2.5,
+			"NormalGachaMultiplierScience": 2.6,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 13,
 			"AirDropScience": 20,
@@ -178865,9 +178865,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 3.8,
+			"NormalGachaMultiplier": 4,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 2.7,
+			"NormalGachaMultiplierScience": 2.8,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 14,
 			"AirDropScience": 30,
@@ -178880,9 +178880,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 4,
+			"NormalGachaMultiplier": 4.2,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 2.9,
+			"NormalGachaMultiplierScience": 3,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 15,
 			"AirDropScience": 30,
@@ -178895,9 +178895,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "8",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 4.2,
+			"NormalGachaMultiplier": 4.4,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 3.1,
+			"NormalGachaMultiplierScience": 3.2,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 16,
 			"AirDropScience": 30,
@@ -178910,9 +178910,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 4.4,
+			"NormalGachaMultiplier": 4.6,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 3.3,
+			"NormalGachaMultiplierScience": 3.4,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 17,
 			"AirDropScience": 30,
@@ -178925,9 +178925,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "8",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 4.6,
+			"NormalGachaMultiplier": 4.8,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 3.5,
+			"NormalGachaMultiplierScience": 3.6,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 18,
 			"AirDropScience": 30,
@@ -178940,9 +178940,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": "4.8",
+			"NormalGachaMultiplier": "4.9",
 			"PremiumGachaMultiplier": "1",
-			"NormalGachaMultiplierScience": "3.7",
+			"NormalGachaMultiplierScience": "3.8",
 			"PremiumGachaMultiplierScience": "1",
 			"GachaMultiplierTrophy": "19",
 			"AirDropScience": "40",
@@ -178955,9 +178955,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": "4.9",
+			"NormalGachaMultiplier": "5",
 			"PremiumGachaMultiplier": "1",
-			"NormalGachaMultiplierScience": "3.9",
+			"NormalGachaMultiplierScience": "4",
 			"PremiumGachaMultiplierScience": "1",
 			"GachaMultiplierTrophy": "20",
 			"AirDropScience": "40",
@@ -178970,9 +178970,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "8",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5,
+			"NormalGachaMultiplier": 5.1,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 4.1,
+			"NormalGachaMultiplierScience": 4.2,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 22,
 			"AirDropScience": 40,
@@ -178985,9 +178985,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "9",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.1,
+			"NormalGachaMultiplier": 5.2,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 4.3,
+			"NormalGachaMultiplierScience": 4.4,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 24,
 			"AirDropScience": 40,
@@ -179000,9 +179000,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.2,
+			"NormalGachaMultiplier": 5.3,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 4.5,
+			"NormalGachaMultiplierScience": 4.6,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 26,
 			"AirDropScience": 40,
@@ -179015,9 +179015,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "9",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.3,
+			"NormalGachaMultiplier": 5.4,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 4.7,
+			"NormalGachaMultiplierScience": 4.8,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 28,
 			"AirDropScience": 50,
@@ -179030,9 +179030,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.4,
+			"NormalGachaMultiplier": 5.5,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 4.9,
+			"NormalGachaMultiplierScience": 5,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 30,
 			"AirDropScience": 50,
@@ -179045,9 +179045,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "8",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.5,
+			"NormalGachaMultiplier": 5.6,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 5.1,
+			"NormalGachaMultiplierScience": 5.2,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 35,
 			"AirDropScience": 50,
@@ -179060,9 +179060,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "9",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.6,
+			"NormalGachaMultiplier": 5.7,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 5.3,
+			"NormalGachaMultiplierScience": 5.4,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 40,
 			"AirDropScience": 50,
@@ -179075,9 +179075,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "10",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.7,
+			"NormalGachaMultiplier": 5.8,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 5.5,
+			"NormalGachaMultiplierScience": 5.6,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 45,
 			"AirDropScience": 50,
@@ -179090,9 +179090,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "8",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.8,
+			"NormalGachaMultiplier": 5.9,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 5.7,
+			"NormalGachaMultiplierScience": 5.8,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 50,
 			"AirDropScience": 60,
@@ -179105,9 +179105,9 @@ DATA["supervillain-bal-17"] =
 			"Missions": "10",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
-			"NormalGachaMultiplier": 5.9,
+			"NormalGachaMultiplier": 6,
 			"PremiumGachaMultiplier": 1,
-			"NormalGachaMultiplierScience": 5.9,
+			"NormalGachaMultiplierScience": 6,
 			"PremiumGachaMultiplierScience": 1,
 			"GachaMultiplierTrophy": 60,
 			"AirDropScience": 60,
