@@ -173639,20 +173639,6 @@ DATA["supervillain-bal-17"] =
 			"Id": "M0048",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 700,
-				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0049",
-			"Rank": 1,
-			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 120000000,
 				"ConditionId": "island"
@@ -173664,7 +173650,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0050",
+			"Id": "M0049",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -173678,7 +173664,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0051",
+			"Id": "M0050",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -173692,7 +173678,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0052",
+			"Id": "M0051",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -173706,7 +173692,7 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
-			"Id": "M0053",
+			"Id": "M0052",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -173720,12 +173706,26 @@ DATA["supervillain-bal-17"] =
 			}
 		},
 		{
+			"Id": "M0053",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 800,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
 			"Id": "M0054",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 8880000,
-				"ConditionId": "pressureplate"
+				"Threshold": 44400000,
+				"ConditionId": "training"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -173751,9 +173751,9 @@ DATA["supervillain-bal-17"] =
 			"Id": "M0056",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 5,
-				"ConditionId": "exitsign"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 99900000,
+				"ConditionId": "volcano"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -173765,9 +173765,9 @@ DATA["supervillain-bal-17"] =
 			"Id": "M0057",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 999,
-				"ConditionId": "training"
+				"ConditionType": "TradesSinceSubscription",
+				"Threshold": 5,
+				"ConditionId": "exitsign"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -173808,8 +173808,8 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 35,
-				"ConditionId": "evillab"
+				"Threshold": 70000000,
+				"ConditionId": "training"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -173864,7 +173864,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e40,
+				"Threshold": 2.22e36,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -173892,7 +173892,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.77e17,
+				"Threshold": 2770000000000000,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -173906,7 +173906,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7800,
+				"Threshold": 78000,
 				"ConditionId": "freezeray"
 			},
 			"Reward": {
@@ -174004,7 +174004,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.68e44,
+				"Threshold": 6.68e42,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -174144,7 +174144,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.99e48,
+				"Threshold": 9.99e47,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
