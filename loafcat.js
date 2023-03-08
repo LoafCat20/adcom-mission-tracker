@@ -140823,7 +140823,7 @@ DATA["fusscience-bal-31"] =
 		{
 			"GachaId": "sc_m02",
 			"MimicGachaId": "plastic",
-			"Science": 47,
+			"Science": 52,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -140883,7 +140883,7 @@ DATA["fusscience-bal-31"] =
 		{
 			"GachaId": "sc_m06",
 			"MimicGachaId": "plastic",
-			"Science": 64,
+			"Science": 74,
 			"Gold": 0,
 			"Trophy": 40,
 			"Card": [
@@ -141122,7 +141122,7 @@ DATA["fusscience-bal-31"] =
 		{
 			"GachaId": "sc3",
 			"MimicGachaId": "plastic",
-			"Science": 40,
+			"Science": 45,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -153451,7 +153451,7 @@ DATA["fusvehicle-bal-32"] =
 		{
 			"GachaId": "sc_m02",
 			"MimicGachaId": "plastic",
-			"Science": 47,
+			"Science": 52,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -153511,7 +153511,7 @@ DATA["fusvehicle-bal-32"] =
 		{
 			"GachaId": "sc_m06",
 			"MimicGachaId": "plastic",
-			"Science": 64,
+			"Science": 74,
 			"Gold": 0,
 			"Trophy": 40,
 			"Card": [
@@ -153750,7 +153750,7 @@ DATA["fusvehicle-bal-32"] =
 		{
 			"GachaId": "sc3",
 			"MimicGachaId": "plastic",
-			"Science": 40,
+			"Science": 45,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -159771,7 +159771,7 @@ DATA["potatofactory-bal-13"] =
 			"RareWeight": -1,
 			"EpicWeight": -1,
 			"SupremeWeight": -1,
-			"LteRareWeight": 9,
+			"LteRareWeight": 10,
 			"ScienceMin": 85,
 			"ScienceMax": 95,
 			"TrophyMin": 10,
@@ -159786,7 +159786,7 @@ DATA["potatofactory-bal-13"] =
 			"RareWeight": -1,
 			"EpicWeight": -1,
 			"SupremeWeight": -1,
-			"LteRareWeight": 10,
+			"LteRareWeight": 9,
 			"ScienceMin": 170,
 			"ScienceMax": 190,
 			"TrophyMin": 50,
@@ -171154,7 +171154,7 @@ DATA["supervillain-bal-17"] =
 			"RareWeight": -1,
 			"EpicWeight": -1,
 			"SupremeWeight": -1,
-			"LteRareWeight": 10,
+			"LteRareWeight": 9,
 			"ScienceMin": 200,
 			"ScienceMax": 220,
 			"TrophyMin": 50,
