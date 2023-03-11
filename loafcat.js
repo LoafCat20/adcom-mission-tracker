@@ -107687,7 +107687,7 @@ DATA["defense-bal-21"] =
 			"MimicGachaId": "plastic",
 			"Science": 156,
 			"Gold": 0,
-			"Trophy": 90,
+			"Trophy": 100,
 			"Card": [
 				{
 					"Id": "RS0038",
@@ -107708,7 +107708,7 @@ DATA["defense-bal-21"] =
 			"MimicGachaId": "plastic",
 			"Science": 170,
 			"Gold": 0,
-			"Trophy": 100,
+			"Trophy": 120,
 			"Card": [
 				{
 					"Id": "RS0047",
@@ -107729,7 +107729,7 @@ DATA["defense-bal-21"] =
 			"MimicGachaId": "plastic",
 			"Science": 187,
 			"Gold": 0,
-			"Trophy": 120,
+			"Trophy": 150,
 			"Card": [
 				{
 					"Id": "RS0047",
@@ -107754,7 +107754,7 @@ DATA["defense-bal-21"] =
 			"MimicGachaId": "plastic",
 			"Science": 200,
 			"Gold": 0,
-			"Trophy": 140,
+			"Trophy": 200,
 			"Card": [
 				{
 					"Id": "RS0040",
@@ -107779,7 +107779,7 @@ DATA["defense-bal-21"] =
 			"MimicGachaId": "plastic",
 			"Science": 216,
 			"Gold": 0,
-			"Trophy": 160,
+			"Trophy": 250,
 			"Card": [
 				{
 					"Id": "RS0049",
@@ -111524,7 +111524,7 @@ DATA["defense-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 9,
+			"GachaMultiplierTrophy": 10,
 			"AirDropScience": 140,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -111539,7 +111539,7 @@ DATA["defense-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.2,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 10,
+			"GachaMultiplierTrophy": 12,
 			"AirDropScience": 145,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -111554,7 +111554,7 @@ DATA["defense-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.4,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 12,
+			"GachaMultiplierTrophy": 15,
 			"AirDropScience": 150,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -111569,7 +111569,7 @@ DATA["defense-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.6,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 14,
+			"GachaMultiplierTrophy": 20,
 			"AirDropScience": 155,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -111584,7 +111584,7 @@ DATA["defense-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.8,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 16,
+			"GachaMultiplierTrophy": 25,
 			"AirDropScience": 160,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -111599,7 +111599,7 @@ DATA["defense-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 18,
+			"GachaMultiplierTrophy": 30,
 			"AirDropScience": 165,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -111614,7 +111614,7 @@ DATA["defense-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3.2,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 20,
+			"GachaMultiplierTrophy": 40,
 			"AirDropScience": 170,
 			"AirDropRankUpCoolDown": 60
 		}
@@ -114595,7 +114595,7 @@ DATA["attack-bal-20"] =
 			"MimicGachaId": "plastic",
 			"Science": 125,
 			"Gold": 0,
-			"Trophy": 90,
+			"Trophy": 100,
 			"Card": [
 				{
 					"Id": "RS0039",
@@ -114616,7 +114616,7 @@ DATA["attack-bal-20"] =
 			"MimicGachaId": "plastic",
 			"Science": 138,
 			"Gold": 0,
-			"Trophy": 100,
+			"Trophy": 120,
 			"Card": [
 				{
 					"Id": "RS0027",
@@ -114637,7 +114637,7 @@ DATA["attack-bal-20"] =
 			"MimicGachaId": "plastic",
 			"Science": 150,
 			"Gold": 0,
-			"Trophy": 120,
+			"Trophy": 150,
 			"Card": [
 				{
 					"Id": "RS0027",
@@ -114662,7 +114662,7 @@ DATA["attack-bal-20"] =
 			"MimicGachaId": "plastic",
 			"Science": 161,
 			"Gold": 0,
-			"Trophy": 140,
+			"Trophy": 200,
 			"Card": [
 				{
 					"Id": "RS0098",
@@ -114687,7 +114687,7 @@ DATA["attack-bal-20"] =
 			"MimicGachaId": "plastic",
 			"Science": 169,
 			"Gold": 0,
-			"Trophy": 160,
+			"Trophy": 250,
 			"Card": [
 				{
 					"Id": "RS0097",
@@ -118437,7 +118437,7 @@ DATA["attack-bal-20"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.4,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 9,
+			"GachaMultiplierTrophy": 10,
 			"AirDropScience": 140,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -118452,7 +118452,7 @@ DATA["attack-bal-20"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.6,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 10,
+			"GachaMultiplierTrophy": 12,
 			"AirDropScience": 145,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -118467,7 +118467,7 @@ DATA["attack-bal-20"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.8,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 12,
+			"GachaMultiplierTrophy": 15,
 			"AirDropScience": 150,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -118482,7 +118482,7 @@ DATA["attack-bal-20"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 14,
+			"GachaMultiplierTrophy": 20,
 			"AirDropScience": 150,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -118497,7 +118497,7 @@ DATA["attack-bal-20"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3.2,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 16,
+			"GachaMultiplierTrophy": 25,
 			"AirDropScience": 155,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -118512,7 +118512,7 @@ DATA["attack-bal-20"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3.4,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 18,
+			"GachaMultiplierTrophy": 30,
 			"AirDropScience": 160,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -118527,7 +118527,7 @@ DATA["attack-bal-20"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3.6,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 20,
+			"GachaMultiplierTrophy": 40,
 			"AirDropScience": 165,
 			"AirDropRankUpCoolDown": 60
 		}
@@ -121308,7 +121308,7 @@ DATA["export-bal-21"] =
 			"MimicGachaId": "plastic",
 			"Science": 156,
 			"Gold": 0,
-			"Trophy": 90,
+			"Trophy": 100,
 			"Card": [
 				{
 					"Id": "RS0009",
@@ -121329,7 +121329,7 @@ DATA["export-bal-21"] =
 			"MimicGachaId": "plastic",
 			"Science": 170,
 			"Gold": 0,
-			"Trophy": 100,
+			"Trophy": 120,
 			"Card": [
 				{
 					"Id": "RS0008",
@@ -121350,7 +121350,7 @@ DATA["export-bal-21"] =
 			"MimicGachaId": "plastic",
 			"Science": 187,
 			"Gold": 0,
-			"Trophy": 120,
+			"Trophy": 150,
 			"Card": [
 				{
 					"Id": "RS0008",
@@ -121375,7 +121375,7 @@ DATA["export-bal-21"] =
 			"MimicGachaId": "plastic",
 			"Science": 200,
 			"Gold": 0,
-			"Trophy": 140,
+			"Trophy": 200,
 			"Card": [
 				{
 					"Id": "RS0010",
@@ -121400,7 +121400,7 @@ DATA["export-bal-21"] =
 			"MimicGachaId": "plastic",
 			"Science": 216,
 			"Gold": 0,
-			"Trophy": 160,
+			"Trophy": 250,
 			"Card": [
 				{
 					"Id": "RS0019",
@@ -125175,7 +125175,7 @@ DATA["export-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 9,
+			"GachaMultiplierTrophy": 10,
 			"AirDropScience": 140,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -125190,7 +125190,7 @@ DATA["export-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.2,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 10,
+			"GachaMultiplierTrophy": 12,
 			"AirDropScience": 145,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -125205,7 +125205,7 @@ DATA["export-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.4,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 12,
+			"GachaMultiplierTrophy": 15,
 			"AirDropScience": 150,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -125220,7 +125220,7 @@ DATA["export-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.6,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 14,
+			"GachaMultiplierTrophy": 20,
 			"AirDropScience": 155,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -125235,7 +125235,7 @@ DATA["export-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.8,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 16,
+			"GachaMultiplierTrophy": 25,
 			"AirDropScience": 160,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -125250,7 +125250,7 @@ DATA["export-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 18,
+			"GachaMultiplierTrophy": 30,
 			"AirDropScience": 165,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -125265,7 +125265,7 @@ DATA["export-bal-21"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3.2,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 20,
+			"GachaMultiplierTrophy": 40,
 			"AirDropScience": 170,
 			"AirDropRankUpCoolDown": 60
 		}
@@ -127957,7 +127957,7 @@ DATA["power-bal-20"]=
 			"MimicGachaId": "plastic",
 			"Science": 120,
 			"Gold": 0,
-			"Trophy": 90,
+			"Trophy": 100,
 			"Card": [
 				{
 					"Id": "RS0029",
@@ -127978,7 +127978,7 @@ DATA["power-bal-20"]=
 			"MimicGachaId": "plastic",
 			"Science": 133,
 			"Gold": 0,
-			"Trophy": 100,
+			"Trophy": 120,
 			"Card": [
 				{
 					"Id": "RS0018",
@@ -127999,7 +127999,7 @@ DATA["power-bal-20"]=
 			"MimicGachaId": "plastic",
 			"Science": 140,
 			"Gold": 0,
-			"Trophy": 120,
+			"Trophy": 150,
 			"Card": [
 				{
 					"Id": "RS0018",
@@ -128024,7 +128024,7 @@ DATA["power-bal-20"]=
 			"MimicGachaId": "plastic",
 			"Science": 146,
 			"Gold": 0,
-			"Trophy": 140,
+			"Trophy": 200,
 			"Card": [
 				{
 					"Id": "RS0030",
@@ -128049,7 +128049,7 @@ DATA["power-bal-20"]=
 			"MimicGachaId": "plastic",
 			"Science": 154,
 			"Gold": 0,
-			"Trophy": 160,
+			"Trophy": 250,
 			"Card": [
 				{
 					"Id": "RS0096",
@@ -131820,7 +131820,7 @@ DATA["power-bal-20"]=
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.3,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 9,
+			"GachaMultiplierTrophy": 10,
 			"AirDropScience": 140,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -131835,7 +131835,7 @@ DATA["power-bal-20"]=
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.45,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 10,
+			"GachaMultiplierTrophy": 12,
 			"AirDropScience": 145,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -131850,7 +131850,7 @@ DATA["power-bal-20"]=
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.6,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 12,
+			"GachaMultiplierTrophy": 15,
 			"AirDropScience": 150,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -131865,7 +131865,7 @@ DATA["power-bal-20"]=
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.75,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 14,
+			"GachaMultiplierTrophy": 20,
 			"AirDropScience": 150,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -131880,7 +131880,7 @@ DATA["power-bal-20"]=
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.9,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 16,
+			"GachaMultiplierTrophy": 25,
 			"AirDropScience": 155,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -131895,7 +131895,7 @@ DATA["power-bal-20"]=
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3.05,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 18,
+			"GachaMultiplierTrophy": 30,
 			"AirDropScience": 160,
 			"AirDropRankUpCoolDown": 60
 		},
@@ -131910,7 +131910,7 @@ DATA["power-bal-20"]=
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 3.2,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 20,
+			"GachaMultiplierTrophy": 40,
 			"AirDropScience": 165,
 			"AirDropRankUpCoolDown": 60
 		}
@@ -134613,7 +134613,7 @@ DATA["fusfarm-bal-30"] =
 			"MimicGachaId": "plastic",
 			"Science": 118,
 			"Gold": 0,
-			"Trophy": 90,
+			"Trophy": 100,
 			"Card": [
 				{
 					"Id": "FUS025",
@@ -134634,7 +134634,7 @@ DATA["fusfarm-bal-30"] =
 			"MimicGachaId": "plastic",
 			"Science": 117,
 			"Gold": 0,
-			"Trophy": 100,
+			"Trophy": 120,
 			"Card": [
 				{
 					"Id": "FUS061",
@@ -134655,7 +134655,7 @@ DATA["fusfarm-bal-30"] =
 			"MimicGachaId": "plastic",
 			"Science": 125,
 			"Gold": 0,
-			"Trophy": 120,
+			"Trophy": 150,
 			"Card": [
 				{
 					"Id": "FUS005",
@@ -134676,7 +134676,7 @@ DATA["fusfarm-bal-30"] =
 			"MimicGachaId": "plastic",
 			"Science": 140,
 			"Gold": 0,
-			"Trophy": 140,
+			"Trophy": 200,
 			"Card": [
 				{
 					"Id": "FUS072",
@@ -134701,7 +134701,7 @@ DATA["fusfarm-bal-30"] =
 			"MimicGachaId": "plastic",
 			"Science": 164,
 			"Gold": 0,
-			"Trophy": 160,
+			"Trophy": 250,
 			"Card": [
 				{
 					"Id": "FUS072",
@@ -134726,7 +134726,7 @@ DATA["fusfarm-bal-30"] =
 			"MimicGachaId": "plastic",
 			"Science": 177,
 			"Gold": 0,
-			"Trophy": 180,
+			"Trophy": 300,
 			"Card": [
 				{
 					"Id": "FUS073",
@@ -138750,7 +138750,7 @@ DATA["fusfarm-bal-30"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.5,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 9,
+			"GachaMultiplierTrophy": 10,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -138765,7 +138765,7 @@ DATA["fusfarm-bal-30"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.6,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 10,
+			"GachaMultiplierTrophy": 12,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -138780,7 +138780,7 @@ DATA["fusfarm-bal-30"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.7,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 12,
+			"GachaMultiplierTrophy": 15,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -138795,7 +138795,7 @@ DATA["fusfarm-bal-30"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.9,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 14,
+			"GachaMultiplierTrophy": 20,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -138810,7 +138810,7 @@ DATA["fusfarm-bal-30"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.1,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 16,
+			"GachaMultiplierTrophy": 25,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -138825,7 +138825,7 @@ DATA["fusfarm-bal-30"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.3,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 18,
+			"GachaMultiplierTrophy": 30,
 			"AirDropScience": 30,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -138840,7 +138840,7 @@ DATA["fusfarm-bal-30"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.4,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 20,
+			"GachaMultiplierTrophy": 40,
 			"AirDropScience": 30,
 			"AirDropRankUpCoolDown": 30
 		}
@@ -140982,7 +140982,7 @@ DATA["fusscience-bal-31"] =
 			"MimicGachaId": "plastic",
 			"Science": 105,
 			"Gold": 0,
-			"Trophy": 90,
+			"Trophy": 100,
 			"Card": [
 				{
 					"Id": "FUS011",
@@ -141003,7 +141003,7 @@ DATA["fusscience-bal-31"] =
 			"MimicGachaId": "plastic",
 			"Science": 110,
 			"Gold": 0,
-			"Trophy": 100,
+			"Trophy": 120,
 			"Card": [
 				{
 					"Id": "FUS021",
@@ -141024,7 +141024,7 @@ DATA["fusscience-bal-31"] =
 			"MimicGachaId": "plastic",
 			"Science": 122,
 			"Gold": 0,
-			"Trophy": 120,
+			"Trophy": 150,
 			"Card": [
 				{
 					"Id": "FUS022",
@@ -141049,7 +141049,7 @@ DATA["fusscience-bal-31"] =
 			"MimicGachaId": "plastic",
 			"Science": 133,
 			"Gold": 0,
-			"Trophy": 140,
+			"Trophy": 200,
 			"Card": [
 				{
 					"Id": "FUS041",
@@ -141074,7 +141074,7 @@ DATA["fusscience-bal-31"] =
 			"MimicGachaId": "plastic",
 			"Science": 150,
 			"Gold": 0,
-			"Trophy": 160,
+			"Trophy": 250,
 			"Card": [
 				{
 					"Id": "FUS010",
@@ -141099,7 +141099,7 @@ DATA["fusscience-bal-31"] =
 			"MimicGachaId": "plastic",
 			"Science": 151,
 			"Gold": 0,
-			"Trophy": 180,
+			"Trophy": 300,
 			"Card": [
 				{
 					"Id": "FUS042",
@@ -145123,7 +145123,7 @@ DATA["fusscience-bal-31"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.6,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 9,
+			"GachaMultiplierTrophy": 10,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -145138,7 +145138,7 @@ DATA["fusscience-bal-31"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.7,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 10,
+			"GachaMultiplierTrophy": 12,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -145153,7 +145153,7 @@ DATA["fusscience-bal-31"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.8,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 12,
+			"GachaMultiplierTrophy": 15,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -145168,7 +145168,7 @@ DATA["fusscience-bal-31"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 14,
+			"GachaMultiplierTrophy": 20,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -145183,7 +145183,7 @@ DATA["fusscience-bal-31"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.2,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 16,
+			"GachaMultiplierTrophy": 25,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -145198,7 +145198,7 @@ DATA["fusscience-bal-31"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.4,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 18,
+			"GachaMultiplierTrophy": 30,
 			"AirDropScience": 30,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -145213,7 +145213,7 @@ DATA["fusscience-bal-31"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.5,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 20,
+			"GachaMultiplierTrophy": 40,
 			"AirDropScience": 30,
 			"AirDropRankUpCoolDown": 30
 		}
@@ -147285,7 +147285,7 @@ DATA["fuspet-bal-32"] =
 			"MimicGachaId": "plastic",
 			"Science": 118,
 			"Gold": 0,
-			"Trophy": 90,
+			"Trophy": 100,
 			"Card": [
 				{
 					"Id": "FUS029",
@@ -147306,7 +147306,7 @@ DATA["fuspet-bal-32"] =
 			"MimicGachaId": "plastic",
 			"Science": 117,
 			"Gold": 0,
-			"Trophy": 100,
+			"Trophy": 120,
 			"Card": [
 				{
 					"Id": "FUS059",
@@ -147327,7 +147327,7 @@ DATA["fuspet-bal-32"] =
 			"MimicGachaId": "plastic",
 			"Science": 125,
 			"Gold": 0,
-			"Trophy": 120,
+			"Trophy": 150,
 			"Card": [
 				{
 					"Id": "FUS060",
@@ -147348,7 +147348,7 @@ DATA["fuspet-bal-32"] =
 			"MimicGachaId": "plastic",
 			"Science": 140,
 			"Gold": 0,
-			"Trophy": 140,
+			"Trophy": 200,
 			"Card": [
 				{
 					"Id": "FUS047",
@@ -147373,7 +147373,7 @@ DATA["fuspet-bal-32"] =
 			"MimicGachaId": "plastic",
 			"Science": 164,
 			"Gold": 0,
-			"Trophy": 160,
+			"Trophy": 250,
 			"Card": [
 				{
 					"Id": "FUS031",
@@ -147398,7 +147398,7 @@ DATA["fuspet-bal-32"] =
 			"MimicGachaId": "plastic",
 			"Science": 177,
 			"Gold": 0,
-			"Trophy": 180,
+			"Trophy": 300,
 			"Card": [
 				{
 					"Id": "FUS039",
@@ -151422,7 +151422,7 @@ DATA["fuspet-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.5,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 9,
+			"GachaMultiplierTrophy": 10,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -151437,7 +151437,7 @@ DATA["fuspet-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.6,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 10,
+			"GachaMultiplierTrophy": 12,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -151452,7 +151452,7 @@ DATA["fuspet-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.7,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 12,
+			"GachaMultiplierTrophy": 15,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -151467,7 +151467,7 @@ DATA["fuspet-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.9,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 14,
+			"GachaMultiplierTrophy": 20,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -151482,7 +151482,7 @@ DATA["fuspet-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.1,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 16,
+			"GachaMultiplierTrophy": 25,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -151497,7 +151497,7 @@ DATA["fuspet-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.3,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 18,
+			"GachaMultiplierTrophy": 30,
 			"AirDropScience": 30,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -151512,7 +151512,7 @@ DATA["fuspet-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.4,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 20,
+			"GachaMultiplierTrophy": 40,
 			"AirDropScience": 30,
 			"AirDropRankUpCoolDown": 30
 		}
@@ -153610,7 +153610,7 @@ DATA["fusvehicle-bal-32"] =
 			"MimicGachaId": "plastic",
 			"Science": 105,
 			"Gold": 0,
-			"Trophy": 90,
+			"Trophy": 100,
 			"Card": [
 				{
 					"Id": "FUS034",
@@ -153631,7 +153631,7 @@ DATA["fusvehicle-bal-32"] =
 			"MimicGachaId": "plastic",
 			"Science": 110,
 			"Gold": 0,
-			"Trophy": 100,
+			"Trophy": 120,
 			"Card": [
 				{
 					"Id": "FUS009",
@@ -153652,7 +153652,7 @@ DATA["fusvehicle-bal-32"] =
 			"MimicGachaId": "plastic",
 			"Science": 122,
 			"Gold": 0,
-			"Trophy": 120,
+			"Trophy": 150,
 			"Card": [
 				{
 					"Id": "FUS036",
@@ -153677,7 +153677,7 @@ DATA["fusvehicle-bal-32"] =
 			"MimicGachaId": "plastic",
 			"Science": 133,
 			"Gold": 0,
-			"Trophy": 140,
+			"Trophy": 200,
 			"Card": [
 				{
 					"Id": "FUS007",
@@ -153702,7 +153702,7 @@ DATA["fusvehicle-bal-32"] =
 			"MimicGachaId": "plastic",
 			"Science": 150,
 			"Gold": 0,
-			"Trophy": 160,
+			"Trophy": 250,
 			"Card": [
 				{
 					"Id": "FUS035",
@@ -153727,7 +153727,7 @@ DATA["fusvehicle-bal-32"] =
 			"MimicGachaId": "plastic",
 			"Science": 151,
 			"Gold": 0,
-			"Trophy": 180,
+			"Trophy": 300,
 			"Card": [
 				{
 					"Id": "FUS040",
@@ -157751,7 +157751,7 @@ DATA["fusvehicle-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.6,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 9,
+			"GachaMultiplierTrophy": 10,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -157766,7 +157766,7 @@ DATA["fusvehicle-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.7,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 10,
+			"GachaMultiplierTrophy": 12,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -157781,7 +157781,7 @@ DATA["fusvehicle-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 1.8,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 12,
+			"GachaMultiplierTrophy": 15,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -157796,7 +157796,7 @@ DATA["fusvehicle-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 14,
+			"GachaMultiplierTrophy": 20,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -157811,7 +157811,7 @@ DATA["fusvehicle-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.2,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 16,
+			"GachaMultiplierTrophy": 25,
 			"AirDropScience": 20,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -157826,7 +157826,7 @@ DATA["fusvehicle-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.4,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 18,
+			"GachaMultiplierTrophy": 30,
 			"AirDropScience": 30,
 			"AirDropRankUpCoolDown": 30
 		},
@@ -157841,7 +157841,7 @@ DATA["fusvehicle-bal-32"] =
 			"PremiumGachaMultiplier": 1,
 			"NormalGachaMultiplierScience": 2.5,
 			"PremiumGachaMultiplierScience": 1,
-			"GachaMultiplierTrophy": 20,
+			"GachaMultiplierTrophy": 40,
 			"AirDropScience": 30,
 			"AirDropRankUpCoolDown": 30
 		}
@@ -160593,7 +160593,7 @@ DATA["potatofactory-bal-13"] =
 		{
 			"GachaId": "sc3",
 			"MimicGachaId": "plastic",
-			"Science": 80,
+			"Science": 70,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -171741,17 +171741,13 @@ DATA["supervillain-bal-17"] =
 		{
 			"GachaId": "sc3",
 			"MimicGachaId": "plastic",
-			"Science": 50,
+			"Science": 75,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
 				{
-					"Id": "SUV023",
-					"Value": 1
-				},
-				{
-					"Id": "SUV024",
-					"Value": 1
+					"Id": "SUV001",
+					"Value": 4
 				}
 			]
 		}
