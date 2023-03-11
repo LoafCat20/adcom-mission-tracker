@@ -159968,7 +159968,7 @@ DATA["potatofactory-bal-13"] =
 		{
 			"GachaId": "sc_m03",
 			"MimicGachaId": "plastic",
-			"Science": 77,
+			"Science": 82,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -160002,7 +160002,7 @@ DATA["potatofactory-bal-13"] =
 		{
 			"GachaId": "sc_m05",
 			"MimicGachaId": "plastic",
-			"Science": 108,
+			"Science": 103,
 			"Gold": 0,
 			"Trophy": 30,
 			"Card": [
@@ -160128,7 +160128,7 @@ DATA["potatofactory-bal-13"] =
 		{
 			"GachaId": "sc_m11",
 			"MimicGachaId": "plastic",
-			"Science": 161,
+			"Science": 181,
 			"Gold": 0,
 			"Trophy": 90,
 			"Card": [
@@ -160153,7 +160153,7 @@ DATA["potatofactory-bal-13"] =
 		{
 			"GachaId": "sc_m12",
 			"MimicGachaId": "plastic",
-			"Science": 183,
+			"Science": 193,
 			"Gold": 0,
 			"Trophy": 100,
 			"Card": [
@@ -160178,7 +160178,7 @@ DATA["potatofactory-bal-13"] =
 		{
 			"GachaId": "sc_m13",
 			"MimicGachaId": "plastic",
-			"Science": 207,
+			"Science": 217,
 			"Gold": 0,
 			"Trophy": 110,
 			"Card": [
@@ -160203,7 +160203,7 @@ DATA["potatofactory-bal-13"] =
 		{
 			"GachaId": "sc_m14",
 			"MimicGachaId": "plastic",
-			"Science": 225,
+			"Science": 235,
 			"Gold": 0,
 			"Trophy": 120,
 			"Card": [
@@ -160232,7 +160232,7 @@ DATA["potatofactory-bal-13"] =
 		{
 			"GachaId": "sc_m15",
 			"MimicGachaId": "plastic",
-			"Science": 239,
+			"Science": 249,
 			"Gold": 0,
 			"Trophy": 130,
 			"Card": [
@@ -160300,7 +160300,7 @@ DATA["potatofactory-bal-13"] =
 				},
 				{
 					"Id": "WIL010",
-					"Value": 11
+					"Value": 12
 				},
 				{
 					"Id": "WIL008",
@@ -160312,7 +160312,7 @@ DATA["potatofactory-bal-13"] =
 				},
 				{
 					"Id": "WIL028",
-					"Value": 2
+					"Value": 1
 				}
 			]
 		},
@@ -160377,7 +160377,7 @@ DATA["potatofactory-bal-13"] =
 		{
 			"GachaId": "sc_m20",
 			"MimicGachaId": "plastic",
-			"Science": 347,
+			"Science": 357,
 			"Gold": 0,
 			"Trophy": 190,
 			"Card": [
@@ -160387,7 +160387,7 @@ DATA["potatofactory-bal-13"] =
 				},
 				{
 					"Id": "WIL012",
-					"Value": 11
+					"Value": 12
 				},
 				{
 					"Id": "WIL006",
@@ -160395,7 +160395,7 @@ DATA["potatofactory-bal-13"] =
 				},
 				{
 					"Id": "WIL033",
-					"Value": 3
+					"Value": 2
 				},
 				{
 					"Id": "WIL030",
@@ -160420,7 +160420,7 @@ DATA["potatofactory-bal-13"] =
 				},
 				{
 					"Id": "WIL006",
-					"Value": 11
+					"Value": 12
 				},
 				{
 					"Id": "WIL024",
@@ -160428,7 +160428,7 @@ DATA["potatofactory-bal-13"] =
 				},
 				{
 					"Id": "WIL026",
-					"Value": 4
+					"Value": 3
 				}
 			]
 		},
@@ -160532,7 +160532,7 @@ DATA["potatofactory-bal-13"] =
 				},
 				{
 					"Id": "WIL022",
-					"Value": 4
+					"Value": 5
 				},
 				{
 					"Id": "WIL016",
@@ -160540,7 +160540,7 @@ DATA["potatofactory-bal-13"] =
 				},
 				{
 					"Id": "WIL031",
-					"Value": 3
+					"Value": 2
 				},
 				{
 					"Id": "WIL026",
@@ -171310,46 +171310,7 @@ DATA["supervillain-bal-17"] =
 		{
 			"GachaId": "sc_m01",
 			"MimicGachaId": "plastic",
-			"Science": 48,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "SUV001",
-					"Value": 3
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m02",
-			"MimicGachaId": "plastic",
-			"Science": 45,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "SUV001",
-					"Value": 4
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m03",
-			"MimicGachaId": "plastic",
-			"Science": 47,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "SUV002",
-					"Value": 3
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m04",
-			"MimicGachaId": "plastic",
-			"Science": 46,
+			"Science": 72,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -171364,40 +171325,123 @@ DATA["supervillain-bal-17"] =
 			]
 		},
 		{
-			"GachaId": "sc_m05",
+			"GachaId": "sc_m02",
 			"MimicGachaId": "plastic",
-			"Science": 54,
+			"Science": 85,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
 				{
 					"Id": "SUV002",
-					"Value": 3
+					"Value": 6
+				},
+				{
+					"Id": "SUV024",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m03",
+			"MimicGachaId": "plastic",
+			"Science": 97,
+			"Gold": 0,
+			"Trophy": 20,
+			"Card": [
+				{
+					"Id": "SUV001",
+					"Value": 4
+				},
+				{
+					"Id": "SUV003",
+					"Value": 5
+				},
+				{
+					"Id": "SUV024",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m04",
+			"MimicGachaId": "plastic",
+			"Science": 106,
+			"Gold": 0,
+			"Trophy": 30,
+			"Card": [
+				{
+					"Id": "SUV008",
+					"Value": 7
+				},
+				{
+					"Id": "SUV003",
+					"Value": 4
+				},
+				{
+					"Id": "SUV023",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m05",
+			"MimicGachaId": "plastic",
+			"Science": 114,
+			"Gold": 0,
+			"Trophy": 40,
+			"Card": [
+				{
+					"Id": "SUV002",
+					"Value": 8
+				},
+				{
+					"Id": "SUV008",
+					"Value": 6
+				},
+				{
+					"Id": "SUV026",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m06",
 			"MimicGachaId": "plastic",
-			"Science": 55,
+			"Science": 125,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 50,
 			"Card": [
 				{
-					"Id": "SUV003",
-					"Value": 3
+					"Id": "SUV009",
+					"Value": 8
+				},
+				{
+					"Id": "SUV008",
+					"Value": 8
+				},
+				{
+					"Id": "SUV024",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m07",
 			"MimicGachaId": "plastic",
-			"Science": 53,
+			"Science": 133,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 60,
 			"Card": [
 				{
 					"Id": "SUV004",
+					"Value": 7
+				},
+				{
+					"Id": "SUV003",
+					"Value": 12
+				},
+				{
+					"Id": "SUV027",
 					"Value": 3
 				}
 			]
@@ -171405,12 +171449,20 @@ DATA["supervillain-bal-17"] =
 		{
 			"GachaId": "sc_m08",
 			"MimicGachaId": "plastic",
-			"Science": 62,
+			"Science": 152,
 			"Gold": 0,
-			"Trophy": 20,
+			"Trophy": 70,
 			"Card": [
 				{
+					"Id": "SUV014",
+					"Value": 12
+				},
+				{
 					"Id": "SUV008",
+					"Value": 10
+				},
+				{
+					"Id": "SUV027",
 					"Value": 3
 				}
 			]
@@ -171418,12 +171470,24 @@ DATA["supervillain-bal-17"] =
 		{
 			"GachaId": "sc_m09",
 			"MimicGachaId": "plastic",
-			"Science": 67,
+			"Science": 167,
 			"Gold": 0,
-			"Trophy": 30,
+			"Trophy": 80,
 			"Card": [
 				{
-					"Id": "SUV005",
+					"Id": "SUV004",
+					"Value": 4
+				},
+				{
+					"Id": "SUV009",
+					"Value": 8
+				},
+				{
+					"Id": "SUV014",
+					"Value": 13
+				},
+				{
+					"Id": "SUV029",
 					"Value": 3
 				}
 			]
@@ -171431,12 +171495,24 @@ DATA["supervillain-bal-17"] =
 		{
 			"GachaId": "sc_m10",
 			"MimicGachaId": "plastic",
-			"Science": 83,
+			"Science": 193,
 			"Gold": 0,
-			"Trophy": 40,
+			"Trophy": 90,
 			"Card": [
 				{
-					"Id": "SUV009",
+					"Id": "SUV015",
+					"Value": 9
+				},
+				{
+					"Id": "SUV008",
+					"Value": 9
+				},
+				{
+					"Id": "SUV004",
+					"Value": 9
+				},
+				{
+					"Id": "SUV026",
 					"Value": 3
 				}
 			]
@@ -172987,7 +173063,7 @@ DATA["supervillain-bal-17"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m01",
 				"Value": 1
 			}
 		},
@@ -173057,7 +173133,7 @@ DATA["supervillain-bal-17"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m02",
 				"Value": 1
 			}
 		},
@@ -173113,7 +173189,7 @@ DATA["supervillain-bal-17"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m03",
 				"Value": 1
 			}
 		},
@@ -173183,7 +173259,7 @@ DATA["supervillain-bal-17"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m04",
 				"Value": 1
 			}
 		},
@@ -173281,7 +173357,7 @@ DATA["supervillain-bal-17"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m05",
 				"Value": 1
 			}
 		},
@@ -173323,7 +173399,7 @@ DATA["supervillain-bal-17"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m06",
 				"Value": 1
 			}
 		},
@@ -173421,7 +173497,7 @@ DATA["supervillain-bal-17"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m07",
 				"Value": 1
 			}
 		},
@@ -173463,7 +173539,7 @@ DATA["supervillain-bal-17"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m08",
 				"Value": 1
 			}
 		},
@@ -173533,7 +173609,7 @@ DATA["supervillain-bal-17"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m09",
 				"Value": 1
 			}
 		},
@@ -173617,7 +173693,7 @@ DATA["supervillain-bal-17"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m10",
 				"Value": 1
 			}
 		},
