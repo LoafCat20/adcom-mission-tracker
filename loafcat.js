@@ -180675,12 +180675,12 @@ DATA["supervillain-bal-17"] =
 				{
 					"Reward": "Researcher",
 					"Value": 15,
-					"RewardId": "SUV027"
+					"RewardId": "SUV024"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 100,
-					"RewardId": "SUV003"
+					"RewardId": "SUV008"
 				},
 				{
 					"Reward": "Resources",
@@ -180705,12 +180705,12 @@ DATA["supervillain-bal-17"] =
 				{
 					"Reward": "Researcher",
 					"Value": 30,
-					"RewardId": "SUV025"
+					"RewardId": "SUV027"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 200,
-					"RewardId": "SUV009"
+					"RewardId": "SUV004"
 				},
 				{
 					"Reward": "Resources",
@@ -180735,12 +180735,12 @@ DATA["supervillain-bal-17"] =
 				{
 					"Reward": "Researcher",
 					"Value": 50,
-					"RewardId": "SUV028"
+					"RewardId": "SUV029"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 300,
-					"RewardId": "SUV005"
+					"RewardId": "SUV015"
 				},
 				{
 					"Reward": "Resources",
@@ -180765,12 +180765,12 @@ DATA["supervillain-bal-17"] =
 				{
 					"Reward": "Researcher",
 					"Value": 75,
-					"RewardId": "SUV030"
+					"RewardId": "SUV032"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 400,
-					"RewardId": "SUV015"
+					"RewardId": "SUV011"
 				},
 				{
 					"Reward": "Resources",
@@ -180795,12 +180795,12 @@ DATA["supervillain-bal-17"] =
 				{
 					"Reward": "Researcher",
 					"Value": 100,
-					"RewardId": "SUV034"
+					"RewardId": "SUV028"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 500,
-					"RewardId": "SUV019"
+					"RewardId": "SUV006"
 				},
 				{
 					"Reward": "Resources",
@@ -180839,8 +180839,8 @@ DATA["supervillain-bal-17"] =
 				},
 				{
 					"Reward": "Researcher",
-					"Value": 500,
-					"RewardId": "SUV020"
+					"Value": 100,
+					"RewardId": "SUV034"
 				},
 				{
 					"Reward": "Resources",
@@ -180864,13 +180864,13 @@ DATA["supervillain-bal-17"] =
 			"Rewards": [
 				{
 					"Reward": "Researcher",
-					"Value": 125,
-					"RewardId": "SUV033"
+					"Value": 625,
+					"RewardId": "SUV021"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 600,
-					"RewardId": "SUV017"
+					"RewardId": "SUV007"
 				},
 				{
 					"Reward": "Resources",
