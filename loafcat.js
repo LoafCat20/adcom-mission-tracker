@@ -162316,7 +162316,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 500,
+				"Threshold": 400,
 				"ConditionId": "darkscience"
 			},
 			"Reward": {
