@@ -175882,7 +175882,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 43700000000,
+				"Threshold": 49300000000,
 				"ConditionId": "spacebase"
 			},
 			"Reward": {
