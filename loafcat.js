@@ -181791,7 +181791,7 @@ DATA["supervillain-bal-17"] =
 	]
 };
 
-DATA{"spooky-bal-10"} = 
+DATA["spooky-bal-10"] = 
 {
 	"Ads": [
 		{
