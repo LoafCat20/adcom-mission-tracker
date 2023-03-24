@@ -193097,28 +193097,28 @@ DATA{"spooky-bal-10"} =
 			"Resource": "candy",
 			"CostExponent": 10,
 			"CostMultiplier": 500,
-			"ComradeAdd": 1,
+			"ComradeAdd": 2,
 			"MaxLevel": 249
 		},
 		{
 			"Resource": "broom",
 			"CostExponent": 10,
 			"CostMultiplier": 500,
-			"ComradeAdd": 2,
+			"ComradeAdd": 3,
 			"MaxLevel": 249
 		},
 		{
 			"Resource": "ghost",
 			"CostExponent": 10,
 			"CostMultiplier": 500,
-			"ComradeAdd": 3,
+			"ComradeAdd": 4,
 			"MaxLevel": 249
 		},
 		{
 			"Resource": "brain",
 			"CostExponent": 10,
 			"CostMultiplier": 500,
-			"ComradeAdd": 4,
+			"ComradeAdd": 5,
 			"MaxLevel": 249
 		}
 	]
