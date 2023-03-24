@@ -185307,7 +185307,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1500,
+				"Threshold": 1200,
 				"ConditionId": "darkscience"
 			},
 			"Reward": {
@@ -185587,7 +185587,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 2000,
+				"Threshold": 1600,
 				"ConditionId": "darkscience"
 			},
 			"Reward": {
@@ -185867,7 +185867,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 2500,
+				"Threshold": 2000,
 				"ConditionId": "darkscience"
 			},
 			"Reward": {
@@ -186147,7 +186147,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 3000,
+				"Threshold": 2400,
 				"ConditionId": "darkscience"
 			},
 			"Reward": {
@@ -186427,7 +186427,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 3500,
+				"Threshold": 2800,
 				"ConditionId": "darkscience"
 			},
 			"Reward": {
@@ -186707,7 +186707,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 4000,
+				"Threshold": 3200,
 				"ConditionId": "darkscience"
 			},
 			"Reward": {
@@ -186986,9 +186986,9 @@ DATA["spooky-bal-10"] =
 			"Id": "M0166",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 3,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 3600,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -187266,9 +187266,9 @@ DATA["spooky-bal-10"] =
 			"Id": "M0186",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 3,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 4000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -187546,9 +187546,9 @@ DATA["spooky-bal-10"] =
 			"Id": "M0206",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 4800,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -187826,9 +187826,9 @@ DATA["spooky-bal-10"] =
 			"Id": "M0226",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 5600,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -188106,9 +188106,9 @@ DATA["spooky-bal-10"] =
 			"Id": "M0246",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 6400,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -188372,9 +188372,9 @@ DATA["spooky-bal-10"] =
 			"Id": "M0265",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 7600,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -188624,9 +188624,9 @@ DATA["spooky-bal-10"] =
 			"Id": "M0283",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 8800,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -188876,9 +188876,9 @@ DATA["spooky-bal-10"] =
 			"Id": "M0301",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 2,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 10000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
