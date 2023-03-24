@@ -176428,7 +176428,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.1e104,
+				"Threshold": 1.1e105,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -176498,7 +176498,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e113,
+				"Threshold": 5.2e114,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -176736,7 +176736,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.34e79,
+				"Threshold": 8.34e78,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -176806,7 +176806,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.35e95,
+				"Threshold": 2.35e96,
 				"ConditionId": "cage"
 			},
 			"Reward": {
@@ -176848,7 +176848,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.3e109,
+				"Threshold": 3.3e110,
 				"ConditionId": "floorplan"
 			},
 			"Reward": {
@@ -177002,7 +177002,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e81,
+				"Threshold": 7.5e82,
 				"ConditionId": "exitsign"
 			},
 			"Reward": {
@@ -177282,7 +177282,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.8e125,
+				"Threshold": 2.8e126,
 				"ConditionId": "hideout"
 			},
 			"Reward": {
@@ -187001,7 +187001,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2e115,
+				"Threshold": 2e86,
 				"ConditionId": "broom"
 			},
 			"Reward": {
@@ -187015,7 +187015,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 160000000000,
+				"Threshold": 32000000000,
 				"ConditionId": "clown"
 			},
 			"Reward": {
@@ -187029,7 +187029,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.5e66,
+				"Threshold": 3.5e54,
 				"ConditionId": "brain"
 			},
 			"Reward": {
@@ -187043,7 +187043,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 27000000000,
+				"Threshold": 270000000,
 				"ConditionId": "asylum"
 			},
 			"Reward": {
@@ -187071,7 +187071,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.54e128,
+				"Threshold": 1.54e99,
 				"ConditionId": "candy"
 			},
 			"Reward": {
@@ -187085,7 +187085,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 64000000000,
+				"Threshold": 9600000000,
 				"ConditionId": "lair"
 			},
 			"Reward": {
@@ -187099,7 +187099,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.5e99,
+				"Threshold": 5.5e73,
 				"ConditionId": "ghost"
 			},
 			"Reward": {
@@ -187141,7 +187141,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.2e117,
+				"Threshold": 9.2e91,
 				"ConditionId": "broom"
 			},
 			"Reward": {
@@ -187155,7 +187155,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 234000000000,
+				"Threshold": 42900000000,
 				"ConditionId": "clown"
 			},
 			"Reward": {
@@ -187169,7 +187169,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.81e80,
+				"Threshold": 1.81e61,
 				"ConditionId": "brain"
 			},
 			"Reward": {
@@ -187183,7 +187183,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 55000000000,
+				"Threshold": 5500000000,
 				"ConditionId": "asylum"
 			},
 			"Reward": {
@@ -187211,7 +187211,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.4e130,
+				"Threshold": 6.4e102,
 				"ConditionId": "candy"
 			},
 			"Reward": {
@@ -187225,7 +187225,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 110000000000,
+				"Threshold": 16500000000,
 				"ConditionId": "lair"
 			},
 			"Reward": {
@@ -187239,7 +187239,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.7e103,
+				"Threshold": 5.7e78,
 				"ConditionId": "ghost"
 			},
 			"Reward": {
@@ -187253,7 +187253,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 28000000000,
+				"Threshold": 2800000000,
 				"ConditionId": "monstrosity"
 			},
 			"Reward": {
@@ -187281,7 +187281,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e121,
+				"Threshold": 7.5e95,
 				"ConditionId": "broom"
 			},
 			"Reward": {
@@ -187295,7 +187295,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 280000000000,
+				"Threshold": 56000000000,
 				"ConditionId": "clown"
 			},
 			"Reward": {
@@ -187309,7 +187309,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.9e85,
+				"Threshold": 7.9e66,
 				"ConditionId": "brain"
 			},
 			"Reward": {
@@ -187323,7 +187323,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 60000000000,
+				"Threshold": 10800000000,
 				"ConditionId": "asylum"
 			},
 			"Reward": {
@@ -187351,7 +187351,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.8e135,
+				"Threshold": 5.8e105,
 				"ConditionId": "candy"
 			},
 			"Reward": {
