@@ -191356,8 +191356,7 @@ DATA["spooky-bal-10"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "HA0030
-			",
+			"Id": "HA0034",
 			"Name": "Sub-Monster",
 			"Description": "researcher.RS0029.desc",
 			"ModType": "GeneratorPayoutMultiplier",
@@ -191442,7 +191441,7 @@ DATA["spooky-bal-10"] =
 			"ResearchOutputType": "Constant"
 		},
 		{
-			"Id": "HA0034",
+			"Id": "HA0030",
 			"Name": "Grimsaw",
 			"Description": "researcher.RS0033.desc",
 			"ModType": "GeneratorCritPowerMult",
