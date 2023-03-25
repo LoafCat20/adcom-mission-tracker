@@ -165074,7 +165074,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 285000000000,
+				"Threshold": 304000000000,
 				"ConditionId": "foodfactory"
 			},
 			"Reward": {
@@ -165144,7 +165144,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 300000000000,
+				"Threshold": 320000000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -165284,7 +165284,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 450000000000,
+				"Threshold": 480000000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -165382,7 +165382,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1430000000000,
+				"Threshold": 1540000000000,
 				"ConditionId": "pizza"
 			},
 			"Reward": {
@@ -165522,7 +165522,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2210000000000,
+				"Threshold": 2340000000000,
 				"ConditionId": "pizza"
 			},
 			"Reward": {
@@ -165550,7 +165550,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1020000000000,
+				"Threshold": 1080000000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -165620,7 +165620,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1620000000000,
+				"Threshold": 1710000000000,
 				"ConditionId": "foodfactory"
 			},
 			"Reward": {
@@ -165690,7 +165690,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e127,
+				"Threshold": 4.2e128,
 				"ConditionId": "takeout"
 			},
 			"Reward": {
@@ -165760,7 +165760,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.5e147,
+				"Threshold": 9.5e148,
 				"ConditionId": "hardcandy"
 			},
 			"Reward": {
@@ -165774,7 +165774,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5280000000000,
+				"Threshold": 5400000000000,
 				"ConditionId": "pizza"
 			},
 			"Reward": {
@@ -165802,7 +165802,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2400000000000,
+				"Threshold": 2500000000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -165816,7 +165816,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.56e129,
+				"Threshold": 6.56e130,
 				"ConditionId": "takeout"
 			},
 			"Reward": {
@@ -165830,7 +165830,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 26600000000000,
+				"Threshold": 27300000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -165914,7 +165914,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.9e111,
+				"Threshold": 5.9e112,
 				"ConditionId": "potatocrate"
 			},
 			"Reward": {
@@ -165928,7 +165928,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3570000000000,
+				"Threshold": 3740000000000,
 				"ConditionId": "potatopalace"
 			},
 			"Reward": {
@@ -165956,7 +165956,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 39000000000000,
+				"Threshold": 41600000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -165998,7 +165998,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6080000000000,
+				"Threshold": 6400000000000,
 				"ConditionId": "foodfactory"
 			},
 			"Reward": {
@@ -166068,7 +166068,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e134,
+				"Threshold": 1.3e135,
 				"ConditionId": "takeout"
 			},
 			"Reward": {
@@ -166082,7 +166082,7 @@ DATA["potatofactory-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 59400000000000,
+				"Threshold": 62100000000000,
 				"ConditionId": "bubbletea"
 			},
 			"Reward": {
@@ -177366,7 +177366,7 @@ DATA["supervillain-bal-17"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 585000000000,
+				"Threshold": 552500000000,
 				"ConditionId": "spacebase"
 			},
 			"Reward": {
@@ -184677,7 +184677,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "TradesSinceSubscription",
-				"Threshold": 4,
+				"Threshold": 3,
 				"ConditionId": "candy"
 			},
 			"Reward": {
@@ -184719,8 +184719,8 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 350,
-				"ConditionId": "bat"
+				"Threshold": 700,
+				"ConditionId": "pumpkinbucket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -184733,7 +184733,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4000000000,
+				"Threshold": 400000,
 				"ConditionId": "candy"
 			},
 			"Reward": {
@@ -184746,13 +184746,13 @@ DATA["spooky-bal-10"] =
 			"Id": "M0006",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "IndustryUnlocked",
-				"Threshold": 1,
-				"ConditionId": "witchcraft"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3103,
+				"ConditionId": "bat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m06",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -184774,13 +184774,13 @@ DATA["spooky-bal-10"] =
 			"Id": "M0008",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 24824,
-				"ConditionId": "bat"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 66660000000,
+				"ConditionId": "candy"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m07",
 				"Value": 1
 			}
 		},
@@ -184788,13 +184788,13 @@ DATA["spooky-bal-10"] =
 			"Id": "M0009",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6666,
-				"ConditionId": "broom"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 45804,
+				"ConditionId": "bat"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m07",
+				"RewardId": "sc_m08",
 				"Value": 1
 			}
 		},
@@ -184816,23 +184816,23 @@ DATA["spooky-bal-10"] =
 			"Id": "M0011",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 15268,
-				"ConditionId": "witch"
+				"ConditionType": "IndustryUnlocked",
+				"Threshold": 1,
+				"ConditionId": "witchcraft"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m08",
+				"RewardId": "sc_m06",
 				"Value": 1
 			}
 		},
 		{
-			"Id": "M0012",
+			"Id": "M0011",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 77,
-				"ConditionId": "web"
+				"ConditionId": "witch"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -184841,7 +184841,7 @@ DATA["spooky-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0013",
+			"Id": "M0012",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -184873,7 +184873,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 10000000000,
+				"Threshold": 1000000,
 				"ConditionId": "broom"
 			},
 			"Reward": {
@@ -184887,7 +184887,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 8282,
+				"Threshold": 414141,
 				"ConditionId": "web"
 			},
 			"Reward": {
@@ -184915,8 +184915,8 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 90,
-				"ConditionId": "wand"
+				"Threshold": 45000,
+				"ConditionId": "witch"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -184929,7 +184929,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.66e23,
+				"Threshold": 1.66e19,
 				"ConditionId": "candy"
 			},
 			"Reward": {
@@ -184943,7 +184943,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4200000000000000000,
+				"Threshold": 420000000,
 				"ConditionId": "broom"
 			},
 			"Reward": {
@@ -184984,22 +184984,8 @@ DATA["spooky-bal-10"] =
 			"Id": "M0023",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "IndustryUnlocked",
-				"Threshold": 1,
-				"ConditionId": "haunted"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0024",
-			"Rank": 1,
-			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 720450,
+				"Threshold": 4803,
 				"ConditionId": "wand"
 			},
 			"Reward": {
@@ -185009,12 +184995,26 @@ DATA["spooky-bal-10"] =
 			}
 		},
 		{
+			"Id": "M0024",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2050000,
+				"ConditionId": "web"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
 			"Id": "M0025",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 68546,
-				"ConditionId": "spider"
+				"Threshold": 234000,
+				"ConditionId": "wand"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -185040,9 +185040,9 @@ DATA["spooky-bal-10"] =
 			"Id": "M0027",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 234,
-				"ConditionId": "cemetery"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 36000000000000000.0,
+				"ConditionId": "broom"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -185055,8 +185055,8 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 360000000000000000000.0,
-				"ConditionId": "broom"
+				"Threshold": 2.9e25,
+				"ConditionId": "candy"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -185068,9 +185068,9 @@ DATA["spooky-bal-10"] =
 			"Id": "M0029",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.9e33,
-				"ConditionId": "candy"
+				"ConditionType": "IndustryUnlocked",
+				"Threshold": 1,
+				"ConditionId": "haunted"
 			},
 			"Reward": {
 				"Reward": "Gacha",
