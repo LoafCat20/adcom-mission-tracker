@@ -185601,7 +185601,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3,
+				"Threshold": 1.3e38,
 				"ConditionId": "broom"
 			},
 			"Reward": {
