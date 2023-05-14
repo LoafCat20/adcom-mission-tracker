@@ -193987,9 +193987,9 @@ DATA["cockatrice-bal-10"] =
 			"RareWeight": -1,
 			"EpicWeight": -1,
 			"SupremeWeight": -1,
-			"LteRareWeight": 9,
-			"ScienceMin": 70,
-			"ScienceMax": 80,
+			"LteRareWeight": 10,
+			"ScienceMin": 85,
+			"ScienceMax": 95,
 			"TrophyMin": 10,
 			"TrophyMax": 10,
 			"ChanceMultiplier": 10,
@@ -194002,9 +194002,9 @@ DATA["cockatrice-bal-10"] =
 			"RareWeight": -1,
 			"EpicWeight": -1,
 			"SupremeWeight": -1,
-			"LteRareWeight": 10,
-			"ScienceMin": 140,
-			"ScienceMax": 160,
+			"LteRareWeight": 9,
+			"ScienceMin": 170,
+			"ScienceMax": 190,
 			"TrophyMin": 50,
 			"TrophyMax": 50,
 			"ChanceMultiplier": 10,
@@ -194925,9 +194925,9 @@ DATA["cockatrice-bal-10"] =
 			],
 			"Generate": {
 				"Resource": "beasttrack",
-				"Qty": 2
+				"Qty": 4
 			},
-			"BaseCompletionTime": 2,
+			"BaseCompletionTime": 3,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -194942,13 +194942,13 @@ DATA["cockatrice-bal-10"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 2
+				"Value": 1
 			}
 		},
 		{
@@ -194964,7 +194964,7 @@ DATA["cockatrice-bal-10"] =
 				},
 				{
 					"Resource": "beasttrack",
-					"Qty": "1.0E+04"
+					"Qty": "1.0E+05"
 				},
 				{
 					"Resource": "Comrade",
@@ -194973,9 +194973,9 @@ DATA["cockatrice-bal-10"] =
 			],
 			"Generate": {
 				"Resource": "coblin",
-				"Qty": 5
+				"Qty": 7
 			},
-			"BaseCompletionTime": 6,
+			"BaseCompletionTime": 9,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -194986,17 +194986,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "coblin",
-				"Threshold": 150
+				"Threshold": 1000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 2
 			}
 		},
 		{
@@ -195008,11 +195008,11 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "koshy",
-					"Qty": "1.0E+02"
+					"Qty": "1.0E+03"
 				},
 				{
 					"Resource": "beasttrack",
-					"Qty": "1.0E+12"
+					"Qty": "1.0E+15"
 				},
 				{
 					"Resource": "Comrade",
@@ -195021,9 +195021,9 @@ DATA["cockatrice-bal-10"] =
 			],
 			"Generate": {
 				"Resource": "koshy",
-				"Qty": 8
+				"Qty": 10
 			},
-			"BaseCompletionTime": 18,
+			"BaseCompletionTime": 27,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195034,17 +195034,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "koshy",
-				"Threshold": 25000
+				"Threshold": 100000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 3
 			}
 		},
 		{
@@ -195056,11 +195056,11 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "gelatinous",
-					"Qty": "1.0E+03"
+					"Qty": "1.0E+05"
 				},
 				{
 					"Resource": "beasttrack",
-					"Qty": 9.999999999999999e22
+					"Qty": 1e30
 				},
 				{
 					"Resource": "Comrade",
@@ -195069,9 +195069,9 @@ DATA["cockatrice-bal-10"] =
 			],
 			"Generate": {
 				"Resource": "gelatinous",
-				"Qty": 11
+				"Qty": 13
 			},
-			"BaseCompletionTime": 54,
+			"BaseCompletionTime": 81,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195082,17 +195082,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "gelatinous",
-				"Threshold": 1000000
+				"Threshold": 10000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 8
+				"Value": 4
 			}
 		},
 		{
@@ -195104,11 +195104,11 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "beeholder",
-					"Qty": "1.0E+05"
+					"Qty": "1.0E+08"
 				},
 				{
 					"Resource": "beasttrack",
-					"Qty": "1.0E+41"
+					"Qty": "1.0E+49"
 				},
 				{
 					"Resource": "Comrade",
@@ -195117,9 +195117,9 @@ DATA["cockatrice-bal-10"] =
 			],
 			"Generate": {
 				"Resource": "beeholder",
-				"Qty": 14
+				"Qty": 16
 			},
-			"BaseCompletionTime": 162,
+			"BaseCompletionTime": 243,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195130,17 +195130,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "beeholder",
-				"Threshold": 20000000
+				"Threshold": 500000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 10
+				"Value": 5
 			}
 		},
 		{
@@ -195152,11 +195152,11 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "unled",
-					"Qty": "1.0E+07"
+					"Qty": "1.0E+11"
 				},
 				{
 					"Resource": "beasttrack",
-					"Qty": "1.0E+71"
+					"Qty": "1.0E+72"
 				},
 				{
 					"Resource": "Comrade",
@@ -195165,9 +195165,9 @@ DATA["cockatrice-bal-10"] =
 			],
 			"Generate": {
 				"Resource": "unled",
-				"Qty": 17
+				"Qty": 19
 			},
-			"BaseCompletionTime": 486,
+			"BaseCompletionTime": 729,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195178,17 +195178,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "unled",
-				"Threshold": 500000000
+				"Threshold": 10000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 12
+				"Value": 6
 			}
 		},
 		{
@@ -195200,11 +195200,11 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "misplacer",
-					"Qty": "1.0E+09"
+					"Qty": "1.0E+14"
 				},
 				{
 					"Resource": "beasttrack",
-					"Qty": "1.0E+95"
+					"Qty": "1.0E+98"
 				},
 				{
 					"Resource": "Comrade",
@@ -195213,9 +195213,9 @@ DATA["cockatrice-bal-10"] =
 			],
 			"Generate": {
 				"Resource": "misplacer",
-				"Qty": 20
+				"Qty": 22
 			},
-			"BaseCompletionTime": 1458,
+			"BaseCompletionTime": 2187,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195226,17 +195226,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "misplacer",
-				"Threshold": 20000000000
+				"Threshold": 150000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 14
+				"Value": 7
 			}
 		},
 		{
@@ -195248,23 +195248,23 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "exppotato",
-					"Qty": "2.5E+01"
+					"Qty": "5.0E+01"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "3"
+					"Qty": "4"
 				}
 			],
 			"Generate": {
 				"Resource": "exppotato",
-				"Qty": 6
+				"Qty": 8
 			},
-			"BaseCompletionTime": 3,
+			"BaseCompletionTime": 9,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
 					"ConditionId": "beasttrack",
-					"Threshold": 10000000000
+					"Threshold": 1000000000000
 				}
 			],
 			"Unlock": {
@@ -195274,13 +195274,13 @@ DATA["cockatrice-bal-10"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 2
 			}
 		},
 		{
@@ -195296,18 +195296,18 @@ DATA["cockatrice-bal-10"] =
 				},
 				{
 					"Resource": "exppotato",
-					"Qty": "1.0E+09"
+					"Qty": "1.0E+10"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "3"
+					"Qty": "4"
 				}
 			],
 			"Generate": {
 				"Resource": "rogue",
-				"Qty": 21
+				"Qty": 13
 			},
-			"BaseCompletionTime": 12,
+			"BaseCompletionTime": 27,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195318,17 +195318,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "rogue",
-				"Threshold": 50000
+				"Threshold": 150000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 8
+				"Value": 4
 			}
 		},
 		{
@@ -195340,22 +195340,22 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "barbarian",
-					"Qty": "1.0E+04"
+					"Qty": "1.0E+05"
 				},
 				{
 					"Resource": "exppotato",
-					"Qty": "1.0E+22"
+					"Qty": "1.0E+24"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "3"
+					"Qty": "4"
 				}
 			],
 			"Generate": {
 				"Resource": "barbarian",
-				"Qty": 36
+				"Qty": 18
 			},
-			"BaseCompletionTime": 48,
+			"BaseCompletionTime": 81,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195366,17 +195366,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "barbarian",
-				"Threshold": 5000000
+				"Threshold": 6000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 12
+				"Value": 6
 			}
 		},
 		{
@@ -195388,22 +195388,22 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "bard",
-					"Qty": "1.0E+06"
+					"Qty": "1.0E+08"
 				},
 				{
 					"Resource": "exppotato",
-					"Qty": "1.0E+41"
+					"Qty": "1.0E+42"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "3"
+					"Qty": "4"
 				}
 			],
 			"Generate": {
 				"Resource": "bard",
-				"Qty": 51
+				"Qty": 23
 			},
-			"BaseCompletionTime": 192,
+			"BaseCompletionTime": 243,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195414,17 +195414,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "bard",
-				"Threshold": 25000000
+				"Threshold": 200000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 16
+				"Value": 8
 			}
 		},
 		{
@@ -195436,22 +195436,22 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "cacwizard",
-					"Qty": "1.0E+08"
+					"Qty": "1.0E+11"
 				},
 				{
 					"Resource": "exppotato",
-					"Qty": "1.0E+61"
+					"Qty": "1.0E+64"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "3"
+					"Qty": "4"
 				}
 			],
 			"Generate": {
 				"Resource": "cacwizard",
-				"Qty": 66
+				"Qty": 28
 			},
-			"BaseCompletionTime": 768,
+			"BaseCompletionTime": 729,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195462,17 +195462,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "cacwizard",
-				"Threshold": 400000000
+				"Threshold": 4000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 20
+				"Value": 10
 			}
 		},
 		{
@@ -195484,22 +195484,22 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "cleric",
-					"Qty": "1.0E+09"
+					"Qty": "1.0E+14"
 				},
 				{
 					"Resource": "exppotato",
-					"Qty": "1.0E+92"
+					"Qty": "1.0E+90"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "3"
+					"Qty": "4"
 				}
 			],
 			"Generate": {
 				"Resource": "cleric",
-				"Qty": 81
+				"Qty": 33
 			},
-			"BaseCompletionTime": 3072,
+			"BaseCompletionTime": 2187,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195510,17 +195510,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "cleric",
-				"Threshold": 25000000000
+				"Threshold": 60000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 24
+				"Value": 12
 			}
 		},
 		{
@@ -195532,23 +195532,23 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "signpost",
-					"Qty": "5.0E+01"
+					"Qty": "2.5E+02"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "5"
+					"Qty": "7"
 				}
 			],
 			"Generate": {
 				"Resource": "signpost",
 				"Qty": 12
 			},
-			"BaseCompletionTime": 4,
+			"BaseCompletionTime": 27,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
 					"ConditionId": "exppotato",
-					"Threshold": 10000000000000000000
+					"Threshold": 100000000000000
 				}
 			],
 			"Unlock": {
@@ -195558,13 +195558,13 @@ DATA["cockatrice-bal-10"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 3
 			}
 		},
 		{
@@ -195576,22 +195576,22 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "cacshop",
-					"Qty": "1.0E+04"
+					"Qty": "1.0E+06"
 				},
 				{
 					"Resource": "signpost",
-					"Qty": "1.0E+13"
+					"Qty": "1.0E+15"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "5"
+					"Qty": "7"
 				}
 			],
 			"Generate": {
 				"Resource": "cacshop",
-				"Qty": 64
+				"Qty": 20
 			},
-			"BaseCompletionTime": 24,
+			"BaseCompletionTime": 81,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195602,17 +195602,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "cacshop",
-				"Threshold": 3000000
+				"Threshold": 8000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 13
+				"Value": 6
 			}
 		},
 		{
@@ -195624,22 +195624,22 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "inn",
-					"Qty": "1.0E+06"
+					"Qty": "1.0E+09"
 				},
 				{
 					"Resource": "signpost",
-					"Qty": "1.0E+28"
+					"Qty": "1.0E+34"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "5"
+					"Qty": "7"
 				}
 			],
 			"Generate": {
 				"Resource": "inn",
-				"Qty": 116
+				"Qty": 28
 			},
-			"BaseCompletionTime": 144,
+			"BaseCompletionTime": 243,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195650,17 +195650,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "inn",
-				"Threshold": 30000000
+				"Threshold": 200000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 20
+				"Value": 9
 			}
 		},
 		{
@@ -195672,22 +195672,22 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "transportship",
-					"Qty": "1.0E+09"
+					"Qty": "1.0E+12"
 				},
 				{
 					"Resource": "signpost",
-					"Qty": "1.0E+54"
+					"Qty": "1.0E+56"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "5"
+					"Qty": "7"
 				}
 			],
 			"Generate": {
 				"Resource": "transportship",
-				"Qty": 168
+				"Qty": 36
 			},
-			"BaseCompletionTime": 864,
+			"BaseCompletionTime": 729,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195698,17 +195698,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "transportship",
-				"Threshold": 3000000000
+				"Threshold": 4000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 27
+				"Value": 12
 			}
 		},
 		{
@@ -195720,22 +195720,22 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "dungeon",
-					"Qty": "1.0E+10"
+					"Qty": "1.0E+15"
 				},
 				{
 					"Resource": "signpost",
-					"Qty": "1.0E+81"
+					"Qty": "1.0E+82"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "5"
+					"Qty": "7"
 				}
 			],
 			"Generate": {
 				"Resource": "dungeon",
-				"Qty": 220
+				"Qty": 44
 			},
-			"BaseCompletionTime": 5184,
+			"BaseCompletionTime": 2187,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195746,17 +195746,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "dungeon",
-				"Threshold": 30000000000
+				"Threshold": 60000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 34
+				"Value": 15
 			}
 		},
 		{
@@ -195768,23 +195768,23 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "charactersheet",
-					"Qty": "1.0E+04"
+					"Qty": "1.0E+03"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "7"
+					"Qty": "10"
 				}
 			],
 			"Generate": {
 				"Resource": "charactersheet",
-				"Qty": 20
+				"Qty": 16
 			},
-			"BaseCompletionTime": 5,
+			"BaseCompletionTime": 81,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
 					"ConditionId": "signpost",
-					"Threshold": 1e44
+					"Threshold": 1e24
 				}
 			],
 			"Unlock": {
@@ -195794,13 +195794,13 @@ DATA["cockatrice-bal-10"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 8
+				"Value": 4
 			}
 		},
 		{
@@ -195816,18 +195816,18 @@ DATA["cockatrice-bal-10"] =
 				},
 				{
 					"Resource": "charactersheet",
-					"Qty": "1.0E+19"
+					"Qty": "1.0E+20"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "7"
+					"Qty": "10"
 				}
 			],
 			"Generate": {
 				"Resource": "dice",
-				"Qty": 210
+				"Qty": 29
 			},
-			"BaseCompletionTime": 60,
+			"BaseCompletionTime": 243,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195838,17 +195838,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "dice",
-				"Threshold": 600000000
+				"Threshold": 30000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 20
+				"Value": 8
 			}
 		},
 		{
@@ -195860,22 +195860,22 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "handbook",
-					"Qty": "1.0E+08"
+					"Qty": "1.0E+10"
 				},
 				{
 					"Resource": "charactersheet",
-					"Qty": "1.0E+40"
+					"Qty": "1.0E+39"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "7"
+					"Qty": "10"
 				}
 			],
 			"Generate": {
 				"Resource": "handbook",
-				"Qty": 400
+				"Qty": 42
 			},
-			"BaseCompletionTime": 720,
+			"BaseCompletionTime": 729,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195886,17 +195886,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "handbook",
-				"Threshold": 5000000000
+				"Threshold": 600000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 32
+				"Value": 12
 			}
 		},
 		{
@@ -195908,22 +195908,22 @@ DATA["cockatrice-bal-10"] =
 			"Cost": [
 				{
 					"Resource": "guide",
-					"Qty": "1.0E+10"
+					"Qty": "1.0E+13"
 				},
 				{
 					"Resource": "charactersheet",
-					"Qty": "1.0E+68"
+					"Qty": "1.0E+62"
 				},
 				{
 					"Resource": "Comrade",
-					"Qty": "7"
+					"Qty": "10"
 				}
 			],
 			"Generate": {
 				"Resource": "guide",
-				"Qty": 590
+				"Qty": 55
 			},
-			"BaseCompletionTime": 8640,
+			"BaseCompletionTime": 2187,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -195934,17 +195934,17 @@ DATA["cockatrice-bal-10"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "guide",
-				"Threshold": 40000000000
+				"Threshold": 10000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 0,
-				"Multiplier": 32
+				"ChancePercent": 1,
+				"Multiplier": 256
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 44
+				"Value": 16
 			}
 		}
 	],
@@ -198745,7 +198745,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.1e106,
+				"Threshold": 3.1e90,
 				"ConditionId": "signpost"
 			},
 			"Reward": {
@@ -198759,7 +198759,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 46000000000,
+				"Threshold": 73600000000,
 				"ConditionId": "beastbook"
 			},
 			"Reward": {
@@ -198787,7 +198787,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.64e125,
+				"Threshold": 1.64e112,
 				"ConditionId": "exppotato"
 			},
 			"Reward": {
@@ -198801,7 +198801,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 420000000000,
+				"Threshold": 980000000000,
 				"ConditionId": "fowlbear"
 			},
 			"Reward": {
@@ -198815,7 +198815,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9e87,
+				"Threshold": 9e78,
 				"ConditionId": "charactersheet"
 			},
 			"Reward": {
@@ -198857,7 +198857,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.3e139,
+				"Threshold": 7.3e130,
 				"ConditionId": "beasttrack"
 			},
 			"Reward": {
@@ -198885,7 +198885,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.4e108,
+				"Threshold": 1.4e96,
 				"ConditionId": "signpost"
 			},
 			"Reward": {
@@ -202700,9 +202700,9 @@ DATA["cockatrice-bal-10"] =
 			"TargetIds": [
 				"charactersheet"
 			],
-			"ExpoMultiplier": 4.5,
-			"ExpoGrowth": 2,
-			"UpgradePower": 0,
+			"ExpoMultiplier": 1,
+			"ExpoGrowth": 3,
+			"UpgradePower": 2,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteRare",
