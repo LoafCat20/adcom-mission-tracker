@@ -182793,7 +182793,7 @@ DATA["spooky-bal-10"] =
 		{
 			"GachaId": "sc_m01",
 			"MimicGachaId": "plastic",
-			"Science": 48,
+			"Science": 72,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -182806,33 +182806,7 @@ DATA["spooky-bal-10"] =
 		{
 			"GachaId": "sc_m02",
 			"MimicGachaId": "plastic",
-			"Science": 47,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "HA0002",
-					"Value": 4
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m03",
-			"MimicGachaId": "plastic",
-			"Science": 62,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "HA0001",
-					"Value": 6
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m04",
-			"MimicGachaId": "plastic",
-			"Science": 53,
+			"Science": 77,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -182847,184 +182821,99 @@ DATA["spooky-bal-10"] =
 			]
 		},
 		{
-			"GachaId": "sc_m05",
+			"GachaId": "sc_m03",
 			"MimicGachaId": "plastic",
-			"Science": 59,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "HA0002",
-					"Value": 5
-				},
-				{
-					"Id": "HA0024",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m06",
-			"MimicGachaId": "plastic",
-			"Science": 64,
+			"Science": 82,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
 				{
 					"Id": "HA0001",
 					"Value": 6
+				},
+				{
+					"Id": "HA0024",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m04",
+			"MimicGachaId": "plastic",
+			"Science": 93,
+			"Gold": 0,
+			"Trophy": 20,
+			"Card": [
+				{
+					"Id": "HA0003",
+					"Value": 6
+				},
+				{
+					"Id": "HA0001",
+					"Value": 3
+				},
+				{
+					"Id": "HA0024",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m05",
+			"MimicGachaId": "plastic",
+			"Science": 104,
+			"Gold": 0,
+			"Trophy": 30,
+			"Card": [
+				{
+					"Id": "HA0002",
+					"Value": 6
+				},
+				{
+					"Id": "HA0008",
+					"Value": 5
+				},
+				{
+					"Id": "HA0023",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m06",
+			"MimicGachaId": "plastic",
+			"Science": 114,
+			"Gold": 0,
+			"Trophy": 40,
+			"Card": [
+				{
+					"Id": "HA0008",
+					"Value": 7
+				},
+				{
+					"Id": "HA0001",
+					"Value": 7
+				},
+				{
+					"Id": "HA0026",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m07",
 			"MimicGachaId": "plastic",
-			"Science": 79,
-			"Gold": 0,
-			"Trophy": 20,
-			"Card": [
-				{
-					"Id": "HA0008",
-					"Value": 7
-				},
-				{
-					"Id": "HA0026",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m08",
-			"MimicGachaId": "plastic",
-			"Science": 82,
-			"Gold": 0,
-			"Trophy": 20,
-			"Card": [
-				{
-					"Id": "HA0008",
-					"Value": 8
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m09",
-			"MimicGachaId": "plastic",
-			"Science": 88,
-			"Gold": 0,
-			"Trophy": 30,
-			"Card": [
-				{
-					"Id": "HA0003",
-					"Value": 3
-				},
-				{
-					"Id": "HA0008",
-					"Value": 6
-				},
-				{
-					"Id": "HA0027",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m10",
-			"MimicGachaId": "plastic",
-			"Science": 97,
-			"Gold": 0,
-			"Trophy": 40,
-			"Card": [
-				{
-					"Id": "HA0009",
-					"Value": 4
-				},
-				{
-					"Id": "HA0003",
-					"Value": 7
-				},
-				{
-					"Id": "HA0026",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m11",
-			"MimicGachaId": "plastic",
-			"Science": 115,
+			"Science": 129,
 			"Gold": 0,
 			"Trophy": 50,
 			"Card": [
 				{
-					"Id": "HA0004",
-					"Value": 3
-				},
-				{
-					"Id": "HA0009",
-					"Value": 11
-				},
-				{
-					"Id": "HA0027",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m12",
-			"MimicGachaId": "plastic",
-			"Science": 130,
-			"Gold": 0,
-			"Trophy": 60,
-			"Card": [
-				{
-					"Id": "HA0014",
+					"Id": "HA0008",
 					"Value": 7
 				},
 				{
-					"Id": "HA0004",
+					"Id": "HA0009",
 					"Value": 10
-				},
-				{
-					"Id": "HA0025",
-					"Value": 2
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m13",
-			"MimicGachaId": "plastic",
-			"Science": 144,
-			"Gold": 0,
-			"Trophy": 70,
-			"Card": [
-				{
-					"Id": "HA0010",
-					"Value": 8
-				},
-				{
-					"Id": "HA0014",
-					"Value": 12
-				},
-				{
-					"Id": "HA0025",
-					"Value": 2
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m14",
-			"MimicGachaId": "plastic",
-			"Science": 167,
-			"Gold": 0,
-			"Trophy": 80,
-			"Card": [
-				{
-					"Id": "HA0015",
-					"Value": 9
-				},
-				{
-					"Id": "HA0010",
-					"Value": 13
 				},
 				{
 					"Id": "HA0024",
@@ -183033,48 +182922,65 @@ DATA["spooky-bal-10"] =
 			]
 		},
 		{
-			"GachaId": "sc_m15",
+			"GachaId": "sc_m08",
 			"MimicGachaId": "plastic",
-			"Science": 175,
+			"Science": 142,
 			"Gold": 0,
-			"Trophy": 90,
+			"Trophy": 60,
 			"Card": [
 				{
-					"Id": "HA0005",
-					"Value": 4
-				},
-				{
-					"Id": "HA0015",
+					"Id": "HA0009",
 					"Value": 8
 				},
 				{
-					"Id": "HA0010",
+					"Id": "HA0004",
 					"Value": 12
 				},
 				{
-					"Id": "HA0028",
+					"Id": "HA0027",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m09",
+			"MimicGachaId": "plastic",
+			"Science": 148,
+			"Gold": 0,
+			"Trophy": 70,
+			"Card": [
+				{
+					"Id": "HA0014",
+					"Value": 6
+				},
+				{
+					"Id": "HA0008",
+					"Value": 16
+				},
+				{
+					"Id": "HA0026",
 					"Value": 3
 				}
 			]
 		},
 		{
-			"GachaId": "sc_m16",
+			"GachaId": "sc_m10",
 			"MimicGachaId": "plastic",
-			"Science": 202,
+			"Science": 167,
 			"Gold": 0,
-			"Trophy": 110,
+			"Trophy": 80,
 			"Card": [
 				{
-					"Id": "HA0011",
-					"Value": 6
+					"Id": "HA0014",
+					"Value": 4
 				},
 				{
-					"Id": "HA0005",
-					"Value": 10
+					"Id": "HA0004",
+					"Value": 7
 				},
 				{
-					"Id": "HA0015",
-					"Value": 13
+					"Id": "HA0010",
+					"Value": 14
 				},
 				{
 					"Id": "HA0029",
@@ -183083,86 +182989,268 @@ DATA["spooky-bal-10"] =
 			]
 		},
 		{
-			"GachaId": "sc_m17",
+			"GachaId": "sc_m11",
 			"MimicGachaId": "plastic",
-			"Science": 225,
+			"Science": 185,
 			"Gold": 0,
-			"Trophy": 120,
+			"Trophy": 90,
 			"Card": [
 				{
-					"Id": "HA0016",
-					"Value": 7
+					"Id": "HA0004",
+					"Value": 3
 				},
 				{
-					"Id": "HA0011",
-					"Value": 10
+					"Id": "HA0015",
+					"Value": 11
 				},
 				{
-					"Id": "HA0005",
-					"Value": 14
+					"Id": "HA0009",
+					"Value": 13
 				},
 				{
-					"Id": "HA0034",
+					"Id": "HA0027",
 					"Value": 3
 				}
 			]
 		},
 		{
-			"GachaId": "sc_m18",
+			"GachaId": "sc_m12",
 			"MimicGachaId": "plastic",
-			"Science": 250,
+			"Science": 210,
+			"Gold": 0,
+			"Trophy": 100,
+			"Card": [
+				{
+					"Id": "HA0014",
+					"Value": 7
+				},
+				{
+					"Id": "HA0005",
+					"Value": 10
+				},
+				{
+					"Id": "HA0008",
+					"Value": 11
+				},
+				{
+					"Id": "HA0025",
+					"Value": 3
+				},
+				{
+					"Id": "HA0024",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m13",
+			"MimicGachaId": "plastic",
+			"Science": 234,
+			"Gold": 0,
+			"Trophy": 110,
+			"Card": [
+				{
+					"Id": "HA0010",
+					"Value": 8
+				},
+				{
+					"Id": "HA0014",
+					"Value": 12
+				},
+				{
+					"Id": "HA0019",
+					"Value": 10
+				},
+				{
+					"Id": "HA0034",
+					"Value": 2
+				},
+				{
+					"Id": "HA0026",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m14",
+			"MimicGachaId": "plastic",
+			"Science": 257,
+			"Gold": 0,
+			"Trophy": 120,
+			"Card": [
+				{
+					"Id": "HA0015",
+					"Value": 9
+				},
+				{
+					"Id": "HA0011",
+					"Value": 13
+				},
+				{
+					"Id": "HA0005",
+					"Value": 10
+				},
+				{
+					"Id": "HA0025",
+					"Value": 1
+				},
+				{
+					"Id": "HA0032",
+					"Value": 3
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m15",
+			"MimicGachaId": "plastic",
+			"Science": 275,
+			"Gold": 0,
+			"Trophy": 130,
+			"Card": [
+				{
+					"Id": "HA0005",
+					"Value": 14
+				},
+				{
+					"Id": "HA0016",
+					"Value": 8
+				},
+				{
+					"Id": "HA0010",
+					"Value": 12
+				},
+				{
+					"Id": "HA0026",
+					"Value": 2
+				},
+				{
+					"Id": "HA0032",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m16",
+			"MimicGachaId": "plastic",
+			"Science": 302,
 			"Gold": 0,
 			"Trophy": 140,
 			"Card": [
 				{
-					"Id": "HA0019",
-					"Value": 6
+					"Id": "HA0011",
+					"Value": 9
 				},
+				{
+					"Id": "HA0005",
+					"Value": 12
+				},
+				{
+					"Id": "HA0020",
+					"Value": 15
+				},
+				{
+					"Id": "HA0028",
+					"Value": 3
+				},
+				{
+					"Id": "HA0034",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m17",
+			"MimicGachaId": "plastic",
+			"Science": 325,
+			"Gold": 0,
+			"Trophy": 150,
+			"Card": [
 				{
 					"Id": "HA0016",
 					"Value": 13
 				},
 				{
 					"Id": "HA0011",
-					"Value": 17
+					"Value": 10
+				},
+				{
+					"Id": "HA0006",
+					"Value": 14
 				},
 				{
 					"Id": "HA0034",
+					"Value": 1
+				},
+				{
+					"Id": "HA0026",
 					"Value": 4
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m18",
+			"MimicGachaId": "plastic",
+			"Science": 350,
+			"Gold": 0,
+			"Trophy": 160,
+			"Card": [
+				{
+					"Id": "HA0019",
+					"Value": 7
+				},
+				{
+					"Id": "HA0016",
+					"Value": 14
+				},
+				{
+					"Id": "HA0011",
+					"Value": 18
+				},
+				{
+					"Id": "HA0033",
+					"Value": 3
+				},
+				{
+					"Id": "HA0023",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m19",
 			"MimicGachaId": "plastic",
-			"Science": 270,
+			"Science": 370,
 			"Gold": 0,
-			"Trophy": 150,
+			"Trophy": 170,
 			"Card": [
 				{
 					"Id": "HA0006",
-					"Value": 8
+					"Value": 9
 				},
 				{
-					"Id": "HA0019",
-					"Value": 12
+					"Id": "HA0012",
+					"Value": 13
 				},
 				{
 					"Id": "HA0016",
-					"Value": 18
+					"Value": 19
 				},
 				{
-					"Id": "HA0030",
+					"Id": "HA0028",
 					"Value": 4
+				},
+				{
+					"Id": "HA0027",
+					"Value": 1
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m20",
 			"MimicGachaId": "plastic",
-			"Science": 292,
+			"Science": 392,
 			"Gold": 0,
-			"Trophy": 160,
+			"Trophy": 180,
 			"Card": [
 				{
 					"Id": "HA0012",
@@ -183170,31 +183258,35 @@ DATA["spooky-bal-10"] =
 				},
 				{
 					"Id": "HA0006",
-					"Value": 11
+					"Value": 14
 				},
 				{
 					"Id": "HA0019",
 					"Value": 22
 				},
 				{
-					"Id": "HA0030",
-					"Value": 4
+					"Id": "HA0031",
+					"Value": 2
+				},
+				{
+					"Id": "HA0033",
+					"Value": 3
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m21",
 			"MimicGachaId": "plastic",
-			"Science": 303,
+			"Science": 403,
 			"Gold": 0,
-			"Trophy": 170,
+			"Trophy": 190,
 			"Card": [
 				{
 					"Id": "HA0020",
-					"Value": 8
+					"Value": 11
 				},
 				{
-					"Id": "HA0012",
+					"Id": "HA0017",
 					"Value": 15
 				},
 				{
@@ -183203,23 +183295,27 @@ DATA["spooky-bal-10"] =
 				},
 				{
 					"Id": "HA0032",
-					"Value": 5
+					"Value": 1
+				},
+				{
+					"Id": "HA0028",
+					"Value": 4
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m22",
 			"MimicGachaId": "plastic",
-			"Science": 333,
+			"Science": 433,
 			"Gold": 0,
-			"Trophy": 190,
+			"Trophy": 200,
 			"Card": [
 				{
 					"Id": "HA0017",
 					"Value": 5
 				},
 				{
-					"Id": "HA0020",
+					"Id": "HA0021",
 					"Value": 16
 				},
 				{
@@ -183228,14 +183324,18 @@ DATA["spooky-bal-10"] =
 				},
 				{
 					"Id": "HA0033",
-					"Value": 5
+					"Value": 2
+				},
+				{
+					"Id": "HA0031",
+					"Value": 4
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m23",
 			"MimicGachaId": "plastic",
-			"Science": 360,
+			"Science": 460,
 			"Gold": 0,
 			"Trophy": 220,
 			"Card": [
@@ -183253,14 +183353,18 @@ DATA["spooky-bal-10"] =
 				},
 				{
 					"Id": "HA0033",
-					"Value": 6
+					"Value": 3
+				},
+				{
+					"Id": "HA0034",
+					"Value": 3
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m24",
 			"MimicGachaId": "plastic",
-			"Science": 384,
+			"Science": 474,
 			"Gold": 0,
 			"Trophy": 240,
 			"Card": [
@@ -183277,15 +183381,19 @@ DATA["spooky-bal-10"] =
 					"Value": 22
 				},
 				{
-					"Id": "HA0031",
-					"Value": 6
+					"Id": "HA0030",
+					"Value": 5
+				},
+				{
+					"Id": "HA0026",
+					"Value": 1
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m25",
 			"MimicGachaId": "plastic",
-			"Science": 404,
+			"Science": 494,
 			"Gold": 0,
 			"Trophy": 260,
 			"Card": [
@@ -183299,18 +183407,22 @@ DATA["spooky-bal-10"] =
 				},
 				{
 					"Id": "HA0007",
-					"Value": 22
+					"Value": 21
 				},
 				{
 					"Id": "HA0031",
-					"Value": 6
+					"Value": 5
+				},
+				{
+					"Id": "HA0030",
+					"Value": 1
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m26",
 			"MimicGachaId": "plastic",
-			"Science": 445,
+			"Science": 545,
 			"Gold": 0,
 			"Trophy": 300,
 			"Card": [
@@ -183324,18 +183436,22 @@ DATA["spooky-bal-10"] =
 				},
 				{
 					"Id": "HA0021",
-					"Value": 24
+					"Value": 23
+				},
+				{
+					"Id": "HA0025",
+					"Value": 3
 				},
 				{
 					"Id": "HA0032",
-					"Value": 6
+					"Value": 3
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m27",
 			"MimicGachaId": "plastic",
-			"Science": 480,
+			"Science": 580,
 			"Gold": 0,
 			"Trophy": 400,
 			"Card": [
@@ -183349,18 +183465,22 @@ DATA["spooky-bal-10"] =
 				},
 				{
 					"Id": "HA0013",
-					"Value": 25
+					"Value": 24
 				},
 				{
 					"Id": "HA0032",
-					"Value": 6
+					"Value": 4
+				},
+				{
+					"Id": "HA0027",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc3",
 			"MimicGachaId": "plastic",
-			"Science": 50,
+			"Science": 70,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -183369,7 +183489,7 @@ DATA["spooky-bal-10"] =
 					"Value": 3
 				},
 				{
-					"Id": "HA0024",
+					"Id": "HA0023",
 					"Value": 1
 				}
 			]
@@ -184696,7 +184816,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m04",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -184724,7 +184844,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m03",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -184738,7 +184858,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m05",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -184752,7 +184872,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m03",
 				"Value": 1
 			}
 		},
@@ -184780,7 +184900,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m07",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -184794,7 +184914,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m08",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -184822,7 +184942,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m06",
+				"RewardId": "sc_m04",
 				"Value": 1
 			}
 		},
@@ -184878,7 +184998,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m09",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -184892,7 +185012,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m05",
 				"Value": 1
 			}
 		},
@@ -184934,7 +185054,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m10",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -184976,7 +185096,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m06",
 				"Value": 1
 			}
 		},
@@ -184990,7 +185110,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m11",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185018,7 +185138,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m07",
 				"Value": 1
 			}
 		},
@@ -185088,7 +185208,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m12",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185116,7 +185236,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m08",
 				"Value": 1
 			}
 		},
@@ -185144,7 +185264,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m13",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185186,7 +185306,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m09",
 				"Value": 1
 			}
 		},
@@ -185228,7 +185348,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m14",
+				"RewardId": "sc_m10",
 				"Value": 1
 			}
 		},
@@ -185298,7 +185418,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m15",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185340,7 +185460,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m11",
 				"Value": 1
 			}
 		},
@@ -185410,7 +185530,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m12",
 				"Value": 1
 			}
 		},
@@ -185480,7 +185600,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m16",
+				"RewardId": "sc_m13",
 				"Value": 1
 			}
 		},
@@ -185503,7 +185623,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 88800000000000000,
+				"Threshold": 8880000000,
 				"ConditionId": "brain"
 			},
 			"Reward": {
@@ -185545,7 +185665,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6360000000,
+				"Threshold": 6.36e35,
 				"ConditionId": "broom"
 			},
 			"Reward": {
@@ -185564,7 +185684,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m17",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185573,7 +185693,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 535000000,
+				"Threshold": 32100000,
 				"ConditionId": "walker"
 			},
 			"Reward": {
@@ -185601,12 +185721,12 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e49,
+				"Threshold": 5.2e50,
 				"ConditionId": "candy"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m14",
 				"Value": 1
 			}
 		},
@@ -185615,7 +185735,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 34000000,
+				"Threshold": 68000000,
 				"ConditionId": "pentagram"
 			},
 			"Reward": {
@@ -185629,7 +185749,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7e33,
+				"Threshold": 7e29,
 				"ConditionId": "ghost"
 			},
 			"Reward": {
@@ -185643,12 +185763,12 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.8e38,
+				"Threshold": 1.8e17,
 				"ConditionId": "brain"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m15",
 				"Value": 1
 			}
 		},
@@ -185699,7 +185819,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.9e37,
+				"Threshold": 2.9e34,
 				"ConditionId": "ghost"
 			},
 			"Reward": {
@@ -185713,8 +185833,8 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 19000000,
-				"ConditionId": "walker"
+				"Threshold": 1900,
+				"ConditionId": "armored"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -185760,7 +185880,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m16",
 				"Value": 1
 			}
 		},
@@ -185816,7 +185936,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m19",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185830,7 +185950,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m17",
 				"Value": 1
 			}
 		},
@@ -185928,7 +186048,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m20",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185956,7 +186076,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m18",
 				"Value": 1
 			}
 		},
@@ -186026,7 +186146,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m21",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -186040,7 +186160,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m19",
 				"Value": 1
 			}
 		},
@@ -186138,7 +186258,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m20",
 				"Value": 1
 			}
 		},
@@ -186236,7 +186356,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m22",
+				"RewardId": "sc_m21",
 				"Value": 1
 			}
 		},
@@ -186320,7 +186440,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m22",
 				"Value": 1
 			}
 		},
@@ -186544,7 +186664,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m24",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -186586,7 +186706,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m24",
 				"Value": 1
 			}
 		},
@@ -187104,7 +187224,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m27",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -187146,7 +187266,7 @@ DATA["spooky-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m27",
 				"Value": 1
 			}
 		},
