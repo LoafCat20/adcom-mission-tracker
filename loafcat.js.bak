@@ -200229,7 +200229,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5000000000000,
+				"Threshold": 6250000000000,
 				"ConditionId": "beastbook"
 			},
 			"Reward": {
@@ -200257,7 +200257,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e150,
+				"Threshold": 1.3e136,
 				"ConditionId": "exppotato"
 			},
 			"Reward": {
@@ -200271,7 +200271,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 27000000000000,
+				"Threshold": 81000000000000,
 				"ConditionId": "fowlbear"
 			},
 			"Reward": {
@@ -200285,7 +200285,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.5e107,
+				"Threshold": 3.5e95,
 				"ConditionId": "charactersheet"
 			},
 			"Reward": {
@@ -200299,7 +200299,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4500000000000,
+				"Threshold": 15000000000000,
 				"ConditionId": "outerplanes"
 			},
 			"Reward": {
@@ -200313,7 +200313,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.3e169,
+				"Threshold": 7.3e156,
 				"ConditionId": "beasttrack"
 			},
 			"Reward": {
@@ -200327,7 +200327,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 8500000000000,
+				"Threshold": 34000000000000,
 				"ConditionId": "paladin"
 			},
 			"Reward": {
@@ -200341,7 +200341,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.9e132,
+				"Threshold": 4.9e117,
 				"ConditionId": "signpost"
 			},
 			"Reward": {
@@ -200355,7 +200355,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7300000000000,
+				"Threshold": 16790000000000,
 				"ConditionId": "beastbook"
 			},
 			"Reward": {
@@ -200369,7 +200369,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.2e154,
+				"Threshold": 8.2e138,
 				"ConditionId": "exppotato"
 			},
 			"Reward": {
@@ -200383,7 +200383,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 40000000000000,
+				"Threshold": 200000000000000,
 				"ConditionId": "fowlbear"
 			},
 			"Reward": {
@@ -200397,7 +200397,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.8e109,
+				"Threshold": 3.8e97,
 				"ConditionId": "charactersheet"
 			},
 			"Reward": {
@@ -200411,7 +200411,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6200000000000,
+				"Threshold": 37200000000000,
 				"ConditionId": "outerplanes"
 			},
 			"Reward": {
@@ -200425,7 +200425,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.89e173,
+				"Threshold": 6.89e159,
 				"ConditionId": "beasttrack"
 			},
 			"Reward": {
@@ -200439,7 +200439,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 12000000000000,
+				"Threshold": 84000000000000,
 				"ConditionId": "paladin"
 			},
 			"Reward": {
@@ -200453,7 +200453,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.7e135,
+				"Threshold": 5.7e119,
 				"ConditionId": "signpost"
 			},
 			"Reward": {
