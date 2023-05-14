@@ -199990,6 +199990,20 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0283",
 			"Rank": 1,
 			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0284",
+			"Rank": 1,
+			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 6.56e143,
 				"ConditionId": "exppotato"
@@ -200001,7 +200015,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0284",
+			"Id": "M0285",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -200015,7 +200029,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0285",
+			"Id": "M0286",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -200029,7 +200043,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0286",
+			"Id": "M0287",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -200043,7 +200057,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0287",
+			"Id": "M0288",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -200057,7 +200071,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0288",
+			"Id": "M0289",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -200071,7 +200085,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0289",
+			"Id": "M0290",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -200085,7 +200099,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0290",
+			"Id": "M0291",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -200099,7 +200113,21 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0291",
+			"Id": "M0292",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0293",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -200113,7 +200141,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0292",
+			"Id": "M0294",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -200127,7 +200155,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0293",
+			"Id": "M0295",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -200141,7 +200169,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0294",
+			"Id": "M0296",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -200155,7 +200183,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0295",
+			"Id": "M0297",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -200169,7 +200197,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0296",
+			"Id": "M0298",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -200183,7 +200211,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0297",
+			"Id": "M0299",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -200197,40 +200225,12 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0298",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 5000000000000,
-				"ConditionId": "beastbook"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0299",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e150,
-				"ConditionId": "exppotato"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
 			"Id": "M0300",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 27000000000000,
-				"ConditionId": "fowlbear"
+				"Threshold": 6250000000000,
+				"ConditionId": "beastbook"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200242,13 +200242,13 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0301",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.5e107,
-				"ConditionId": "charactersheet"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -200256,9 +200256,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0302",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 4500000000000,
-				"ConditionId": "outerplanes"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.3e136,
+				"ConditionId": "exppotato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200270,9 +200270,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0303",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.3e169,
-				"ConditionId": "beasttrack"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 81000000000000,
+				"ConditionId": "fowlbear"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200284,9 +200284,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0304",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 8500000000000,
-				"ConditionId": "paladin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.5e95,
+				"ConditionId": "charactersheet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200298,9 +200298,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0305",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.9e132,
-				"ConditionId": "signpost"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 15000000000000,
+				"ConditionId": "outerplanes"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200312,9 +200312,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0306",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 7300000000000,
-				"ConditionId": "beastbook"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.3e156,
+				"ConditionId": "beasttrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200326,9 +200326,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0307",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.2e154,
-				"ConditionId": "exppotato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 34000000000000,
+				"ConditionId": "paladin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200340,9 +200340,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0308",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 40000000000000,
-				"ConditionId": "fowlbear"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.9e117,
+				"ConditionId": "signpost"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200354,9 +200354,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0309",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.8e109,
-				"ConditionId": "charactersheet"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 16790000000000,
+				"ConditionId": "beastbook"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200368,9 +200368,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0310",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 6200000000000,
-				"ConditionId": "outerplanes"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.2e138,
+				"ConditionId": "exppotato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200382,9 +200382,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0311",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.89e173,
-				"ConditionId": "beasttrack"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 200000000000000,
+				"ConditionId": "fowlbear"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200396,9 +200396,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0312",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 12000000000000,
-				"ConditionId": "paladin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.8e97,
+				"ConditionId": "charactersheet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200410,9 +200410,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0313",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.7e135,
-				"ConditionId": "signpost"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 37200000000000,
+				"ConditionId": "outerplanes"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200424,9 +200424,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0314",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 8600000000000,
-				"ConditionId": "beastbook"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.89e159,
+				"ConditionId": "beasttrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200438,9 +200438,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0315",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.23e158,
-				"ConditionId": "exppotato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 84000000000000,
+				"ConditionId": "paladin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200452,9 +200452,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0316",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 56000000000000,
-				"ConditionId": "fowlbear"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.7e119,
+				"ConditionId": "signpost"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200466,9 +200466,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0317",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e112,
-				"ConditionId": "charactersheet"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 43000000000000,
+				"ConditionId": "beastbook"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200480,9 +200480,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0318",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 9300000000000,
-				"ConditionId": "outerplanes"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.23e141,
+				"ConditionId": "exppotato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200494,9 +200494,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0319",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.4e177,
-				"ConditionId": "beasttrack"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 560000000000000,
+				"ConditionId": "fowlbear"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200508,9 +200508,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0320",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 17000000000000,
-				"ConditionId": "paladin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.2e99,
+				"ConditionId": "charactersheet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200522,9 +200522,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0321",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.5e139,
-				"ConditionId": "signpost"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 93000000000000,
+				"ConditionId": "outerplanes"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200536,9 +200536,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0322",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 10000000000000,
-				"ConditionId": "beastbook"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.4e163,
+				"ConditionId": "beasttrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200550,9 +200550,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0323",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.2e162,
-				"ConditionId": "exppotato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 221000000000000,
+				"ConditionId": "paladin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200564,9 +200564,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0324",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 74000000000000,
-				"ConditionId": "fowlbear"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.5e122,
+				"ConditionId": "signpost"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200578,9 +200578,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0325",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.3e115,
-				"ConditionId": "charactersheet"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 100000000000000,
+				"ConditionId": "beastbook"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200592,9 +200592,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0326",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 13000000000000,
-				"ConditionId": "outerplanes"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.2e144,
+				"ConditionId": "exppotato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200606,9 +200606,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0327",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.12e182,
-				"ConditionId": "beasttrack"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1480000000000000,
+				"ConditionId": "fowlbear"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200620,9 +200620,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0328",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 23000000000000,
-				"ConditionId": "paladin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.3e101,
+				"ConditionId": "charactersheet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200634,9 +200634,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0329",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.56e143,
-				"ConditionId": "signpost"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 260000000000000,
+				"ConditionId": "outerplanes"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200648,9 +200648,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0330",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 13000000000000,
-				"ConditionId": "beastbook"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.12e166,
+				"ConditionId": "beasttrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200662,9 +200662,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0331",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.9e166,
-				"ConditionId": "exppotato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 575000000000000,
+				"ConditionId": "paladin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200676,9 +200676,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0332",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 95000000000000,
-				"ConditionId": "fowlbear"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.56e124,
+				"ConditionId": "signpost"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200690,9 +200690,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0333",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.7e118,
-				"ConditionId": "charactersheet"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 260000000000000,
+				"ConditionId": "beastbook"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200704,9 +200704,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0334",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 17000000000000,
-				"ConditionId": "outerplanes"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.9e147,
+				"ConditionId": "exppotato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200718,9 +200718,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0335",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.5e187,
-				"ConditionId": "beasttrack"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3800000000000000,
+				"ConditionId": "fowlbear"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200732,9 +200732,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0336",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 30000000000000,
-				"ConditionId": "paladin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.7e103,
+				"ConditionId": "charactersheet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200746,9 +200746,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0337",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.1e147,
-				"ConditionId": "signpost"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 680000000000000,
+				"ConditionId": "outerplanes"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200760,9 +200760,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0338",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 16000000000000,
-				"ConditionId": "beastbook"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.5e170,
+				"ConditionId": "beasttrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200774,9 +200774,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0339",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.77e170,
-				"ConditionId": "exppotato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1500000000000000,
+				"ConditionId": "paladin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200788,9 +200788,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0340",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 113000000000000,
-				"ConditionId": "fowlbear"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.1e127,
+				"ConditionId": "signpost"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200802,9 +200802,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0341",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e121,
-				"ConditionId": "charactersheet"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 720000000000000,
+				"ConditionId": "beastbook"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200816,9 +200816,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0342",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 21000000000000,
-				"ConditionId": "outerplanes"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.77e149,
+				"ConditionId": "exppotato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200830,9 +200830,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0343",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.5e192,
-				"ConditionId": "beasttrack"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 11300000000000000,
+				"ConditionId": "fowlbear"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200844,9 +200844,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0344",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 37000000000000,
-				"ConditionId": "paladin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.2e105,
+				"ConditionId": "charactersheet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200858,9 +200858,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0345",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.9e151,
-				"ConditionId": "signpost"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1750000000000000,
+				"ConditionId": "outerplanes"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200872,9 +200872,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0346",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 19000000000000,
-				"ConditionId": "beastbook"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.5e173,
+				"ConditionId": "beasttrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200886,9 +200886,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0347",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6e175,
-				"ConditionId": "exppotato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3700000000000000,
+				"ConditionId": "paladin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200900,9 +200900,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0348",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 132000000000000,
-				"ConditionId": "fowlbear"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 9.9e129,
+				"ConditionId": "signpost"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200914,9 +200914,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0349",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.25e125,
-				"ConditionId": "charactersheet"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1900000000000000,
+				"ConditionId": "beastbook"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200925,12 +200925,11 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0350",
-			"Rank": 1,
+			"Id": "M0350"
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 25000000000000,
-				"ConditionId": "outerplanes"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6e152,
+				"ConditionId": "exppotato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200942,9 +200941,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0351",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.34e197,
-				"ConditionId": "beasttrack"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 26400000000000000,
+				"ConditionId": "fowlbear"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200956,9 +200955,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0352",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 45000000000000,
-				"ConditionId": "paladin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.25e107,
+				"ConditionId": "charactersheet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200970,9 +200969,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0353",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.43e155,
-				"ConditionId": "signpost"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3750000000000000,
+				"ConditionId": "outerplanes"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200984,9 +200983,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0354",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 22000000000000,
-				"ConditionId": "beastbook"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.34e176,
+				"ConditionId": "beasttrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -200998,9 +200997,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0355",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.9e180,
-				"ConditionId": "exppotato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 9000000000000000,
+				"ConditionId": "paladin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201012,9 +201011,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0356",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 150000000000000,
-				"ConditionId": "fowlbear"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.43e131,
+				"ConditionId": "signpost"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201026,9 +201025,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0357",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.6e129,
-				"ConditionId": "charactersheet"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4400000000000000,
+				"ConditionId": "beastbook"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201040,9 +201039,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0358",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 29000000000000,
-				"ConditionId": "outerplanes"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.9e155,
+				"ConditionId": "exppotato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201054,9 +201053,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0359",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.9e203,
-				"ConditionId": "beasttrack"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 60000000000000000,
+				"ConditionId": "fowlbear"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201068,9 +201067,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0360",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 52000000000000,
-				"ConditionId": "paladin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.6e109,
+				"ConditionId": "charactersheet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201082,9 +201081,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0361",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.1e159,
-				"ConditionId": "signpost"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 11600000000000000,
+				"ConditionId": "outerplanes"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201096,9 +201095,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0362",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 25000000000000,
-				"ConditionId": "beastbook"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.9e179,
+				"ConditionId": "beasttrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201110,9 +201109,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0363",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.34e185,
-				"ConditionId": "exppotato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 26000000000000000,
+				"ConditionId": "paladin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201124,9 +201123,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0364",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 171000000000000,
-				"ConditionId": "fowlbear"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.1e135,
+				"ConditionId": "signpost"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201138,9 +201137,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0365",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.3e133,
-				"ConditionId": "charactersheet"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 12500000000000000,
+				"ConditionId": "beastbook"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201152,9 +201151,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0366",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 33000000000000,
-				"ConditionId": "outerplanes"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.34e158,
+				"ConditionId": "exppotato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201166,9 +201165,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0367",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.64e209,
-				"ConditionId": "beasttrack"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.71e17,
+				"ConditionId": "fowlbear"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201180,9 +201179,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0368",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 59000000000000,
-				"ConditionId": "paladin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.3e111,
+				"ConditionId": "charactersheet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201194,9 +201193,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0369",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.4e163,
-				"ConditionId": "signpost"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 33000000000000000,
+				"ConditionId": "outerplanes"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201208,9 +201207,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0370",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 28000000000000,
-				"ConditionId": "beastbook"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.64e183,
+				"ConditionId": "beasttrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201222,9 +201221,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0371",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.4e190,
-				"ConditionId": "exppotato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 59000000000000000,
+				"ConditionId": "paladin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201236,9 +201235,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0372",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 188000000000000,
-				"ConditionId": "fowlbear"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.4e136,
+				"ConditionId": "signpost"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201250,9 +201249,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0373",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.45e137,
-				"ConditionId": "charactersheet"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 28000000000000000,
+				"ConditionId": "beastbook"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201264,9 +201263,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0374",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 37000000000000,
-				"ConditionId": "outerplanes"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.4e161,
+				"ConditionId": "exppotato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201278,9 +201277,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0375",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.94e215,
-				"ConditionId": "beasttrack"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3.76e17,
+				"ConditionId": "fowlbear"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201292,9 +201291,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0376",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 66000000000000,
-				"ConditionId": "paladin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.45e113,
+				"ConditionId": "charactersheet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201306,9 +201305,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0377",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.88e167,
-				"ConditionId": "signpost"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 74000000000000000,
+				"ConditionId": "outerplanes"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201320,9 +201319,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0378",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 30000000000000,
-				"ConditionId": "beastbook"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.94e186,
+				"ConditionId": "beasttrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201334,9 +201333,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0379",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e195,
-				"ConditionId": "exppotato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.65e17,
+				"ConditionId": "paladin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201348,9 +201347,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0380",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 212000000000000,
-				"ConditionId": "fowlbear"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.88e139,
+				"ConditionId": "signpost"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201362,9 +201361,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0381",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.6e142,
-				"ConditionId": "charactersheet"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 75000000000000000,
+				"ConditionId": "beastbook"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201376,9 +201375,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0382",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 41000000000000,
-				"ConditionId": "outerplanes"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.2e164,
+				"ConditionId": "exppotato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201390,9 +201389,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0383",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.7e220,
-				"ConditionId": "beasttrack"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.06e18,
+				"ConditionId": "fowlbear"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201404,9 +201403,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0384",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 73000000000000,
-				"ConditionId": "paladin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6.6e115,
+				"ConditionId": "charactersheet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201418,9 +201417,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0385",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.3e171,
-				"ConditionId": "signpost"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2.87e17,
+				"ConditionId": "outerplanes"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201432,9 +201431,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0386",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 33000000000000,
-				"ConditionId": "beastbook"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.7e193,
+				"ConditionId": "beasttrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201446,9 +201445,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0387",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.6e200,
-				"ConditionId": "exppotato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2.92e18,
+				"ConditionId": "paladin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201460,9 +201459,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0388",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 235000000000000,
-				"ConditionId": "fowlbear"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.3e149,
+				"ConditionId": "signpost"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201474,9 +201473,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0389",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e147,
-				"ConditionId": "charactersheet"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.43e19,
+				"ConditionId": "beastbook"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201488,9 +201487,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0390",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 45000000000000,
-				"ConditionId": "outerplanes"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.6e184,
+				"ConditionId": "exppotato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201502,9 +201501,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0391",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.3e225,
-				"ConditionId": "beasttrack"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4.7e21,
+				"ConditionId": "fowlbear"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201516,9 +201515,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0392",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 80000000000000,
-				"ConditionId": "paladin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 7.5e137,
+				"ConditionId": "charactersheet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201530,9 +201529,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0393",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.4e175,
-				"ConditionId": "signpost"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 4.5e22,
+				"ConditionId": "outerplanes"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201544,9 +201543,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0394",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 36000000000000,
-				"ConditionId": "beastbook"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5.3e240,
+				"ConditionId": "beasttrack"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201558,9 +201557,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0395",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.6e205,
-				"ConditionId": "exppotato"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.2e25,
+				"ConditionId": "paladin"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201572,9 +201571,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0396",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 260000000000000,
-				"ConditionId": "fowlbear"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.4e194,
+				"ConditionId": "signpost"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201586,9 +201585,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0397",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.23e152,
-				"ConditionId": "charactersheet"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.8e27,
+				"ConditionId": "beastbook"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201600,9 +201599,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0398",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 50000000000000,
-				"ConditionId": "outerplanes"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4.6e246,
+				"ConditionId": "exppotato"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201614,9 +201613,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0399",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.6e231,
-				"ConditionId": "beasttrack"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 1.95e31,
+				"ConditionId": "fowlbear"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -201628,9 +201627,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0400",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 88000000000000,
-				"ConditionId": "paladin"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.23e190,
+				"ConditionId": "charactersheet"
 			},
 			"Reward": {
 				"Reward": "Gacha",
