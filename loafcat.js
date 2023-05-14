@@ -200925,7 +200925,7 @@ DATA["cockatrice-bal-10"] =
 			}
 		},
 		{
-			"Id": "M0350"
+			"Id": "M0350",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
