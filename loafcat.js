@@ -196048,7 +196048,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m02",
+				"RewardId": "sc_m01",
 				"Value": 1
 			}
 		},
@@ -196062,7 +196062,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m04",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196090,7 +196090,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m03",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196104,7 +196104,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m05",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196118,7 +196118,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m02",
 				"Value": 1
 			}
 		},
@@ -196126,9 +196126,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0007",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 20,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 250,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -196146,7 +196146,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m07",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196160,7 +196160,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m08",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196168,9 +196168,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0010",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 400,
-				"ConditionId": "darkscience"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 2,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -196188,7 +196188,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m06",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196216,7 +196216,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m03",
 				"Value": 1
 			}
 		},
@@ -196225,7 +196225,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 40,
+				"Threshold": 50,
 				"ConditionId": "any"
 			},
 			"Reward": {
@@ -196244,7 +196244,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m09",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196258,7 +196258,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m04",
 				"Value": 1
 			}
 		},
@@ -196300,7 +196300,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m10",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196322,9 +196322,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0021",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 75,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 500,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -196342,7 +196342,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m05",
 				"Value": 1
 			}
 		},
@@ -196384,7 +196384,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m11",
+				"RewardId": "sc_m06",
 				"Value": 1
 			}
 		},
@@ -196392,9 +196392,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0026",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 800,
-				"ConditionId": "darkscience"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -196454,7 +196454,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m12",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196482,7 +196482,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m07",
 				"Value": 1
 			}
 		},
@@ -196510,7 +196510,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m13",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196580,7 +196580,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m08",
 				"Value": 1
 			}
 		},
@@ -196594,7 +196594,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m14",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196602,9 +196602,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0041",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 150,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 750,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -196650,7 +196650,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m09",
 				"Value": 1
 			}
 		},
@@ -196664,7 +196664,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m15",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196672,9 +196672,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0046",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1500,
-				"ConditionId": "darkscience"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -196720,7 +196720,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m10",
 				"Value": 1
 			}
 		},
@@ -196804,7 +196804,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m11",
 				"Value": 1
 			}
 		},
@@ -196874,7 +196874,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m12",
 				"Value": 1
 			}
 		},
@@ -196882,9 +196882,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0061",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 250,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -196916,7 +196916,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m16",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196944,7 +196944,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m17",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -196952,9 +196952,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0066",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 2000,
-				"ConditionId": "darkscience"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -196972,7 +196972,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m13",
 				"Value": 1
 			}
 		},
@@ -197070,7 +197070,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m18",
+				"RewardId": "sc_m14",
 				"Value": 1
 			}
 		},
@@ -197140,7 +197140,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m15",
 				"Value": 1
 			}
 		},
@@ -197162,9 +197162,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0081",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 350,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1250,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -197182,7 +197182,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m19",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -197224,7 +197224,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m16",
 				"Value": 1
 			}
 		},
@@ -197232,9 +197232,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0086",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 2500,
-				"ConditionId": "darkscience"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -197294,7 +197294,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m20",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -197336,7 +197336,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m17",
 				"Value": 1
 			}
 		},
@@ -197420,7 +197420,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m18",
 				"Value": 1
 			}
 		},
@@ -197442,9 +197442,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0101",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 450,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1500,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -197512,9 +197512,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0106",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 3000,
-				"ConditionId": "darkscience"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -197602,7 +197602,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m22",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -197630,7 +197630,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m19",
 				"Value": 1
 			}
 		},
@@ -197722,9 +197722,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0121",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 550,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -197742,7 +197742,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m20",
 				"Value": 1
 			}
 		},
@@ -197792,9 +197792,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0126",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 3500,
-				"ConditionId": "darkscience"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -197812,7 +197812,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m23",
+				"RewardId": "sc_m21",
 				"Value": 1
 			}
 		},
@@ -197910,7 +197910,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m24",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -197952,7 +197952,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m22",
 				"Value": 1
 			}
 		},
@@ -198002,9 +198002,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0141",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 650,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2500,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -198022,7 +198022,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m25",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -198072,9 +198072,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0146",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 4000,
-				"ConditionId": "darkscience"
+				"ConditionType": "ResearchersUpgradedSinceSubscription",
+				"Threshold": 3,
+				"ConditionId": "any"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -198176,7 +198176,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m23",
 				"Value": 1
 			}
 		},
@@ -198246,7 +198246,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m26",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -198282,9 +198282,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0161",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 750,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -198400,7 +198400,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m24",
 				"Value": 1
 			}
 		},
@@ -198470,7 +198470,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m27",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -198512,7 +198512,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m25",
 				"Value": 1
 			}
 		},
@@ -198562,9 +198562,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0181",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 850,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3500,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -198842,9 +198842,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0201",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 950,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -199122,9 +199122,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0221",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4500,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -199402,9 +199402,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0241",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
