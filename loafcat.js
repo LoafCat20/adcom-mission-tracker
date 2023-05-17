@@ -183278,7 +183278,7 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "waterbottle",
-				"Qty": 2
+				"Qty": 4
 			},
 			"BaseCompletionTime": 2,
 			"Visible": [
@@ -183328,7 +183328,7 @@ DATA["hexathlon-bal-13"] =
 				"Resource": "sneaker",
 				"Qty": 5
 			},
-			"BaseCompletionTime": 6,
+			"BaseCompletionTime": 4,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -183374,9 +183374,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "gymclothes",
-				"Qty": 8
+				"Qty": 6
 			},
-			"BaseCompletionTime": 18,
+			"BaseCompletionTime": 8,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -183422,9 +183422,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "potatoshake",
-				"Qty": 11
+				"Qty": 7
 			},
-			"BaseCompletionTime": 54,
+			"BaseCompletionTime": 16,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -183470,9 +183470,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "gymbag",
-				"Qty": 14
+				"Qty": 8
 			},
-			"BaseCompletionTime": 162,
+			"BaseCompletionTime": 32,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -183518,9 +183518,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "weights",
-				"Qty": 17
+				"Qty": 9
 			},
-			"BaseCompletionTime": 486,
+			"BaseCompletionTime": 64,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -183566,9 +183566,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "punchingbag",
-				"Qty": 20
+				"Qty": 10
 			},
-			"BaseCompletionTime": 1458,
+			"BaseCompletionTime": 128,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -183610,7 +183610,7 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "sportsbib",
-				"Qty": 6
+				"Qty": 5
 			},
 			"BaseCompletionTime": 3,
 			"Visible": [
@@ -183658,9 +183658,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "sackraces",
-				"Qty": 21
+				"Qty": 10
 			},
-			"BaseCompletionTime": 12,
+			"BaseCompletionTime": 9,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -183706,9 +183706,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "spudbowling",
-				"Qty": 36
+				"Qty": 15
 			},
-			"BaseCompletionTime": 48,
+			"BaseCompletionTime": 27,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -183754,9 +183754,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "scarecrow",
-				"Qty": 51
+				"Qty": 20
 			},
-			"BaseCompletionTime": 192,
+			"BaseCompletionTime": 81,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -183802,9 +183802,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "taterball",
-				"Qty": 66
+				"Qty": 25
 			},
-			"BaseCompletionTime": 768,
+			"BaseCompletionTime": 243,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -183850,9 +183850,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "tilling",
-				"Qty": 81
+				"Qty": 30
 			},
-			"BaseCompletionTime": 3072,
+			"BaseCompletionTime": 729,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -183894,7 +183894,7 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "eventticket",
-				"Qty": 12
+				"Qty": 8
 			},
 			"BaseCompletionTime": 4,
 			"Visible": [
@@ -183942,9 +183942,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "farmfield",
-				"Qty": 64
+				"Qty": 21
 			},
-			"BaseCompletionTime": 24,
+			"BaseCompletionTime": 16,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -183990,9 +183990,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "gymnasium",
-				"Qty": 116
+				"Qty": 34
 			},
-			"BaseCompletionTime": 144,
+			"BaseCompletionTime": 64,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -184038,9 +184038,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "fitnessgym",
-				"Qty": 168
+				"Qty": 47
 			},
-			"BaseCompletionTime": 864,
+			"BaseCompletionTime": 256,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -184086,9 +184086,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "arena",
-				"Qty": 220
+				"Qty": 60
 			},
-			"BaseCompletionTime": 5184,
+			"BaseCompletionTime": 1024,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -184130,9 +184130,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "flag",
-				"Qty": 20
+				"Qty": 13
 			},
-			"BaseCompletionTime": 5,
+			"BaseCompletionTime": 6,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -184178,9 +184178,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "bouquet",
-				"Qty": 210
+				"Qty": 42
 			},
-			"BaseCompletionTime": 60,
+			"BaseCompletionTime": 36,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -184226,9 +184226,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "ribbon",
-				"Qty": 400
+				"Qty": 71
 			},
-			"BaseCompletionTime": 720,
+			"BaseCompletionTime": 216,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -184274,9 +184274,9 @@ DATA["hexathlon-bal-13"] =
 			],
 			"Generate": {
 				"Resource": "medal",
-				"Qty": 590
+				"Qty": 100
 			},
-			"BaseCompletionTime": 8640,
+			"BaseCompletionTime": 1296,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -205604,9 +205604,9 @@ DATA["cockatrice-bal-10"] =
 		{
 			"GachaId": "sc_m16",
 			"MimicGachaId": "plastic",
-			"Science": 202,
+			"Science": 292,
 			"Gold": 0,
-			"Trophy": 110,
+			"Trophy": 150,
 			"Card": [
 				{
 					"Id": "CAC011",
@@ -205614,14 +205614,18 @@ DATA["cockatrice-bal-10"] =
 				},
 				{
 					"Id": "CAC005",
-					"Value": 10
+					"Value": 17
 				},
 				{
 					"Id": "CAC015",
 					"Value": 13
 				},
 				{
-					"Id": "CAC029",
+					"Id": "CAC023",
+					"Value": 1
+				},
+				{
+					"Id": "CAC025",
 					"Value": 3
 				}
 			]
@@ -205629,63 +205633,71 @@ DATA["cockatrice-bal-10"] =
 		{
 			"GachaId": "sc_m17",
 			"MimicGachaId": "plastic",
-			"Science": 225,
+			"Science": 300,
 			"Gold": 0,
-			"Trophy": 120,
+			"Trophy": 160,
 			"Card": [
 				{
-					"Id": "CAC016",
-					"Value": 7
+					"Id": "CAC021",
+					"Value": 13
 				},
 				{
 					"Id": "CAC011",
-					"Value": 10
+					"Value": 11
 				},
 				{
 					"Id": "CAC005",
 					"Value": 14
 				},
 				{
-					"Id": "CAC030",
-					"Value": 3
+					"Id": "CAC029",
+					"Value": 2
+				},
+				{
+					"Id": "CAC028",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m18",
 			"MimicGachaId": "plastic",
-			"Science": 250,
+			"Science": 325,
 			"Gold": 0,
-			"Trophy": 140,
+			"Trophy": 170,
 			"Card": [
 				{
-					"Id": "CAC019",
-					"Value": 6
+					"Id": "CAC006",
+					"Value": 7
 				},
 				{
 					"Id": "CAC016",
-					"Value": 13
+					"Value": 15
 				},
 				{
 					"Id": "CAC011",
-					"Value": 17
+					"Value": 18
 				},
 				{
 					"Id": "CAC030",
-					"Value": 4
+					"Value": 3
+				},
+				{
+					"Id": "CAC031",
+					"Value": 1
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m19",
 			"MimicGachaId": "plastic",
-			"Science": 270,
+			"Science": 370,
 			"Gold": 0,
-			"Trophy": 150,
+			"Trophy": 190,
 			"Card": [
 				{
-					"Id": "CAC006",
-					"Value": 8
+					"Id": "CAC012",
+					"Value": 13
 				},
 				{
 					"Id": "CAC019",
@@ -205696,21 +205708,25 @@ DATA["cockatrice-bal-10"] =
 					"Value": 18
 				},
 				{
-					"Id": "CAC034",
-					"Value": 4
+					"Id": "CAC024",
+					"Value": 3
+				},
+				{
+					"Id": "CAC031",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m20",
 			"MimicGachaId": "plastic",
-			"Science": 292,
+			"Science": 392,
 			"Gold": 0,
-			"Trophy": 160,
+			"Trophy": 200,
 			"Card": [
 				{
-					"Id": "CAC012",
-					"Value": 7
+					"Id": "CAC017",
+					"Value": 12
 				},
 				{
 					"Id": "CAC006",
@@ -205721,21 +205737,25 @@ DATA["cockatrice-bal-10"] =
 					"Value": 22
 				},
 				{
-					"Id": "CAC034",
+					"Id": "CAC029",
 					"Value": 4
+				},
+				{
+					"Id": "CAC030",
+					"Value": 1
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m21",
 			"MimicGachaId": "plastic",
-			"Science": 303,
+			"Science": 403,
 			"Gold": 0,
-			"Trophy": 170,
+			"Trophy": 220,
 			"Card": [
 				{
 					"Id": "CAC020",
-					"Value": 8
+					"Value": 13
 				},
 				{
 					"Id": "CAC012",
@@ -205746,24 +205766,28 @@ DATA["cockatrice-bal-10"] =
 					"Value": 18
 				},
 				{
-					"Id": "CAC032",
-					"Value": 5
+					"Id": "CAC034",
+					"Value": 2
+				},
+				{
+					"Id": "CAC025",
+					"Value": 3
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m22",
 			"MimicGachaId": "plastic",
-			"Science": 333,
+			"Science": 433,
 			"Gold": 0,
-			"Trophy": 190,
+			"Trophy": 240,
 			"Card": [
 				{
 					"Id": "CAC017",
-					"Value": 5
+					"Value": 8
 				},
 				{
-					"Id": "CAC020",
+					"Id": "CAC022",
 					"Value": 16
 				},
 				{
@@ -205771,46 +205795,54 @@ DATA["cockatrice-bal-10"] =
 					"Value": 23
 				},
 				{
-					"Id": "CAC033",
-					"Value": 5
+					"Id": "CAC026",
+					"Value": 1
+				},
+				{
+					"Id": "CAC034",
+					"Value": 4
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m23",
 			"MimicGachaId": "plastic",
-			"Science": 360,
+			"Science": 460,
 			"Gold": 0,
-			"Trophy": 220,
+			"Trophy": 280,
 			"Card": [
 				{
 					"Id": "CAC007",
-					"Value": 8
+					"Value": 10
 				},
 				{
 					"Id": "CAC017",
-					"Value": 16
+					"Value": 17
 				},
 				{
 					"Id": "CAC020",
-					"Value": 21
+					"Value": 22
+				},
+				{
+					"Id": "CAC024",
+					"Value": 3
 				},
 				{
 					"Id": "CAC033",
-					"Value": 6
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m24",
 			"MimicGachaId": "plastic",
-			"Science": 384,
+			"Science": 484,
 			"Gold": 0,
-			"Trophy": 240,
+			"Trophy": 350,
 			"Card": [
 				{
-					"Id": "CAC021",
-					"Value": 9
+					"Id": "CAC013",
+					"Value": 13
 				},
 				{
 					"Id": "CAC007",
@@ -205822,32 +205854,40 @@ DATA["cockatrice-bal-10"] =
 				},
 				{
 					"Id": "CAC031",
-					"Value": 6
+					"Value": 1
+				},
+				{
+					"Id": "CAC033",
+					"Value": 5
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m25",
 			"MimicGachaId": "plastic",
-			"Science": 404,
+			"Science": 504,
 			"Gold": 0,
-			"Trophy": 260,
+			"Trophy": 400,
 			"Card": [
 				{
 					"Id": "CAC013",
-					"Value": 10
+					"Value": 11
 				},
 				{
 					"Id": "CAC021",
-					"Value": 16
+					"Value": 17
 				},
 				{
-					"Id": "CAC007",
-					"Value": 22
+					"Id": "CAC018",
+					"Value": 23
 				},
 				{
 					"Id": "CAC031",
-					"Value": 6
+					"Value": 3
+				},
+				{
+					"Id": "CAC032",
+					"Value": 3
 				}
 			]
 		},
