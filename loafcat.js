@@ -187499,7 +187499,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.1e85,
+				"Threshold": 9.3e85,
 				"ConditionId": "ghost"
 			},
 			"Reward": {
@@ -187541,7 +187541,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.64e100,
+				"Threshold": 4.1e99,
 				"ConditionId": "broom"
 			},
 			"Reward": {
@@ -187639,7 +187639,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.4e87,
+				"Threshold": 1.4e88,
 				"ConditionId": "ghost"
 			},
 			"Reward": {
@@ -187961,7 +187961,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.6e105,
+				"Threshold": 6.6e104,
 				"ConditionId": "broom"
 			},
 			"Reward": {
@@ -188101,7 +188101,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.44e107,
+				"Threshold": 4.44e106,
 				"ConditionId": "broom"
 			},
 			"Reward": {
@@ -188507,7 +188507,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e113,
+				"Threshold": 1.3e112,
 				"ConditionId": "broom"
 			},
 			"Reward": {
@@ -188759,7 +188759,7 @@ DATA["spooky-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.56e116,
+				"Threshold": 6.56e115,
 				"ConditionId": "broom"
 			},
 			"Reward": {
@@ -198815,7 +198815,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9e78,
+				"Threshold": 3e78,
 				"ConditionId": "charactersheet"
 			},
 			"Reward": {
@@ -198857,7 +198857,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.3e130,
+				"Threshold": 2.3e130,
 				"ConditionId": "beasttrack"
 			},
 			"Reward": {
@@ -198955,7 +198955,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.5e80,
+				"Threshold": 5.5e79,
 				"ConditionId": "charactersheet"
 			},
 			"Reward": {
@@ -198997,7 +198997,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.6e133,
+				"Threshold": 3.6e132,
 				"ConditionId": "beasttrack"
 			},
 			"Reward": {
@@ -199095,7 +199095,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.6e82,
+				"Threshold": 1.6e81,
 				"ConditionId": "charactersheet"
 			},
 			"Reward": {
@@ -199235,7 +199235,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.9e83,
+				"Threshold": 3.9e82,
 				"ConditionId": "charactersheet"
 			},
 			"Reward": {
@@ -199781,7 +199781,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e89,
+				"Threshold": 7.5e88,
 				"ConditionId": "charactersheet"
 			},
 			"Reward": {

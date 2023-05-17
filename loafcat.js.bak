@@ -198815,7 +198815,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9e78,
+				"Threshold": 3e78,
 				"ConditionId": "charactersheet"
 			},
 			"Reward": {
@@ -198857,7 +198857,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.3e130,
+				"Threshold": 2.3e130,
 				"ConditionId": "beasttrack"
 			},
 			"Reward": {
@@ -198955,7 +198955,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.5e80,
+				"Threshold": 5.5e79,
 				"ConditionId": "charactersheet"
 			},
 			"Reward": {
@@ -198997,7 +198997,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.6e133,
+				"Threshold": 3.6e132,
 				"ConditionId": "beasttrack"
 			},
 			"Reward": {
@@ -199095,7 +199095,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.6e82,
+				"Threshold": 1.6e81,
 				"ConditionId": "charactersheet"
 			},
 			"Reward": {
@@ -199122,9 +199122,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0221",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 4500,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -199235,7 +199235,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.9e83,
+				"Threshold": 3.9e82,
 				"ConditionId": "charactersheet"
 			},
 			"Reward": {
@@ -199402,9 +199402,9 @@ DATA["cockatrice-bal-10"] =
 			"Id": "M0241",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5000,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -199781,7 +199781,7 @@ DATA["cockatrice-bal-10"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e89,
+				"Threshold": 7.5e88,
 				"ConditionId": "charactersheet"
 			},
 			"Reward": {
