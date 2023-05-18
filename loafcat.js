@@ -183295,13 +183295,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 2
+				"Value": 1
 			}
 		},
 		{
@@ -183317,7 +183317,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "waterbottle",
-					"Qty": "1.0E+04"
+					"Qty": "1.0E+05"
 				},
 				{
 					"Resource": "Comrade",
@@ -183343,13 +183343,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 2
 			}
 		},
 		{
@@ -183391,13 +183391,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 3
 			}
 		},
 		{
@@ -183413,7 +183413,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "waterbottle",
-					"Qty": 9.999999999999999e22
+					"Qty": 9.999999999999999e21
 				},
 				{
 					"Resource": "Comrade",
@@ -183439,13 +183439,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 8
+				"Value": 4
 			}
 		},
 		{
@@ -183461,7 +183461,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "waterbottle",
-					"Qty": "1.0E+41"
+					"Qty": "1.0E+35"
 				},
 				{
 					"Resource": "Comrade",
@@ -183487,13 +183487,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 10
+				"Value": 5
 			}
 		},
 		{
@@ -183509,7 +183509,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "waterbottle",
-					"Qty": "1.0E+58"
+					"Qty": "1.0E+51"
 				},
 				{
 					"Resource": "Comrade",
@@ -183535,13 +183535,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 12
+				"Value": 6
 			}
 		},
 		{
@@ -183557,7 +183557,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "waterbottle",
-					"Qty": "1.0E+88"
+					"Qty": "1.0E+70"
 				},
 				{
 					"Resource": "Comrade",
@@ -183583,13 +183583,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 14
+				"Value": 7
 			}
 		},
 		{
@@ -183601,7 +183601,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "sportsbib",
-					"Qty": "2.5E+01"
+					"Qty": "1.0E+02"
 				},
 				{
 					"Resource": "Comrade",
@@ -183627,7 +183627,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
@@ -183675,13 +183675,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 3
 			}
 		},
 		{
@@ -183697,7 +183697,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+22"
+					"Qty": "1.0E+20"
 				},
 				{
 					"Resource": "Comrade",
@@ -183723,13 +183723,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 4
 			}
 		},
 		{
@@ -183745,7 +183745,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+41"
+					"Qty": "1.0E+35"
 				},
 				{
 					"Resource": "Comrade",
@@ -183771,13 +183771,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 8
+				"Value": 5
 			}
 		},
 		{
@@ -183793,7 +183793,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+58"
+					"Qty": "1.0E+54"
 				},
 				{
 					"Resource": "Comrade",
@@ -183819,13 +183819,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 10
+				"Value": 6
 			}
 		},
 		{
@@ -183841,7 +183841,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+88"
+					"Qty": "1.0E+77"
 				},
 				{
 					"Resource": "Comrade",
@@ -183867,13 +183867,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 12
+				"Value": 7
 			}
 		},
 		{
@@ -183885,7 +183885,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "eventticket",
-					"Qty": "5.0E+01"
+					"Qty": "1.0E+03"
 				},
 				{
 					"Resource": "Comrade",
@@ -183911,13 +183911,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 2
+				"Value": 3
 			}
 		},
 		{
@@ -183959,7 +183959,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
@@ -184007,13 +184007,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 5
 			}
 		},
 		{
@@ -184029,7 +184029,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "eventticket",
-					"Qty": 1e54
+					"Qty": 1e48
 				},
 				{
 					"Resource": "Comrade",
@@ -184055,13 +184055,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 8
+				"Value": 6
 			}
 		},
 		{
@@ -184077,7 +184077,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "eventticket",
-					"Qty": 1e78
+					"Qty": 1e73
 				},
 				{
 					"Resource": "Comrade",
@@ -184103,13 +184103,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 10
+				"Value": 7
 			}
 		},
 		{
@@ -184147,13 +184147,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 2
+				"Value": 4
 			}
 		},
 		{
@@ -184169,7 +184169,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "flag",
-					"Qty": 10000000000000000000.0
+					"Qty": 100000000000000000
 				},
 				{
 					"Resource": "Comrade",
@@ -184195,13 +184195,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 5
 			}
 		},
 		{
@@ -184217,7 +184217,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "flag",
-					"Qty": 1e40
+					"Qty": 1e36
 				},
 				{
 					"Resource": "Comrade",
@@ -184243,7 +184243,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
@@ -184265,7 +184265,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "flag",
-					"Qty": 1e64
+					"Qty": 1e61
 				},
 				{
 					"Resource": "Comrade",
@@ -184291,13 +184291,13 @@ DATA["hexathlon-bal-13"] =
 			},
 			"IncludeInAll": true,
 			"Crit": {
-				"ChancePercent": 2,
+				"ChancePercent": 4,
 				"Multiplier": 64
 			},
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 8
+				"Value": 7
 			}
 		}
 	],
@@ -191126,9 +191126,9 @@ DATA["hexathlon-bal-13"] =
 			"TargetIds": [
 				"sporttraining"
 			],
-			"ExpoMultiplier": 0,
-			"ExpoGrowth": 0,
-			"UpgradePower": 0.02,
+			"ExpoMultiplier": 0.0075,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteRare",
@@ -191160,9 +191160,9 @@ DATA["hexathlon-bal-13"] =
 			"TargetIds": [
 				"venue"
 			],
-			"ExpoMultiplier": 0,
-			"ExpoGrowth": 0,
-			"UpgradePower": 0.02,
+			"ExpoMultiplier": 0.0075,
+			"ExpoGrowth": 2,
+			"UpgradePower": 0,
 			"CurveModifier": 0,
 			"BasePower": 0,
 			"Rarity": "LteRare",
@@ -192938,7 +192938,7 @@ DATA["hexathlon-bal-13"] =
 		{
 			"Resource": "waterbottle",
 			"CostExponent": 1000,
-			"CostMultiplier": 500,
+			"CostMultiplier": 5000,
 			"ComradeMultiplier": 0,
 			"ComradeAdd": 3,
 			"MaxLevel": 99
@@ -192946,7 +192946,7 @@ DATA["hexathlon-bal-13"] =
 		{
 			"Resource": "sportsbib",
 			"CostExponent": 1000,
-			"CostMultiplier": 500,
+			"CostMultiplier": 5000,
 			"ComradeMultiplier": 0,
 			"ComradeAdd": 4,
 			"MaxLevel": 99
@@ -192954,7 +192954,7 @@ DATA["hexathlon-bal-13"] =
 		{
 			"Resource": "eventticket",
 			"CostExponent": 1000,
-			"CostMultiplier": 500,
+			"CostMultiplier": 5000,
 			"ComradeMultiplier": 0,
 			"ComradeAdd": 5,
 			"MaxLevel": 99
@@ -192962,7 +192962,7 @@ DATA["hexathlon-bal-13"] =
 		{
 			"Resource": "flag",
 			"CostExponent": 1000,
-			"CostMultiplier": 500,
+			"CostMultiplier": 5000,
 			"ComradeMultiplier": 0,
 			"ComradeAdd": 6,
 			"MaxLevel": 99
@@ -205337,7 +205337,7 @@ DATA["cockatrice-bal-10"] =
 		{
 			"GachaId": "sc_m01",
 			"MimicGachaId": "plastic",
-			"Science": 48,
+			"Science": 73,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -205350,33 +205350,7 @@ DATA["cockatrice-bal-10"] =
 		{
 			"GachaId": "sc_m02",
 			"MimicGachaId": "plastic",
-			"Science": 47,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "CAC002",
-					"Value": 4
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m03",
-			"MimicGachaId": "plastic",
-			"Science": 62,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "CAC001",
-					"Value": 6
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m04",
-			"MimicGachaId": "plastic",
-			"Science": 53,
+			"Science": 72,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
@@ -205385,7 +205359,45 @@ DATA["cockatrice-bal-10"] =
 					"Value": 3
 				},
 				{
-					"Id": "CAC023",
+					"Id": "CAC024",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m03",
+			"MimicGachaId": "plastic",
+			"Science": 92,
+			"Gold": 0,
+			"Trophy": 20,
+			"Card": [
+				{
+					"Id": "CAC008",
+					"Value": 7
+				},
+				{
+					"Id": "CAC026",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m04",
+			"MimicGachaId": "plastic",
+			"Science": 103,
+			"Gold": 0,
+			"Trophy": 30,
+			"Card": [
+				{
+					"Id": "CAC003",
+					"Value": 6
+				},
+				{
+					"Id": "CAC008",
+					"Value": 3
+				},
+				{
+					"Id": "CAC027",
 					"Value": 1
 				}
 			]
@@ -205393,13 +205405,17 @@ DATA["cockatrice-bal-10"] =
 		{
 			"GachaId": "sc_m05",
 			"MimicGachaId": "plastic",
-			"Science": 59,
+			"Science": 109,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 40,
 			"Card": [
 				{
-					"Id": "CAC002",
+					"Id": "CAC009",
 					"Value": 5
+				},
+				{
+					"Id": "CAC002",
+					"Value": 7
 				},
 				{
 					"Id": "CAC024",
@@ -205410,118 +205426,33 @@ DATA["cockatrice-bal-10"] =
 		{
 			"GachaId": "sc_m06",
 			"MimicGachaId": "plastic",
-			"Science": 64,
+			"Science": 114,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 50,
 			"Card": [
 				{
-					"Id": "CAC001",
+					"Id": "CAC014",
 					"Value": 6
+				},
+				{
+					"Id": "CAC003",
+					"Value": 8
+				},
+				{
+					"Id": "CAC023",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m07",
 			"MimicGachaId": "plastic",
-			"Science": 79,
-			"Gold": 0,
-			"Trophy": 20,
-			"Card": [
-				{
-					"Id": "CAC008",
-					"Value": 7
-				},
-				{
-					"Id": "CAC026",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m08",
-			"MimicGachaId": "plastic",
-			"Science": 82,
-			"Gold": 0,
-			"Trophy": 20,
-			"Card": [
-				{
-					"Id": "CAC008",
-					"Value": 8
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m09",
-			"MimicGachaId": "plastic",
-			"Science": 88,
-			"Gold": 0,
-			"Trophy": 30,
-			"Card": [
-				{
-					"Id": "CAC003",
-					"Value": 3
-				},
-				{
-					"Id": "CAC008",
-					"Value": 6
-				},
-				{
-					"Id": "CAC027",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m10",
-			"MimicGachaId": "plastic",
-			"Science": 97,
-			"Gold": 0,
-			"Trophy": 40,
-			"Card": [
-				{
-					"Id": "CAC009",
-					"Value": 4
-				},
-				{
-					"Id": "CAC003",
-					"Value": 7
-				},
-				{
-					"Id": "CAC026",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m11",
-			"MimicGachaId": "plastic",
-			"Science": 115,
-			"Gold": 0,
-			"Trophy": 50,
-			"Card": [
-				{
-					"Id": "CAC004",
-					"Value": 3
-				},
-				{
-					"Id": "CAC009",
-					"Value": 11
-				},
-				{
-					"Id": "CAC027",
-					"Value": 1
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m12",
-			"MimicGachaId": "plastic",
-			"Science": 130,
+			"Science": 129,
 			"Gold": 0,
 			"Trophy": 60,
 			"Card": [
 				{
-					"Id": "CAC014",
+					"Id": "CAC008",
 					"Value": 7
 				},
 				{
@@ -205529,17 +205460,134 @@ DATA["cockatrice-bal-10"] =
 					"Value": 10
 				},
 				{
-					"Id": "CAC025",
+					"Id": "CAC028",
 					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m08",
+			"MimicGachaId": "plastic",
+			"Science": 142,
+			"Gold": 0,
+			"Trophy": 70,
+			"Card": [
+				{
+					"Id": "CAC010",
+					"Value": 10
+				},
+				{
+					"Id": "CAC004",
+					"Value": 10
+				},
+				{
+					"Id": "CAC030",
+					"Value": 2
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m09",
+			"MimicGachaId": "plastic",
+			"Science": 158,
+			"Gold": 0,
+			"Trophy": 80,
+			"Card": [
+				{
+					"Id": "CAC003",
+					"Value": 7
+				},
+				{
+					"Id": "CAC015",
+					"Value": 15
+				},
+				{
+					"Id": "CAC029",
+					"Value": 3
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m10",
+			"MimicGachaId": "plastic",
+			"Science": 177,
+			"Gold": 0,
+			"Trophy": 90,
+			"Card": [
+				{
+					"Id": "CAC019",
+					"Value": 8
+				},
+				{
+					"Id": "CAC002",
+					"Value": 14
+				},
+				{
+					"Id": "CAC015",
+					"Value": 3
+				},
+				{
+					"Id": "CAC026",
+					"Value": 3
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m11",
+			"MimicGachaId": "plastic",
+			"Science": 195,
+			"Gold": 0,
+			"Trophy": 100,
+			"Card": [
+				{
+					"Id": "CAC004",
+					"Value": 6
+				},
+				{
+					"Id": "CAC009",
+					"Value": 11
+				},
+				{
+					"Id": "CAC019",
+					"Value": 10
+				},
+				{
+					"Id": "CAC031",
+					"Value": 3
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m12",
+			"MimicGachaId": "plastic",
+			"Science": 220,
+			"Gold": 0,
+			"Trophy": 110,
+			"Card": [
+				{
+					"Id": "CAC014",
+					"Value": 7
+				},
+				{
+					"Id": "CAC005",
+					"Value": 10
+				},
+				{
+					"Id": "CAC009",
+					"Value": 12
+				},
+				{
+					"Id": "CAC033",
+					"Value": 3
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m13",
 			"MimicGachaId": "plastic",
-			"Science": 144,
+			"Science": 234,
 			"Gold": 0,
-			"Trophy": 70,
+			"Trophy": 120,
 			"Card": [
 				{
 					"Id": "CAC010",
@@ -205550,28 +205598,40 @@ DATA["cockatrice-bal-10"] =
 					"Value": 12
 				},
 				{
-					"Id": "CAC025",
-					"Value": 2
+					"Id": "CAC020",
+					"Value": 11
+				},
+				{
+					"Id": "CAC028",
+					"Value": 3
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m14",
 			"MimicGachaId": "plastic",
-			"Science": 167,
+			"Science": 257,
 			"Gold": 0,
-			"Trophy": 80,
+			"Trophy": 130,
 			"Card": [
 				{
 					"Id": "CAC015",
 					"Value": 9
 				},
 				{
-					"Id": "CAC010",
+					"Id": "CAC011",
 					"Value": 13
 				},
 				{
+					"Id": "CAC005",
+					"Value": 10
+				},
+				{
 					"Id": "CAC024",
+					"Value": 2
+				},
+				{
+					"Id": "CAC031",
 					"Value": 2
 				}
 			]
@@ -205579,25 +205639,29 @@ DATA["cockatrice-bal-10"] =
 		{
 			"GachaId": "sc_m15",
 			"MimicGachaId": "plastic",
-			"Science": 175,
+			"Science": 275,
 			"Gold": 0,
-			"Trophy": 90,
+			"Trophy": 140,
 			"Card": [
 				{
 					"Id": "CAC005",
-					"Value": 4
+					"Value": 7
 				},
 				{
-					"Id": "CAC015",
-					"Value": 8
+					"Id": "CAC016",
+					"Value": 11
 				},
 				{
 					"Id": "CAC010",
-					"Value": 12
+					"Value": 16
 				},
 				{
-					"Id": "CAC028",
-					"Value": 3
+					"Id": "CAC030",
+					"Value": 2
+				},
+				{
+					"Id": "CAC032",
+					"Value": 2
 				}
 			]
 		},
@@ -207267,7 +207331,7 @@ DATA["cockatrice-bal-10"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m01",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -214665,12 +214729,12 @@ DATA["cockatrice-bal-10"] =
 				{
 					"Reward": "Researcher",
 					"Value": 30,
-					"RewardId": "CAC025"
+					"RewardId": "CAC028"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 200,
-					"RewardId": "CAC014"
+					"RewardId": "CAC004"
 				},
 				{
 					"Reward": "Resources",
@@ -214695,12 +214759,12 @@ DATA["cockatrice-bal-10"] =
 				{
 					"Reward": "Researcher",
 					"Value": 50,
-					"RewardId": "CAC028"
+					"RewardId": "CAC029"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 300,
-					"RewardId": "CAC005"
+					"RewardId": "CAC019"
 				},
 				{
 					"Reward": "Resources",
@@ -214725,12 +214789,12 @@ DATA["cockatrice-bal-10"] =
 				{
 					"Reward": "Researcher",
 					"Value": 75,
-					"RewardId": "CAC030"
+					"RewardId": "CAC031"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 400,
-					"RewardId": "CAC016"
+					"RewardId": "CAC020"
 				},
 				{
 					"Reward": "Resources",
@@ -214760,12 +214824,12 @@ DATA["cockatrice-bal-10"] =
 				{
 					"Reward": "Researcher",
 					"Value": 100,
-					"RewardId": "CAC034"
+					"RewardId": "CAC025"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 500,
-					"RewardId": "CAC006"
+					"RewardId": "CAC016"
 				},
 				{
 					"Reward": "Resources",
@@ -214795,7 +214859,7 @@ DATA["cockatrice-bal-10"] =
 				{
 					"Reward": "Researcher",
 					"Value": 600,
-					"RewardId": "CAC017"
+					"RewardId": "CAC012"
 				},
 				{
 					"Reward": "Resources",
@@ -214825,12 +214889,12 @@ DATA["cockatrice-bal-10"] =
 				{
 					"Reward": "Researcher",
 					"Value": 150,
-					"RewardId": "CAC031"
+					"RewardId": "CAC034"
 				},
 				{
 					"Reward": "Researcher",
 					"Value": 700,
-					"RewardId": "CAC021"
+					"RewardId": "CAC022"
 				},
 				{
 					"Reward": "Resources",
@@ -214865,7 +214929,7 @@ DATA["cockatrice-bal-10"] =
 				{
 					"Reward": "Researcher",
 					"Value": 800,
-					"RewardId": "CAC018"
+					"RewardId": "CAC007"
 				},
 				{
 					"Reward": "Resources",
@@ -214895,7 +214959,7 @@ DATA["cockatrice-bal-10"] =
 				{
 					"Reward": "Researcher",
 					"Value": 900,
-					"RewardId": "CAC022"
+					"RewardId": "CAC018"
 				},
 				{
 					"Reward": "Resources",
