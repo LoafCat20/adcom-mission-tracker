@@ -183339,7 +183339,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "sneaker",
-				"Threshold": 1500
+				"Threshold": 15000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -183387,7 +183387,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "gymclothes",
-				"Threshold": 25000
+				"Threshold": 600000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -183435,7 +183435,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "potatoshake",
-				"Threshold": 2200000
+				"Threshold": 17500000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -183483,7 +183483,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "gymbag",
-				"Threshold": 20000000
+				"Threshold": 300000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -183531,7 +183531,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "weights",
-				"Threshold": 200000000
+				"Threshold": 4000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -183579,7 +183579,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "punchingbag",
-				"Threshold": 20000000000
+				"Threshold": 30000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -183649,7 +183649,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+09"
+					"Qty": "1.0E+10"
 				},
 				{
 					"Resource": "Comrade",
@@ -183671,7 +183671,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "sackraces",
-				"Threshold": 150000
+				"Threshold": 600000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -183693,11 +183693,11 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "spudbowling",
-					"Qty": 10000
+					"Qty": 100000
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+20"
+					"Qty": "1.0E+21"
 				},
 				{
 					"Resource": "Comrade",
@@ -183719,7 +183719,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "spudbowling",
-				"Threshold": 7500000
+				"Threshold": 17500000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -183741,7 +183741,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "scarecrow",
-					"Qty": "1.0E+06"
+					"Qty": "1.0E+09"
 				},
 				{
 					"Resource": "sportsbib",
@@ -183767,7 +183767,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "scarecrow",
-				"Threshold": 35000000
+				"Threshold": 300000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -183789,11 +183789,11 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "taterball",
-					"Qty": "1.0E+08"
+					"Qty": "1.0E+12"
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+54"
+					"Qty": "1.0E+52"
 				},
 				{
 					"Resource": "Comrade",
@@ -183815,7 +183815,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "taterball",
-				"Threshold": 500000000
+				"Threshold": 4000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -183837,11 +183837,11 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "tilling",
-					"Qty": "1.0E+09"
+					"Qty": "1.0E+15"
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+77"
+					"Qty": "1.0E+72"
 				},
 				{
 					"Resource": "Comrade",
@@ -183863,7 +183863,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "tilling",
-				"Threshold": 10000000000
+				"Threshold": 30000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -183933,7 +183933,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "eventticket",
-					"Qty": "1.0E+13"
+					"Qty": "1.0E+15"
 				},
 				{
 					"Resource": "Comrade",
@@ -183981,7 +183981,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "eventticket",
-					"Qty": 1e28
+					"Qty": 1e30
 				},
 				{
 					"Resource": "Comrade",
@@ -184003,7 +184003,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "gymnasium",
-				"Threshold": 30000000
+				"Threshold": 90000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -184025,7 +184025,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "fitnessgym",
-					"Qty": 1000000000
+					"Qty": 100000000
 				},
 				{
 					"Resource": "eventticket",
@@ -184051,7 +184051,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "fitnessgym",
-				"Threshold": 3000000000
+				"Threshold": 1200000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -184077,7 +184077,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "eventticket",
-					"Qty": 1e73
+					"Qty": 1e69
 				},
 				{
 					"Resource": "Comrade",
@@ -184165,11 +184165,11 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "bouquet",
-					"Qty": 10000000
+					"Qty": 100000000
 				},
 				{
 					"Resource": "flag",
-					"Qty": 100000000000000000
+					"Qty": 1e20
 				},
 				{
 					"Resource": "Comrade",
@@ -184191,7 +184191,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "bouquet",
-				"Threshold": 600000000
+				"Threshold": 150000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -184213,11 +184213,11 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "ribbon",
-					"Qty": 100000000
+					"Qty": 1000000000000
 				},
 				{
 					"Resource": "flag",
-					"Qty": 1e36
+					"Qty": 1e39
 				},
 				{
 					"Resource": "Comrade",
@@ -184239,7 +184239,7 @@ DATA["hexathlon-bal-13"] =
 			"Unlock": {
 				"ConditionType": "ResourceQuantity",
 				"ConditionId": "ribbon",
-				"Threshold": 5000000000
+				"Threshold": 2000000000
 			},
 			"IncludeInAll": true,
 			"Crit": {
@@ -184261,7 +184261,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "medal",
-					"Qty": 10000000000
+					"Qty": 1e15
 				},
 				{
 					"Resource": "flag",
