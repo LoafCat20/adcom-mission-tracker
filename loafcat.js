@@ -183649,7 +183649,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+10"
+					"Qty": "1.0E+9"
 				},
 				{
 					"Resource": "Comrade",
@@ -183697,7 +183697,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+21"
+					"Qty": "1.0E+19"
 				},
 				{
 					"Resource": "Comrade",
@@ -183745,7 +183745,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+35"
+					"Qty": "1.0E+32"
 				},
 				{
 					"Resource": "Comrade",
@@ -183793,7 +183793,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+52"
+					"Qty": "1.0E+48"
 				},
 				{
 					"Resource": "Comrade",
@@ -183841,7 +183841,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+72"
+					"Qty": "1.0E+67"
 				},
 				{
 					"Resource": "Comrade",
@@ -183933,7 +183933,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "eventticket",
-					"Qty": "1.0E+15"
+					"Qty": "1.0E+13"
 				},
 				{
 					"Resource": "Comrade",
@@ -183981,7 +183981,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "eventticket",
-					"Qty": 1e30
+					"Qty": 1e26
 				},
 				{
 					"Resource": "Comrade",
@@ -184029,7 +184029,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "eventticket",
-					"Qty": 1e48
+					"Qty": 1e42
 				},
 				{
 					"Resource": "Comrade",
@@ -184077,7 +184077,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "eventticket",
-					"Qty": 1e69
+					"Qty": 1e61
 				},
 				{
 					"Resource": "Comrade",
@@ -184132,7 +184132,7 @@ DATA["hexathlon-bal-13"] =
 				"Resource": "flag",
 				"Qty": 13
 			},
-			"BaseCompletionTime": 6,
+			"BaseCompletionTime": 5,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -184169,7 +184169,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "flag",
-					"Qty": 1e20
+					"Qty": 1e17
 				},
 				{
 					"Resource": "Comrade",
@@ -184180,7 +184180,7 @@ DATA["hexathlon-bal-13"] =
 				"Resource": "bouquet",
 				"Qty": 42
 			},
-			"BaseCompletionTime": 36,
+			"BaseCompletionTime": 25,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -184217,7 +184217,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "flag",
-					"Qty": 1e39
+					"Qty": 1e33
 				},
 				{
 					"Resource": "Comrade",
@@ -184228,7 +184228,7 @@ DATA["hexathlon-bal-13"] =
 				"Resource": "ribbon",
 				"Qty": 71
 			},
-			"BaseCompletionTime": 216,
+			"BaseCompletionTime": 125,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -184265,7 +184265,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "flag",
-					"Qty": 1e61
+					"Qty": 1e52
 				},
 				{
 					"Resource": "Comrade",
@@ -184276,7 +184276,7 @@ DATA["hexathlon-bal-13"] =
 				"Resource": "medal",
 				"Qty": 100
 			},
-			"BaseCompletionTime": 1296,
+			"BaseCompletionTime": 625,
 			"Visible": [
 				{
 					"ConditionType": "ResourceQuantity",
@@ -186915,7 +186915,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.6e123,
+				"Threshold": 3.6e100,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -186929,7 +186929,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.55e90,
+				"Threshold": 9.55e80,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -186957,7 +186957,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.2e106,
+				"Threshold": 9.2e89,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -186985,7 +186985,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.88e60,
+				"Threshold": 5.88e56,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -187069,7 +187069,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.8e96,
+				"Threshold": 1.8e86,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -187097,7 +187097,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.2e111,
+				"Threshold": 1.2e96,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -187125,7 +187125,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e130,
+				"Threshold": 5.2e106,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -187167,7 +187167,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.11e69,
+				"Threshold": 8.11e60,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -190080,7 +190080,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "2",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "4",
+			"Missions": "3",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 0.6,
@@ -190110,7 +190110,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "4",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "5",
+			"Missions": "4",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 1,
@@ -190140,7 +190140,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "6",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "6",
+			"Missions": "5",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 1.5,
@@ -190155,7 +190155,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "7",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "7",
+			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 1.9,
@@ -190170,7 +190170,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "8",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "8",
+			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 2.2,
@@ -190200,7 +190200,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "10",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "5",
+			"Missions": "4",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 2.7,
@@ -190215,7 +190215,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "11",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "8",
+			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 3,
@@ -190245,7 +190245,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "13",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "8",
+			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 3.4,
@@ -190260,7 +190260,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "14",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "7",
+			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 3.6,
@@ -190275,7 +190275,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "15",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "7",
+			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 3.8,
@@ -190290,7 +190290,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "16",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "6",
+			"Missions": "5",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 4,
@@ -190305,7 +190305,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "17",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "9",
+			"Missions": "8",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 4.2,
@@ -190320,7 +190320,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "18",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "7",
+			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 4.4,
@@ -190335,7 +190335,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "19",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "9",
+			"Missions": "8",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 4.6,
@@ -190350,7 +190350,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "20",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "8",
+			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": "4.8",
@@ -190365,7 +190365,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "21",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "8",
+			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": "4.9",
@@ -190380,7 +190380,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 22,
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "7",
+			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 5,
@@ -190395,7 +190395,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 23,
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "10",
+			"Missions": "9",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 5.1,
@@ -190410,7 +190410,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 24,
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "7",
+			"Missions": "6",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 5.2,
@@ -190425,7 +190425,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 25,
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "10",
+			"Missions": "9",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 5.3,
@@ -190440,7 +190440,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 26,
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "8",
+			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 5.4,
@@ -190455,7 +190455,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 27,
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "11",
+			"Missions": "10",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 5.5,
@@ -190470,7 +190470,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 28,
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "8",
+			"Missions": "7",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 5.6,
@@ -190485,7 +190485,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 29,
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "11",
+			"Missions": "10",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 5.7,
@@ -190500,7 +190500,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "30",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "9",
+			"Missions": "8",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 5.8,
@@ -190515,7 +190515,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": "31",
 			"Name": "UNUSED",
 			"SpriteName": "art-avatar",
-			"Missions": "13",
+			"Missions": "11",
 			"ActiveMissionCount": 3,
 			"RewardType": "None",
 			"NormalGachaMultiplier": 5.9,
