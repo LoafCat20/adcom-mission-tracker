@@ -187041,7 +187041,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 51900000000,
+				"Threshold": 34600000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -187069,7 +187069,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 22200000000,
+				"Threshold": 13320000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -187111,7 +187111,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 312500000000,
+				"Threshold": 187500000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -187139,7 +187139,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 46200000000,
+				"Threshold": 26400000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -187181,7 +187181,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 85100000000,
+				"Threshold": 52900000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -187209,7 +187209,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 26000000000,
+				"Threshold": 16000000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -187251,7 +187251,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 357000000000,
+				"Threshold": 238000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -187279,7 +187279,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 56000000000,
+				"Threshold": 32000000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -187321,7 +187321,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 101000000000,
+				"Threshold": 70700000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -187349,7 +187349,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 31500000000,
+				"Threshold": 21900000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -187391,7 +187391,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 423600000000,
+				"Threshold": 282400000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -187419,7 +187419,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 65800000000,
+				"Threshold": 42300000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -187461,7 +187461,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 123000000000,
+				"Threshold": 86100000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -187489,7 +187489,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 47400000000,
+				"Threshold": 27650000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -187517,7 +187517,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.1e125,
+				"Threshold": 9.1e91,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -187531,7 +187531,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1200000000000,
+				"Threshold": 360000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -187545,7 +187545,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.1e92,
+				"Threshold": 1.1e65,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -187559,7 +187559,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 380000000000,
+				"Threshold": 53200000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -187587,7 +187587,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e140,
+				"Threshold": 5.2e113,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -187601,7 +187601,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 390000000000,
+				"Threshold": 104000000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -187615,7 +187615,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.25e110,
+				"Threshold": 1.25e85,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -187629,7 +187629,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 200000000000,
+				"Threshold": 35000000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -187657,7 +187657,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e130,
+				"Threshold": 2.22e93,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -187671,7 +187671,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1800000000000,
+				"Threshold": 450000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -187685,7 +187685,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8e93,
+				"Threshold": 8e65,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -187699,7 +187699,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 430000000000,
+				"Threshold": 68800000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -187727,7 +187727,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.4e143,
+				"Threshold": 7.4e115,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -187741,7 +187741,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 949000000000,
+				"Threshold": 138700000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -187755,7 +187755,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.26e112,
+				"Threshold": 5.26e86,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -187769,7 +187769,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 300000000000,
+				"Threshold": 45000000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -187797,7 +187797,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e131,
+				"Threshold": 7.5e94,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -187811,7 +187811,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2500000000000,
+				"Threshold": 550000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -187825,7 +187825,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.34e94,
+				"Threshold": 8.34e66,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -187839,7 +187839,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 500000000000,
+				"Threshold": 87500000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -187867,7 +187867,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e148,
+				"Threshold": 2.22e118,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -187881,7 +187881,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1100000000000,
+				"Threshold": 176000000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -187895,7 +187895,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.35e114,
+				"Threshold": 2.35e88,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -187909,7 +187909,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 400000000000,
+				"Threshold": 56000000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -187937,7 +187937,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.3e133,
+				"Threshold": 3.3e96,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -187951,7 +187951,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3200000000000,
+				"Threshold": 672000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -187965,7 +187965,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.2e95,
+				"Threshold": 9.2e68,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -187979,7 +187979,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 740000000000,
+				"Threshold": 111000000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -187993,7 +187993,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.9e151,
+				"Threshold": 3.9e120,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -188007,7 +188007,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1300000000000,
+				"Threshold": 221000000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -188021,7 +188021,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.8e116,
+				"Threshold": 2.8e89,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -188035,7 +188035,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 600000000000,
+				"Threshold": 70000000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -188063,7 +188063,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e135,
+				"Threshold": 1.3e98,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -188077,7 +188077,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4000000000000,
+				"Threshold": 840000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -188091,7 +188091,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e96,
+				"Threshold": 7.5e69,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -188105,7 +188105,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 900000000000,
+				"Threshold": 135000000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -188119,7 +188119,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6e153,
+				"Threshold": 6e122,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -188133,7 +188133,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1700000000000,
+				"Threshold": 289000000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -188147,7 +188147,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.34e118,
+				"Threshold": 2.34e91,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -188161,7 +188161,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 800000000000,
+				"Threshold": 88000000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -188189,7 +188189,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.2e137,
+				"Threshold": 4.2e100,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -188203,7 +188203,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5500000000000,
+				"Threshold": 990000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -188217,7 +188217,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.6e98,
+				"Threshold": 6.6e71,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -188231,7 +188231,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1300000000000,
+				"Threshold": 169000000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -188245,7 +188245,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.5e156,
+				"Threshold": 9.5e124,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -188259,7 +188259,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2400000000000,
+				"Threshold": 360000000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -188273,7 +188273,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.7e122,
+				"Threshold": 3.7e92,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -188287,7 +188287,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1000000000000,
+				"Threshold": 110000000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -188315,7 +188315,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.56e143,
+				"Threshold": 6.56e101,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -188329,7 +188329,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 7000000000000,
+				"Threshold": 1260000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -188343,7 +188343,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.3e100,
+				"Threshold": 5.3e72,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -188357,7 +188357,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 2000000000000,
+				"Threshold": 220000000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -188371,7 +188371,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.8e161,
+				"Threshold": 2.8e127,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -188385,7 +188385,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3600000000000,
+				"Threshold": 450000000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -188399,7 +188399,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.9e126,
+				"Threshold": 5.9e94,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -188413,7 +188413,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1700000000000,
+				"Threshold": 144500000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -188441,7 +188441,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.2e147,
+				"Threshold": 2.2e103,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -188455,7 +188455,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 13000000000000,
+				"Threshold": 1560000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -188469,7 +188469,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.9e105,
+				"Threshold": 9.9e73,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -188483,7 +188483,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3200000000000,
+				"Threshold": 280000000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -188497,7 +188497,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.4e165,
+				"Threshold": 8.4e128,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -188511,7 +188511,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 6000000000000,
+				"Threshold": 600000000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -188525,7 +188525,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.6e129,
+				"Threshold": 2.6e96,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -188539,7 +188539,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 5000000000000,
+				"Threshold": 187500000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -188567,7 +188567,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.3e150,
+				"Threshold": 1.3e105,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -188581,7 +188581,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 27000000000000,
+				"Threshold": 1980000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -188707,7 +188707,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.8e109,
+				"Threshold": 3.8e77,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -189211,7 +189211,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.9e151,
+				"Threshold": 9.9e109,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -189225,7 +189225,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 19000000000000,
+				"Threshold": 39900000000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -189239,7 +189239,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6e175,
+				"Threshold": 6e121,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -189253,7 +189253,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 132000000000000,
+				"Threshold": 528000000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -189267,7 +189267,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.25e125,
+				"Threshold": 5.25e87,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -189281,7 +189281,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 25000000000000,
+				"Threshold": 100000000000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -189295,7 +189295,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.34e197,
+				"Threshold": 2.34e151,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -189309,7 +189309,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 45000000000000,
+				"Threshold": 270000000000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -189323,7 +189323,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.43e155,
+				"Threshold": 7.43e112,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -189337,7 +189337,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 22000000000000,
+				"Threshold": 110000000000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -189351,7 +189351,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.9e180,
+				"Threshold": 6.9e124,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -189365,7 +189365,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 150000000000000,
+				"Threshold": 1350000000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -189379,7 +189379,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.6e129,
+				"Threshold": 3.6e89,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -189393,7 +189393,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 29000000000000,
+				"Threshold": 290000000000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -189407,7 +189407,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.9e203,
+				"Threshold": 4.9e154,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -189421,7 +189421,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 52000000000000,
+				"Threshold": 715000000000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -189435,7 +189435,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.1e159,
+				"Threshold": 1.1e115,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -189449,7 +189449,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 25000000000000,
+				"Threshold": 275000000000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -189463,7 +189463,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.34e185,
+				"Threshold": 7.34e127,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -189477,7 +189477,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 171000000000000,
+				"Threshold": 3420000000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -189491,7 +189491,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.3e133,
+				"Threshold": 8.3e91,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -189505,7 +189505,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 33000000000000,
+				"Threshold": 726000000000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -189519,7 +189519,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.64e209,
+				"Threshold": 2.64e158,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -189533,7 +189533,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 59000000000000,
+				"Threshold": 1770000000000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -189547,7 +189547,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.4e163,
+				"Threshold": 7.4e117,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -189561,7 +189561,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 28000000000000,
+				"Threshold": 700000000000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -189575,7 +189575,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.4e190,
+				"Threshold": 2.4e130,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -189589,7 +189589,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 188000000000000,
+				"Threshold": 8460000000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -189603,7 +189603,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.45e137,
+				"Threshold": 4.45e93,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -189617,7 +189617,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 37000000000000,
+				"Threshold": 1850000000000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -189631,7 +189631,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.94e215,
+				"Threshold": 4.94e161,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -189645,7 +189645,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 66000000000000,
+				"Threshold": 4400000000000000,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -189659,7 +189659,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.88e167,
+				"Threshold": 8.88e119,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -189673,7 +189673,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 30000000000000,
+				"Threshold": 1800000000000000,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -189687,7 +189687,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.2e195,
+				"Threshold": 5.2e133,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -189701,7 +189701,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 212000000000000,
+				"Threshold": 2.12e16,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -189715,7 +189715,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.6e142,
+				"Threshold": 6.6e95,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -189729,7 +189729,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 41000000000000,
+				"Threshold": 4920000000000000,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -189743,7 +189743,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.7e220,
+				"Threshold": 3.7e164,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -189757,7 +189757,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 73000000000000,
+				"Threshold": 1.46e16,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -189771,7 +189771,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.3e171,
+				"Threshold": 3.3e124,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -189785,7 +189785,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 33000000000000,
+				"Threshold": 1.65e16,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -189799,7 +189799,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.6e200,
+				"Threshold": 3.6e143,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -189813,7 +189813,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 235000000000000,
+				"Threshold": 2.35e18,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -189827,7 +189827,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 7.5e147,
+				"Threshold": 7.5e108,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -189841,7 +189841,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 45000000000000,
+				"Threshold": 1.35e19,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -189855,7 +189855,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5.3e225,
+				"Threshold": 5.3e199,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -189869,7 +189869,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 80000000000000,
+				"Threshold": 2.4e21,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
@@ -189883,7 +189883,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.4e175,
+				"Threshold": 4.4e161,
 				"ConditionId": "eventticket"
 			},
 			"Reward": {
@@ -189897,7 +189897,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 36000000000000,
+				"Threshold": 2.4e23,
 				"ConditionId": "sporttrophy"
 			},
 			"Reward": {
@@ -189911,7 +189911,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 4.6e205,
+				"Threshold": 4.6e199,
 				"ConditionId": "sportsbib"
 			},
 			"Reward": {
@@ -189925,7 +189925,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 260000000000000,
+				"Threshold": 1.95e27,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
@@ -189939,7 +189939,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.23e152,
+				"Threshold": 1.23e158,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -189953,7 +189953,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 50000000000000,
+				"Threshold": 7.5e29,
 				"ConditionId": "stadium"
 			},
 			"Reward": {
@@ -189967,7 +189967,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6.6e231,
+				"Threshold": 6.6e291,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -189981,7 +189981,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 88000000000000,
+				"Threshold": 8.8e33,
 				"ConditionId": "tractor"
 			},
 			"Reward": {
