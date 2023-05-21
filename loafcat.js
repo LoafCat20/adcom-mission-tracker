@@ -183301,7 +183301,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 1
+				"Value": 2
 			}
 		},
 		{
@@ -183349,7 +183349,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 2
+				"Value": 6
 			}
 		},
 		{
@@ -183397,7 +183397,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 3
+				"Value": 10
 			}
 		},
 		{
@@ -183445,7 +183445,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 14
 			}
 		},
 		{
@@ -183457,7 +183457,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "gymbag",
-					"Qty": "1.0E+05"
+					"Qty": "1.0E+04"
 				},
 				{
 					"Resource": "waterbottle",
@@ -183493,7 +183493,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 5
+				"Value": 18
 			}
 		},
 		{
@@ -183505,7 +183505,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "weights",
-					"Qty": "1.0E+07"
+					"Qty": "1.0E+06"
 				},
 				{
 					"Resource": "waterbottle",
@@ -183541,7 +183541,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 22
 			}
 		},
 		{
@@ -183553,7 +183553,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "punchingbag",
-					"Qty": "1.0E+09"
+					"Qty": "1.0E+08"
 				},
 				{
 					"Resource": "waterbottle",
@@ -183589,7 +183589,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 7
+				"Value": 26
 			}
 		},
 		{
@@ -183633,7 +183633,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 2
+				"Value": 4
 			}
 		},
 		{
@@ -183645,7 +183645,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "sackraces",
-					"Qty": 1000
+					"Qty": 100
 				},
 				{
 					"Resource": "sportsbib",
@@ -183681,7 +183681,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 3
+				"Value": 11
 			}
 		},
 		{
@@ -183693,7 +183693,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "spudbowling",
-					"Qty": 100000
+					"Qty": 10000
 				},
 				{
 					"Resource": "sportsbib",
@@ -183729,7 +183729,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 18
 			}
 		},
 		{
@@ -183741,7 +183741,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "scarecrow",
-					"Qty": "1.0E+09"
+					"Qty": "1.0E+08"
 				},
 				{
 					"Resource": "sportsbib",
@@ -183777,7 +183777,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 5
+				"Value": 25
 			}
 		},
 		{
@@ -183789,7 +183789,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "taterball",
-					"Qty": "1.0E+12"
+					"Qty": "1.0E+11"
 				},
 				{
 					"Resource": "sportsbib",
@@ -183825,7 +183825,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 32
 			}
 		},
 		{
@@ -183837,7 +183837,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "tilling",
-					"Qty": "1.0E+15"
+					"Qty": "1.0E+14"
 				},
 				{
 					"Resource": "sportsbib",
@@ -183873,7 +183873,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 7
+				"Value": 39
 			}
 		},
 		{
@@ -183917,7 +183917,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 3
+				"Value": 8
 			}
 		},
 		{
@@ -183929,7 +183929,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "farmfield",
-					"Qty": "1.0E+04"
+					"Qty": "1.0E+02"
 				},
 				{
 					"Resource": "eventticket",
@@ -183965,7 +183965,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 19
 			}
 		},
 		{
@@ -183977,7 +183977,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "gymnasium",
-					"Qty": "1.0E+06"
+					"Qty": "1.0E+04"
 				},
 				{
 					"Resource": "eventticket",
@@ -184013,7 +184013,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 5
+				"Value": 30
 			}
 		},
 		{
@@ -184025,7 +184025,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "fitnessgym",
-					"Qty": 100000000
+					"Qty": 1000000
 				},
 				{
 					"Resource": "eventticket",
@@ -184061,7 +184061,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 41
 			}
 		},
 		{
@@ -184073,7 +184073,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "arena",
-					"Qty": 10000000000
+					"Qty": 100000000
 				},
 				{
 					"Resource": "eventticket",
@@ -184109,7 +184109,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 7
+				"Value": 52
 			}
 		},
 		{
@@ -184153,7 +184153,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 14
 			}
 		},
 		{
@@ -184165,7 +184165,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "bouquet",
-					"Qty": 100000000
+					"Qty": 1000000
 				},
 				{
 					"Resource": "flag",
@@ -184201,7 +184201,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 5
+				"Value": 31
 			}
 		},
 		{
@@ -184213,7 +184213,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "ribbon",
-					"Qty": 1000000000000
+					"Qty": 10000000000
 				},
 				{
 					"Resource": "flag",
@@ -184249,7 +184249,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 48
 			}
 		},
 		{
@@ -184261,7 +184261,7 @@ DATA["hexathlon-bal-13"] =
 			"Cost": [
 				{
 					"Resource": "medal",
-					"Qty": 1e15
+					"Qty": 1e14
 				},
 				{
 					"Resource": "flag",
@@ -184297,7 +184297,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 7
+				"Value": 65
 			}
 		}
 	],
