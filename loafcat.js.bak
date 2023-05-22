@@ -183509,7 +183509,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "waterbottle",
-					"Qty": "1.0E+51"
+					"Qty": "1.0E+52"
 				},
 				{
 					"Resource": "Comrade",
@@ -183557,7 +183557,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "waterbottle",
-					"Qty": "1.0E+70"
+					"Qty": "1.0E+73"
 				},
 				{
 					"Resource": "Comrade",
@@ -183745,7 +183745,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+32"
+					"Qty": "1.0E+33"
 				},
 				{
 					"Resource": "Comrade",
@@ -183793,7 +183793,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+48"
+					"Qty": "1.0E+51"
 				},
 				{
 					"Resource": "Comrade",
@@ -183841,7 +183841,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "sportsbib",
-					"Qty": "1.0E+67"
+					"Qty": "1.0E+73"
 				},
 				{
 					"Resource": "Comrade",
@@ -183981,7 +183981,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "eventticket",
-					"Qty": 1e26
+					"Qty": 1e25
 				},
 				{
 					"Resource": "Comrade",
@@ -184029,7 +184029,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "eventticket",
-					"Qty": 1e42
+					"Qty": 1e40
 				},
 				{
 					"Resource": "Comrade",
@@ -184077,7 +184077,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "eventticket",
-					"Qty": 1e61
+					"Qty": 1e58
 				},
 				{
 					"Resource": "Comrade",

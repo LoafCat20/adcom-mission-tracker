@@ -183365,7 +183365,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "waterbottle",
-					"Qty": "1.0E+12"
+					"Qty": "1.0E+13"
 				},
 				{
 					"Resource": "Comrade",
@@ -183413,7 +183413,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "waterbottle",
-					"Qty": 9.999999999999999e21
+					"Qty": 9.999999999999999e23
 				},
 				{
 					"Resource": "Comrade",
@@ -183461,7 +183461,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "waterbottle",
-					"Qty": "1.0E+35"
+					"Qty": "1.0E+38"
 				},
 				{
 					"Resource": "Comrade",
@@ -183509,7 +183509,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "waterbottle",
-					"Qty": "1.0E+52"
+					"Qty": "1.0E+55"
 				},
 				{
 					"Resource": "Comrade",
@@ -183557,7 +183557,7 @@ DATA["hexathlon-bal-13"] =
 				},
 				{
 					"Resource": "waterbottle",
-					"Qty": "1.0E+73"
+					"Qty": "1.0E+76"
 				},
 				{
 					"Resource": "Comrade",
