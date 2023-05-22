@@ -183301,7 +183301,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 1
+				"Value": 2
 			}
 		},
 		{
@@ -183349,7 +183349,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 2
+				"Value": 6
 			}
 		},
 		{
@@ -183397,7 +183397,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 3
+				"Value": 10
 			}
 		},
 		{
@@ -183445,7 +183445,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 14
 			}
 		},
 		{
@@ -183493,7 +183493,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 5
+				"Value": 18
 			}
 		},
 		{
@@ -183541,7 +183541,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 22
 			}
 		},
 		{
@@ -183589,7 +183589,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 7
+				"Value": 26
 			}
 		},
 		{
@@ -183633,7 +183633,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 2
+				"Value": 4
 			}
 		},
 		{
@@ -183681,7 +183681,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 3
+				"Value": 11
 			}
 		},
 		{
@@ -183729,7 +183729,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 18
 			}
 		},
 		{
@@ -183777,7 +183777,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 5
+				"Value": 25
 			}
 		},
 		{
@@ -183825,7 +183825,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 32
 			}
 		},
 		{
@@ -183873,7 +183873,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 7
+				"Value": 39
 			}
 		},
 		{
@@ -183917,7 +183917,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 3
+				"Value": 8
 			}
 		},
 		{
@@ -183965,7 +183965,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 4
+				"Value": 19
 			}
 		},
 		{
@@ -184013,7 +184013,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 5
+				"Value": 30
 			}
 		},
 		{
@@ -184061,7 +184061,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 6
+				"Value": 41
 			}
 		},
 		{
@@ -184109,7 +184109,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 7
+				"Value": 52
 			}
 		},
 		{
@@ -184153,7 +184153,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 12
+				"Value": 14
 			}
 		},
 		{
@@ -184201,7 +184201,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 28
+				"Value": 31
 			}
 		},
 		{
@@ -184249,7 +184249,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 44
+				"Value": 48
 			}
 		},
 		{
@@ -184297,7 +184297,7 @@ DATA["hexathlon-bal-13"] =
 			"ObjectiveReward": {
 				"Reward": "Resources",
 				"RewardId": "darkscience",
-				"Value": 60
+				"Value": 65
 			}
 		}
 	],
