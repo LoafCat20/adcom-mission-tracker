@@ -185595,12 +185595,12 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0087",
+			"Id": "M0089",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 2220,
-				"ConditionId": "bouquet"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 5550000000000,
+				"ConditionId": "flag"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -185623,82 +185623,12 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0089",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 5550000000000,
-				"ConditionId": "flag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
 			"Id": "M0090",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesSpentSinceSubscription",
 				"Threshold": 900,
 				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0091",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 99,
-				"ConditionId": "fitnessgym"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "sc_m16",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0092",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.5e83,
-				"ConditionId": "waterbottle"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0093",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 9.99e60,
-				"ConditionId": "sportsbib"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0094",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 9890000,
-				"ConditionId": "taterball"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -185721,20 +185651,6 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0096",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 6330000000000000000.0,
-				"ConditionId": "flag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
 			"Id": "M0097",
 			"Rank": 1,
 			"Condition": {
@@ -185749,96 +185665,12 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0098",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 300000000,
-				"ConditionId": "punchingbag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0099",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 97000,
-				"ConditionId": "fitnessgym"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
 			"Id": "M0100",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesSpentSinceSubscription",
 				"Threshold": 900,
 				"ConditionId": "darkscience"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0101",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 3430000,
-				"ConditionId": "bouquet"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0102",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.23e43,
-				"ConditionId": "eventticket"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0103",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 700000000,
-				"ConditionId": "punchingbag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0104",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e86,
-				"ConditionId": "waterbottle"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -185861,12 +185693,180 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0106",
+			"Id": "M0096",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0087",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2220,
+				"ConditionId": "bouquet"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0097",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.5e65,
+				"Threshold": 9.99e60,
 				"ConditionId": "sportsbib"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0091",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 99,
+				"ConditionId": "fitnessgym"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "sc_m16",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0098",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResearcherCardsEarnedSinceSubscription",
+				"Threshold": 400,
+				"ConditionId": "any"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0099",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.5e83,
+				"ConditionId": "waterbottle"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0100",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 6330000000000000000.0,
+				"ConditionId": "flag"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0101",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 9890000,
+				"ConditionId": "taterball"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0102",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 300000000,
+				"ConditionId": "punchingbag"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0103",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 1750,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0104",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 97000,
+				"ConditionId": "fitnessgym"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0105",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 3430000,
+				"ConditionId": "bouquet"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0106",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 700000000,
+				"ConditionId": "punchingbag"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -185879,8 +185879,8 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 800,
-				"ConditionId": "darkscience"
+				"Threshold": 3.23e43,
+				"ConditionId": "eventticket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -185892,13 +185892,13 @@ DATA["hexathlon-bal-13"] =
 			"Id": "M0108",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 747000,
-				"ConditionId": "fitnessgym"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2100,
+				"ConditionId": "darkscience"
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "armored",
 				"Value": 1
 			}
 		},
@@ -185920,9 +185920,9 @@ DATA["hexathlon-bal-13"] =
 			"Id": "M0110",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 1.5e65,
+				"ConditionId": "sportsbib"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -185934,9 +185934,9 @@ DATA["hexathlon-bal-13"] =
 			"Id": "M0111",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 88800000,
-				"ConditionId": "taterball"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.22e86,
+				"ConditionId": "waterbottle"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -185946,20 +185946,6 @@ DATA["hexathlon-bal-13"] =
 		},
 		{
 			"Id": "M0112",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8650000000000000000.0,
-				"ConditionId": "flag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0113",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -185973,12 +185959,26 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
+			"Id": "M0113",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesSpentSinceSubscription",
+				"Threshold": 2000,
+				"ConditionId": "darkscience"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "armored",
+				"Value": 1
+			}
+		},
+		{
 			"Id": "M0114",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 3,
-				"ConditionId": "any"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 88800000,
+				"ConditionId": "taterball"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -185990,9 +185990,9 @@ DATA["hexathlon-bal-13"] =
 			"Id": "M0115",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 800,
-				"ConditionId": "darkscience"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 747000,
+				"ConditionId": "fitnessgym"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186004,9 +186004,9 @@ DATA["hexathlon-bal-13"] =
 			"Id": "M0116",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesSpentSinceSubscription",
-				"Threshold": 1000,
-				"ConditionId": "darkscience"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8650000000000000000.0,
+				"ConditionId": "flag"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186018,9 +186018,9 @@ DATA["hexathlon-bal-13"] =
 			"Id": "M0117",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResearchersUpgradedSinceSubscription",
-				"Threshold": 3,
-				"ConditionId": "any"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8e65,
+				"ConditionId": "sportsbib"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186046,20 +186046,6 @@ DATA["hexathlon-bal-13"] =
 			"Id": "M0119",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8e65,
-				"ConditionId": "sportsbib"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0120",
-			"Rank": 1,
-			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 1500000000,
 				"ConditionId": "punchingbag"
@@ -186071,7 +186057,7 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0121",
+			"Id": "M0120",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
@@ -186085,12 +186071,26 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0122",
+			"Id": "M0121",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 477000000,
 				"ConditionId": "taterball"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0122",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 189,
+				"ConditionId": "medal"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186116,20 +186116,6 @@ DATA["hexathlon-bal-13"] =
 			"Id": "M0124",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 189000,
-				"ConditionId": "ribbon"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0125",
-			"Rank": 1,
-			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 3.33e91,
 				"ConditionId": "waterbottle"
@@ -186141,7 +186127,7 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0126",
+			"Id": "M0125",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -186155,12 +186141,26 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0127",
+			"Id": "M0126",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 88,
 				"ConditionId": "tilling"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0127",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8.45e34,
+				"ConditionId": "flag"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186186,20 +186186,6 @@ DATA["hexathlon-bal-13"] =
 			"Id": "M0129",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.45e31,
-				"ConditionId": "flag"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0130",
-			"Rank": 1,
-			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 5,
 				"ConditionId": "arena"
@@ -186211,7 +186197,7 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0131",
+			"Id": "M0130",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -186225,12 +186211,26 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0132",
+			"Id": "M0131",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 2.8e72,
 				"ConditionId": "sportsbib"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0132",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 16000000,
+				"ConditionId": "medal"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186257,20 +186257,6 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 16000000,
-				"ConditionId": "ribbon"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0135",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourceQuantity",
 				"Threshold": 5000,
 				"ConditionId": "arena"
 			},
@@ -186281,7 +186267,7 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0136",
+			"Id": "M0135",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -186295,12 +186281,26 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0137",
+			"Id": "M0136",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
 				"Threshold": 221000,
 				"ConditionId": "tilling"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0137",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 2.34e62,
+				"ConditionId": "eventticket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186327,20 +186327,6 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.34e62,
-				"ConditionId": "eventticket"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0140",
-			"Rank": 1,
-			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 4.8e82,
 				"ConditionId": "waterbottle"
 			},
@@ -186351,7 +186337,7 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0141",
+			"Id": "M0140",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -186365,12 +186351,26 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
+			"Id": "M0141",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 2440000000,
+				"ConditionId": "medal"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
 			"Id": "M0142",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 4880000000,
-				"ConditionId": "ribbon"
+				"Threshold": 2130000000,
+				"ConditionId": "exercisebike"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186396,20 +186396,6 @@ DATA["hexathlon-bal-13"] =
 			"Id": "M0144",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 2130000000,
-				"ConditionId": "exercisebike"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0145",
-			"Rank": 1,
-			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 2.5e87,
 				"ConditionId": "sportsbib"
@@ -186421,7 +186407,7 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0146",
+			"Id": "M0145",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
@@ -186435,12 +186421,26 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0147",
+			"Id": "M0146",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3e38,
+				"Threshold": 3e40,
 				"ConditionId": "flag"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0147",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 9960000000,
+				"ConditionId": "tilling"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186466,20 +186466,6 @@ DATA["hexathlon-bal-13"] =
 			"Id": "M0149",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 9960000000,
-				"ConditionId": "tilling"
-			},
-			"Reward": {
-				"Reward": "Gacha",
-				"RewardId": "plastic",
-				"Value": 1
-			}
-		},
-		{
-			"Id": "M0150",
-			"Rank": 1,
-			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
 				"Threshold": 3.5e88,
 				"ConditionId": "waterbottle"
@@ -186491,12 +186477,26 @@ DATA["hexathlon-bal-13"] =
 			}
 		},
 		{
-			"Id": "M0151",
+			"Id": "M0150",
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 3,
+				"Threshold": 6000000000,
 				"ConditionId": "medal"
+			},
+			"Reward": {
+				"Reward": "Gacha",
+				"RewardId": "plastic",
+				"Value": 1
+			}
+		},
+		{
+			"Id": "M0151",
+			"Rank": 1,
+			"Condition": {
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 3.2e68,
+				"ConditionId": "sportsbib"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186509,8 +186509,8 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.2e68,
-				"ConditionId": "sportsbib"
+				"Threshold": 8.88e63,
+				"ConditionId": "eventticket"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186536,9 +186536,9 @@ DATA["hexathlon-bal-13"] =
 			"Id": "M0154",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 8.88e63,
-				"ConditionId": "eventticket"
+				"ConditionType": "ResourceQuantity",
+				"Threshold": 21300000000,
+				"ConditionId": "exercisebike"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186551,8 +186551,8 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 21300000000,
-				"ConditionId": "exercisebike"
+				"Threshold": 348,
+				"ConditionId": "tractor"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186564,9 +186564,9 @@ DATA["hexathlon-bal-13"] =
 			"Id": "M0156",
 			"Rank": 1,
 			"Condition": {
-				"ConditionType": "ResourceQuantity",
-				"Threshold": 348,
-				"ConditionId": "tractor"
+				"ConditionType": "ResourcesEarnedSinceSubscription",
+				"Threshold": 8e42,
+				"ConditionId": "flag"
 			},
 			"Reward": {
 				"Reward": "Gacha",
@@ -186635,7 +186635,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 495000,
+				"Threshold": 11880000000,
 				"ConditionId": "medal"
 			},
 			"Reward": {
@@ -186691,7 +186691,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.5e50,
+				"Threshold": 2.5e45,
 				"ConditionId": "flag"
 			},
 			"Reward": {
@@ -186971,7 +186971,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 25000000000,
+				"Threshold": 125000000000,
 				"ConditionId": "exercisebike"
 			},
 			"Reward": {
