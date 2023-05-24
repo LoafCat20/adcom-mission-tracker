@@ -185697,7 +185697,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 11100,
+				"Threshold": 111000,
 				"ConditionId": "punchingbag"
 			},
 			"Reward": {
@@ -185767,7 +185767,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 1.5e83,
+				"Threshold": 1.5e62,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -185809,7 +185809,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 300000000,
+				"Threshold": 6000000000,
 				"ConditionId": "punchingbag"
 			},
 			"Reward": {
@@ -185865,7 +185865,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 700000000,
+				"Threshold": 14000000000,
 				"ConditionId": "punchingbag"
 			},
 			"Reward": {
@@ -185935,7 +185935,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 2.22e86,
+				"Threshold": 2.22e69,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
@@ -186047,7 +186047,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourceQuantity",
-				"Threshold": 1500000000,
+				"Threshold": 22500000000,
 				"ConditionId": "punchingbag"
 			},
 			"Reward": {
@@ -186117,7 +186117,7 @@ DATA["hexathlon-bal-13"] =
 			"Rank": 1,
 			"Condition": {
 				"ConditionType": "ResourcesEarnedSinceSubscription",
-				"Threshold": 3.33e73,
+				"Threshold": 3.33e74,
 				"ConditionId": "waterbottle"
 			},
 			"Reward": {
