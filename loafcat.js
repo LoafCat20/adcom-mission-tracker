@@ -182723,52 +182723,72 @@ DATA["hexathlon-bal-13"] =
 		{
 			"GachaId": "sc_m01",
 			"MimicGachaId": "plastic",
-			"Science": 48,
+			"Science": 58,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
 				{
 					"Id": "HEX001",
 					"Value": 3
+				},
+				{
+					"Id": "HEX024",
+					"Value": 1
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m02",
 			"MimicGachaId": "plastic",
-			"Science": 45,
-			"Gold": 0,
-			"Trophy": 10,
-			"Card": [
-				{
-					"Id": "HEX001",
-					"Value": 4
-				}
-			]
-		},
-		{
-			"GachaId": "sc_m03",
-			"MimicGachaId": "plastic",
-			"Science": 47,
+			"Science": 55,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
 				{
 					"Id": "HEX002",
 					"Value": 3
+				},
+				{
+					"Id": "HEX023",
+					"Value": 1
+				}
+			]
+		},
+		{
+			"GachaId": "sc_m03",
+			"MimicGachaId": "plastic",
+			"Science": 77,
+			"Gold": 0,
+			"Trophy": 20,
+			"Card": [
+				{
+					"Id": "HEX003",
+					"Value": 6
+				},
+				{
+					"Id": "HEX002",
+					"Value": 3
+				},
+				{
+					"Id": "HEX024",
+					"Value": 1
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m04",
 			"MimicGachaId": "plastic",
-			"Science": 46,
+			"Science": 86,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 30,
 			"Card": [
 				{
-					"Id": "HEX001",
-					"Value": 3
+					"Id": "HEX008",
+					"Value": 9
+				},
+				{
+					"Id": "HEX003",
+					"Value": 2
 				},
 				{
 					"Id": "HEX023",
@@ -182779,77 +182799,125 @@ DATA["hexathlon-bal-13"] =
 		{
 			"GachaId": "sc_m05",
 			"MimicGachaId": "plastic",
-			"Science": 54,
+			"Science": 94,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 40,
 			"Card": [
 				{
+					"Id": "HEX001",
+					"Value": 6
+				},
+				{
 					"Id": "HEX002",
-					"Value": 3
+					"Value": 6
+				},
+				{
+					"Id": "HEX026",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m06",
 			"MimicGachaId": "plastic",
-			"Science": 55,
+			"Science": 110,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 50,
 			"Card": [
 				{
+					"Id": "HEX009",
+					"Value": 6
+				},
+				{
 					"Id": "HEX003",
-					"Value": 3
+					"Value": 8
+				},
+				{
+					"Id": "HEX027",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m07",
 			"MimicGachaId": "plastic",
-			"Science": 53,
+			"Science": 123,
 			"Gold": 0,
-			"Trophy": 10,
+			"Trophy": 60,
 			"Card": [
 				{
 					"Id": "HEX004",
-					"Value": 3
+					"Value": 12
+				},
+				{
+					"Id": "HEX009",
+					"Value": 4
+				},
+				{
+					"Id": "HEX024",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m08",
 			"MimicGachaId": "plastic",
-			"Science": 62,
+			"Science": 142,
 			"Gold": 0,
-			"Trophy": 20,
+			"Trophy": 70,
 			"Card": [
 				{
-					"Id": "HEX008",
-					"Value": 3
+					"Id": "HEX014",
+					"Value": 7
+				},
+				{
+					"Id": "HEX004",
+					"Value": 11
+				},
+				{
+					"Id": "HEX026",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m09",
 			"MimicGachaId": "plastic",
-			"Science": 67,
+			"Science": 157,
 			"Gold": 0,
-			"Trophy": 30,
+			"Trophy": 80,
 			"Card": [
 				{
-					"Id": "HEX005",
-					"Value": 3
+					"Id": "HEX008",
+					"Value": 10
+				},
+				{
+					"Id": "HEX014",
+					"Value": 10
+				},
+				{
+					"Id": "HEX025",
+					"Value": 2
 				}
 			]
 		},
 		{
 			"GachaId": "sc_m10",
 			"MimicGachaId": "plastic",
-			"Science": 83,
+			"Science": 173,
 			"Gold": 0,
-			"Trophy": 40,
+			"Trophy": 90,
 			"Card": [
 				{
-					"Id": "HEX009",
+					"Id": "HEX010",
+					"Value": 7
+				},
+				{
+					"Id": "HEX003",
+					"Value": 14
+				},
+				{
+					"Id": "HEX029",
 					"Value": 3
 				}
 			]
@@ -182857,12 +182925,20 @@ DATA["hexathlon-bal-13"] =
 		{
 			"GachaId": "sc_m11",
 			"MimicGachaId": "plastic",
-			"Science": 111,
+			"Science": 191,
 			"Gold": 0,
-			"Trophy": 60,
+			"Trophy": 100,
 			"Card": [
 				{
-					"Id": "HEX014",
+					"Id": "HEX015",
+					"Value": 15
+				},
+				{
+					"Id": "HEX009",
+					"Value": 8
+				},
+				{
+					"Id": "HEX030",
 					"Value": 3
 				}
 			]
@@ -182870,12 +182946,24 @@ DATA["hexathlon-bal-13"] =
 		{
 			"GachaId": "sc_m12",
 			"MimicGachaId": "plastic",
-			"Science": 122,
+			"Science": 212,
 			"Gold": 0,
-			"Trophy": 70,
+			"Trophy": 110,
 			"Card": [
 				{
+					"Id": "HEX014",
+					"Value": 8
+				},
+				{
 					"Id": "HEX005",
+					"Value": 7
+				},
+				{
+					"Id": "HEX008",
+					"Value": 10
+				},
+				{
+					"Id": "HEX034",
 					"Value": 3
 				}
 			]
@@ -182883,12 +182971,24 @@ DATA["hexathlon-bal-13"] =
 		{
 			"GachaId": "sc_m13",
 			"MimicGachaId": "plastic",
-			"Science": 135,
+			"Science": 235,
 			"Gold": 0,
-			"Trophy": 80,
+			"Trophy": 120,
 			"Card": [
 				{
+					"Id": "HEX005",
+					"Value": 6
+				},
+				{
 					"Id": "HEX010",
+					"Value": 9
+				},
+				{
+					"Id": "HEX019",
+					"Value": 12
+				},
+				{
+					"Id": "HEX025",
 					"Value": 3
 				}
 			]
@@ -182896,12 +182996,24 @@ DATA["hexathlon-bal-13"] =
 		{
 			"GachaId": "sc_m14",
 			"MimicGachaId": "plastic",
-			"Science": 150,
+			"Science": 250,
 			"Gold": 0,
-			"Trophy": 90,
+			"Trophy": 130,
 			"Card": [
 				{
-					"Id": "HEX015",
+					"Id": "HEX009",
+					"Value": 9
+				},
+				{
+					"Id": "HEX016",
+					"Value": 13
+				},
+				{
+					"Id": "HEX019",
+					"Value": 7
+				},
+				{
+					"Id": "HEX025",
 					"Value": 3
 				}
 			]
@@ -182909,12 +183021,24 @@ DATA["hexathlon-bal-13"] =
 		{
 			"GachaId": "sc_m15",
 			"MimicGachaId": "plastic",
-			"Science": 169,
+			"Science": 269,
 			"Gold": 0,
-			"Trophy": 100,
+			"Trophy": 140,
 			"Card": [
 				{
-					"Id": "HEX006",
+					"Id": "HEX005",
+					"Value": 6
+				},
+				{
+					"Id": "HEX011",
+					"Value": 15
+				},
+				{
+					"Id": "HEX016",
+					"Value": 10
+				},
+				{
+					"Id": "HEX032",
 					"Value": 3
 				}
 			]
@@ -183078,16 +183202,16 @@ DATA["hexathlon-bal-13"] =
 		{
 			"GachaId": "sc3",
 			"MimicGachaId": "plastic",
-			"Science": 50,
+			"Science": 55,
 			"Gold": 0,
 			"Trophy": 10,
 			"Card": [
 				{
-					"Id": "HEX023",
-					"Value": 1
+					"Id": "HEX001",
+					"Value": 3
 				},
 				{
-					"Id": "HEX024",
+					"Id": "HEX023",
 					"Value": 1
 				}
 			]
@@ -184400,7 +184524,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m02",
+				"RewardId": "sc_m01",
 				"Value": 1
 			}
 		},
@@ -184414,7 +184538,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m04",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -184442,7 +184566,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m02",
 				"Value": 1
 			}
 		},
@@ -184540,7 +184664,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m03",
 				"Value": 1
 			}
 		},
@@ -184554,7 +184678,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -184596,7 +184720,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m04",
 				"Value": 1
 			}
 		},
@@ -184680,7 +184804,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m06",
+				"RewardId": "sc_m05",
 				"Value": 1
 			}
 		},
@@ -184736,7 +184860,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m06",
 				"Value": 1
 			}
 		},
@@ -184792,7 +184916,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m07",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -184806,7 +184930,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m07",
 				"Value": 1
 			}
 		},
@@ -184834,7 +184958,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -184904,7 +185028,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m08",
 				"Value": 1
 			}
 		},
@@ -184974,7 +185098,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m09",
 				"Value": 1
 			}
 		},
@@ -185044,7 +185168,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m10",
 				"Value": 1
 			}
 		},
@@ -185100,7 +185224,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m10",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185142,7 +185266,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m09",
+				"RewardId": "sc_m11",
 				"Value": 1
 			}
 		},
@@ -185226,7 +185350,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m12",
 				"Value": 1
 			}
 		},
@@ -185254,7 +185378,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m15",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185282,7 +185406,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "armored",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185296,7 +185420,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m13",
 				"Value": 1
 			}
 		},
@@ -185366,7 +185490,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m17",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185380,7 +185504,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m14",
 				"Value": 1
 			}
 		},
@@ -185464,7 +185588,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m13",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185492,7 +185616,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m15",
 				"Value": 1
 			}
 		},
@@ -185520,7 +185644,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m14",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185562,7 +185686,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m16",
 				"Value": 1
 			}
 		},
@@ -185646,7 +185770,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m17",
 				"Value": 1
 			}
 		},
@@ -185730,7 +185854,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m18",
 				"Value": 1
 			}
 		},
@@ -185744,7 +185868,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "sc_m16",
+				"RewardId": "plastic",
 				"Value": 1
 			}
 		},
@@ -185856,7 +185980,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m19",
 				"Value": 1
 			}
 		},
@@ -185940,7 +186064,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m20",
 				"Value": 1
 			}
 		},
@@ -186052,7 +186176,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m21",
 				"Value": 1
 			}
 		},
@@ -186122,7 +186246,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m22",
 				"Value": 1
 			}
 		},
@@ -186262,7 +186386,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m23",
 				"Value": 1
 			}
 		},
@@ -186472,7 +186596,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m24",
 				"Value": 1
 			}
 		},
@@ -186570,7 +186694,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m25",
 				"Value": 1
 			}
 		},
@@ -186794,7 +186918,7 @@ DATA["hexathlon-bal-13"] =
 			},
 			"Reward": {
 				"Reward": "Gacha",
-				"RewardId": "plastic",
+				"RewardId": "sc_m26",
 				"Value": 1
 			}
 		},
