@@ -296,5 +296,6 @@
 <script src="config.js"></script>
 <script src="data.js"></script>
 <script src="loafcat.js"></script>
+<script src="data_egypt.js"></script>
 <script src="../missions.js"></script>
 </html>
